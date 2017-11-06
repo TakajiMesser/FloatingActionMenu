@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <declare-styleable name="FloatingActionMenu">
+    <attr name="buttonIcon" format="reference"/>
+    <attr name="buttonBackgroundColor" format="color"/>
+    <attr name="buttonElevation" format="float"/>
+    <attr name="buttonSpacing" format="integer"/>
+    <attr name="openOnHold" format="boolean"/>
+    <attr name="openDirection" format="enum">
+      <enum name="up" value="0"/>
+      <enum name="down" value="1"/>
+      <enum name="left" value="2"/>
+      <enum name="right" value="3"/>
+    </attr>
+    <attr name="android:layout_alignParentLeft"/>
+    <attr name="android:layout_alignParentTop"/>
+    <attr name="android:layout_alignParentRight"/>
+    <attr name="android:layout_alignParentBottom"/>
+    <attr name="layout_labelText" format="string"/>
+    <attr name="layout_labelTextSize" format="integer"/>
+    <attr name="layout_labelTextColor" format="color"/>
+    <attr name="layout_labelBackgroundColor" format="color"/>
+    <attr name="layout_labelSpacing" format="integer"/>
+    <attr name="layout_labelDirection" format="enum">
+      <enum name="left" value="0"/>
+      <enum name="top" value="1"/>
+      <enum name="right" value="2"/>
+      <enum name="bottom" value="3"/>
+    </attr>
+  </declare-styleable>
+  
+</resources>
