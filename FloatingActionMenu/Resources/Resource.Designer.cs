@@ -9,9 +9,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Android.Runtime.ResourceDesignerAttribute("FloatingActionMenu.Resource", IsApplication=false)]
+[assembly: global::Android.Runtime.ResourceDesignerAttribute("TakajiMesser.Droid.Resource", IsApplication=false)]
 
-namespace FloatingActionMenu
+namespace TakajiMesser.Droid
 {
 	
 	
@@ -82,22 +82,34 @@ namespace FloatingActionMenu
 			public static int fab_open = 2130968593;
 			
 			// aapt resource value: 0x7f040012
-			public static int label_slide_in_left = 2130968594;
+			public static int label_slide_in_down = 2130968594;
 			
 			// aapt resource value: 0x7f040013
-			public static int label_slide_in_right = 2130968595;
+			public static int label_slide_in_left = 2130968595;
 			
 			// aapt resource value: 0x7f040014
-			public static int label_slide_out_left = 2130968596;
+			public static int label_slide_in_right = 2130968596;
 			
 			// aapt resource value: 0x7f040015
-			public static int label_slide_out_right = 2130968597;
+			public static int label_slide_in_up = 2130968597;
 			
 			// aapt resource value: 0x7f040016
-			public static int tooltip_enter = 2130968598;
+			public static int label_slide_out_down = 2130968598;
 			
 			// aapt resource value: 0x7f040017
-			public static int tooltip_exit = 2130968599;
+			public static int label_slide_out_left = 2130968599;
+			
+			// aapt resource value: 0x7f040018
+			public static int label_slide_out_right = 2130968600;
+			
+			// aapt resource value: 0x7f040019
+			public static int label_slide_out_up = 2130968601;
+			
+			// aapt resource value: 0x7f04001a
+			public static int tooltip_enter = 2130968602;
+			
+			// aapt resource value: 0x7f04001b
+			public static int tooltip_exit = 2130968603;
 			
 			static Animation()
 			{

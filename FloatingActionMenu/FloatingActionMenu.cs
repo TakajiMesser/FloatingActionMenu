@@ -10,14 +10,13 @@ using Android.Util;
 using Android.Views;
 using Android.Views.Animations;
 using Android.Widget;
-using Java.Lang;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace FloatingActionMenu
+namespace TakajiMesser.Droid
 {
-    [Register("com.FloatingActionMenu")]
+    [Register("com.takajimesser.droid.FloatingActionMenu")]
     public class FloatingActionMenu : ViewGroup
     {
         public const int ANIMATION_DURATION = 250;
@@ -48,7 +47,7 @@ namespace FloatingActionMenu
         public float ButtonElevation { get; private set; }
         public int ButtonSpacing { get; private set; }
         public bool OpenOnHold { get; private set; }
-        public int OpenDirection { get; private set; }
+        public int OpenDirection { get; set; }
 
         public event EventHandler ButtonClick;
         public event EventHandler<LongClickEventArgs> ButtonLongClick;
@@ -151,10 +150,7 @@ namespace FloatingActionMenu
             for (var i = 0; i < ChildCount; i++)
             {
                 var child = GetChildAt(i);
-
                 child.Visibility = ViewStates.Gone;
-                child.ScaleX = 0.0f;
-                child.ScaleY = 0.0f;
 
                 _originalChildren.Add(child);
             }
@@ -179,8 +175,6 @@ namespace FloatingActionMenu
                         BackgroundTintList = ColorStateList.ValueOf(layoutParameters.LabelBackgroundColor),
                         Background = ResourcesCompat.GetDrawable(Resources, Resource.Drawable.fab_label_background, null),
                         Visibility = ViewStates.Gone,
-                        Alpha = 0.0f,
-                        TranslationX = 50.0f,
                         Clickable = true
                     };
                     label.SetTextColor(layoutParameters.LabelTextColor);
@@ -197,11 +191,7 @@ namespace FloatingActionMenu
             if (!IsOpened)
             {
                 _menuButton.Enabled = false;
-                _menuButton.Animate()
-                    .Rotation(135.0f)
-                    .SetDuration(ANIMATION_DURATION)
-                    .Start();
-                //_menuButton.StartAnimation(AnimationUtils.LoadAnimation(Context, Resource.Animation.fab_open));
+                _menuButton.StartAnimation(AnimationUtils.LoadAnimation(Context, Resource.Animation.fab_open));
 
                 var backgroundAnimation = ObjectAnimator.OfInt(this, "backgroundColor", unchecked((int)0x00000000), unchecked((int)0xA0000000));
                 backgroundAnimation.SetEvaluator(new ArgbEvaluator());
@@ -214,41 +204,28 @@ namespace FloatingActionMenu
                 for (var i = 0; i < children.Count; i++)
                 {
                     var child = children[i];
-                    child.Visibility = ViewStates.Visible;
 
-                    var animation = child.Animate()
-                        .ScaleX(1.0f)
-                        .ScaleY(1.0f)
-                        .SetDuration(ANIMATION_DURATION)
-                        .SetStartDelay(delay);
-
-                    if (i == children.Count - 1)
-                    {
-                        animation = animation.WithEndAction(new Runnable(() => _menuButton.Enabled = true));
-                    }
-
-                    animation.Start();
-
-                    /*var childAnim = AnimationUtils.LoadAnimation(Context, Resource.Animation.child_grow);
+                    var childAnim = AnimationUtils.LoadAnimation(Context, Resource.Animation.child_grow);
                     if (i == children.Count - 1)
                     {
                         childAnim.AnimationEnd += (s, e) => _menuButton.Enabled = true;
                     }
-                    childAnim.StartOffset = delay;
-                    child.StartAnimation(childAnim);*/
+                    child.PostDelayed(() =>
+                    {
+                        child.Visibility = ViewStates.Visible;
+                        child.StartAnimation(childAnim);
+                    }, delay);
 
                     if (child.GetTag(Resource.Id.fab_label) is TextView label)
                     {
-                        label.Visibility = ViewStates.Visible;
-                        label.Animate()
-                            .Alpha(1.0f)
-                            .TranslationX(0.0f)
-                            .SetDuration(ANIMATION_DURATION)
-                            .SetStartDelay(delay)
-                            .Start();
-                        /*var labelAnim = AnimationUtils.LoadAnimation(Context, Resource.Animation.label_slide_in_left);
-                        labelAnim.StartOffset = delay;
-                        label.StartAnimation(labelAnim);*/
+                        var layoutParameters = child.LayoutParameters as LayoutParams;
+
+                        var labelAnim = GetOpenLabelAnimation(layoutParameters.LabelDirection);
+                        label.PostDelayed(() =>
+                        {
+                            label.Visibility = ViewStates.Visible;
+                            label.StartAnimation(labelAnim);
+                        }, delay);
                     }
 
                     delay += ANIMATION_DELAY;
@@ -263,11 +240,7 @@ namespace FloatingActionMenu
             if (IsOpened)
             {
                 _menuButton.Enabled = false;
-                _menuButton.Animate()
-                    .Rotation(0.0f)
-                    .SetDuration(ANIMATION_DURATION)
-                    .Start();
-                //_menuButton.StartAnimation(AnimationUtils.LoadAnimation(Context, Resource.Animation.fab_close));
+                _menuButton.StartAnimation(AnimationUtils.LoadAnimation(Context, Resource.Animation.fab_close));
 
                 var backgroundAnimation = ObjectAnimator.OfInt(this, "backgroundColor", unchecked((int)0xA0000000), unchecked((int)0x00000000));
                 backgroundAnimation.SetEvaluator(new ArgbEvaluator());
@@ -281,64 +254,76 @@ namespace FloatingActionMenu
                 {
                     var child = children[i];
 
-                    var animation = child.Animate()
-                        .ScaleX(0.0f)
-                        .ScaleY(0.0f)
-                        .SetDuration(ANIMATION_DURATION)
-                        .SetStartDelay(delay);
-
-                    if (i == children.Count - 1)
-                    {
-                        animation = animation.WithEndAction(new Runnable(() =>
-                        {
-                            child.Visibility = ViewStates.Gone;
-                            _menuButton.Enabled = true;
-                            IsOpened = false;
-                        }));
-                    }
-                    else
-                    {
-                        animation = animation.WithEndAction(new Runnable(() => child.Visibility = ViewStates.Gone));
-                    }
-
-                    animation.Start();
-
-                    /*var childAnim = AnimationUtils.LoadAnimation(Context, Resource.Animation.child_shrink);
+                    var childAnim = AnimationUtils.LoadAnimation(Context, Resource.Animation.child_shrink);
+                    childAnim.AnimationEnd += (s, e) => child.Visibility = ViewStates.Gone;
                     if (i == children.Count - 1)
                     {
                         childAnim.AnimationEnd += (s, e) =>
                         {
-                            child.Visibility = ViewStates.Gone;
                             _menuButton.Enabled = true;
                             IsOpened = false;
                         };
                     }
-                    else
-                    {
-                        childAnim.AnimationEnd += (s, e) => child.Visibility = ViewStates.Gone;
-                    }
-                    childAnim.StartOffset = delay;
-                    child.StartAnimation(childAnim);*/
+                    child.PostDelayed(() => child.StartAnimation(childAnim), delay);
 
                     if (child.GetTag(Resource.Id.fab_label) is TextView label)
                     {
                         var layoutParameters = child.LayoutParameters as LayoutParams;
 
-                        label.Animate()
-                            .Alpha(0.0f)
-                            .TranslationX(layoutParameters.LabelDirection == LABEL_RIGHT ? -50.0f : 50.0f)
-                            .SetDuration(ANIMATION_DURATION)
-                            .SetStartDelay(delay)
-                            .WithEndAction(new Runnable(() => label.Visibility = ViewStates.Gone))
-                            .Start();
-                        /*var labelAnim = AnimationUtils.LoadAnimation(Context, Resource.Animation.label_slide_out_right);
+                        var labelAnim = GetCloseLabelAnimation(layoutParameters.LabelDirection);
                         labelAnim.AnimationEnd += (s, e) => label.Visibility = ViewStates.Gone;
-                        labelAnim.StartOffset = delay;
-                        label.StartAnimation(labelAnim);*/
+                        label.PostDelayed(() =>
+                        {
+                            label.Visibility = ViewStates.Visible;
+                            label.StartAnimation(labelAnim);
+                        }, delay);
                     }
 
                     delay += ANIMATION_DELAY;
                 }
+            }
+        }
+
+        private Animation GetOpenLabelAnimation(int direction)
+        {
+            switch (direction)
+            {
+                case LABEL_LEFT:
+                    return AnimationUtils.LoadAnimation(Context, Resource.Animation.label_slide_in_left);
+                case LABEL_TOP:
+                    return AnimationUtils.LoadAnimation(Context, Resource.Animation.label_slide_in_up);
+                case LABEL_RIGHT:
+                    return AnimationUtils.LoadAnimation(Context, Resource.Animation.label_slide_in_right);
+                case LABEL_BOTTOM:
+                    return AnimationUtils.LoadAnimation(Context, Resource.Animation.label_slide_in_down);
+            }
+
+            throw new NotImplementedException("Cannot handle direction " + direction);
+        }
+
+        private Animation GetCloseLabelAnimation(int direction)
+        {
+            switch (direction)
+            {
+                case LABEL_LEFT:
+                    return AnimationUtils.LoadAnimation(Context, Resource.Animation.label_slide_out_right);
+                case LABEL_TOP:
+                    return AnimationUtils.LoadAnimation(Context, Resource.Animation.label_slide_out_down);
+                case LABEL_RIGHT:
+                    return AnimationUtils.LoadAnimation(Context, Resource.Animation.label_slide_out_left);
+                case LABEL_BOTTOM:
+                    return AnimationUtils.LoadAnimation(Context, Resource.Animation.label_slide_out_up);
+            }
+
+            throw new NotImplementedException("Cannot handle direction " + direction);
+        }
+
+        public void SetLabelDirection(int labelDirection)
+        {
+            foreach (var child in _originalChildren)
+            {
+                var layoutParameters = child.LayoutParameters as LayoutParams;
+                layoutParameters.LabelDirection = labelDirection;
             }
         }
 

@@ -26,1993 +26,1997 @@ namespace Sample
 		
 		public static void UpdateIdValues()
 		{
-			global::FloatingActionMenu.Resource.Animation.abc_fade_in = global::Sample.Resource.Animation.abc_fade_in;
-			global::FloatingActionMenu.Resource.Animation.abc_fade_out = global::Sample.Resource.Animation.abc_fade_out;
-			global::FloatingActionMenu.Resource.Animation.abc_grow_fade_in_from_bottom = global::Sample.Resource.Animation.abc_grow_fade_in_from_bottom;
-			global::FloatingActionMenu.Resource.Animation.abc_popup_enter = global::Sample.Resource.Animation.abc_popup_enter;
-			global::FloatingActionMenu.Resource.Animation.abc_popup_exit = global::Sample.Resource.Animation.abc_popup_exit;
-			global::FloatingActionMenu.Resource.Animation.abc_shrink_fade_out_from_bottom = global::Sample.Resource.Animation.abc_shrink_fade_out_from_bottom;
-			global::FloatingActionMenu.Resource.Animation.abc_slide_in_bottom = global::Sample.Resource.Animation.abc_slide_in_bottom;
-			global::FloatingActionMenu.Resource.Animation.abc_slide_in_top = global::Sample.Resource.Animation.abc_slide_in_top;
-			global::FloatingActionMenu.Resource.Animation.abc_slide_out_bottom = global::Sample.Resource.Animation.abc_slide_out_bottom;
-			global::FloatingActionMenu.Resource.Animation.abc_slide_out_top = global::Sample.Resource.Animation.abc_slide_out_top;
-			global::FloatingActionMenu.Resource.Animation.child_grow = global::Sample.Resource.Animation.child_grow;
-			global::FloatingActionMenu.Resource.Animation.child_shrink = global::Sample.Resource.Animation.child_shrink;
-			global::FloatingActionMenu.Resource.Animation.design_bottom_sheet_slide_in = global::Sample.Resource.Animation.design_bottom_sheet_slide_in;
-			global::FloatingActionMenu.Resource.Animation.design_bottom_sheet_slide_out = global::Sample.Resource.Animation.design_bottom_sheet_slide_out;
-			global::FloatingActionMenu.Resource.Animation.design_snackbar_in = global::Sample.Resource.Animation.design_snackbar_in;
-			global::FloatingActionMenu.Resource.Animation.design_snackbar_out = global::Sample.Resource.Animation.design_snackbar_out;
-			global::FloatingActionMenu.Resource.Animation.fab_close = global::Sample.Resource.Animation.fab_close;
-			global::FloatingActionMenu.Resource.Animation.fab_open = global::Sample.Resource.Animation.fab_open;
-			global::FloatingActionMenu.Resource.Animation.label_slide_in_left = global::Sample.Resource.Animation.label_slide_in_left;
-			global::FloatingActionMenu.Resource.Animation.label_slide_in_right = global::Sample.Resource.Animation.label_slide_in_right;
-			global::FloatingActionMenu.Resource.Animation.label_slide_out_left = global::Sample.Resource.Animation.label_slide_out_left;
-			global::FloatingActionMenu.Resource.Animation.label_slide_out_right = global::Sample.Resource.Animation.label_slide_out_right;
-			global::FloatingActionMenu.Resource.Animation.tooltip_enter = global::Sample.Resource.Animation.tooltip_enter;
-			global::FloatingActionMenu.Resource.Animation.tooltip_exit = global::Sample.Resource.Animation.tooltip_exit;
-			global::FloatingActionMenu.Resource.Animator.design_appbar_state_list_animator = global::Sample.Resource.Animator.design_appbar_state_list_animator;
-			global::FloatingActionMenu.Resource.Attribute.actionBarDivider = global::Sample.Resource.Attribute.actionBarDivider;
-			global::FloatingActionMenu.Resource.Attribute.actionBarItemBackground = global::Sample.Resource.Attribute.actionBarItemBackground;
-			global::FloatingActionMenu.Resource.Attribute.actionBarPopupTheme = global::Sample.Resource.Attribute.actionBarPopupTheme;
-			global::FloatingActionMenu.Resource.Attribute.actionBarSize = global::Sample.Resource.Attribute.actionBarSize;
-			global::FloatingActionMenu.Resource.Attribute.actionBarSplitStyle = global::Sample.Resource.Attribute.actionBarSplitStyle;
-			global::FloatingActionMenu.Resource.Attribute.actionBarStyle = global::Sample.Resource.Attribute.actionBarStyle;
-			global::FloatingActionMenu.Resource.Attribute.actionBarTabBarStyle = global::Sample.Resource.Attribute.actionBarTabBarStyle;
-			global::FloatingActionMenu.Resource.Attribute.actionBarTabStyle = global::Sample.Resource.Attribute.actionBarTabStyle;
-			global::FloatingActionMenu.Resource.Attribute.actionBarTabTextStyle = global::Sample.Resource.Attribute.actionBarTabTextStyle;
-			global::FloatingActionMenu.Resource.Attribute.actionBarTheme = global::Sample.Resource.Attribute.actionBarTheme;
-			global::FloatingActionMenu.Resource.Attribute.actionBarWidgetTheme = global::Sample.Resource.Attribute.actionBarWidgetTheme;
-			global::FloatingActionMenu.Resource.Attribute.actionButtonStyle = global::Sample.Resource.Attribute.actionButtonStyle;
-			global::FloatingActionMenu.Resource.Attribute.actionDropDownStyle = global::Sample.Resource.Attribute.actionDropDownStyle;
-			global::FloatingActionMenu.Resource.Attribute.actionLayout = global::Sample.Resource.Attribute.actionLayout;
-			global::FloatingActionMenu.Resource.Attribute.actionMenuTextAppearance = global::Sample.Resource.Attribute.actionMenuTextAppearance;
-			global::FloatingActionMenu.Resource.Attribute.actionMenuTextColor = global::Sample.Resource.Attribute.actionMenuTextColor;
-			global::FloatingActionMenu.Resource.Attribute.actionModeBackground = global::Sample.Resource.Attribute.actionModeBackground;
-			global::FloatingActionMenu.Resource.Attribute.actionModeCloseButtonStyle = global::Sample.Resource.Attribute.actionModeCloseButtonStyle;
-			global::FloatingActionMenu.Resource.Attribute.actionModeCloseDrawable = global::Sample.Resource.Attribute.actionModeCloseDrawable;
-			global::FloatingActionMenu.Resource.Attribute.actionModeCopyDrawable = global::Sample.Resource.Attribute.actionModeCopyDrawable;
-			global::FloatingActionMenu.Resource.Attribute.actionModeCutDrawable = global::Sample.Resource.Attribute.actionModeCutDrawable;
-			global::FloatingActionMenu.Resource.Attribute.actionModeFindDrawable = global::Sample.Resource.Attribute.actionModeFindDrawable;
-			global::FloatingActionMenu.Resource.Attribute.actionModePasteDrawable = global::Sample.Resource.Attribute.actionModePasteDrawable;
-			global::FloatingActionMenu.Resource.Attribute.actionModePopupWindowStyle = global::Sample.Resource.Attribute.actionModePopupWindowStyle;
-			global::FloatingActionMenu.Resource.Attribute.actionModeSelectAllDrawable = global::Sample.Resource.Attribute.actionModeSelectAllDrawable;
-			global::FloatingActionMenu.Resource.Attribute.actionModeShareDrawable = global::Sample.Resource.Attribute.actionModeShareDrawable;
-			global::FloatingActionMenu.Resource.Attribute.actionModeSplitBackground = global::Sample.Resource.Attribute.actionModeSplitBackground;
-			global::FloatingActionMenu.Resource.Attribute.actionModeStyle = global::Sample.Resource.Attribute.actionModeStyle;
-			global::FloatingActionMenu.Resource.Attribute.actionModeWebSearchDrawable = global::Sample.Resource.Attribute.actionModeWebSearchDrawable;
-			global::FloatingActionMenu.Resource.Attribute.actionOverflowButtonStyle = global::Sample.Resource.Attribute.actionOverflowButtonStyle;
-			global::FloatingActionMenu.Resource.Attribute.actionOverflowMenuStyle = global::Sample.Resource.Attribute.actionOverflowMenuStyle;
-			global::FloatingActionMenu.Resource.Attribute.actionProviderClass = global::Sample.Resource.Attribute.actionProviderClass;
-			global::FloatingActionMenu.Resource.Attribute.actionViewClass = global::Sample.Resource.Attribute.actionViewClass;
-			global::FloatingActionMenu.Resource.Attribute.activityChooserViewStyle = global::Sample.Resource.Attribute.activityChooserViewStyle;
-			global::FloatingActionMenu.Resource.Attribute.alertDialogButtonGroupStyle = global::Sample.Resource.Attribute.alertDialogButtonGroupStyle;
-			global::FloatingActionMenu.Resource.Attribute.alertDialogCenterButtons = global::Sample.Resource.Attribute.alertDialogCenterButtons;
-			global::FloatingActionMenu.Resource.Attribute.alertDialogStyle = global::Sample.Resource.Attribute.alertDialogStyle;
-			global::FloatingActionMenu.Resource.Attribute.alertDialogTheme = global::Sample.Resource.Attribute.alertDialogTheme;
-			global::FloatingActionMenu.Resource.Attribute.allowStacking = global::Sample.Resource.Attribute.allowStacking;
-			global::FloatingActionMenu.Resource.Attribute.alpha = global::Sample.Resource.Attribute.alpha;
-			global::FloatingActionMenu.Resource.Attribute.alphabeticModifiers = global::Sample.Resource.Attribute.alphabeticModifiers;
-			global::FloatingActionMenu.Resource.Attribute.arrowHeadLength = global::Sample.Resource.Attribute.arrowHeadLength;
-			global::FloatingActionMenu.Resource.Attribute.arrowShaftLength = global::Sample.Resource.Attribute.arrowShaftLength;
-			global::FloatingActionMenu.Resource.Attribute.autoCompleteTextViewStyle = global::Sample.Resource.Attribute.autoCompleteTextViewStyle;
-			global::FloatingActionMenu.Resource.Attribute.autoSizeMaxTextSize = global::Sample.Resource.Attribute.autoSizeMaxTextSize;
-			global::FloatingActionMenu.Resource.Attribute.autoSizeMinTextSize = global::Sample.Resource.Attribute.autoSizeMinTextSize;
-			global::FloatingActionMenu.Resource.Attribute.autoSizePresetSizes = global::Sample.Resource.Attribute.autoSizePresetSizes;
-			global::FloatingActionMenu.Resource.Attribute.autoSizeStepGranularity = global::Sample.Resource.Attribute.autoSizeStepGranularity;
-			global::FloatingActionMenu.Resource.Attribute.autoSizeTextType = global::Sample.Resource.Attribute.autoSizeTextType;
-			global::FloatingActionMenu.Resource.Attribute.background = global::Sample.Resource.Attribute.background;
-			global::FloatingActionMenu.Resource.Attribute.backgroundSplit = global::Sample.Resource.Attribute.backgroundSplit;
-			global::FloatingActionMenu.Resource.Attribute.backgroundStacked = global::Sample.Resource.Attribute.backgroundStacked;
-			global::FloatingActionMenu.Resource.Attribute.backgroundTint = global::Sample.Resource.Attribute.backgroundTint;
-			global::FloatingActionMenu.Resource.Attribute.backgroundTintMode = global::Sample.Resource.Attribute.backgroundTintMode;
-			global::FloatingActionMenu.Resource.Attribute.barLength = global::Sample.Resource.Attribute.barLength;
-			global::FloatingActionMenu.Resource.Attribute.behavior_autoHide = global::Sample.Resource.Attribute.behavior_autoHide;
-			global::FloatingActionMenu.Resource.Attribute.behavior_hideable = global::Sample.Resource.Attribute.behavior_hideable;
-			global::FloatingActionMenu.Resource.Attribute.behavior_overlapTop = global::Sample.Resource.Attribute.behavior_overlapTop;
-			global::FloatingActionMenu.Resource.Attribute.behavior_peekHeight = global::Sample.Resource.Attribute.behavior_peekHeight;
-			global::FloatingActionMenu.Resource.Attribute.behavior_skipCollapsed = global::Sample.Resource.Attribute.behavior_skipCollapsed;
-			global::FloatingActionMenu.Resource.Attribute.borderWidth = global::Sample.Resource.Attribute.borderWidth;
-			global::FloatingActionMenu.Resource.Attribute.borderlessButtonStyle = global::Sample.Resource.Attribute.borderlessButtonStyle;
-			global::FloatingActionMenu.Resource.Attribute.bottomSheetDialogTheme = global::Sample.Resource.Attribute.bottomSheetDialogTheme;
-			global::FloatingActionMenu.Resource.Attribute.bottomSheetStyle = global::Sample.Resource.Attribute.bottomSheetStyle;
-			global::FloatingActionMenu.Resource.Attribute.buttonBackgroundColor = global::Sample.Resource.Attribute.buttonBackgroundColor;
-			global::FloatingActionMenu.Resource.Attribute.buttonBarButtonStyle = global::Sample.Resource.Attribute.buttonBarButtonStyle;
-			global::FloatingActionMenu.Resource.Attribute.buttonBarNegativeButtonStyle = global::Sample.Resource.Attribute.buttonBarNegativeButtonStyle;
-			global::FloatingActionMenu.Resource.Attribute.buttonBarNeutralButtonStyle = global::Sample.Resource.Attribute.buttonBarNeutralButtonStyle;
-			global::FloatingActionMenu.Resource.Attribute.buttonBarPositiveButtonStyle = global::Sample.Resource.Attribute.buttonBarPositiveButtonStyle;
-			global::FloatingActionMenu.Resource.Attribute.buttonBarStyle = global::Sample.Resource.Attribute.buttonBarStyle;
-			global::FloatingActionMenu.Resource.Attribute.buttonElevation = global::Sample.Resource.Attribute.buttonElevation;
-			global::FloatingActionMenu.Resource.Attribute.buttonGravity = global::Sample.Resource.Attribute.buttonGravity;
-			global::FloatingActionMenu.Resource.Attribute.buttonIcon = global::Sample.Resource.Attribute.buttonIcon;
-			global::FloatingActionMenu.Resource.Attribute.buttonPanelSideLayout = global::Sample.Resource.Attribute.buttonPanelSideLayout;
-			global::FloatingActionMenu.Resource.Attribute.buttonSpacing = global::Sample.Resource.Attribute.buttonSpacing;
-			global::FloatingActionMenu.Resource.Attribute.buttonStyle = global::Sample.Resource.Attribute.buttonStyle;
-			global::FloatingActionMenu.Resource.Attribute.buttonStyleSmall = global::Sample.Resource.Attribute.buttonStyleSmall;
-			global::FloatingActionMenu.Resource.Attribute.buttonTint = global::Sample.Resource.Attribute.buttonTint;
-			global::FloatingActionMenu.Resource.Attribute.buttonTintMode = global::Sample.Resource.Attribute.buttonTintMode;
-			global::FloatingActionMenu.Resource.Attribute.checkboxStyle = global::Sample.Resource.Attribute.checkboxStyle;
-			global::FloatingActionMenu.Resource.Attribute.checkedTextViewStyle = global::Sample.Resource.Attribute.checkedTextViewStyle;
-			global::FloatingActionMenu.Resource.Attribute.closeIcon = global::Sample.Resource.Attribute.closeIcon;
-			global::FloatingActionMenu.Resource.Attribute.closeItemLayout = global::Sample.Resource.Attribute.closeItemLayout;
-			global::FloatingActionMenu.Resource.Attribute.collapseContentDescription = global::Sample.Resource.Attribute.collapseContentDescription;
-			global::FloatingActionMenu.Resource.Attribute.collapseIcon = global::Sample.Resource.Attribute.collapseIcon;
-			global::FloatingActionMenu.Resource.Attribute.collapsedTitleGravity = global::Sample.Resource.Attribute.collapsedTitleGravity;
-			global::FloatingActionMenu.Resource.Attribute.collapsedTitleTextAppearance = global::Sample.Resource.Attribute.collapsedTitleTextAppearance;
-			global::FloatingActionMenu.Resource.Attribute.color = global::Sample.Resource.Attribute.color;
-			global::FloatingActionMenu.Resource.Attribute.colorAccent = global::Sample.Resource.Attribute.colorAccent;
-			global::FloatingActionMenu.Resource.Attribute.colorBackgroundFloating = global::Sample.Resource.Attribute.colorBackgroundFloating;
-			global::FloatingActionMenu.Resource.Attribute.colorButtonNormal = global::Sample.Resource.Attribute.colorButtonNormal;
-			global::FloatingActionMenu.Resource.Attribute.colorControlActivated = global::Sample.Resource.Attribute.colorControlActivated;
-			global::FloatingActionMenu.Resource.Attribute.colorControlHighlight = global::Sample.Resource.Attribute.colorControlHighlight;
-			global::FloatingActionMenu.Resource.Attribute.colorControlNormal = global::Sample.Resource.Attribute.colorControlNormal;
-			global::FloatingActionMenu.Resource.Attribute.colorError = global::Sample.Resource.Attribute.colorError;
-			global::FloatingActionMenu.Resource.Attribute.colorPrimary = global::Sample.Resource.Attribute.colorPrimary;
-			global::FloatingActionMenu.Resource.Attribute.colorPrimaryDark = global::Sample.Resource.Attribute.colorPrimaryDark;
-			global::FloatingActionMenu.Resource.Attribute.colorSwitchThumbNormal = global::Sample.Resource.Attribute.colorSwitchThumbNormal;
-			global::FloatingActionMenu.Resource.Attribute.commitIcon = global::Sample.Resource.Attribute.commitIcon;
-			global::FloatingActionMenu.Resource.Attribute.contentDescription = global::Sample.Resource.Attribute.contentDescription;
-			global::FloatingActionMenu.Resource.Attribute.contentInsetEnd = global::Sample.Resource.Attribute.contentInsetEnd;
-			global::FloatingActionMenu.Resource.Attribute.contentInsetEndWithActions = global::Sample.Resource.Attribute.contentInsetEndWithActions;
-			global::FloatingActionMenu.Resource.Attribute.contentInsetLeft = global::Sample.Resource.Attribute.contentInsetLeft;
-			global::FloatingActionMenu.Resource.Attribute.contentInsetRight = global::Sample.Resource.Attribute.contentInsetRight;
-			global::FloatingActionMenu.Resource.Attribute.contentInsetStart = global::Sample.Resource.Attribute.contentInsetStart;
-			global::FloatingActionMenu.Resource.Attribute.contentInsetStartWithNavigation = global::Sample.Resource.Attribute.contentInsetStartWithNavigation;
-			global::FloatingActionMenu.Resource.Attribute.contentScrim = global::Sample.Resource.Attribute.contentScrim;
-			global::FloatingActionMenu.Resource.Attribute.controlBackground = global::Sample.Resource.Attribute.controlBackground;
-			global::FloatingActionMenu.Resource.Attribute.counterEnabled = global::Sample.Resource.Attribute.counterEnabled;
-			global::FloatingActionMenu.Resource.Attribute.counterMaxLength = global::Sample.Resource.Attribute.counterMaxLength;
-			global::FloatingActionMenu.Resource.Attribute.counterOverflowTextAppearance = global::Sample.Resource.Attribute.counterOverflowTextAppearance;
-			global::FloatingActionMenu.Resource.Attribute.counterTextAppearance = global::Sample.Resource.Attribute.counterTextAppearance;
-			global::FloatingActionMenu.Resource.Attribute.customNavigationLayout = global::Sample.Resource.Attribute.customNavigationLayout;
-			global::FloatingActionMenu.Resource.Attribute.defaultQueryHint = global::Sample.Resource.Attribute.defaultQueryHint;
-			global::FloatingActionMenu.Resource.Attribute.dialogPreferredPadding = global::Sample.Resource.Attribute.dialogPreferredPadding;
-			global::FloatingActionMenu.Resource.Attribute.dialogTheme = global::Sample.Resource.Attribute.dialogTheme;
-			global::FloatingActionMenu.Resource.Attribute.displayOptions = global::Sample.Resource.Attribute.displayOptions;
-			global::FloatingActionMenu.Resource.Attribute.divider = global::Sample.Resource.Attribute.divider;
-			global::FloatingActionMenu.Resource.Attribute.dividerHorizontal = global::Sample.Resource.Attribute.dividerHorizontal;
-			global::FloatingActionMenu.Resource.Attribute.dividerPadding = global::Sample.Resource.Attribute.dividerPadding;
-			global::FloatingActionMenu.Resource.Attribute.dividerVertical = global::Sample.Resource.Attribute.dividerVertical;
-			global::FloatingActionMenu.Resource.Attribute.drawableSize = global::Sample.Resource.Attribute.drawableSize;
-			global::FloatingActionMenu.Resource.Attribute.drawerArrowStyle = global::Sample.Resource.Attribute.drawerArrowStyle;
-			global::FloatingActionMenu.Resource.Attribute.dropDownListViewStyle = global::Sample.Resource.Attribute.dropDownListViewStyle;
-			global::FloatingActionMenu.Resource.Attribute.dropdownListPreferredItemHeight = global::Sample.Resource.Attribute.dropdownListPreferredItemHeight;
-			global::FloatingActionMenu.Resource.Attribute.editTextBackground = global::Sample.Resource.Attribute.editTextBackground;
-			global::FloatingActionMenu.Resource.Attribute.editTextColor = global::Sample.Resource.Attribute.editTextColor;
-			global::FloatingActionMenu.Resource.Attribute.editTextStyle = global::Sample.Resource.Attribute.editTextStyle;
-			global::FloatingActionMenu.Resource.Attribute.elevation = global::Sample.Resource.Attribute.elevation;
-			global::FloatingActionMenu.Resource.Attribute.errorEnabled = global::Sample.Resource.Attribute.errorEnabled;
-			global::FloatingActionMenu.Resource.Attribute.errorTextAppearance = global::Sample.Resource.Attribute.errorTextAppearance;
-			global::FloatingActionMenu.Resource.Attribute.expandActivityOverflowButtonDrawable = global::Sample.Resource.Attribute.expandActivityOverflowButtonDrawable;
-			global::FloatingActionMenu.Resource.Attribute.expanded = global::Sample.Resource.Attribute.expanded;
-			global::FloatingActionMenu.Resource.Attribute.expandedTitleGravity = global::Sample.Resource.Attribute.expandedTitleGravity;
-			global::FloatingActionMenu.Resource.Attribute.expandedTitleMargin = global::Sample.Resource.Attribute.expandedTitleMargin;
-			global::FloatingActionMenu.Resource.Attribute.expandedTitleMarginBottom = global::Sample.Resource.Attribute.expandedTitleMarginBottom;
-			global::FloatingActionMenu.Resource.Attribute.expandedTitleMarginEnd = global::Sample.Resource.Attribute.expandedTitleMarginEnd;
-			global::FloatingActionMenu.Resource.Attribute.expandedTitleMarginStart = global::Sample.Resource.Attribute.expandedTitleMarginStart;
-			global::FloatingActionMenu.Resource.Attribute.expandedTitleMarginTop = global::Sample.Resource.Attribute.expandedTitleMarginTop;
-			global::FloatingActionMenu.Resource.Attribute.expandedTitleTextAppearance = global::Sample.Resource.Attribute.expandedTitleTextAppearance;
-			global::FloatingActionMenu.Resource.Attribute.fabSize = global::Sample.Resource.Attribute.fabSize;
-			global::FloatingActionMenu.Resource.Attribute.fastScrollEnabled = global::Sample.Resource.Attribute.fastScrollEnabled;
-			global::FloatingActionMenu.Resource.Attribute.fastScrollHorizontalThumbDrawable = global::Sample.Resource.Attribute.fastScrollHorizontalThumbDrawable;
-			global::FloatingActionMenu.Resource.Attribute.fastScrollHorizontalTrackDrawable = global::Sample.Resource.Attribute.fastScrollHorizontalTrackDrawable;
-			global::FloatingActionMenu.Resource.Attribute.fastScrollVerticalThumbDrawable = global::Sample.Resource.Attribute.fastScrollVerticalThumbDrawable;
-			global::FloatingActionMenu.Resource.Attribute.fastScrollVerticalTrackDrawable = global::Sample.Resource.Attribute.fastScrollVerticalTrackDrawable;
-			global::FloatingActionMenu.Resource.Attribute.font = global::Sample.Resource.Attribute.font;
-			global::FloatingActionMenu.Resource.Attribute.fontFamily = global::Sample.Resource.Attribute.fontFamily;
-			global::FloatingActionMenu.Resource.Attribute.fontProviderAuthority = global::Sample.Resource.Attribute.fontProviderAuthority;
-			global::FloatingActionMenu.Resource.Attribute.fontProviderCerts = global::Sample.Resource.Attribute.fontProviderCerts;
-			global::FloatingActionMenu.Resource.Attribute.fontProviderFetchStrategy = global::Sample.Resource.Attribute.fontProviderFetchStrategy;
-			global::FloatingActionMenu.Resource.Attribute.fontProviderFetchTimeout = global::Sample.Resource.Attribute.fontProviderFetchTimeout;
-			global::FloatingActionMenu.Resource.Attribute.fontProviderPackage = global::Sample.Resource.Attribute.fontProviderPackage;
-			global::FloatingActionMenu.Resource.Attribute.fontProviderQuery = global::Sample.Resource.Attribute.fontProviderQuery;
-			global::FloatingActionMenu.Resource.Attribute.fontStyle = global::Sample.Resource.Attribute.fontStyle;
-			global::FloatingActionMenu.Resource.Attribute.fontWeight = global::Sample.Resource.Attribute.fontWeight;
-			global::FloatingActionMenu.Resource.Attribute.foregroundInsidePadding = global::Sample.Resource.Attribute.foregroundInsidePadding;
-			global::FloatingActionMenu.Resource.Attribute.gapBetweenBars = global::Sample.Resource.Attribute.gapBetweenBars;
-			global::FloatingActionMenu.Resource.Attribute.goIcon = global::Sample.Resource.Attribute.goIcon;
-			global::FloatingActionMenu.Resource.Attribute.headerLayout = global::Sample.Resource.Attribute.headerLayout;
-			global::FloatingActionMenu.Resource.Attribute.height = global::Sample.Resource.Attribute.height;
-			global::FloatingActionMenu.Resource.Attribute.hideOnContentScroll = global::Sample.Resource.Attribute.hideOnContentScroll;
-			global::FloatingActionMenu.Resource.Attribute.hintAnimationEnabled = global::Sample.Resource.Attribute.hintAnimationEnabled;
-			global::FloatingActionMenu.Resource.Attribute.hintEnabled = global::Sample.Resource.Attribute.hintEnabled;
-			global::FloatingActionMenu.Resource.Attribute.hintTextAppearance = global::Sample.Resource.Attribute.hintTextAppearance;
-			global::FloatingActionMenu.Resource.Attribute.homeAsUpIndicator = global::Sample.Resource.Attribute.homeAsUpIndicator;
-			global::FloatingActionMenu.Resource.Attribute.homeLayout = global::Sample.Resource.Attribute.homeLayout;
-			global::FloatingActionMenu.Resource.Attribute.icon = global::Sample.Resource.Attribute.icon;
-			global::FloatingActionMenu.Resource.Attribute.iconTint = global::Sample.Resource.Attribute.iconTint;
-			global::FloatingActionMenu.Resource.Attribute.iconTintMode = global::Sample.Resource.Attribute.iconTintMode;
-			global::FloatingActionMenu.Resource.Attribute.iconifiedByDefault = global::Sample.Resource.Attribute.iconifiedByDefault;
-			global::FloatingActionMenu.Resource.Attribute.imageButtonStyle = global::Sample.Resource.Attribute.imageButtonStyle;
-			global::FloatingActionMenu.Resource.Attribute.indeterminateProgressStyle = global::Sample.Resource.Attribute.indeterminateProgressStyle;
-			global::FloatingActionMenu.Resource.Attribute.initialActivityCount = global::Sample.Resource.Attribute.initialActivityCount;
-			global::FloatingActionMenu.Resource.Attribute.insetForeground = global::Sample.Resource.Attribute.insetForeground;
-			global::FloatingActionMenu.Resource.Attribute.isLightTheme = global::Sample.Resource.Attribute.isLightTheme;
-			global::FloatingActionMenu.Resource.Attribute.itemBackground = global::Sample.Resource.Attribute.itemBackground;
-			global::FloatingActionMenu.Resource.Attribute.itemIconTint = global::Sample.Resource.Attribute.itemIconTint;
-			global::FloatingActionMenu.Resource.Attribute.itemPadding = global::Sample.Resource.Attribute.itemPadding;
-			global::FloatingActionMenu.Resource.Attribute.itemTextAppearance = global::Sample.Resource.Attribute.itemTextAppearance;
-			global::FloatingActionMenu.Resource.Attribute.itemTextColor = global::Sample.Resource.Attribute.itemTextColor;
-			global::FloatingActionMenu.Resource.Attribute.keylines = global::Sample.Resource.Attribute.keylines;
-			global::FloatingActionMenu.Resource.Attribute.layout = global::Sample.Resource.Attribute.layout;
-			global::FloatingActionMenu.Resource.Attribute.layoutManager = global::Sample.Resource.Attribute.layoutManager;
-			global::FloatingActionMenu.Resource.Attribute.layout_anchor = global::Sample.Resource.Attribute.layout_anchor;
-			global::FloatingActionMenu.Resource.Attribute.layout_anchorGravity = global::Sample.Resource.Attribute.layout_anchorGravity;
-			global::FloatingActionMenu.Resource.Attribute.layout_behavior = global::Sample.Resource.Attribute.layout_behavior;
-			global::FloatingActionMenu.Resource.Attribute.layout_collapseMode = global::Sample.Resource.Attribute.layout_collapseMode;
-			global::FloatingActionMenu.Resource.Attribute.layout_collapseParallaxMultiplier = global::Sample.Resource.Attribute.layout_collapseParallaxMultiplier;
-			global::FloatingActionMenu.Resource.Attribute.layout_dodgeInsetEdges = global::Sample.Resource.Attribute.layout_dodgeInsetEdges;
-			global::FloatingActionMenu.Resource.Attribute.layout_insetEdge = global::Sample.Resource.Attribute.layout_insetEdge;
-			global::FloatingActionMenu.Resource.Attribute.layout_keyline = global::Sample.Resource.Attribute.layout_keyline;
-			global::FloatingActionMenu.Resource.Attribute.layout_labelBackgroundColor = global::Sample.Resource.Attribute.layout_labelBackgroundColor;
-			global::FloatingActionMenu.Resource.Attribute.layout_labelDirection = global::Sample.Resource.Attribute.layout_labelDirection;
-			global::FloatingActionMenu.Resource.Attribute.layout_labelSpacing = global::Sample.Resource.Attribute.layout_labelSpacing;
-			global::FloatingActionMenu.Resource.Attribute.layout_labelText = global::Sample.Resource.Attribute.layout_labelText;
-			global::FloatingActionMenu.Resource.Attribute.layout_labelTextColor = global::Sample.Resource.Attribute.layout_labelTextColor;
-			global::FloatingActionMenu.Resource.Attribute.layout_labelTextSize = global::Sample.Resource.Attribute.layout_labelTextSize;
-			global::FloatingActionMenu.Resource.Attribute.layout_scrollFlags = global::Sample.Resource.Attribute.layout_scrollFlags;
-			global::FloatingActionMenu.Resource.Attribute.layout_scrollInterpolator = global::Sample.Resource.Attribute.layout_scrollInterpolator;
-			global::FloatingActionMenu.Resource.Attribute.listChoiceBackgroundIndicator = global::Sample.Resource.Attribute.listChoiceBackgroundIndicator;
-			global::FloatingActionMenu.Resource.Attribute.listDividerAlertDialog = global::Sample.Resource.Attribute.listDividerAlertDialog;
-			global::FloatingActionMenu.Resource.Attribute.listItemLayout = global::Sample.Resource.Attribute.listItemLayout;
-			global::FloatingActionMenu.Resource.Attribute.listLayout = global::Sample.Resource.Attribute.listLayout;
-			global::FloatingActionMenu.Resource.Attribute.listMenuViewStyle = global::Sample.Resource.Attribute.listMenuViewStyle;
-			global::FloatingActionMenu.Resource.Attribute.listPopupWindowStyle = global::Sample.Resource.Attribute.listPopupWindowStyle;
-			global::FloatingActionMenu.Resource.Attribute.listPreferredItemHeight = global::Sample.Resource.Attribute.listPreferredItemHeight;
-			global::FloatingActionMenu.Resource.Attribute.listPreferredItemHeightLarge = global::Sample.Resource.Attribute.listPreferredItemHeightLarge;
-			global::FloatingActionMenu.Resource.Attribute.listPreferredItemHeightSmall = global::Sample.Resource.Attribute.listPreferredItemHeightSmall;
-			global::FloatingActionMenu.Resource.Attribute.listPreferredItemPaddingLeft = global::Sample.Resource.Attribute.listPreferredItemPaddingLeft;
-			global::FloatingActionMenu.Resource.Attribute.listPreferredItemPaddingRight = global::Sample.Resource.Attribute.listPreferredItemPaddingRight;
-			global::FloatingActionMenu.Resource.Attribute.logo = global::Sample.Resource.Attribute.logo;
-			global::FloatingActionMenu.Resource.Attribute.logoDescription = global::Sample.Resource.Attribute.logoDescription;
-			global::FloatingActionMenu.Resource.Attribute.maxActionInlineWidth = global::Sample.Resource.Attribute.maxActionInlineWidth;
-			global::FloatingActionMenu.Resource.Attribute.maxButtonHeight = global::Sample.Resource.Attribute.maxButtonHeight;
-			global::FloatingActionMenu.Resource.Attribute.measureWithLargestChild = global::Sample.Resource.Attribute.measureWithLargestChild;
-			global::FloatingActionMenu.Resource.Attribute.menu = global::Sample.Resource.Attribute.menu;
-			global::FloatingActionMenu.Resource.Attribute.multiChoiceItemLayout = global::Sample.Resource.Attribute.multiChoiceItemLayout;
-			global::FloatingActionMenu.Resource.Attribute.navigationContentDescription = global::Sample.Resource.Attribute.navigationContentDescription;
-			global::FloatingActionMenu.Resource.Attribute.navigationIcon = global::Sample.Resource.Attribute.navigationIcon;
-			global::FloatingActionMenu.Resource.Attribute.navigationMode = global::Sample.Resource.Attribute.navigationMode;
-			global::FloatingActionMenu.Resource.Attribute.numericModifiers = global::Sample.Resource.Attribute.numericModifiers;
-			global::FloatingActionMenu.Resource.Attribute.openDirection = global::Sample.Resource.Attribute.openDirection;
-			global::FloatingActionMenu.Resource.Attribute.openOnHold = global::Sample.Resource.Attribute.openOnHold;
-			global::FloatingActionMenu.Resource.Attribute.overlapAnchor = global::Sample.Resource.Attribute.overlapAnchor;
-			global::FloatingActionMenu.Resource.Attribute.paddingBottomNoButtons = global::Sample.Resource.Attribute.paddingBottomNoButtons;
-			global::FloatingActionMenu.Resource.Attribute.paddingEnd = global::Sample.Resource.Attribute.paddingEnd;
-			global::FloatingActionMenu.Resource.Attribute.paddingStart = global::Sample.Resource.Attribute.paddingStart;
-			global::FloatingActionMenu.Resource.Attribute.paddingTopNoTitle = global::Sample.Resource.Attribute.paddingTopNoTitle;
-			global::FloatingActionMenu.Resource.Attribute.panelBackground = global::Sample.Resource.Attribute.panelBackground;
-			global::FloatingActionMenu.Resource.Attribute.panelMenuListTheme = global::Sample.Resource.Attribute.panelMenuListTheme;
-			global::FloatingActionMenu.Resource.Attribute.panelMenuListWidth = global::Sample.Resource.Attribute.panelMenuListWidth;
-			global::FloatingActionMenu.Resource.Attribute.passwordToggleContentDescription = global::Sample.Resource.Attribute.passwordToggleContentDescription;
-			global::FloatingActionMenu.Resource.Attribute.passwordToggleDrawable = global::Sample.Resource.Attribute.passwordToggleDrawable;
-			global::FloatingActionMenu.Resource.Attribute.passwordToggleEnabled = global::Sample.Resource.Attribute.passwordToggleEnabled;
-			global::FloatingActionMenu.Resource.Attribute.passwordToggleTint = global::Sample.Resource.Attribute.passwordToggleTint;
-			global::FloatingActionMenu.Resource.Attribute.passwordToggleTintMode = global::Sample.Resource.Attribute.passwordToggleTintMode;
-			global::FloatingActionMenu.Resource.Attribute.popupMenuStyle = global::Sample.Resource.Attribute.popupMenuStyle;
-			global::FloatingActionMenu.Resource.Attribute.popupTheme = global::Sample.Resource.Attribute.popupTheme;
-			global::FloatingActionMenu.Resource.Attribute.popupWindowStyle = global::Sample.Resource.Attribute.popupWindowStyle;
-			global::FloatingActionMenu.Resource.Attribute.preserveIconSpacing = global::Sample.Resource.Attribute.preserveIconSpacing;
-			global::FloatingActionMenu.Resource.Attribute.pressedTranslationZ = global::Sample.Resource.Attribute.pressedTranslationZ;
-			global::FloatingActionMenu.Resource.Attribute.progressBarPadding = global::Sample.Resource.Attribute.progressBarPadding;
-			global::FloatingActionMenu.Resource.Attribute.progressBarStyle = global::Sample.Resource.Attribute.progressBarStyle;
-			global::FloatingActionMenu.Resource.Attribute.queryBackground = global::Sample.Resource.Attribute.queryBackground;
-			global::FloatingActionMenu.Resource.Attribute.queryHint = global::Sample.Resource.Attribute.queryHint;
-			global::FloatingActionMenu.Resource.Attribute.radioButtonStyle = global::Sample.Resource.Attribute.radioButtonStyle;
-			global::FloatingActionMenu.Resource.Attribute.ratingBarStyle = global::Sample.Resource.Attribute.ratingBarStyle;
-			global::FloatingActionMenu.Resource.Attribute.ratingBarStyleIndicator = global::Sample.Resource.Attribute.ratingBarStyleIndicator;
-			global::FloatingActionMenu.Resource.Attribute.ratingBarStyleSmall = global::Sample.Resource.Attribute.ratingBarStyleSmall;
-			global::FloatingActionMenu.Resource.Attribute.reverseLayout = global::Sample.Resource.Attribute.reverseLayout;
-			global::FloatingActionMenu.Resource.Attribute.rippleColor = global::Sample.Resource.Attribute.rippleColor;
-			global::FloatingActionMenu.Resource.Attribute.scrimAnimationDuration = global::Sample.Resource.Attribute.scrimAnimationDuration;
-			global::FloatingActionMenu.Resource.Attribute.scrimVisibleHeightTrigger = global::Sample.Resource.Attribute.scrimVisibleHeightTrigger;
-			global::FloatingActionMenu.Resource.Attribute.searchHintIcon = global::Sample.Resource.Attribute.searchHintIcon;
-			global::FloatingActionMenu.Resource.Attribute.searchIcon = global::Sample.Resource.Attribute.searchIcon;
-			global::FloatingActionMenu.Resource.Attribute.searchViewStyle = global::Sample.Resource.Attribute.searchViewStyle;
-			global::FloatingActionMenu.Resource.Attribute.seekBarStyle = global::Sample.Resource.Attribute.seekBarStyle;
-			global::FloatingActionMenu.Resource.Attribute.selectableItemBackground = global::Sample.Resource.Attribute.selectableItemBackground;
-			global::FloatingActionMenu.Resource.Attribute.selectableItemBackgroundBorderless = global::Sample.Resource.Attribute.selectableItemBackgroundBorderless;
-			global::FloatingActionMenu.Resource.Attribute.showAsAction = global::Sample.Resource.Attribute.showAsAction;
-			global::FloatingActionMenu.Resource.Attribute.showDividers = global::Sample.Resource.Attribute.showDividers;
-			global::FloatingActionMenu.Resource.Attribute.showText = global::Sample.Resource.Attribute.showText;
-			global::FloatingActionMenu.Resource.Attribute.showTitle = global::Sample.Resource.Attribute.showTitle;
-			global::FloatingActionMenu.Resource.Attribute.singleChoiceItemLayout = global::Sample.Resource.Attribute.singleChoiceItemLayout;
-			global::FloatingActionMenu.Resource.Attribute.spanCount = global::Sample.Resource.Attribute.spanCount;
-			global::FloatingActionMenu.Resource.Attribute.spinBars = global::Sample.Resource.Attribute.spinBars;
-			global::FloatingActionMenu.Resource.Attribute.spinnerDropDownItemStyle = global::Sample.Resource.Attribute.spinnerDropDownItemStyle;
-			global::FloatingActionMenu.Resource.Attribute.spinnerStyle = global::Sample.Resource.Attribute.spinnerStyle;
-			global::FloatingActionMenu.Resource.Attribute.splitTrack = global::Sample.Resource.Attribute.splitTrack;
-			global::FloatingActionMenu.Resource.Attribute.srcCompat = global::Sample.Resource.Attribute.srcCompat;
-			global::FloatingActionMenu.Resource.Attribute.stackFromEnd = global::Sample.Resource.Attribute.stackFromEnd;
-			global::FloatingActionMenu.Resource.Attribute.state_above_anchor = global::Sample.Resource.Attribute.state_above_anchor;
-			global::FloatingActionMenu.Resource.Attribute.state_collapsed = global::Sample.Resource.Attribute.state_collapsed;
-			global::FloatingActionMenu.Resource.Attribute.state_collapsible = global::Sample.Resource.Attribute.state_collapsible;
-			global::FloatingActionMenu.Resource.Attribute.statusBarBackground = global::Sample.Resource.Attribute.statusBarBackground;
-			global::FloatingActionMenu.Resource.Attribute.statusBarScrim = global::Sample.Resource.Attribute.statusBarScrim;
-			global::FloatingActionMenu.Resource.Attribute.subMenuArrow = global::Sample.Resource.Attribute.subMenuArrow;
-			global::FloatingActionMenu.Resource.Attribute.submitBackground = global::Sample.Resource.Attribute.submitBackground;
-			global::FloatingActionMenu.Resource.Attribute.subtitle = global::Sample.Resource.Attribute.subtitle;
-			global::FloatingActionMenu.Resource.Attribute.subtitleTextAppearance = global::Sample.Resource.Attribute.subtitleTextAppearance;
-			global::FloatingActionMenu.Resource.Attribute.subtitleTextColor = global::Sample.Resource.Attribute.subtitleTextColor;
-			global::FloatingActionMenu.Resource.Attribute.subtitleTextStyle = global::Sample.Resource.Attribute.subtitleTextStyle;
-			global::FloatingActionMenu.Resource.Attribute.suggestionRowLayout = global::Sample.Resource.Attribute.suggestionRowLayout;
-			global::FloatingActionMenu.Resource.Attribute.switchMinWidth = global::Sample.Resource.Attribute.switchMinWidth;
-			global::FloatingActionMenu.Resource.Attribute.switchPadding = global::Sample.Resource.Attribute.switchPadding;
-			global::FloatingActionMenu.Resource.Attribute.switchStyle = global::Sample.Resource.Attribute.switchStyle;
-			global::FloatingActionMenu.Resource.Attribute.switchTextAppearance = global::Sample.Resource.Attribute.switchTextAppearance;
-			global::FloatingActionMenu.Resource.Attribute.tabBackground = global::Sample.Resource.Attribute.tabBackground;
-			global::FloatingActionMenu.Resource.Attribute.tabContentStart = global::Sample.Resource.Attribute.tabContentStart;
-			global::FloatingActionMenu.Resource.Attribute.tabGravity = global::Sample.Resource.Attribute.tabGravity;
-			global::FloatingActionMenu.Resource.Attribute.tabIndicatorColor = global::Sample.Resource.Attribute.tabIndicatorColor;
-			global::FloatingActionMenu.Resource.Attribute.tabIndicatorHeight = global::Sample.Resource.Attribute.tabIndicatorHeight;
-			global::FloatingActionMenu.Resource.Attribute.tabMaxWidth = global::Sample.Resource.Attribute.tabMaxWidth;
-			global::FloatingActionMenu.Resource.Attribute.tabMinWidth = global::Sample.Resource.Attribute.tabMinWidth;
-			global::FloatingActionMenu.Resource.Attribute.tabMode = global::Sample.Resource.Attribute.tabMode;
-			global::FloatingActionMenu.Resource.Attribute.tabPadding = global::Sample.Resource.Attribute.tabPadding;
-			global::FloatingActionMenu.Resource.Attribute.tabPaddingBottom = global::Sample.Resource.Attribute.tabPaddingBottom;
-			global::FloatingActionMenu.Resource.Attribute.tabPaddingEnd = global::Sample.Resource.Attribute.tabPaddingEnd;
-			global::FloatingActionMenu.Resource.Attribute.tabPaddingStart = global::Sample.Resource.Attribute.tabPaddingStart;
-			global::FloatingActionMenu.Resource.Attribute.tabPaddingTop = global::Sample.Resource.Attribute.tabPaddingTop;
-			global::FloatingActionMenu.Resource.Attribute.tabSelectedTextColor = global::Sample.Resource.Attribute.tabSelectedTextColor;
-			global::FloatingActionMenu.Resource.Attribute.tabTextAppearance = global::Sample.Resource.Attribute.tabTextAppearance;
-			global::FloatingActionMenu.Resource.Attribute.tabTextColor = global::Sample.Resource.Attribute.tabTextColor;
-			global::FloatingActionMenu.Resource.Attribute.textAllCaps = global::Sample.Resource.Attribute.textAllCaps;
-			global::FloatingActionMenu.Resource.Attribute.textAppearanceLargePopupMenu = global::Sample.Resource.Attribute.textAppearanceLargePopupMenu;
-			global::FloatingActionMenu.Resource.Attribute.textAppearanceListItem = global::Sample.Resource.Attribute.textAppearanceListItem;
-			global::FloatingActionMenu.Resource.Attribute.textAppearanceListItemSecondary = global::Sample.Resource.Attribute.textAppearanceListItemSecondary;
-			global::FloatingActionMenu.Resource.Attribute.textAppearanceListItemSmall = global::Sample.Resource.Attribute.textAppearanceListItemSmall;
-			global::FloatingActionMenu.Resource.Attribute.textAppearancePopupMenuHeader = global::Sample.Resource.Attribute.textAppearancePopupMenuHeader;
-			global::FloatingActionMenu.Resource.Attribute.textAppearanceSearchResultSubtitle = global::Sample.Resource.Attribute.textAppearanceSearchResultSubtitle;
-			global::FloatingActionMenu.Resource.Attribute.textAppearanceSearchResultTitle = global::Sample.Resource.Attribute.textAppearanceSearchResultTitle;
-			global::FloatingActionMenu.Resource.Attribute.textAppearanceSmallPopupMenu = global::Sample.Resource.Attribute.textAppearanceSmallPopupMenu;
-			global::FloatingActionMenu.Resource.Attribute.textColorAlertDialogListItem = global::Sample.Resource.Attribute.textColorAlertDialogListItem;
-			global::FloatingActionMenu.Resource.Attribute.textColorError = global::Sample.Resource.Attribute.textColorError;
-			global::FloatingActionMenu.Resource.Attribute.textColorSearchUrl = global::Sample.Resource.Attribute.textColorSearchUrl;
-			global::FloatingActionMenu.Resource.Attribute.theme = global::Sample.Resource.Attribute.theme;
-			global::FloatingActionMenu.Resource.Attribute.thickness = global::Sample.Resource.Attribute.thickness;
-			global::FloatingActionMenu.Resource.Attribute.thumbTextPadding = global::Sample.Resource.Attribute.thumbTextPadding;
-			global::FloatingActionMenu.Resource.Attribute.thumbTint = global::Sample.Resource.Attribute.thumbTint;
-			global::FloatingActionMenu.Resource.Attribute.thumbTintMode = global::Sample.Resource.Attribute.thumbTintMode;
-			global::FloatingActionMenu.Resource.Attribute.tickMark = global::Sample.Resource.Attribute.tickMark;
-			global::FloatingActionMenu.Resource.Attribute.tickMarkTint = global::Sample.Resource.Attribute.tickMarkTint;
-			global::FloatingActionMenu.Resource.Attribute.tickMarkTintMode = global::Sample.Resource.Attribute.tickMarkTintMode;
-			global::FloatingActionMenu.Resource.Attribute.tint = global::Sample.Resource.Attribute.tint;
-			global::FloatingActionMenu.Resource.Attribute.tintMode = global::Sample.Resource.Attribute.tintMode;
-			global::FloatingActionMenu.Resource.Attribute.title = global::Sample.Resource.Attribute.title;
-			global::FloatingActionMenu.Resource.Attribute.titleEnabled = global::Sample.Resource.Attribute.titleEnabled;
-			global::FloatingActionMenu.Resource.Attribute.titleMargin = global::Sample.Resource.Attribute.titleMargin;
-			global::FloatingActionMenu.Resource.Attribute.titleMarginBottom = global::Sample.Resource.Attribute.titleMarginBottom;
-			global::FloatingActionMenu.Resource.Attribute.titleMarginEnd = global::Sample.Resource.Attribute.titleMarginEnd;
-			global::FloatingActionMenu.Resource.Attribute.titleMarginStart = global::Sample.Resource.Attribute.titleMarginStart;
-			global::FloatingActionMenu.Resource.Attribute.titleMarginTop = global::Sample.Resource.Attribute.titleMarginTop;
-			global::FloatingActionMenu.Resource.Attribute.titleMargins = global::Sample.Resource.Attribute.titleMargins;
-			global::FloatingActionMenu.Resource.Attribute.titleTextAppearance = global::Sample.Resource.Attribute.titleTextAppearance;
-			global::FloatingActionMenu.Resource.Attribute.titleTextColor = global::Sample.Resource.Attribute.titleTextColor;
-			global::FloatingActionMenu.Resource.Attribute.titleTextStyle = global::Sample.Resource.Attribute.titleTextStyle;
-			global::FloatingActionMenu.Resource.Attribute.toolbarId = global::Sample.Resource.Attribute.toolbarId;
-			global::FloatingActionMenu.Resource.Attribute.toolbarNavigationButtonStyle = global::Sample.Resource.Attribute.toolbarNavigationButtonStyle;
-			global::FloatingActionMenu.Resource.Attribute.toolbarStyle = global::Sample.Resource.Attribute.toolbarStyle;
-			global::FloatingActionMenu.Resource.Attribute.tooltipForegroundColor = global::Sample.Resource.Attribute.tooltipForegroundColor;
-			global::FloatingActionMenu.Resource.Attribute.tooltipFrameBackground = global::Sample.Resource.Attribute.tooltipFrameBackground;
-			global::FloatingActionMenu.Resource.Attribute.tooltipText = global::Sample.Resource.Attribute.tooltipText;
-			global::FloatingActionMenu.Resource.Attribute.track = global::Sample.Resource.Attribute.track;
-			global::FloatingActionMenu.Resource.Attribute.trackTint = global::Sample.Resource.Attribute.trackTint;
-			global::FloatingActionMenu.Resource.Attribute.trackTintMode = global::Sample.Resource.Attribute.trackTintMode;
-			global::FloatingActionMenu.Resource.Attribute.useCompatPadding = global::Sample.Resource.Attribute.useCompatPadding;
-			global::FloatingActionMenu.Resource.Attribute.voiceIcon = global::Sample.Resource.Attribute.voiceIcon;
-			global::FloatingActionMenu.Resource.Attribute.windowActionBar = global::Sample.Resource.Attribute.windowActionBar;
-			global::FloatingActionMenu.Resource.Attribute.windowActionBarOverlay = global::Sample.Resource.Attribute.windowActionBarOverlay;
-			global::FloatingActionMenu.Resource.Attribute.windowActionModeOverlay = global::Sample.Resource.Attribute.windowActionModeOverlay;
-			global::FloatingActionMenu.Resource.Attribute.windowFixedHeightMajor = global::Sample.Resource.Attribute.windowFixedHeightMajor;
-			global::FloatingActionMenu.Resource.Attribute.windowFixedHeightMinor = global::Sample.Resource.Attribute.windowFixedHeightMinor;
-			global::FloatingActionMenu.Resource.Attribute.windowFixedWidthMajor = global::Sample.Resource.Attribute.windowFixedWidthMajor;
-			global::FloatingActionMenu.Resource.Attribute.windowFixedWidthMinor = global::Sample.Resource.Attribute.windowFixedWidthMinor;
-			global::FloatingActionMenu.Resource.Attribute.windowMinWidthMajor = global::Sample.Resource.Attribute.windowMinWidthMajor;
-			global::FloatingActionMenu.Resource.Attribute.windowMinWidthMinor = global::Sample.Resource.Attribute.windowMinWidthMinor;
-			global::FloatingActionMenu.Resource.Attribute.windowNoTitle = global::Sample.Resource.Attribute.windowNoTitle;
-			global::FloatingActionMenu.Resource.Boolean.abc_action_bar_embed_tabs = global::Sample.Resource.Boolean.abc_action_bar_embed_tabs;
-			global::FloatingActionMenu.Resource.Boolean.abc_allow_stacked_button_bar = global::Sample.Resource.Boolean.abc_allow_stacked_button_bar;
-			global::FloatingActionMenu.Resource.Boolean.abc_config_actionMenuItemAllCaps = global::Sample.Resource.Boolean.abc_config_actionMenuItemAllCaps;
-			global::FloatingActionMenu.Resource.Boolean.abc_config_closeDialogWhenTouchOutside = global::Sample.Resource.Boolean.abc_config_closeDialogWhenTouchOutside;
-			global::FloatingActionMenu.Resource.Boolean.abc_config_showMenuShortcutsWhenKeyboardPresent = global::Sample.Resource.Boolean.abc_config_showMenuShortcutsWhenKeyboardPresent;
-			global::FloatingActionMenu.Resource.Color.abc_background_cache_hint_selector_material_dark = global::Sample.Resource.Color.abc_background_cache_hint_selector_material_dark;
-			global::FloatingActionMenu.Resource.Color.abc_background_cache_hint_selector_material_light = global::Sample.Resource.Color.abc_background_cache_hint_selector_material_light;
-			global::FloatingActionMenu.Resource.Color.abc_btn_colored_borderless_text_material = global::Sample.Resource.Color.abc_btn_colored_borderless_text_material;
-			global::FloatingActionMenu.Resource.Color.abc_btn_colored_text_material = global::Sample.Resource.Color.abc_btn_colored_text_material;
-			global::FloatingActionMenu.Resource.Color.abc_color_highlight_material = global::Sample.Resource.Color.abc_color_highlight_material;
-			global::FloatingActionMenu.Resource.Color.abc_hint_foreground_material_dark = global::Sample.Resource.Color.abc_hint_foreground_material_dark;
-			global::FloatingActionMenu.Resource.Color.abc_hint_foreground_material_light = global::Sample.Resource.Color.abc_hint_foreground_material_light;
-			global::FloatingActionMenu.Resource.Color.abc_input_method_navigation_guard = global::Sample.Resource.Color.abc_input_method_navigation_guard;
-			global::FloatingActionMenu.Resource.Color.abc_primary_text_disable_only_material_dark = global::Sample.Resource.Color.abc_primary_text_disable_only_material_dark;
-			global::FloatingActionMenu.Resource.Color.abc_primary_text_disable_only_material_light = global::Sample.Resource.Color.abc_primary_text_disable_only_material_light;
-			global::FloatingActionMenu.Resource.Color.abc_primary_text_material_dark = global::Sample.Resource.Color.abc_primary_text_material_dark;
-			global::FloatingActionMenu.Resource.Color.abc_primary_text_material_light = global::Sample.Resource.Color.abc_primary_text_material_light;
-			global::FloatingActionMenu.Resource.Color.abc_search_url_text = global::Sample.Resource.Color.abc_search_url_text;
-			global::FloatingActionMenu.Resource.Color.abc_search_url_text_normal = global::Sample.Resource.Color.abc_search_url_text_normal;
-			global::FloatingActionMenu.Resource.Color.abc_search_url_text_pressed = global::Sample.Resource.Color.abc_search_url_text_pressed;
-			global::FloatingActionMenu.Resource.Color.abc_search_url_text_selected = global::Sample.Resource.Color.abc_search_url_text_selected;
-			global::FloatingActionMenu.Resource.Color.abc_secondary_text_material_dark = global::Sample.Resource.Color.abc_secondary_text_material_dark;
-			global::FloatingActionMenu.Resource.Color.abc_secondary_text_material_light = global::Sample.Resource.Color.abc_secondary_text_material_light;
-			global::FloatingActionMenu.Resource.Color.abc_tint_btn_checkable = global::Sample.Resource.Color.abc_tint_btn_checkable;
-			global::FloatingActionMenu.Resource.Color.abc_tint_default = global::Sample.Resource.Color.abc_tint_default;
-			global::FloatingActionMenu.Resource.Color.abc_tint_edittext = global::Sample.Resource.Color.abc_tint_edittext;
-			global::FloatingActionMenu.Resource.Color.abc_tint_seek_thumb = global::Sample.Resource.Color.abc_tint_seek_thumb;
-			global::FloatingActionMenu.Resource.Color.abc_tint_spinner = global::Sample.Resource.Color.abc_tint_spinner;
-			global::FloatingActionMenu.Resource.Color.abc_tint_switch_track = global::Sample.Resource.Color.abc_tint_switch_track;
-			global::FloatingActionMenu.Resource.Color.accent_material_dark = global::Sample.Resource.Color.accent_material_dark;
-			global::FloatingActionMenu.Resource.Color.accent_material_light = global::Sample.Resource.Color.accent_material_light;
-			global::FloatingActionMenu.Resource.Color.background_floating_material_dark = global::Sample.Resource.Color.background_floating_material_dark;
-			global::FloatingActionMenu.Resource.Color.background_floating_material_light = global::Sample.Resource.Color.background_floating_material_light;
-			global::FloatingActionMenu.Resource.Color.background_material_dark = global::Sample.Resource.Color.background_material_dark;
-			global::FloatingActionMenu.Resource.Color.background_material_light = global::Sample.Resource.Color.background_material_light;
-			global::FloatingActionMenu.Resource.Color.bright_foreground_disabled_material_dark = global::Sample.Resource.Color.bright_foreground_disabled_material_dark;
-			global::FloatingActionMenu.Resource.Color.bright_foreground_disabled_material_light = global::Sample.Resource.Color.bright_foreground_disabled_material_light;
-			global::FloatingActionMenu.Resource.Color.bright_foreground_inverse_material_dark = global::Sample.Resource.Color.bright_foreground_inverse_material_dark;
-			global::FloatingActionMenu.Resource.Color.bright_foreground_inverse_material_light = global::Sample.Resource.Color.bright_foreground_inverse_material_light;
-			global::FloatingActionMenu.Resource.Color.bright_foreground_material_dark = global::Sample.Resource.Color.bright_foreground_material_dark;
-			global::FloatingActionMenu.Resource.Color.bright_foreground_material_light = global::Sample.Resource.Color.bright_foreground_material_light;
-			global::FloatingActionMenu.Resource.Color.button_material_dark = global::Sample.Resource.Color.button_material_dark;
-			global::FloatingActionMenu.Resource.Color.button_material_light = global::Sample.Resource.Color.button_material_light;
-			global::FloatingActionMenu.Resource.Color.design_bottom_navigation_shadow_color = global::Sample.Resource.Color.design_bottom_navigation_shadow_color;
-			global::FloatingActionMenu.Resource.Color.design_error = global::Sample.Resource.Color.design_error;
-			global::FloatingActionMenu.Resource.Color.design_fab_shadow_end_color = global::Sample.Resource.Color.design_fab_shadow_end_color;
-			global::FloatingActionMenu.Resource.Color.design_fab_shadow_mid_color = global::Sample.Resource.Color.design_fab_shadow_mid_color;
-			global::FloatingActionMenu.Resource.Color.design_fab_shadow_start_color = global::Sample.Resource.Color.design_fab_shadow_start_color;
-			global::FloatingActionMenu.Resource.Color.design_fab_stroke_end_inner_color = global::Sample.Resource.Color.design_fab_stroke_end_inner_color;
-			global::FloatingActionMenu.Resource.Color.design_fab_stroke_end_outer_color = global::Sample.Resource.Color.design_fab_stroke_end_outer_color;
-			global::FloatingActionMenu.Resource.Color.design_fab_stroke_top_inner_color = global::Sample.Resource.Color.design_fab_stroke_top_inner_color;
-			global::FloatingActionMenu.Resource.Color.design_fab_stroke_top_outer_color = global::Sample.Resource.Color.design_fab_stroke_top_outer_color;
-			global::FloatingActionMenu.Resource.Color.design_snackbar_background_color = global::Sample.Resource.Color.design_snackbar_background_color;
-			global::FloatingActionMenu.Resource.Color.design_tint_password_toggle = global::Sample.Resource.Color.design_tint_password_toggle;
-			global::FloatingActionMenu.Resource.Color.dim_foreground_disabled_material_dark = global::Sample.Resource.Color.dim_foreground_disabled_material_dark;
-			global::FloatingActionMenu.Resource.Color.dim_foreground_disabled_material_light = global::Sample.Resource.Color.dim_foreground_disabled_material_light;
-			global::FloatingActionMenu.Resource.Color.dim_foreground_material_dark = global::Sample.Resource.Color.dim_foreground_material_dark;
-			global::FloatingActionMenu.Resource.Color.dim_foreground_material_light = global::Sample.Resource.Color.dim_foreground_material_light;
-			global::FloatingActionMenu.Resource.Color.error_color_material = global::Sample.Resource.Color.error_color_material;
-			global::FloatingActionMenu.Resource.Color.foreground_material_dark = global::Sample.Resource.Color.foreground_material_dark;
-			global::FloatingActionMenu.Resource.Color.foreground_material_light = global::Sample.Resource.Color.foreground_material_light;
-			global::FloatingActionMenu.Resource.Color.highlighted_text_material_dark = global::Sample.Resource.Color.highlighted_text_material_dark;
-			global::FloatingActionMenu.Resource.Color.highlighted_text_material_light = global::Sample.Resource.Color.highlighted_text_material_light;
-			global::FloatingActionMenu.Resource.Color.material_blue_grey_800 = global::Sample.Resource.Color.material_blue_grey_800;
-			global::FloatingActionMenu.Resource.Color.material_blue_grey_900 = global::Sample.Resource.Color.material_blue_grey_900;
-			global::FloatingActionMenu.Resource.Color.material_blue_grey_950 = global::Sample.Resource.Color.material_blue_grey_950;
-			global::FloatingActionMenu.Resource.Color.material_deep_teal_200 = global::Sample.Resource.Color.material_deep_teal_200;
-			global::FloatingActionMenu.Resource.Color.material_deep_teal_500 = global::Sample.Resource.Color.material_deep_teal_500;
-			global::FloatingActionMenu.Resource.Color.material_grey_100 = global::Sample.Resource.Color.material_grey_100;
-			global::FloatingActionMenu.Resource.Color.material_grey_300 = global::Sample.Resource.Color.material_grey_300;
-			global::FloatingActionMenu.Resource.Color.material_grey_50 = global::Sample.Resource.Color.material_grey_50;
-			global::FloatingActionMenu.Resource.Color.material_grey_600 = global::Sample.Resource.Color.material_grey_600;
-			global::FloatingActionMenu.Resource.Color.material_grey_800 = global::Sample.Resource.Color.material_grey_800;
-			global::FloatingActionMenu.Resource.Color.material_grey_850 = global::Sample.Resource.Color.material_grey_850;
-			global::FloatingActionMenu.Resource.Color.material_grey_900 = global::Sample.Resource.Color.material_grey_900;
-			global::FloatingActionMenu.Resource.Color.notification_action_color_filter = global::Sample.Resource.Color.notification_action_color_filter;
-			global::FloatingActionMenu.Resource.Color.notification_icon_bg_color = global::Sample.Resource.Color.notification_icon_bg_color;
-			global::FloatingActionMenu.Resource.Color.notification_material_background_media_default_color = global::Sample.Resource.Color.notification_material_background_media_default_color;
-			global::FloatingActionMenu.Resource.Color.primary_dark_material_dark = global::Sample.Resource.Color.primary_dark_material_dark;
-			global::FloatingActionMenu.Resource.Color.primary_dark_material_light = global::Sample.Resource.Color.primary_dark_material_light;
-			global::FloatingActionMenu.Resource.Color.primary_material_dark = global::Sample.Resource.Color.primary_material_dark;
-			global::FloatingActionMenu.Resource.Color.primary_material_light = global::Sample.Resource.Color.primary_material_light;
-			global::FloatingActionMenu.Resource.Color.primary_text_default_material_dark = global::Sample.Resource.Color.primary_text_default_material_dark;
-			global::FloatingActionMenu.Resource.Color.primary_text_default_material_light = global::Sample.Resource.Color.primary_text_default_material_light;
-			global::FloatingActionMenu.Resource.Color.primary_text_disabled_material_dark = global::Sample.Resource.Color.primary_text_disabled_material_dark;
-			global::FloatingActionMenu.Resource.Color.primary_text_disabled_material_light = global::Sample.Resource.Color.primary_text_disabled_material_light;
-			global::FloatingActionMenu.Resource.Color.ripple_material_dark = global::Sample.Resource.Color.ripple_material_dark;
-			global::FloatingActionMenu.Resource.Color.ripple_material_light = global::Sample.Resource.Color.ripple_material_light;
-			global::FloatingActionMenu.Resource.Color.secondary_text_default_material_dark = global::Sample.Resource.Color.secondary_text_default_material_dark;
-			global::FloatingActionMenu.Resource.Color.secondary_text_default_material_light = global::Sample.Resource.Color.secondary_text_default_material_light;
-			global::FloatingActionMenu.Resource.Color.secondary_text_disabled_material_dark = global::Sample.Resource.Color.secondary_text_disabled_material_dark;
-			global::FloatingActionMenu.Resource.Color.secondary_text_disabled_material_light = global::Sample.Resource.Color.secondary_text_disabled_material_light;
-			global::FloatingActionMenu.Resource.Color.switch_thumb_disabled_material_dark = global::Sample.Resource.Color.switch_thumb_disabled_material_dark;
-			global::FloatingActionMenu.Resource.Color.switch_thumb_disabled_material_light = global::Sample.Resource.Color.switch_thumb_disabled_material_light;
-			global::FloatingActionMenu.Resource.Color.switch_thumb_material_dark = global::Sample.Resource.Color.switch_thumb_material_dark;
-			global::FloatingActionMenu.Resource.Color.switch_thumb_material_light = global::Sample.Resource.Color.switch_thumb_material_light;
-			global::FloatingActionMenu.Resource.Color.switch_thumb_normal_material_dark = global::Sample.Resource.Color.switch_thumb_normal_material_dark;
-			global::FloatingActionMenu.Resource.Color.switch_thumb_normal_material_light = global::Sample.Resource.Color.switch_thumb_normal_material_light;
-			global::FloatingActionMenu.Resource.Color.tooltip_background_dark = global::Sample.Resource.Color.tooltip_background_dark;
-			global::FloatingActionMenu.Resource.Color.tooltip_background_light = global::Sample.Resource.Color.tooltip_background_light;
-			global::FloatingActionMenu.Resource.Dimension.abc_action_bar_content_inset_material = global::Sample.Resource.Dimension.abc_action_bar_content_inset_material;
-			global::FloatingActionMenu.Resource.Dimension.abc_action_bar_content_inset_with_nav = global::Sample.Resource.Dimension.abc_action_bar_content_inset_with_nav;
-			global::FloatingActionMenu.Resource.Dimension.abc_action_bar_default_height_material = global::Sample.Resource.Dimension.abc_action_bar_default_height_material;
-			global::FloatingActionMenu.Resource.Dimension.abc_action_bar_default_padding_end_material = global::Sample.Resource.Dimension.abc_action_bar_default_padding_end_material;
-			global::FloatingActionMenu.Resource.Dimension.abc_action_bar_default_padding_start_material = global::Sample.Resource.Dimension.abc_action_bar_default_padding_start_material;
-			global::FloatingActionMenu.Resource.Dimension.abc_action_bar_elevation_material = global::Sample.Resource.Dimension.abc_action_bar_elevation_material;
-			global::FloatingActionMenu.Resource.Dimension.abc_action_bar_icon_vertical_padding_material = global::Sample.Resource.Dimension.abc_action_bar_icon_vertical_padding_material;
-			global::FloatingActionMenu.Resource.Dimension.abc_action_bar_overflow_padding_end_material = global::Sample.Resource.Dimension.abc_action_bar_overflow_padding_end_material;
-			global::FloatingActionMenu.Resource.Dimension.abc_action_bar_overflow_padding_start_material = global::Sample.Resource.Dimension.abc_action_bar_overflow_padding_start_material;
-			global::FloatingActionMenu.Resource.Dimension.abc_action_bar_progress_bar_size = global::Sample.Resource.Dimension.abc_action_bar_progress_bar_size;
-			global::FloatingActionMenu.Resource.Dimension.abc_action_bar_stacked_max_height = global::Sample.Resource.Dimension.abc_action_bar_stacked_max_height;
-			global::FloatingActionMenu.Resource.Dimension.abc_action_bar_stacked_tab_max_width = global::Sample.Resource.Dimension.abc_action_bar_stacked_tab_max_width;
-			global::FloatingActionMenu.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material = global::Sample.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material;
-			global::FloatingActionMenu.Resource.Dimension.abc_action_bar_subtitle_top_margin_material = global::Sample.Resource.Dimension.abc_action_bar_subtitle_top_margin_material;
-			global::FloatingActionMenu.Resource.Dimension.abc_action_button_min_height_material = global::Sample.Resource.Dimension.abc_action_button_min_height_material;
-			global::FloatingActionMenu.Resource.Dimension.abc_action_button_min_width_material = global::Sample.Resource.Dimension.abc_action_button_min_width_material;
-			global::FloatingActionMenu.Resource.Dimension.abc_action_button_min_width_overflow_material = global::Sample.Resource.Dimension.abc_action_button_min_width_overflow_material;
-			global::FloatingActionMenu.Resource.Dimension.abc_alert_dialog_button_bar_height = global::Sample.Resource.Dimension.abc_alert_dialog_button_bar_height;
-			global::FloatingActionMenu.Resource.Dimension.abc_button_inset_horizontal_material = global::Sample.Resource.Dimension.abc_button_inset_horizontal_material;
-			global::FloatingActionMenu.Resource.Dimension.abc_button_inset_vertical_material = global::Sample.Resource.Dimension.abc_button_inset_vertical_material;
-			global::FloatingActionMenu.Resource.Dimension.abc_button_padding_horizontal_material = global::Sample.Resource.Dimension.abc_button_padding_horizontal_material;
-			global::FloatingActionMenu.Resource.Dimension.abc_button_padding_vertical_material = global::Sample.Resource.Dimension.abc_button_padding_vertical_material;
-			global::FloatingActionMenu.Resource.Dimension.abc_cascading_menus_min_smallest_width = global::Sample.Resource.Dimension.abc_cascading_menus_min_smallest_width;
-			global::FloatingActionMenu.Resource.Dimension.abc_config_prefDialogWidth = global::Sample.Resource.Dimension.abc_config_prefDialogWidth;
-			global::FloatingActionMenu.Resource.Dimension.abc_control_corner_material = global::Sample.Resource.Dimension.abc_control_corner_material;
-			global::FloatingActionMenu.Resource.Dimension.abc_control_inset_material = global::Sample.Resource.Dimension.abc_control_inset_material;
-			global::FloatingActionMenu.Resource.Dimension.abc_control_padding_material = global::Sample.Resource.Dimension.abc_control_padding_material;
-			global::FloatingActionMenu.Resource.Dimension.abc_dialog_fixed_height_major = global::Sample.Resource.Dimension.abc_dialog_fixed_height_major;
-			global::FloatingActionMenu.Resource.Dimension.abc_dialog_fixed_height_minor = global::Sample.Resource.Dimension.abc_dialog_fixed_height_minor;
-			global::FloatingActionMenu.Resource.Dimension.abc_dialog_fixed_width_major = global::Sample.Resource.Dimension.abc_dialog_fixed_width_major;
-			global::FloatingActionMenu.Resource.Dimension.abc_dialog_fixed_width_minor = global::Sample.Resource.Dimension.abc_dialog_fixed_width_minor;
-			global::FloatingActionMenu.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons = global::Sample.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons;
-			global::FloatingActionMenu.Resource.Dimension.abc_dialog_list_padding_top_no_title = global::Sample.Resource.Dimension.abc_dialog_list_padding_top_no_title;
-			global::FloatingActionMenu.Resource.Dimension.abc_dialog_min_width_major = global::Sample.Resource.Dimension.abc_dialog_min_width_major;
-			global::FloatingActionMenu.Resource.Dimension.abc_dialog_min_width_minor = global::Sample.Resource.Dimension.abc_dialog_min_width_minor;
-			global::FloatingActionMenu.Resource.Dimension.abc_dialog_padding_material = global::Sample.Resource.Dimension.abc_dialog_padding_material;
-			global::FloatingActionMenu.Resource.Dimension.abc_dialog_padding_top_material = global::Sample.Resource.Dimension.abc_dialog_padding_top_material;
-			global::FloatingActionMenu.Resource.Dimension.abc_dialog_title_divider_material = global::Sample.Resource.Dimension.abc_dialog_title_divider_material;
-			global::FloatingActionMenu.Resource.Dimension.abc_disabled_alpha_material_dark = global::Sample.Resource.Dimension.abc_disabled_alpha_material_dark;
-			global::FloatingActionMenu.Resource.Dimension.abc_disabled_alpha_material_light = global::Sample.Resource.Dimension.abc_disabled_alpha_material_light;
-			global::FloatingActionMenu.Resource.Dimension.abc_dropdownitem_icon_width = global::Sample.Resource.Dimension.abc_dropdownitem_icon_width;
-			global::FloatingActionMenu.Resource.Dimension.abc_dropdownitem_text_padding_left = global::Sample.Resource.Dimension.abc_dropdownitem_text_padding_left;
-			global::FloatingActionMenu.Resource.Dimension.abc_dropdownitem_text_padding_right = global::Sample.Resource.Dimension.abc_dropdownitem_text_padding_right;
-			global::FloatingActionMenu.Resource.Dimension.abc_edit_text_inset_bottom_material = global::Sample.Resource.Dimension.abc_edit_text_inset_bottom_material;
-			global::FloatingActionMenu.Resource.Dimension.abc_edit_text_inset_horizontal_material = global::Sample.Resource.Dimension.abc_edit_text_inset_horizontal_material;
-			global::FloatingActionMenu.Resource.Dimension.abc_edit_text_inset_top_material = global::Sample.Resource.Dimension.abc_edit_text_inset_top_material;
-			global::FloatingActionMenu.Resource.Dimension.abc_floating_window_z = global::Sample.Resource.Dimension.abc_floating_window_z;
-			global::FloatingActionMenu.Resource.Dimension.abc_list_item_padding_horizontal_material = global::Sample.Resource.Dimension.abc_list_item_padding_horizontal_material;
-			global::FloatingActionMenu.Resource.Dimension.abc_panel_menu_list_width = global::Sample.Resource.Dimension.abc_panel_menu_list_width;
-			global::FloatingActionMenu.Resource.Dimension.abc_progress_bar_height_material = global::Sample.Resource.Dimension.abc_progress_bar_height_material;
-			global::FloatingActionMenu.Resource.Dimension.abc_search_view_preferred_height = global::Sample.Resource.Dimension.abc_search_view_preferred_height;
-			global::FloatingActionMenu.Resource.Dimension.abc_search_view_preferred_width = global::Sample.Resource.Dimension.abc_search_view_preferred_width;
-			global::FloatingActionMenu.Resource.Dimension.abc_seekbar_track_background_height_material = global::Sample.Resource.Dimension.abc_seekbar_track_background_height_material;
-			global::FloatingActionMenu.Resource.Dimension.abc_seekbar_track_progress_height_material = global::Sample.Resource.Dimension.abc_seekbar_track_progress_height_material;
-			global::FloatingActionMenu.Resource.Dimension.abc_select_dialog_padding_start_material = global::Sample.Resource.Dimension.abc_select_dialog_padding_start_material;
-			global::FloatingActionMenu.Resource.Dimension.abc_switch_padding = global::Sample.Resource.Dimension.abc_switch_padding;
-			global::FloatingActionMenu.Resource.Dimension.abc_text_size_body_1_material = global::Sample.Resource.Dimension.abc_text_size_body_1_material;
-			global::FloatingActionMenu.Resource.Dimension.abc_text_size_body_2_material = global::Sample.Resource.Dimension.abc_text_size_body_2_material;
-			global::FloatingActionMenu.Resource.Dimension.abc_text_size_button_material = global::Sample.Resource.Dimension.abc_text_size_button_material;
-			global::FloatingActionMenu.Resource.Dimension.abc_text_size_caption_material = global::Sample.Resource.Dimension.abc_text_size_caption_material;
-			global::FloatingActionMenu.Resource.Dimension.abc_text_size_display_1_material = global::Sample.Resource.Dimension.abc_text_size_display_1_material;
-			global::FloatingActionMenu.Resource.Dimension.abc_text_size_display_2_material = global::Sample.Resource.Dimension.abc_text_size_display_2_material;
-			global::FloatingActionMenu.Resource.Dimension.abc_text_size_display_3_material = global::Sample.Resource.Dimension.abc_text_size_display_3_material;
-			global::FloatingActionMenu.Resource.Dimension.abc_text_size_display_4_material = global::Sample.Resource.Dimension.abc_text_size_display_4_material;
-			global::FloatingActionMenu.Resource.Dimension.abc_text_size_headline_material = global::Sample.Resource.Dimension.abc_text_size_headline_material;
-			global::FloatingActionMenu.Resource.Dimension.abc_text_size_large_material = global::Sample.Resource.Dimension.abc_text_size_large_material;
-			global::FloatingActionMenu.Resource.Dimension.abc_text_size_medium_material = global::Sample.Resource.Dimension.abc_text_size_medium_material;
-			global::FloatingActionMenu.Resource.Dimension.abc_text_size_menu_header_material = global::Sample.Resource.Dimension.abc_text_size_menu_header_material;
-			global::FloatingActionMenu.Resource.Dimension.abc_text_size_menu_material = global::Sample.Resource.Dimension.abc_text_size_menu_material;
-			global::FloatingActionMenu.Resource.Dimension.abc_text_size_small_material = global::Sample.Resource.Dimension.abc_text_size_small_material;
-			global::FloatingActionMenu.Resource.Dimension.abc_text_size_subhead_material = global::Sample.Resource.Dimension.abc_text_size_subhead_material;
-			global::FloatingActionMenu.Resource.Dimension.abc_text_size_subtitle_material_toolbar = global::Sample.Resource.Dimension.abc_text_size_subtitle_material_toolbar;
-			global::FloatingActionMenu.Resource.Dimension.abc_text_size_title_material = global::Sample.Resource.Dimension.abc_text_size_title_material;
-			global::FloatingActionMenu.Resource.Dimension.abc_text_size_title_material_toolbar = global::Sample.Resource.Dimension.abc_text_size_title_material_toolbar;
-			global::FloatingActionMenu.Resource.Dimension.compat_button_inset_horizontal_material = global::Sample.Resource.Dimension.compat_button_inset_horizontal_material;
-			global::FloatingActionMenu.Resource.Dimension.compat_button_inset_vertical_material = global::Sample.Resource.Dimension.compat_button_inset_vertical_material;
-			global::FloatingActionMenu.Resource.Dimension.compat_button_padding_horizontal_material = global::Sample.Resource.Dimension.compat_button_padding_horizontal_material;
-			global::FloatingActionMenu.Resource.Dimension.compat_button_padding_vertical_material = global::Sample.Resource.Dimension.compat_button_padding_vertical_material;
-			global::FloatingActionMenu.Resource.Dimension.compat_control_corner_material = global::Sample.Resource.Dimension.compat_control_corner_material;
-			global::FloatingActionMenu.Resource.Dimension.design_appbar_elevation = global::Sample.Resource.Dimension.design_appbar_elevation;
-			global::FloatingActionMenu.Resource.Dimension.design_bottom_navigation_active_item_max_width = global::Sample.Resource.Dimension.design_bottom_navigation_active_item_max_width;
-			global::FloatingActionMenu.Resource.Dimension.design_bottom_navigation_active_text_size = global::Sample.Resource.Dimension.design_bottom_navigation_active_text_size;
-			global::FloatingActionMenu.Resource.Dimension.design_bottom_navigation_elevation = global::Sample.Resource.Dimension.design_bottom_navigation_elevation;
-			global::FloatingActionMenu.Resource.Dimension.design_bottom_navigation_height = global::Sample.Resource.Dimension.design_bottom_navigation_height;
-			global::FloatingActionMenu.Resource.Dimension.design_bottom_navigation_item_max_width = global::Sample.Resource.Dimension.design_bottom_navigation_item_max_width;
-			global::FloatingActionMenu.Resource.Dimension.design_bottom_navigation_item_min_width = global::Sample.Resource.Dimension.design_bottom_navigation_item_min_width;
-			global::FloatingActionMenu.Resource.Dimension.design_bottom_navigation_margin = global::Sample.Resource.Dimension.design_bottom_navigation_margin;
-			global::FloatingActionMenu.Resource.Dimension.design_bottom_navigation_shadow_height = global::Sample.Resource.Dimension.design_bottom_navigation_shadow_height;
-			global::FloatingActionMenu.Resource.Dimension.design_bottom_navigation_text_size = global::Sample.Resource.Dimension.design_bottom_navigation_text_size;
-			global::FloatingActionMenu.Resource.Dimension.design_bottom_sheet_modal_elevation = global::Sample.Resource.Dimension.design_bottom_sheet_modal_elevation;
-			global::FloatingActionMenu.Resource.Dimension.design_bottom_sheet_peek_height_min = global::Sample.Resource.Dimension.design_bottom_sheet_peek_height_min;
-			global::FloatingActionMenu.Resource.Dimension.design_fab_border_width = global::Sample.Resource.Dimension.design_fab_border_width;
-			global::FloatingActionMenu.Resource.Dimension.design_fab_elevation = global::Sample.Resource.Dimension.design_fab_elevation;
-			global::FloatingActionMenu.Resource.Dimension.design_fab_image_size = global::Sample.Resource.Dimension.design_fab_image_size;
-			global::FloatingActionMenu.Resource.Dimension.design_fab_size_mini = global::Sample.Resource.Dimension.design_fab_size_mini;
-			global::FloatingActionMenu.Resource.Dimension.design_fab_size_normal = global::Sample.Resource.Dimension.design_fab_size_normal;
-			global::FloatingActionMenu.Resource.Dimension.design_fab_translation_z_pressed = global::Sample.Resource.Dimension.design_fab_translation_z_pressed;
-			global::FloatingActionMenu.Resource.Dimension.design_navigation_elevation = global::Sample.Resource.Dimension.design_navigation_elevation;
-			global::FloatingActionMenu.Resource.Dimension.design_navigation_icon_padding = global::Sample.Resource.Dimension.design_navigation_icon_padding;
-			global::FloatingActionMenu.Resource.Dimension.design_navigation_icon_size = global::Sample.Resource.Dimension.design_navigation_icon_size;
-			global::FloatingActionMenu.Resource.Dimension.design_navigation_max_width = global::Sample.Resource.Dimension.design_navigation_max_width;
-			global::FloatingActionMenu.Resource.Dimension.design_navigation_padding_bottom = global::Sample.Resource.Dimension.design_navigation_padding_bottom;
-			global::FloatingActionMenu.Resource.Dimension.design_navigation_separator_vertical_padding = global::Sample.Resource.Dimension.design_navigation_separator_vertical_padding;
-			global::FloatingActionMenu.Resource.Dimension.design_snackbar_action_inline_max_width = global::Sample.Resource.Dimension.design_snackbar_action_inline_max_width;
-			global::FloatingActionMenu.Resource.Dimension.design_snackbar_background_corner_radius = global::Sample.Resource.Dimension.design_snackbar_background_corner_radius;
-			global::FloatingActionMenu.Resource.Dimension.design_snackbar_elevation = global::Sample.Resource.Dimension.design_snackbar_elevation;
-			global::FloatingActionMenu.Resource.Dimension.design_snackbar_extra_spacing_horizontal = global::Sample.Resource.Dimension.design_snackbar_extra_spacing_horizontal;
-			global::FloatingActionMenu.Resource.Dimension.design_snackbar_max_width = global::Sample.Resource.Dimension.design_snackbar_max_width;
-			global::FloatingActionMenu.Resource.Dimension.design_snackbar_min_width = global::Sample.Resource.Dimension.design_snackbar_min_width;
-			global::FloatingActionMenu.Resource.Dimension.design_snackbar_padding_horizontal = global::Sample.Resource.Dimension.design_snackbar_padding_horizontal;
-			global::FloatingActionMenu.Resource.Dimension.design_snackbar_padding_vertical = global::Sample.Resource.Dimension.design_snackbar_padding_vertical;
-			global::FloatingActionMenu.Resource.Dimension.design_snackbar_padding_vertical_2lines = global::Sample.Resource.Dimension.design_snackbar_padding_vertical_2lines;
-			global::FloatingActionMenu.Resource.Dimension.design_snackbar_text_size = global::Sample.Resource.Dimension.design_snackbar_text_size;
-			global::FloatingActionMenu.Resource.Dimension.design_tab_max_width = global::Sample.Resource.Dimension.design_tab_max_width;
-			global::FloatingActionMenu.Resource.Dimension.design_tab_scrollable_min_width = global::Sample.Resource.Dimension.design_tab_scrollable_min_width;
-			global::FloatingActionMenu.Resource.Dimension.design_tab_text_size = global::Sample.Resource.Dimension.design_tab_text_size;
-			global::FloatingActionMenu.Resource.Dimension.design_tab_text_size_2line = global::Sample.Resource.Dimension.design_tab_text_size_2line;
-			global::FloatingActionMenu.Resource.Dimension.disabled_alpha_material_dark = global::Sample.Resource.Dimension.disabled_alpha_material_dark;
-			global::FloatingActionMenu.Resource.Dimension.disabled_alpha_material_light = global::Sample.Resource.Dimension.disabled_alpha_material_light;
-			global::FloatingActionMenu.Resource.Dimension.fastscroll_default_thickness = global::Sample.Resource.Dimension.fastscroll_default_thickness;
-			global::FloatingActionMenu.Resource.Dimension.fastscroll_margin = global::Sample.Resource.Dimension.fastscroll_margin;
-			global::FloatingActionMenu.Resource.Dimension.fastscroll_minimum_range = global::Sample.Resource.Dimension.fastscroll_minimum_range;
-			global::FloatingActionMenu.Resource.Dimension.highlight_alpha_material_colored = global::Sample.Resource.Dimension.highlight_alpha_material_colored;
-			global::FloatingActionMenu.Resource.Dimension.highlight_alpha_material_dark = global::Sample.Resource.Dimension.highlight_alpha_material_dark;
-			global::FloatingActionMenu.Resource.Dimension.highlight_alpha_material_light = global::Sample.Resource.Dimension.highlight_alpha_material_light;
-			global::FloatingActionMenu.Resource.Dimension.hint_alpha_material_dark = global::Sample.Resource.Dimension.hint_alpha_material_dark;
-			global::FloatingActionMenu.Resource.Dimension.hint_alpha_material_light = global::Sample.Resource.Dimension.hint_alpha_material_light;
-			global::FloatingActionMenu.Resource.Dimension.hint_pressed_alpha_material_dark = global::Sample.Resource.Dimension.hint_pressed_alpha_material_dark;
-			global::FloatingActionMenu.Resource.Dimension.hint_pressed_alpha_material_light = global::Sample.Resource.Dimension.hint_pressed_alpha_material_light;
-			global::FloatingActionMenu.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame = global::Sample.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame;
-			global::FloatingActionMenu.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity = global::Sample.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity;
-			global::FloatingActionMenu.Resource.Dimension.item_touch_helper_swipe_escape_velocity = global::Sample.Resource.Dimension.item_touch_helper_swipe_escape_velocity;
-			global::FloatingActionMenu.Resource.Dimension.notification_action_icon_size = global::Sample.Resource.Dimension.notification_action_icon_size;
-			global::FloatingActionMenu.Resource.Dimension.notification_action_text_size = global::Sample.Resource.Dimension.notification_action_text_size;
-			global::FloatingActionMenu.Resource.Dimension.notification_big_circle_margin = global::Sample.Resource.Dimension.notification_big_circle_margin;
-			global::FloatingActionMenu.Resource.Dimension.notification_content_margin_start = global::Sample.Resource.Dimension.notification_content_margin_start;
-			global::FloatingActionMenu.Resource.Dimension.notification_large_icon_height = global::Sample.Resource.Dimension.notification_large_icon_height;
-			global::FloatingActionMenu.Resource.Dimension.notification_large_icon_width = global::Sample.Resource.Dimension.notification_large_icon_width;
-			global::FloatingActionMenu.Resource.Dimension.notification_main_column_padding_top = global::Sample.Resource.Dimension.notification_main_column_padding_top;
-			global::FloatingActionMenu.Resource.Dimension.notification_media_narrow_margin = global::Sample.Resource.Dimension.notification_media_narrow_margin;
-			global::FloatingActionMenu.Resource.Dimension.notification_right_icon_size = global::Sample.Resource.Dimension.notification_right_icon_size;
-			global::FloatingActionMenu.Resource.Dimension.notification_right_side_padding_top = global::Sample.Resource.Dimension.notification_right_side_padding_top;
-			global::FloatingActionMenu.Resource.Dimension.notification_small_icon_background_padding = global::Sample.Resource.Dimension.notification_small_icon_background_padding;
-			global::FloatingActionMenu.Resource.Dimension.notification_small_icon_size_as_large = global::Sample.Resource.Dimension.notification_small_icon_size_as_large;
-			global::FloatingActionMenu.Resource.Dimension.notification_subtext_size = global::Sample.Resource.Dimension.notification_subtext_size;
-			global::FloatingActionMenu.Resource.Dimension.notification_top_pad = global::Sample.Resource.Dimension.notification_top_pad;
-			global::FloatingActionMenu.Resource.Dimension.notification_top_pad_large_text = global::Sample.Resource.Dimension.notification_top_pad_large_text;
-			global::FloatingActionMenu.Resource.Dimension.tooltip_corner_radius = global::Sample.Resource.Dimension.tooltip_corner_radius;
-			global::FloatingActionMenu.Resource.Dimension.tooltip_horizontal_padding = global::Sample.Resource.Dimension.tooltip_horizontal_padding;
-			global::FloatingActionMenu.Resource.Dimension.tooltip_margin = global::Sample.Resource.Dimension.tooltip_margin;
-			global::FloatingActionMenu.Resource.Dimension.tooltip_precise_anchor_extra_offset = global::Sample.Resource.Dimension.tooltip_precise_anchor_extra_offset;
-			global::FloatingActionMenu.Resource.Dimension.tooltip_precise_anchor_threshold = global::Sample.Resource.Dimension.tooltip_precise_anchor_threshold;
-			global::FloatingActionMenu.Resource.Dimension.tooltip_vertical_padding = global::Sample.Resource.Dimension.tooltip_vertical_padding;
-			global::FloatingActionMenu.Resource.Dimension.tooltip_y_offset_non_touch = global::Sample.Resource.Dimension.tooltip_y_offset_non_touch;
-			global::FloatingActionMenu.Resource.Dimension.tooltip_y_offset_touch = global::Sample.Resource.Dimension.tooltip_y_offset_touch;
-			global::FloatingActionMenu.Resource.Drawable.abc_ab_share_pack_mtrl_alpha = global::Sample.Resource.Drawable.abc_ab_share_pack_mtrl_alpha;
-			global::FloatingActionMenu.Resource.Drawable.abc_action_bar_item_background_material = global::Sample.Resource.Drawable.abc_action_bar_item_background_material;
-			global::FloatingActionMenu.Resource.Drawable.abc_btn_borderless_material = global::Sample.Resource.Drawable.abc_btn_borderless_material;
-			global::FloatingActionMenu.Resource.Drawable.abc_btn_check_material = global::Sample.Resource.Drawable.abc_btn_check_material;
-			global::FloatingActionMenu.Resource.Drawable.abc_btn_check_to_on_mtrl_000 = global::Sample.Resource.Drawable.abc_btn_check_to_on_mtrl_000;
-			global::FloatingActionMenu.Resource.Drawable.abc_btn_check_to_on_mtrl_015 = global::Sample.Resource.Drawable.abc_btn_check_to_on_mtrl_015;
-			global::FloatingActionMenu.Resource.Drawable.abc_btn_colored_material = global::Sample.Resource.Drawable.abc_btn_colored_material;
-			global::FloatingActionMenu.Resource.Drawable.abc_btn_default_mtrl_shape = global::Sample.Resource.Drawable.abc_btn_default_mtrl_shape;
-			global::FloatingActionMenu.Resource.Drawable.abc_btn_radio_material = global::Sample.Resource.Drawable.abc_btn_radio_material;
-			global::FloatingActionMenu.Resource.Drawable.abc_btn_radio_to_on_mtrl_000 = global::Sample.Resource.Drawable.abc_btn_radio_to_on_mtrl_000;
-			global::FloatingActionMenu.Resource.Drawable.abc_btn_radio_to_on_mtrl_015 = global::Sample.Resource.Drawable.abc_btn_radio_to_on_mtrl_015;
-			global::FloatingActionMenu.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001 = global::Sample.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001;
-			global::FloatingActionMenu.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012 = global::Sample.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012;
-			global::FloatingActionMenu.Resource.Drawable.abc_cab_background_internal_bg = global::Sample.Resource.Drawable.abc_cab_background_internal_bg;
-			global::FloatingActionMenu.Resource.Drawable.abc_cab_background_top_material = global::Sample.Resource.Drawable.abc_cab_background_top_material;
-			global::FloatingActionMenu.Resource.Drawable.abc_cab_background_top_mtrl_alpha = global::Sample.Resource.Drawable.abc_cab_background_top_mtrl_alpha;
-			global::FloatingActionMenu.Resource.Drawable.abc_control_background_material = global::Sample.Resource.Drawable.abc_control_background_material;
-			global::FloatingActionMenu.Resource.Drawable.abc_dialog_material_background = global::Sample.Resource.Drawable.abc_dialog_material_background;
-			global::FloatingActionMenu.Resource.Drawable.abc_edit_text_material = global::Sample.Resource.Drawable.abc_edit_text_material;
-			global::FloatingActionMenu.Resource.Drawable.abc_ic_ab_back_material = global::Sample.Resource.Drawable.abc_ic_ab_back_material;
-			global::FloatingActionMenu.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp = global::Sample.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp;
-			global::FloatingActionMenu.Resource.Drawable.abc_ic_clear_material = global::Sample.Resource.Drawable.abc_ic_clear_material;
-			global::FloatingActionMenu.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha = global::Sample.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha;
-			global::FloatingActionMenu.Resource.Drawable.abc_ic_go_search_api_material = global::Sample.Resource.Drawable.abc_ic_go_search_api_material;
-			global::FloatingActionMenu.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha = global::Sample.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha;
-			global::FloatingActionMenu.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha = global::Sample.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha;
-			global::FloatingActionMenu.Resource.Drawable.abc_ic_menu_overflow_material = global::Sample.Resource.Drawable.abc_ic_menu_overflow_material;
-			global::FloatingActionMenu.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha = global::Sample.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha;
-			global::FloatingActionMenu.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha = global::Sample.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha;
-			global::FloatingActionMenu.Resource.Drawable.abc_ic_menu_share_mtrl_alpha = global::Sample.Resource.Drawable.abc_ic_menu_share_mtrl_alpha;
-			global::FloatingActionMenu.Resource.Drawable.abc_ic_search_api_material = global::Sample.Resource.Drawable.abc_ic_search_api_material;
-			global::FloatingActionMenu.Resource.Drawable.abc_ic_star_black_16dp = global::Sample.Resource.Drawable.abc_ic_star_black_16dp;
-			global::FloatingActionMenu.Resource.Drawable.abc_ic_star_black_36dp = global::Sample.Resource.Drawable.abc_ic_star_black_36dp;
-			global::FloatingActionMenu.Resource.Drawable.abc_ic_star_black_48dp = global::Sample.Resource.Drawable.abc_ic_star_black_48dp;
-			global::FloatingActionMenu.Resource.Drawable.abc_ic_star_half_black_16dp = global::Sample.Resource.Drawable.abc_ic_star_half_black_16dp;
-			global::FloatingActionMenu.Resource.Drawable.abc_ic_star_half_black_36dp = global::Sample.Resource.Drawable.abc_ic_star_half_black_36dp;
-			global::FloatingActionMenu.Resource.Drawable.abc_ic_star_half_black_48dp = global::Sample.Resource.Drawable.abc_ic_star_half_black_48dp;
-			global::FloatingActionMenu.Resource.Drawable.abc_ic_voice_search_api_material = global::Sample.Resource.Drawable.abc_ic_voice_search_api_material;
-			global::FloatingActionMenu.Resource.Drawable.abc_item_background_holo_dark = global::Sample.Resource.Drawable.abc_item_background_holo_dark;
-			global::FloatingActionMenu.Resource.Drawable.abc_item_background_holo_light = global::Sample.Resource.Drawable.abc_item_background_holo_light;
-			global::FloatingActionMenu.Resource.Drawable.abc_list_divider_mtrl_alpha = global::Sample.Resource.Drawable.abc_list_divider_mtrl_alpha;
-			global::FloatingActionMenu.Resource.Drawable.abc_list_focused_holo = global::Sample.Resource.Drawable.abc_list_focused_holo;
-			global::FloatingActionMenu.Resource.Drawable.abc_list_longpressed_holo = global::Sample.Resource.Drawable.abc_list_longpressed_holo;
-			global::FloatingActionMenu.Resource.Drawable.abc_list_pressed_holo_dark = global::Sample.Resource.Drawable.abc_list_pressed_holo_dark;
-			global::FloatingActionMenu.Resource.Drawable.abc_list_pressed_holo_light = global::Sample.Resource.Drawable.abc_list_pressed_holo_light;
-			global::FloatingActionMenu.Resource.Drawable.abc_list_selector_background_transition_holo_dark = global::Sample.Resource.Drawable.abc_list_selector_background_transition_holo_dark;
-			global::FloatingActionMenu.Resource.Drawable.abc_list_selector_background_transition_holo_light = global::Sample.Resource.Drawable.abc_list_selector_background_transition_holo_light;
-			global::FloatingActionMenu.Resource.Drawable.abc_list_selector_disabled_holo_dark = global::Sample.Resource.Drawable.abc_list_selector_disabled_holo_dark;
-			global::FloatingActionMenu.Resource.Drawable.abc_list_selector_disabled_holo_light = global::Sample.Resource.Drawable.abc_list_selector_disabled_holo_light;
-			global::FloatingActionMenu.Resource.Drawable.abc_list_selector_holo_dark = global::Sample.Resource.Drawable.abc_list_selector_holo_dark;
-			global::FloatingActionMenu.Resource.Drawable.abc_list_selector_holo_light = global::Sample.Resource.Drawable.abc_list_selector_holo_light;
-			global::FloatingActionMenu.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult = global::Sample.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult;
-			global::FloatingActionMenu.Resource.Drawable.abc_popup_background_mtrl_mult = global::Sample.Resource.Drawable.abc_popup_background_mtrl_mult;
-			global::FloatingActionMenu.Resource.Drawable.abc_ratingbar_indicator_material = global::Sample.Resource.Drawable.abc_ratingbar_indicator_material;
-			global::FloatingActionMenu.Resource.Drawable.abc_ratingbar_material = global::Sample.Resource.Drawable.abc_ratingbar_material;
-			global::FloatingActionMenu.Resource.Drawable.abc_ratingbar_small_material = global::Sample.Resource.Drawable.abc_ratingbar_small_material;
-			global::FloatingActionMenu.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha = global::Sample.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha;
-			global::FloatingActionMenu.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000 = global::Sample.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000;
-			global::FloatingActionMenu.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005 = global::Sample.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005;
-			global::FloatingActionMenu.Resource.Drawable.abc_scrubber_primary_mtrl_alpha = global::Sample.Resource.Drawable.abc_scrubber_primary_mtrl_alpha;
-			global::FloatingActionMenu.Resource.Drawable.abc_scrubber_track_mtrl_alpha = global::Sample.Resource.Drawable.abc_scrubber_track_mtrl_alpha;
-			global::FloatingActionMenu.Resource.Drawable.abc_seekbar_thumb_material = global::Sample.Resource.Drawable.abc_seekbar_thumb_material;
-			global::FloatingActionMenu.Resource.Drawable.abc_seekbar_tick_mark_material = global::Sample.Resource.Drawable.abc_seekbar_tick_mark_material;
-			global::FloatingActionMenu.Resource.Drawable.abc_seekbar_track_material = global::Sample.Resource.Drawable.abc_seekbar_track_material;
-			global::FloatingActionMenu.Resource.Drawable.abc_spinner_mtrl_am_alpha = global::Sample.Resource.Drawable.abc_spinner_mtrl_am_alpha;
-			global::FloatingActionMenu.Resource.Drawable.abc_spinner_textfield_background_material = global::Sample.Resource.Drawable.abc_spinner_textfield_background_material;
-			global::FloatingActionMenu.Resource.Drawable.abc_switch_thumb_material = global::Sample.Resource.Drawable.abc_switch_thumb_material;
-			global::FloatingActionMenu.Resource.Drawable.abc_switch_track_mtrl_alpha = global::Sample.Resource.Drawable.abc_switch_track_mtrl_alpha;
-			global::FloatingActionMenu.Resource.Drawable.abc_tab_indicator_material = global::Sample.Resource.Drawable.abc_tab_indicator_material;
-			global::FloatingActionMenu.Resource.Drawable.abc_tab_indicator_mtrl_alpha = global::Sample.Resource.Drawable.abc_tab_indicator_mtrl_alpha;
-			global::FloatingActionMenu.Resource.Drawable.abc_text_cursor_material = global::Sample.Resource.Drawable.abc_text_cursor_material;
-			global::FloatingActionMenu.Resource.Drawable.abc_text_select_handle_left_mtrl_dark = global::Sample.Resource.Drawable.abc_text_select_handle_left_mtrl_dark;
-			global::FloatingActionMenu.Resource.Drawable.abc_text_select_handle_left_mtrl_light = global::Sample.Resource.Drawable.abc_text_select_handle_left_mtrl_light;
-			global::FloatingActionMenu.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark = global::Sample.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark;
-			global::FloatingActionMenu.Resource.Drawable.abc_text_select_handle_middle_mtrl_light = global::Sample.Resource.Drawable.abc_text_select_handle_middle_mtrl_light;
-			global::FloatingActionMenu.Resource.Drawable.abc_text_select_handle_right_mtrl_dark = global::Sample.Resource.Drawable.abc_text_select_handle_right_mtrl_dark;
-			global::FloatingActionMenu.Resource.Drawable.abc_text_select_handle_right_mtrl_light = global::Sample.Resource.Drawable.abc_text_select_handle_right_mtrl_light;
-			global::FloatingActionMenu.Resource.Drawable.abc_textfield_activated_mtrl_alpha = global::Sample.Resource.Drawable.abc_textfield_activated_mtrl_alpha;
-			global::FloatingActionMenu.Resource.Drawable.abc_textfield_default_mtrl_alpha = global::Sample.Resource.Drawable.abc_textfield_default_mtrl_alpha;
-			global::FloatingActionMenu.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha = global::Sample.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha;
-			global::FloatingActionMenu.Resource.Drawable.abc_textfield_search_default_mtrl_alpha = global::Sample.Resource.Drawable.abc_textfield_search_default_mtrl_alpha;
-			global::FloatingActionMenu.Resource.Drawable.abc_textfield_search_material = global::Sample.Resource.Drawable.abc_textfield_search_material;
-			global::FloatingActionMenu.Resource.Drawable.abc_vector_test = global::Sample.Resource.Drawable.abc_vector_test;
-			global::FloatingActionMenu.Resource.Drawable.avd_hide_password = global::Sample.Resource.Drawable.avd_hide_password;
-			global::FloatingActionMenu.Resource.Drawable.avd_hide_password_1 = global::Sample.Resource.Drawable.avd_hide_password_1;
-			global::FloatingActionMenu.Resource.Drawable.avd_hide_password_2 = global::Sample.Resource.Drawable.avd_hide_password_2;
-			global::FloatingActionMenu.Resource.Drawable.avd_hide_password_3 = global::Sample.Resource.Drawable.avd_hide_password_3;
-			global::FloatingActionMenu.Resource.Drawable.avd_show_password = global::Sample.Resource.Drawable.avd_show_password;
-			global::FloatingActionMenu.Resource.Drawable.avd_show_password_1 = global::Sample.Resource.Drawable.avd_show_password_1;
-			global::FloatingActionMenu.Resource.Drawable.avd_show_password_2 = global::Sample.Resource.Drawable.avd_show_password_2;
-			global::FloatingActionMenu.Resource.Drawable.avd_show_password_3 = global::Sample.Resource.Drawable.avd_show_password_3;
-			global::FloatingActionMenu.Resource.Drawable.design_bottom_navigation_item_background = global::Sample.Resource.Drawable.design_bottom_navigation_item_background;
-			global::FloatingActionMenu.Resource.Drawable.design_fab_background = global::Sample.Resource.Drawable.design_fab_background;
-			global::FloatingActionMenu.Resource.Drawable.design_ic_visibility = global::Sample.Resource.Drawable.design_ic_visibility;
-			global::FloatingActionMenu.Resource.Drawable.design_ic_visibility_off = global::Sample.Resource.Drawable.design_ic_visibility_off;
-			global::FloatingActionMenu.Resource.Drawable.design_password_eye = global::Sample.Resource.Drawable.design_password_eye;
-			global::FloatingActionMenu.Resource.Drawable.design_snackbar_background = global::Sample.Resource.Drawable.design_snackbar_background;
-			global::FloatingActionMenu.Resource.Drawable.fab_add = global::Sample.Resource.Drawable.fab_add;
-			global::FloatingActionMenu.Resource.Drawable.fab_label_background = global::Sample.Resource.Drawable.fab_label_background;
-			global::FloatingActionMenu.Resource.Drawable.navigation_empty_icon = global::Sample.Resource.Drawable.navigation_empty_icon;
-			global::FloatingActionMenu.Resource.Drawable.notification_action_background = global::Sample.Resource.Drawable.notification_action_background;
-			global::FloatingActionMenu.Resource.Drawable.notification_bg = global::Sample.Resource.Drawable.notification_bg;
-			global::FloatingActionMenu.Resource.Drawable.notification_bg_low = global::Sample.Resource.Drawable.notification_bg_low;
-			global::FloatingActionMenu.Resource.Drawable.notification_bg_low_normal = global::Sample.Resource.Drawable.notification_bg_low_normal;
-			global::FloatingActionMenu.Resource.Drawable.notification_bg_low_pressed = global::Sample.Resource.Drawable.notification_bg_low_pressed;
-			global::FloatingActionMenu.Resource.Drawable.notification_bg_normal = global::Sample.Resource.Drawable.notification_bg_normal;
-			global::FloatingActionMenu.Resource.Drawable.notification_bg_normal_pressed = global::Sample.Resource.Drawable.notification_bg_normal_pressed;
-			global::FloatingActionMenu.Resource.Drawable.notification_icon_background = global::Sample.Resource.Drawable.notification_icon_background;
-			global::FloatingActionMenu.Resource.Drawable.notification_template_icon_bg = global::Sample.Resource.Drawable.notification_template_icon_bg;
-			global::FloatingActionMenu.Resource.Drawable.notification_template_icon_low_bg = global::Sample.Resource.Drawable.notification_template_icon_low_bg;
-			global::FloatingActionMenu.Resource.Drawable.notification_tile_bg = global::Sample.Resource.Drawable.notification_tile_bg;
-			global::FloatingActionMenu.Resource.Drawable.notify_panel_notification_icon_bg = global::Sample.Resource.Drawable.notify_panel_notification_icon_bg;
-			global::FloatingActionMenu.Resource.Drawable.tooltip_frame_dark = global::Sample.Resource.Drawable.tooltip_frame_dark;
-			global::FloatingActionMenu.Resource.Drawable.tooltip_frame_light = global::Sample.Resource.Drawable.tooltip_frame_light;
-			global::FloatingActionMenu.Resource.Id.ALT = global::Sample.Resource.Id.ALT;
-			global::FloatingActionMenu.Resource.Id.CTRL = global::Sample.Resource.Id.CTRL;
-			global::FloatingActionMenu.Resource.Id.FUNCTION = global::Sample.Resource.Id.FUNCTION;
-			global::FloatingActionMenu.Resource.Id.META = global::Sample.Resource.Id.META;
-			global::FloatingActionMenu.Resource.Id.SHIFT = global::Sample.Resource.Id.SHIFT;
-			global::FloatingActionMenu.Resource.Id.SYM = global::Sample.Resource.Id.SYM;
-			global::FloatingActionMenu.Resource.Id.action0 = global::Sample.Resource.Id.action0;
-			global::FloatingActionMenu.Resource.Id.action_bar = global::Sample.Resource.Id.action_bar;
-			global::FloatingActionMenu.Resource.Id.action_bar_activity_content = global::Sample.Resource.Id.action_bar_activity_content;
-			global::FloatingActionMenu.Resource.Id.action_bar_container = global::Sample.Resource.Id.action_bar_container;
-			global::FloatingActionMenu.Resource.Id.action_bar_root = global::Sample.Resource.Id.action_bar_root;
-			global::FloatingActionMenu.Resource.Id.action_bar_spinner = global::Sample.Resource.Id.action_bar_spinner;
-			global::FloatingActionMenu.Resource.Id.action_bar_subtitle = global::Sample.Resource.Id.action_bar_subtitle;
-			global::FloatingActionMenu.Resource.Id.action_bar_title = global::Sample.Resource.Id.action_bar_title;
-			global::FloatingActionMenu.Resource.Id.action_container = global::Sample.Resource.Id.action_container;
-			global::FloatingActionMenu.Resource.Id.action_context_bar = global::Sample.Resource.Id.action_context_bar;
-			global::FloatingActionMenu.Resource.Id.action_divider = global::Sample.Resource.Id.action_divider;
-			global::FloatingActionMenu.Resource.Id.action_image = global::Sample.Resource.Id.action_image;
-			global::FloatingActionMenu.Resource.Id.action_menu_divider = global::Sample.Resource.Id.action_menu_divider;
-			global::FloatingActionMenu.Resource.Id.action_menu_presenter = global::Sample.Resource.Id.action_menu_presenter;
-			global::FloatingActionMenu.Resource.Id.action_mode_bar = global::Sample.Resource.Id.action_mode_bar;
-			global::FloatingActionMenu.Resource.Id.action_mode_bar_stub = global::Sample.Resource.Id.action_mode_bar_stub;
-			global::FloatingActionMenu.Resource.Id.action_mode_close_button = global::Sample.Resource.Id.action_mode_close_button;
-			global::FloatingActionMenu.Resource.Id.action_text = global::Sample.Resource.Id.action_text;
-			global::FloatingActionMenu.Resource.Id.actions = global::Sample.Resource.Id.actions;
-			global::FloatingActionMenu.Resource.Id.activity_chooser_view_content = global::Sample.Resource.Id.activity_chooser_view_content;
-			global::FloatingActionMenu.Resource.Id.add = global::Sample.Resource.Id.add;
-			global::FloatingActionMenu.Resource.Id.alertTitle = global::Sample.Resource.Id.alertTitle;
-			global::FloatingActionMenu.Resource.Id.all = global::Sample.Resource.Id.all;
-			global::FloatingActionMenu.Resource.Id.always = global::Sample.Resource.Id.always;
-			global::FloatingActionMenu.Resource.Id.async = global::Sample.Resource.Id.async;
-			global::FloatingActionMenu.Resource.Id.auto = global::Sample.Resource.Id.auto;
-			global::FloatingActionMenu.Resource.Id.beginning = global::Sample.Resource.Id.beginning;
-			global::FloatingActionMenu.Resource.Id.blocking = global::Sample.Resource.Id.blocking;
-			global::FloatingActionMenu.Resource.Id.bottom = global::Sample.Resource.Id.bottom;
-			global::FloatingActionMenu.Resource.Id.buttonPanel = global::Sample.Resource.Id.buttonPanel;
-			global::FloatingActionMenu.Resource.Id.cancel_action = global::Sample.Resource.Id.cancel_action;
-			global::FloatingActionMenu.Resource.Id.center = global::Sample.Resource.Id.center;
-			global::FloatingActionMenu.Resource.Id.center_horizontal = global::Sample.Resource.Id.center_horizontal;
-			global::FloatingActionMenu.Resource.Id.center_vertical = global::Sample.Resource.Id.center_vertical;
-			global::FloatingActionMenu.Resource.Id.checkbox = global::Sample.Resource.Id.checkbox;
-			global::FloatingActionMenu.Resource.Id.chronometer = global::Sample.Resource.Id.chronometer;
-			global::FloatingActionMenu.Resource.Id.clip_horizontal = global::Sample.Resource.Id.clip_horizontal;
-			global::FloatingActionMenu.Resource.Id.clip_vertical = global::Sample.Resource.Id.clip_vertical;
-			global::FloatingActionMenu.Resource.Id.collapseActionView = global::Sample.Resource.Id.collapseActionView;
-			global::FloatingActionMenu.Resource.Id.container = global::Sample.Resource.Id.container;
-			global::FloatingActionMenu.Resource.Id.contentPanel = global::Sample.Resource.Id.contentPanel;
-			global::FloatingActionMenu.Resource.Id.coordinator = global::Sample.Resource.Id.coordinator;
-			global::FloatingActionMenu.Resource.Id.custom = global::Sample.Resource.Id.custom;
-			global::FloatingActionMenu.Resource.Id.customPanel = global::Sample.Resource.Id.customPanel;
-			global::FloatingActionMenu.Resource.Id.decor_content_parent = global::Sample.Resource.Id.decor_content_parent;
-			global::FloatingActionMenu.Resource.Id.default_activity_button = global::Sample.Resource.Id.default_activity_button;
-			global::FloatingActionMenu.Resource.Id.design_bottom_sheet = global::Sample.Resource.Id.design_bottom_sheet;
-			global::FloatingActionMenu.Resource.Id.design_menu_item_action_area = global::Sample.Resource.Id.design_menu_item_action_area;
-			global::FloatingActionMenu.Resource.Id.design_menu_item_action_area_stub = global::Sample.Resource.Id.design_menu_item_action_area_stub;
-			global::FloatingActionMenu.Resource.Id.design_menu_item_text = global::Sample.Resource.Id.design_menu_item_text;
-			global::FloatingActionMenu.Resource.Id.design_navigation_view = global::Sample.Resource.Id.design_navigation_view;
-			global::FloatingActionMenu.Resource.Id.disableHome = global::Sample.Resource.Id.disableHome;
-			global::FloatingActionMenu.Resource.Id.down = global::Sample.Resource.Id.down;
-			global::FloatingActionMenu.Resource.Id.edit_query = global::Sample.Resource.Id.edit_query;
-			global::FloatingActionMenu.Resource.Id.end = global::Sample.Resource.Id.end;
-			global::FloatingActionMenu.Resource.Id.end_padder = global::Sample.Resource.Id.end_padder;
-			global::FloatingActionMenu.Resource.Id.enterAlways = global::Sample.Resource.Id.enterAlways;
-			global::FloatingActionMenu.Resource.Id.enterAlwaysCollapsed = global::Sample.Resource.Id.enterAlwaysCollapsed;
-			global::FloatingActionMenu.Resource.Id.exitUntilCollapsed = global::Sample.Resource.Id.exitUntilCollapsed;
-			global::FloatingActionMenu.Resource.Id.expand_activities_button = global::Sample.Resource.Id.expand_activities_button;
-			global::FloatingActionMenu.Resource.Id.expanded_menu = global::Sample.Resource.Id.expanded_menu;
-			global::FloatingActionMenu.Resource.Id.fab_label = global::Sample.Resource.Id.fab_label;
-			global::FloatingActionMenu.Resource.Id.fill = global::Sample.Resource.Id.fill;
-			global::FloatingActionMenu.Resource.Id.fill_horizontal = global::Sample.Resource.Id.fill_horizontal;
-			global::FloatingActionMenu.Resource.Id.fill_vertical = global::Sample.Resource.Id.fill_vertical;
-			global::FloatingActionMenu.Resource.Id.@fixed = global::Sample.Resource.Id.@fixed;
-			global::FloatingActionMenu.Resource.Id.forever = global::Sample.Resource.Id.forever;
-			global::FloatingActionMenu.Resource.Id.ghost_view = global::Sample.Resource.Id.ghost_view;
-			global::FloatingActionMenu.Resource.Id.home = global::Sample.Resource.Id.home;
-			global::FloatingActionMenu.Resource.Id.homeAsUp = global::Sample.Resource.Id.homeAsUp;
-			global::FloatingActionMenu.Resource.Id.icon = global::Sample.Resource.Id.icon;
-			global::FloatingActionMenu.Resource.Id.icon_group = global::Sample.Resource.Id.icon_group;
-			global::FloatingActionMenu.Resource.Id.ifRoom = global::Sample.Resource.Id.ifRoom;
-			global::FloatingActionMenu.Resource.Id.image = global::Sample.Resource.Id.image;
-			global::FloatingActionMenu.Resource.Id.info = global::Sample.Resource.Id.info;
-			global::FloatingActionMenu.Resource.Id.italic = global::Sample.Resource.Id.italic;
-			global::FloatingActionMenu.Resource.Id.item_touch_helper_previous_elevation = global::Sample.Resource.Id.item_touch_helper_previous_elevation;
-			global::FloatingActionMenu.Resource.Id.largeLabel = global::Sample.Resource.Id.largeLabel;
-			global::FloatingActionMenu.Resource.Id.left = global::Sample.Resource.Id.left;
-			global::FloatingActionMenu.Resource.Id.line1 = global::Sample.Resource.Id.line1;
-			global::FloatingActionMenu.Resource.Id.line3 = global::Sample.Resource.Id.line3;
-			global::FloatingActionMenu.Resource.Id.listMode = global::Sample.Resource.Id.listMode;
-			global::FloatingActionMenu.Resource.Id.list_item = global::Sample.Resource.Id.list_item;
-			global::FloatingActionMenu.Resource.Id.masked = global::Sample.Resource.Id.masked;
-			global::FloatingActionMenu.Resource.Id.media_actions = global::Sample.Resource.Id.media_actions;
-			global::FloatingActionMenu.Resource.Id.message = global::Sample.Resource.Id.message;
-			global::FloatingActionMenu.Resource.Id.middle = global::Sample.Resource.Id.middle;
-			global::FloatingActionMenu.Resource.Id.mini = global::Sample.Resource.Id.mini;
-			global::FloatingActionMenu.Resource.Id.multiply = global::Sample.Resource.Id.multiply;
-			global::FloatingActionMenu.Resource.Id.navigation_header_container = global::Sample.Resource.Id.navigation_header_container;
-			global::FloatingActionMenu.Resource.Id.never = global::Sample.Resource.Id.never;
-			global::FloatingActionMenu.Resource.Id.none = global::Sample.Resource.Id.none;
-			global::FloatingActionMenu.Resource.Id.normal = global::Sample.Resource.Id.normal;
-			global::FloatingActionMenu.Resource.Id.notification_background = global::Sample.Resource.Id.notification_background;
-			global::FloatingActionMenu.Resource.Id.notification_main_column = global::Sample.Resource.Id.notification_main_column;
-			global::FloatingActionMenu.Resource.Id.notification_main_column_container = global::Sample.Resource.Id.notification_main_column_container;
-			global::FloatingActionMenu.Resource.Id.parallax = global::Sample.Resource.Id.parallax;
-			global::FloatingActionMenu.Resource.Id.parentPanel = global::Sample.Resource.Id.parentPanel;
-			global::FloatingActionMenu.Resource.Id.parent_matrix = global::Sample.Resource.Id.parent_matrix;
-			global::FloatingActionMenu.Resource.Id.pin = global::Sample.Resource.Id.pin;
-			global::FloatingActionMenu.Resource.Id.progress_circular = global::Sample.Resource.Id.progress_circular;
-			global::FloatingActionMenu.Resource.Id.progress_horizontal = global::Sample.Resource.Id.progress_horizontal;
-			global::FloatingActionMenu.Resource.Id.radio = global::Sample.Resource.Id.radio;
-			global::FloatingActionMenu.Resource.Id.right = global::Sample.Resource.Id.right;
-			global::FloatingActionMenu.Resource.Id.right_icon = global::Sample.Resource.Id.right_icon;
-			global::FloatingActionMenu.Resource.Id.right_side = global::Sample.Resource.Id.right_side;
-			global::FloatingActionMenu.Resource.Id.save_image_matrix = global::Sample.Resource.Id.save_image_matrix;
-			global::FloatingActionMenu.Resource.Id.save_non_transition_alpha = global::Sample.Resource.Id.save_non_transition_alpha;
-			global::FloatingActionMenu.Resource.Id.save_scale_type = global::Sample.Resource.Id.save_scale_type;
-			global::FloatingActionMenu.Resource.Id.screen = global::Sample.Resource.Id.screen;
-			global::FloatingActionMenu.Resource.Id.scroll = global::Sample.Resource.Id.scroll;
-			global::FloatingActionMenu.Resource.Id.scrollIndicatorDown = global::Sample.Resource.Id.scrollIndicatorDown;
-			global::FloatingActionMenu.Resource.Id.scrollIndicatorUp = global::Sample.Resource.Id.scrollIndicatorUp;
-			global::FloatingActionMenu.Resource.Id.scrollView = global::Sample.Resource.Id.scrollView;
-			global::FloatingActionMenu.Resource.Id.scrollable = global::Sample.Resource.Id.scrollable;
-			global::FloatingActionMenu.Resource.Id.search_badge = global::Sample.Resource.Id.search_badge;
-			global::FloatingActionMenu.Resource.Id.search_bar = global::Sample.Resource.Id.search_bar;
-			global::FloatingActionMenu.Resource.Id.search_button = global::Sample.Resource.Id.search_button;
-			global::FloatingActionMenu.Resource.Id.search_close_btn = global::Sample.Resource.Id.search_close_btn;
-			global::FloatingActionMenu.Resource.Id.search_edit_frame = global::Sample.Resource.Id.search_edit_frame;
-			global::FloatingActionMenu.Resource.Id.search_go_btn = global::Sample.Resource.Id.search_go_btn;
-			global::FloatingActionMenu.Resource.Id.search_mag_icon = global::Sample.Resource.Id.search_mag_icon;
-			global::FloatingActionMenu.Resource.Id.search_plate = global::Sample.Resource.Id.search_plate;
-			global::FloatingActionMenu.Resource.Id.search_src_text = global::Sample.Resource.Id.search_src_text;
-			global::FloatingActionMenu.Resource.Id.search_voice_btn = global::Sample.Resource.Id.search_voice_btn;
-			global::FloatingActionMenu.Resource.Id.select_dialog_listview = global::Sample.Resource.Id.select_dialog_listview;
-			global::FloatingActionMenu.Resource.Id.shortcut = global::Sample.Resource.Id.shortcut;
-			global::FloatingActionMenu.Resource.Id.showCustom = global::Sample.Resource.Id.showCustom;
-			global::FloatingActionMenu.Resource.Id.showHome = global::Sample.Resource.Id.showHome;
-			global::FloatingActionMenu.Resource.Id.showTitle = global::Sample.Resource.Id.showTitle;
-			global::FloatingActionMenu.Resource.Id.smallLabel = global::Sample.Resource.Id.smallLabel;
-			global::FloatingActionMenu.Resource.Id.snackbar_action = global::Sample.Resource.Id.snackbar_action;
-			global::FloatingActionMenu.Resource.Id.snackbar_text = global::Sample.Resource.Id.snackbar_text;
-			global::FloatingActionMenu.Resource.Id.snap = global::Sample.Resource.Id.snap;
-			global::FloatingActionMenu.Resource.Id.spacer = global::Sample.Resource.Id.spacer;
-			global::FloatingActionMenu.Resource.Id.split_action_bar = global::Sample.Resource.Id.split_action_bar;
-			global::FloatingActionMenu.Resource.Id.src_atop = global::Sample.Resource.Id.src_atop;
-			global::FloatingActionMenu.Resource.Id.src_in = global::Sample.Resource.Id.src_in;
-			global::FloatingActionMenu.Resource.Id.src_over = global::Sample.Resource.Id.src_over;
-			global::FloatingActionMenu.Resource.Id.start = global::Sample.Resource.Id.start;
-			global::FloatingActionMenu.Resource.Id.status_bar_latest_event_content = global::Sample.Resource.Id.status_bar_latest_event_content;
-			global::FloatingActionMenu.Resource.Id.submenuarrow = global::Sample.Resource.Id.submenuarrow;
-			global::FloatingActionMenu.Resource.Id.submit_area = global::Sample.Resource.Id.submit_area;
-			global::FloatingActionMenu.Resource.Id.tabMode = global::Sample.Resource.Id.tabMode;
-			global::FloatingActionMenu.Resource.Id.text = global::Sample.Resource.Id.text;
-			global::FloatingActionMenu.Resource.Id.text2 = global::Sample.Resource.Id.text2;
-			global::FloatingActionMenu.Resource.Id.textSpacerNoButtons = global::Sample.Resource.Id.textSpacerNoButtons;
-			global::FloatingActionMenu.Resource.Id.textSpacerNoTitle = global::Sample.Resource.Id.textSpacerNoTitle;
-			global::FloatingActionMenu.Resource.Id.text_input_password_toggle = global::Sample.Resource.Id.text_input_password_toggle;
-			global::FloatingActionMenu.Resource.Id.textinput_counter = global::Sample.Resource.Id.textinput_counter;
-			global::FloatingActionMenu.Resource.Id.textinput_error = global::Sample.Resource.Id.textinput_error;
-			global::FloatingActionMenu.Resource.Id.time = global::Sample.Resource.Id.time;
-			global::FloatingActionMenu.Resource.Id.title = global::Sample.Resource.Id.title;
-			global::FloatingActionMenu.Resource.Id.titleDividerNoCustom = global::Sample.Resource.Id.titleDividerNoCustom;
-			global::FloatingActionMenu.Resource.Id.title_template = global::Sample.Resource.Id.title_template;
-			global::FloatingActionMenu.Resource.Id.top = global::Sample.Resource.Id.top;
-			global::FloatingActionMenu.Resource.Id.topPanel = global::Sample.Resource.Id.topPanel;
-			global::FloatingActionMenu.Resource.Id.touch_outside = global::Sample.Resource.Id.touch_outside;
-			global::FloatingActionMenu.Resource.Id.transition_current_scene = global::Sample.Resource.Id.transition_current_scene;
-			global::FloatingActionMenu.Resource.Id.transition_layout_save = global::Sample.Resource.Id.transition_layout_save;
-			global::FloatingActionMenu.Resource.Id.transition_position = global::Sample.Resource.Id.transition_position;
-			global::FloatingActionMenu.Resource.Id.transition_scene_layoutid_cache = global::Sample.Resource.Id.transition_scene_layoutid_cache;
-			global::FloatingActionMenu.Resource.Id.transition_transform = global::Sample.Resource.Id.transition_transform;
-			global::FloatingActionMenu.Resource.Id.uniform = global::Sample.Resource.Id.uniform;
-			global::FloatingActionMenu.Resource.Id.up = global::Sample.Resource.Id.up;
-			global::FloatingActionMenu.Resource.Id.useLogo = global::Sample.Resource.Id.useLogo;
-			global::FloatingActionMenu.Resource.Id.view_offset_helper = global::Sample.Resource.Id.view_offset_helper;
-			global::FloatingActionMenu.Resource.Id.visible = global::Sample.Resource.Id.visible;
-			global::FloatingActionMenu.Resource.Id.withText = global::Sample.Resource.Id.withText;
-			global::FloatingActionMenu.Resource.Id.wrap_content = global::Sample.Resource.Id.wrap_content;
-			global::FloatingActionMenu.Resource.Integer.abc_config_activityDefaultDur = global::Sample.Resource.Integer.abc_config_activityDefaultDur;
-			global::FloatingActionMenu.Resource.Integer.abc_config_activityShortDur = global::Sample.Resource.Integer.abc_config_activityShortDur;
-			global::FloatingActionMenu.Resource.Integer.app_bar_elevation_anim_duration = global::Sample.Resource.Integer.app_bar_elevation_anim_duration;
-			global::FloatingActionMenu.Resource.Integer.bottom_sheet_slide_duration = global::Sample.Resource.Integer.bottom_sheet_slide_duration;
-			global::FloatingActionMenu.Resource.Integer.cancel_button_image_alpha = global::Sample.Resource.Integer.cancel_button_image_alpha;
-			global::FloatingActionMenu.Resource.Integer.config_tooltipAnimTime = global::Sample.Resource.Integer.config_tooltipAnimTime;
-			global::FloatingActionMenu.Resource.Integer.design_snackbar_text_max_lines = global::Sample.Resource.Integer.design_snackbar_text_max_lines;
-			global::FloatingActionMenu.Resource.Integer.hide_password_duration = global::Sample.Resource.Integer.hide_password_duration;
-			global::FloatingActionMenu.Resource.Integer.show_password_duration = global::Sample.Resource.Integer.show_password_duration;
-			global::FloatingActionMenu.Resource.Integer.status_bar_notification_info_maxnum = global::Sample.Resource.Integer.status_bar_notification_info_maxnum;
-			global::FloatingActionMenu.Resource.Layout.abc_action_bar_title_item = global::Sample.Resource.Layout.abc_action_bar_title_item;
-			global::FloatingActionMenu.Resource.Layout.abc_action_bar_up_container = global::Sample.Resource.Layout.abc_action_bar_up_container;
-			global::FloatingActionMenu.Resource.Layout.abc_action_bar_view_list_nav_layout = global::Sample.Resource.Layout.abc_action_bar_view_list_nav_layout;
-			global::FloatingActionMenu.Resource.Layout.abc_action_menu_item_layout = global::Sample.Resource.Layout.abc_action_menu_item_layout;
-			global::FloatingActionMenu.Resource.Layout.abc_action_menu_layout = global::Sample.Resource.Layout.abc_action_menu_layout;
-			global::FloatingActionMenu.Resource.Layout.abc_action_mode_bar = global::Sample.Resource.Layout.abc_action_mode_bar;
-			global::FloatingActionMenu.Resource.Layout.abc_action_mode_close_item_material = global::Sample.Resource.Layout.abc_action_mode_close_item_material;
-			global::FloatingActionMenu.Resource.Layout.abc_activity_chooser_view = global::Sample.Resource.Layout.abc_activity_chooser_view;
-			global::FloatingActionMenu.Resource.Layout.abc_activity_chooser_view_list_item = global::Sample.Resource.Layout.abc_activity_chooser_view_list_item;
-			global::FloatingActionMenu.Resource.Layout.abc_alert_dialog_button_bar_material = global::Sample.Resource.Layout.abc_alert_dialog_button_bar_material;
-			global::FloatingActionMenu.Resource.Layout.abc_alert_dialog_material = global::Sample.Resource.Layout.abc_alert_dialog_material;
-			global::FloatingActionMenu.Resource.Layout.abc_alert_dialog_title_material = global::Sample.Resource.Layout.abc_alert_dialog_title_material;
-			global::FloatingActionMenu.Resource.Layout.abc_dialog_title_material = global::Sample.Resource.Layout.abc_dialog_title_material;
-			global::FloatingActionMenu.Resource.Layout.abc_expanded_menu_layout = global::Sample.Resource.Layout.abc_expanded_menu_layout;
-			global::FloatingActionMenu.Resource.Layout.abc_list_menu_item_checkbox = global::Sample.Resource.Layout.abc_list_menu_item_checkbox;
-			global::FloatingActionMenu.Resource.Layout.abc_list_menu_item_icon = global::Sample.Resource.Layout.abc_list_menu_item_icon;
-			global::FloatingActionMenu.Resource.Layout.abc_list_menu_item_layout = global::Sample.Resource.Layout.abc_list_menu_item_layout;
-			global::FloatingActionMenu.Resource.Layout.abc_list_menu_item_radio = global::Sample.Resource.Layout.abc_list_menu_item_radio;
-			global::FloatingActionMenu.Resource.Layout.abc_popup_menu_header_item_layout = global::Sample.Resource.Layout.abc_popup_menu_header_item_layout;
-			global::FloatingActionMenu.Resource.Layout.abc_popup_menu_item_layout = global::Sample.Resource.Layout.abc_popup_menu_item_layout;
-			global::FloatingActionMenu.Resource.Layout.abc_screen_content_include = global::Sample.Resource.Layout.abc_screen_content_include;
-			global::FloatingActionMenu.Resource.Layout.abc_screen_simple = global::Sample.Resource.Layout.abc_screen_simple;
-			global::FloatingActionMenu.Resource.Layout.abc_screen_simple_overlay_action_mode = global::Sample.Resource.Layout.abc_screen_simple_overlay_action_mode;
-			global::FloatingActionMenu.Resource.Layout.abc_screen_toolbar = global::Sample.Resource.Layout.abc_screen_toolbar;
-			global::FloatingActionMenu.Resource.Layout.abc_search_dropdown_item_icons_2line = global::Sample.Resource.Layout.abc_search_dropdown_item_icons_2line;
-			global::FloatingActionMenu.Resource.Layout.abc_search_view = global::Sample.Resource.Layout.abc_search_view;
-			global::FloatingActionMenu.Resource.Layout.abc_select_dialog_material = global::Sample.Resource.Layout.abc_select_dialog_material;
-			global::FloatingActionMenu.Resource.Layout.design_bottom_navigation_item = global::Sample.Resource.Layout.design_bottom_navigation_item;
-			global::FloatingActionMenu.Resource.Layout.design_bottom_sheet_dialog = global::Sample.Resource.Layout.design_bottom_sheet_dialog;
-			global::FloatingActionMenu.Resource.Layout.design_layout_snackbar = global::Sample.Resource.Layout.design_layout_snackbar;
-			global::FloatingActionMenu.Resource.Layout.design_layout_snackbar_include = global::Sample.Resource.Layout.design_layout_snackbar_include;
-			global::FloatingActionMenu.Resource.Layout.design_layout_tab_icon = global::Sample.Resource.Layout.design_layout_tab_icon;
-			global::FloatingActionMenu.Resource.Layout.design_layout_tab_text = global::Sample.Resource.Layout.design_layout_tab_text;
-			global::FloatingActionMenu.Resource.Layout.design_menu_item_action_area = global::Sample.Resource.Layout.design_menu_item_action_area;
-			global::FloatingActionMenu.Resource.Layout.design_navigation_item = global::Sample.Resource.Layout.design_navigation_item;
-			global::FloatingActionMenu.Resource.Layout.design_navigation_item_header = global::Sample.Resource.Layout.design_navigation_item_header;
-			global::FloatingActionMenu.Resource.Layout.design_navigation_item_separator = global::Sample.Resource.Layout.design_navigation_item_separator;
-			global::FloatingActionMenu.Resource.Layout.design_navigation_item_subheader = global::Sample.Resource.Layout.design_navigation_item_subheader;
-			global::FloatingActionMenu.Resource.Layout.design_navigation_menu = global::Sample.Resource.Layout.design_navigation_menu;
-			global::FloatingActionMenu.Resource.Layout.design_navigation_menu_item = global::Sample.Resource.Layout.design_navigation_menu_item;
-			global::FloatingActionMenu.Resource.Layout.design_text_input_password_icon = global::Sample.Resource.Layout.design_text_input_password_icon;
-			global::FloatingActionMenu.Resource.Layout.notification_action = global::Sample.Resource.Layout.notification_action;
-			global::FloatingActionMenu.Resource.Layout.notification_action_tombstone = global::Sample.Resource.Layout.notification_action_tombstone;
-			global::FloatingActionMenu.Resource.Layout.notification_media_action = global::Sample.Resource.Layout.notification_media_action;
-			global::FloatingActionMenu.Resource.Layout.notification_media_cancel_action = global::Sample.Resource.Layout.notification_media_cancel_action;
-			global::FloatingActionMenu.Resource.Layout.notification_template_big_media = global::Sample.Resource.Layout.notification_template_big_media;
-			global::FloatingActionMenu.Resource.Layout.notification_template_big_media_custom = global::Sample.Resource.Layout.notification_template_big_media_custom;
-			global::FloatingActionMenu.Resource.Layout.notification_template_big_media_narrow = global::Sample.Resource.Layout.notification_template_big_media_narrow;
-			global::FloatingActionMenu.Resource.Layout.notification_template_big_media_narrow_custom = global::Sample.Resource.Layout.notification_template_big_media_narrow_custom;
-			global::FloatingActionMenu.Resource.Layout.notification_template_custom_big = global::Sample.Resource.Layout.notification_template_custom_big;
-			global::FloatingActionMenu.Resource.Layout.notification_template_icon_group = global::Sample.Resource.Layout.notification_template_icon_group;
-			global::FloatingActionMenu.Resource.Layout.notification_template_lines_media = global::Sample.Resource.Layout.notification_template_lines_media;
-			global::FloatingActionMenu.Resource.Layout.notification_template_media = global::Sample.Resource.Layout.notification_template_media;
-			global::FloatingActionMenu.Resource.Layout.notification_template_media_custom = global::Sample.Resource.Layout.notification_template_media_custom;
-			global::FloatingActionMenu.Resource.Layout.notification_template_part_chronometer = global::Sample.Resource.Layout.notification_template_part_chronometer;
-			global::FloatingActionMenu.Resource.Layout.notification_template_part_time = global::Sample.Resource.Layout.notification_template_part_time;
-			global::FloatingActionMenu.Resource.Layout.select_dialog_item_material = global::Sample.Resource.Layout.select_dialog_item_material;
-			global::FloatingActionMenu.Resource.Layout.select_dialog_multichoice_material = global::Sample.Resource.Layout.select_dialog_multichoice_material;
-			global::FloatingActionMenu.Resource.Layout.select_dialog_singlechoice_material = global::Sample.Resource.Layout.select_dialog_singlechoice_material;
-			global::FloatingActionMenu.Resource.Layout.support_simple_spinner_dropdown_item = global::Sample.Resource.Layout.support_simple_spinner_dropdown_item;
-			global::FloatingActionMenu.Resource.Layout.tooltip = global::Sample.Resource.Layout.tooltip;
-			global::FloatingActionMenu.Resource.String.abc_action_bar_home_description = global::Sample.Resource.String.abc_action_bar_home_description;
-			global::FloatingActionMenu.Resource.String.abc_action_bar_home_description_format = global::Sample.Resource.String.abc_action_bar_home_description_format;
-			global::FloatingActionMenu.Resource.String.abc_action_bar_home_subtitle_description_format = global::Sample.Resource.String.abc_action_bar_home_subtitle_description_format;
-			global::FloatingActionMenu.Resource.String.abc_action_bar_up_description = global::Sample.Resource.String.abc_action_bar_up_description;
-			global::FloatingActionMenu.Resource.String.abc_action_menu_overflow_description = global::Sample.Resource.String.abc_action_menu_overflow_description;
-			global::FloatingActionMenu.Resource.String.abc_action_mode_done = global::Sample.Resource.String.abc_action_mode_done;
-			global::FloatingActionMenu.Resource.String.abc_activity_chooser_view_see_all = global::Sample.Resource.String.abc_activity_chooser_view_see_all;
-			global::FloatingActionMenu.Resource.String.abc_activitychooserview_choose_application = global::Sample.Resource.String.abc_activitychooserview_choose_application;
-			global::FloatingActionMenu.Resource.String.abc_capital_off = global::Sample.Resource.String.abc_capital_off;
-			global::FloatingActionMenu.Resource.String.abc_capital_on = global::Sample.Resource.String.abc_capital_on;
-			global::FloatingActionMenu.Resource.String.abc_font_family_body_1_material = global::Sample.Resource.String.abc_font_family_body_1_material;
-			global::FloatingActionMenu.Resource.String.abc_font_family_body_2_material = global::Sample.Resource.String.abc_font_family_body_2_material;
-			global::FloatingActionMenu.Resource.String.abc_font_family_button_material = global::Sample.Resource.String.abc_font_family_button_material;
-			global::FloatingActionMenu.Resource.String.abc_font_family_caption_material = global::Sample.Resource.String.abc_font_family_caption_material;
-			global::FloatingActionMenu.Resource.String.abc_font_family_display_1_material = global::Sample.Resource.String.abc_font_family_display_1_material;
-			global::FloatingActionMenu.Resource.String.abc_font_family_display_2_material = global::Sample.Resource.String.abc_font_family_display_2_material;
-			global::FloatingActionMenu.Resource.String.abc_font_family_display_3_material = global::Sample.Resource.String.abc_font_family_display_3_material;
-			global::FloatingActionMenu.Resource.String.abc_font_family_display_4_material = global::Sample.Resource.String.abc_font_family_display_4_material;
-			global::FloatingActionMenu.Resource.String.abc_font_family_headline_material = global::Sample.Resource.String.abc_font_family_headline_material;
-			global::FloatingActionMenu.Resource.String.abc_font_family_menu_material = global::Sample.Resource.String.abc_font_family_menu_material;
-			global::FloatingActionMenu.Resource.String.abc_font_family_subhead_material = global::Sample.Resource.String.abc_font_family_subhead_material;
-			global::FloatingActionMenu.Resource.String.abc_font_family_title_material = global::Sample.Resource.String.abc_font_family_title_material;
-			global::FloatingActionMenu.Resource.String.abc_search_hint = global::Sample.Resource.String.abc_search_hint;
-			global::FloatingActionMenu.Resource.String.abc_searchview_description_clear = global::Sample.Resource.String.abc_searchview_description_clear;
-			global::FloatingActionMenu.Resource.String.abc_searchview_description_query = global::Sample.Resource.String.abc_searchview_description_query;
-			global::FloatingActionMenu.Resource.String.abc_searchview_description_search = global::Sample.Resource.String.abc_searchview_description_search;
-			global::FloatingActionMenu.Resource.String.abc_searchview_description_submit = global::Sample.Resource.String.abc_searchview_description_submit;
-			global::FloatingActionMenu.Resource.String.abc_searchview_description_voice = global::Sample.Resource.String.abc_searchview_description_voice;
-			global::FloatingActionMenu.Resource.String.abc_shareactionprovider_share_with = global::Sample.Resource.String.abc_shareactionprovider_share_with;
-			global::FloatingActionMenu.Resource.String.abc_shareactionprovider_share_with_application = global::Sample.Resource.String.abc_shareactionprovider_share_with_application;
-			global::FloatingActionMenu.Resource.String.abc_toolbar_collapse_description = global::Sample.Resource.String.abc_toolbar_collapse_description;
-			global::FloatingActionMenu.Resource.String.appbar_scrolling_view_behavior = global::Sample.Resource.String.appbar_scrolling_view_behavior;
-			global::FloatingActionMenu.Resource.String.bottom_sheet_behavior = global::Sample.Resource.String.bottom_sheet_behavior;
-			global::FloatingActionMenu.Resource.String.character_counter_pattern = global::Sample.Resource.String.character_counter_pattern;
-			global::FloatingActionMenu.Resource.String.password_toggle_content_description = global::Sample.Resource.String.password_toggle_content_description;
-			global::FloatingActionMenu.Resource.String.path_password_eye = global::Sample.Resource.String.path_password_eye;
-			global::FloatingActionMenu.Resource.String.path_password_eye_mask_strike_through = global::Sample.Resource.String.path_password_eye_mask_strike_through;
-			global::FloatingActionMenu.Resource.String.path_password_eye_mask_visible = global::Sample.Resource.String.path_password_eye_mask_visible;
-			global::FloatingActionMenu.Resource.String.path_password_strike_through = global::Sample.Resource.String.path_password_strike_through;
-			global::FloatingActionMenu.Resource.String.search_menu_title = global::Sample.Resource.String.search_menu_title;
-			global::FloatingActionMenu.Resource.String.status_bar_notification_info_overflow = global::Sample.Resource.String.status_bar_notification_info_overflow;
-			global::FloatingActionMenu.Resource.Style.AlertDialog_AppCompat = global::Sample.Resource.Style.AlertDialog_AppCompat;
-			global::FloatingActionMenu.Resource.Style.AlertDialog_AppCompat_Light = global::Sample.Resource.Style.AlertDialog_AppCompat_Light;
-			global::FloatingActionMenu.Resource.Style.Animation_AppCompat_Dialog = global::Sample.Resource.Style.Animation_AppCompat_Dialog;
-			global::FloatingActionMenu.Resource.Style.Animation_AppCompat_DropDownUp = global::Sample.Resource.Style.Animation_AppCompat_DropDownUp;
-			global::FloatingActionMenu.Resource.Style.Animation_AppCompat_Tooltip = global::Sample.Resource.Style.Animation_AppCompat_Tooltip;
-			global::FloatingActionMenu.Resource.Style.Animation_Design_BottomSheetDialog = global::Sample.Resource.Style.Animation_Design_BottomSheetDialog;
-			global::FloatingActionMenu.Resource.Style.Base_AlertDialog_AppCompat = global::Sample.Resource.Style.Base_AlertDialog_AppCompat;
-			global::FloatingActionMenu.Resource.Style.Base_AlertDialog_AppCompat_Light = global::Sample.Resource.Style.Base_AlertDialog_AppCompat_Light;
-			global::FloatingActionMenu.Resource.Style.Base_Animation_AppCompat_Dialog = global::Sample.Resource.Style.Base_Animation_AppCompat_Dialog;
-			global::FloatingActionMenu.Resource.Style.Base_Animation_AppCompat_DropDownUp = global::Sample.Resource.Style.Base_Animation_AppCompat_DropDownUp;
-			global::FloatingActionMenu.Resource.Style.Base_Animation_AppCompat_Tooltip = global::Sample.Resource.Style.Base_Animation_AppCompat_Tooltip;
-			global::FloatingActionMenu.Resource.Style.Base_DialogWindowTitle_AppCompat = global::Sample.Resource.Style.Base_DialogWindowTitle_AppCompat;
-			global::FloatingActionMenu.Resource.Style.Base_DialogWindowTitleBackground_AppCompat = global::Sample.Resource.Style.Base_DialogWindowTitleBackground_AppCompat;
-			global::FloatingActionMenu.Resource.Style.Base_TextAppearance_AppCompat = global::Sample.Resource.Style.Base_TextAppearance_AppCompat;
-			global::FloatingActionMenu.Resource.Style.Base_TextAppearance_AppCompat_Body1 = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Body1;
-			global::FloatingActionMenu.Resource.Style.Base_TextAppearance_AppCompat_Body2 = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Body2;
-			global::FloatingActionMenu.Resource.Style.Base_TextAppearance_AppCompat_Button = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Button;
-			global::FloatingActionMenu.Resource.Style.Base_TextAppearance_AppCompat_Caption = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Caption;
-			global::FloatingActionMenu.Resource.Style.Base_TextAppearance_AppCompat_Display1 = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Display1;
-			global::FloatingActionMenu.Resource.Style.Base_TextAppearance_AppCompat_Display2 = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Display2;
-			global::FloatingActionMenu.Resource.Style.Base_TextAppearance_AppCompat_Display3 = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Display3;
-			global::FloatingActionMenu.Resource.Style.Base_TextAppearance_AppCompat_Display4 = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Display4;
-			global::FloatingActionMenu.Resource.Style.Base_TextAppearance_AppCompat_Headline = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Headline;
-			global::FloatingActionMenu.Resource.Style.Base_TextAppearance_AppCompat_Inverse = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Inverse;
-			global::FloatingActionMenu.Resource.Style.Base_TextAppearance_AppCompat_Large = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Large;
-			global::FloatingActionMenu.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse;
-			global::FloatingActionMenu.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
-			global::FloatingActionMenu.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
-			global::FloatingActionMenu.Resource.Style.Base_TextAppearance_AppCompat_Medium = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Medium;
-			global::FloatingActionMenu.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse;
-			global::FloatingActionMenu.Resource.Style.Base_TextAppearance_AppCompat_Menu = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Menu;
-			global::FloatingActionMenu.Resource.Style.Base_TextAppearance_AppCompat_SearchResult = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_SearchResult;
-			global::FloatingActionMenu.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle;
-			global::FloatingActionMenu.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title;
-			global::FloatingActionMenu.Resource.Style.Base_TextAppearance_AppCompat_Small = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Small;
-			global::FloatingActionMenu.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse;
-			global::FloatingActionMenu.Resource.Style.Base_TextAppearance_AppCompat_Subhead = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Subhead;
-			global::FloatingActionMenu.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse;
-			global::FloatingActionMenu.Resource.Style.Base_TextAppearance_AppCompat_Title = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Title;
-			global::FloatingActionMenu.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse;
-			global::FloatingActionMenu.Resource.Style.Base_TextAppearance_AppCompat_Tooltip = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Tooltip;
-			global::FloatingActionMenu.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu;
-			global::FloatingActionMenu.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
-			global::FloatingActionMenu.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
-			global::FloatingActionMenu.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title;
-			global::FloatingActionMenu.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
-			global::FloatingActionMenu.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
-			global::FloatingActionMenu.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title;
-			global::FloatingActionMenu.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button;
-			global::FloatingActionMenu.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
-			global::FloatingActionMenu.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored;
-			global::FloatingActionMenu.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse;
-			global::FloatingActionMenu.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem;
-			global::FloatingActionMenu.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header;
-			global::FloatingActionMenu.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large;
-			global::FloatingActionMenu.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small;
-			global::FloatingActionMenu.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch;
-			global::FloatingActionMenu.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
-			global::FloatingActionMenu.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::Sample.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
-			global::FloatingActionMenu.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::Sample.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
-			global::FloatingActionMenu.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title = global::Sample.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title;
-			global::FloatingActionMenu.Resource.Style.Base_Theme_AppCompat = global::Sample.Resource.Style.Base_Theme_AppCompat;
-			global::FloatingActionMenu.Resource.Style.Base_Theme_AppCompat_CompactMenu = global::Sample.Resource.Style.Base_Theme_AppCompat_CompactMenu;
-			global::FloatingActionMenu.Resource.Style.Base_Theme_AppCompat_Dialog = global::Sample.Resource.Style.Base_Theme_AppCompat_Dialog;
-			global::FloatingActionMenu.Resource.Style.Base_Theme_AppCompat_Dialog_Alert = global::Sample.Resource.Style.Base_Theme_AppCompat_Dialog_Alert;
-			global::FloatingActionMenu.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize = global::Sample.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize;
-			global::FloatingActionMenu.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth = global::Sample.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth;
-			global::FloatingActionMenu.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge = global::Sample.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge;
-			global::FloatingActionMenu.Resource.Style.Base_Theme_AppCompat_Light = global::Sample.Resource.Style.Base_Theme_AppCompat_Light;
-			global::FloatingActionMenu.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar = global::Sample.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar;
-			global::FloatingActionMenu.Resource.Style.Base_Theme_AppCompat_Light_Dialog = global::Sample.Resource.Style.Base_Theme_AppCompat_Light_Dialog;
-			global::FloatingActionMenu.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert = global::Sample.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert;
-			global::FloatingActionMenu.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize = global::Sample.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize;
-			global::FloatingActionMenu.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth = global::Sample.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth;
-			global::FloatingActionMenu.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge = global::Sample.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge;
-			global::FloatingActionMenu.Resource.Style.Base_ThemeOverlay_AppCompat = global::Sample.Resource.Style.Base_ThemeOverlay_AppCompat;
-			global::FloatingActionMenu.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar = global::Sample.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar;
-			global::FloatingActionMenu.Resource.Style.Base_ThemeOverlay_AppCompat_Dark = global::Sample.Resource.Style.Base_ThemeOverlay_AppCompat_Dark;
-			global::FloatingActionMenu.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar = global::Sample.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar;
-			global::FloatingActionMenu.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog = global::Sample.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog;
-			global::FloatingActionMenu.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert = global::Sample.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert;
-			global::FloatingActionMenu.Resource.Style.Base_ThemeOverlay_AppCompat_Light = global::Sample.Resource.Style.Base_ThemeOverlay_AppCompat_Light;
-			global::FloatingActionMenu.Resource.Style.Base_V11_Theme_AppCompat_Dialog = global::Sample.Resource.Style.Base_V11_Theme_AppCompat_Dialog;
-			global::FloatingActionMenu.Resource.Style.Base_V11_Theme_AppCompat_Light_Dialog = global::Sample.Resource.Style.Base_V11_Theme_AppCompat_Light_Dialog;
-			global::FloatingActionMenu.Resource.Style.Base_V11_ThemeOverlay_AppCompat_Dialog = global::Sample.Resource.Style.Base_V11_ThemeOverlay_AppCompat_Dialog;
-			global::FloatingActionMenu.Resource.Style.Base_V12_Widget_AppCompat_AutoCompleteTextView = global::Sample.Resource.Style.Base_V12_Widget_AppCompat_AutoCompleteTextView;
-			global::FloatingActionMenu.Resource.Style.Base_V12_Widget_AppCompat_EditText = global::Sample.Resource.Style.Base_V12_Widget_AppCompat_EditText;
-			global::FloatingActionMenu.Resource.Style.Base_V14_Widget_Design_AppBarLayout = global::Sample.Resource.Style.Base_V14_Widget_Design_AppBarLayout;
-			global::FloatingActionMenu.Resource.Style.Base_V21_Theme_AppCompat = global::Sample.Resource.Style.Base_V21_Theme_AppCompat;
-			global::FloatingActionMenu.Resource.Style.Base_V21_Theme_AppCompat_Dialog = global::Sample.Resource.Style.Base_V21_Theme_AppCompat_Dialog;
-			global::FloatingActionMenu.Resource.Style.Base_V21_Theme_AppCompat_Light = global::Sample.Resource.Style.Base_V21_Theme_AppCompat_Light;
-			global::FloatingActionMenu.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog = global::Sample.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog;
-			global::FloatingActionMenu.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog = global::Sample.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog;
-			global::FloatingActionMenu.Resource.Style.Base_V21_Widget_Design_AppBarLayout = global::Sample.Resource.Style.Base_V21_Widget_Design_AppBarLayout;
-			global::FloatingActionMenu.Resource.Style.Base_V22_Theme_AppCompat = global::Sample.Resource.Style.Base_V22_Theme_AppCompat;
-			global::FloatingActionMenu.Resource.Style.Base_V22_Theme_AppCompat_Light = global::Sample.Resource.Style.Base_V22_Theme_AppCompat_Light;
-			global::FloatingActionMenu.Resource.Style.Base_V23_Theme_AppCompat = global::Sample.Resource.Style.Base_V23_Theme_AppCompat;
-			global::FloatingActionMenu.Resource.Style.Base_V23_Theme_AppCompat_Light = global::Sample.Resource.Style.Base_V23_Theme_AppCompat_Light;
-			global::FloatingActionMenu.Resource.Style.Base_V26_Theme_AppCompat = global::Sample.Resource.Style.Base_V26_Theme_AppCompat;
-			global::FloatingActionMenu.Resource.Style.Base_V26_Theme_AppCompat_Light = global::Sample.Resource.Style.Base_V26_Theme_AppCompat_Light;
-			global::FloatingActionMenu.Resource.Style.Base_V26_Widget_AppCompat_Toolbar = global::Sample.Resource.Style.Base_V26_Widget_AppCompat_Toolbar;
-			global::FloatingActionMenu.Resource.Style.Base_V26_Widget_Design_AppBarLayout = global::Sample.Resource.Style.Base_V26_Widget_Design_AppBarLayout;
-			global::FloatingActionMenu.Resource.Style.Base_V7_Theme_AppCompat = global::Sample.Resource.Style.Base_V7_Theme_AppCompat;
-			global::FloatingActionMenu.Resource.Style.Base_V7_Theme_AppCompat_Dialog = global::Sample.Resource.Style.Base_V7_Theme_AppCompat_Dialog;
-			global::FloatingActionMenu.Resource.Style.Base_V7_Theme_AppCompat_Light = global::Sample.Resource.Style.Base_V7_Theme_AppCompat_Light;
-			global::FloatingActionMenu.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog = global::Sample.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog;
-			global::FloatingActionMenu.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog = global::Sample.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog;
-			global::FloatingActionMenu.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView = global::Sample.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView;
-			global::FloatingActionMenu.Resource.Style.Base_V7_Widget_AppCompat_EditText = global::Sample.Resource.Style.Base_V7_Widget_AppCompat_EditText;
-			global::FloatingActionMenu.Resource.Style.Base_V7_Widget_AppCompat_Toolbar = global::Sample.Resource.Style.Base_V7_Widget_AppCompat_Toolbar;
-			global::FloatingActionMenu.Resource.Style.Base_Widget_AppCompat_ActionBar = global::Sample.Resource.Style.Base_Widget_AppCompat_ActionBar;
-			global::FloatingActionMenu.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid = global::Sample.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid;
-			global::FloatingActionMenu.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar = global::Sample.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar;
-			global::FloatingActionMenu.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText = global::Sample.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText;
-			global::FloatingActionMenu.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView = global::Sample.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView;
-			global::FloatingActionMenu.Resource.Style.Base_Widget_AppCompat_ActionButton = global::Sample.Resource.Style.Base_Widget_AppCompat_ActionButton;
-			global::FloatingActionMenu.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode = global::Sample.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode;
-			global::FloatingActionMenu.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow = global::Sample.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow;
-			global::FloatingActionMenu.Resource.Style.Base_Widget_AppCompat_ActionMode = global::Sample.Resource.Style.Base_Widget_AppCompat_ActionMode;
-			global::FloatingActionMenu.Resource.Style.Base_Widget_AppCompat_ActivityChooserView = global::Sample.Resource.Style.Base_Widget_AppCompat_ActivityChooserView;
-			global::FloatingActionMenu.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView = global::Sample.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView;
-			global::FloatingActionMenu.Resource.Style.Base_Widget_AppCompat_Button = global::Sample.Resource.Style.Base_Widget_AppCompat_Button;
-			global::FloatingActionMenu.Resource.Style.Base_Widget_AppCompat_Button_Borderless = global::Sample.Resource.Style.Base_Widget_AppCompat_Button_Borderless;
-			global::FloatingActionMenu.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored = global::Sample.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored;
-			global::FloatingActionMenu.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = global::Sample.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog;
-			global::FloatingActionMenu.Resource.Style.Base_Widget_AppCompat_Button_Colored = global::Sample.Resource.Style.Base_Widget_AppCompat_Button_Colored;
-			global::FloatingActionMenu.Resource.Style.Base_Widget_AppCompat_Button_Small = global::Sample.Resource.Style.Base_Widget_AppCompat_Button_Small;
-			global::FloatingActionMenu.Resource.Style.Base_Widget_AppCompat_ButtonBar = global::Sample.Resource.Style.Base_Widget_AppCompat_ButtonBar;
-			global::FloatingActionMenu.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog = global::Sample.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog;
-			global::FloatingActionMenu.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox = global::Sample.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox;
-			global::FloatingActionMenu.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton = global::Sample.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton;
-			global::FloatingActionMenu.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch = global::Sample.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch;
-			global::FloatingActionMenu.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle = global::Sample.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle;
-			global::FloatingActionMenu.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common = global::Sample.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common;
-			global::FloatingActionMenu.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner = global::Sample.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner;
-			global::FloatingActionMenu.Resource.Style.Base_Widget_AppCompat_EditText = global::Sample.Resource.Style.Base_Widget_AppCompat_EditText;
-			global::FloatingActionMenu.Resource.Style.Base_Widget_AppCompat_ImageButton = global::Sample.Resource.Style.Base_Widget_AppCompat_ImageButton;
-			global::FloatingActionMenu.Resource.Style.Base_Widget_AppCompat_Light_ActionBar = global::Sample.Resource.Style.Base_Widget_AppCompat_Light_ActionBar;
-			global::FloatingActionMenu.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid = global::Sample.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid;
-			global::FloatingActionMenu.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar = global::Sample.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar;
-			global::FloatingActionMenu.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText = global::Sample.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText;
-			global::FloatingActionMenu.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::Sample.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse;
-			global::FloatingActionMenu.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView = global::Sample.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView;
-			global::FloatingActionMenu.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu = global::Sample.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu;
-			global::FloatingActionMenu.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow = global::Sample.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow;
-			global::FloatingActionMenu.Resource.Style.Base_Widget_AppCompat_ListMenuView = global::Sample.Resource.Style.Base_Widget_AppCompat_ListMenuView;
-			global::FloatingActionMenu.Resource.Style.Base_Widget_AppCompat_ListPopupWindow = global::Sample.Resource.Style.Base_Widget_AppCompat_ListPopupWindow;
-			global::FloatingActionMenu.Resource.Style.Base_Widget_AppCompat_ListView = global::Sample.Resource.Style.Base_Widget_AppCompat_ListView;
-			global::FloatingActionMenu.Resource.Style.Base_Widget_AppCompat_ListView_DropDown = global::Sample.Resource.Style.Base_Widget_AppCompat_ListView_DropDown;
-			global::FloatingActionMenu.Resource.Style.Base_Widget_AppCompat_ListView_Menu = global::Sample.Resource.Style.Base_Widget_AppCompat_ListView_Menu;
-			global::FloatingActionMenu.Resource.Style.Base_Widget_AppCompat_PopupMenu = global::Sample.Resource.Style.Base_Widget_AppCompat_PopupMenu;
-			global::FloatingActionMenu.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow = global::Sample.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow;
-			global::FloatingActionMenu.Resource.Style.Base_Widget_AppCompat_PopupWindow = global::Sample.Resource.Style.Base_Widget_AppCompat_PopupWindow;
-			global::FloatingActionMenu.Resource.Style.Base_Widget_AppCompat_ProgressBar = global::Sample.Resource.Style.Base_Widget_AppCompat_ProgressBar;
-			global::FloatingActionMenu.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal = global::Sample.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal;
-			global::FloatingActionMenu.Resource.Style.Base_Widget_AppCompat_RatingBar = global::Sample.Resource.Style.Base_Widget_AppCompat_RatingBar;
-			global::FloatingActionMenu.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator = global::Sample.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator;
-			global::FloatingActionMenu.Resource.Style.Base_Widget_AppCompat_RatingBar_Small = global::Sample.Resource.Style.Base_Widget_AppCompat_RatingBar_Small;
-			global::FloatingActionMenu.Resource.Style.Base_Widget_AppCompat_SearchView = global::Sample.Resource.Style.Base_Widget_AppCompat_SearchView;
-			global::FloatingActionMenu.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar = global::Sample.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar;
-			global::FloatingActionMenu.Resource.Style.Base_Widget_AppCompat_SeekBar = global::Sample.Resource.Style.Base_Widget_AppCompat_SeekBar;
-			global::FloatingActionMenu.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete = global::Sample.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete;
-			global::FloatingActionMenu.Resource.Style.Base_Widget_AppCompat_Spinner = global::Sample.Resource.Style.Base_Widget_AppCompat_Spinner;
-			global::FloatingActionMenu.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined = global::Sample.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined;
-			global::FloatingActionMenu.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem = global::Sample.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem;
-			global::FloatingActionMenu.Resource.Style.Base_Widget_AppCompat_Toolbar = global::Sample.Resource.Style.Base_Widget_AppCompat_Toolbar;
-			global::FloatingActionMenu.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation = global::Sample.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation;
-			global::FloatingActionMenu.Resource.Style.Base_Widget_Design_AppBarLayout = global::Sample.Resource.Style.Base_Widget_Design_AppBarLayout;
-			global::FloatingActionMenu.Resource.Style.Base_Widget_Design_TabLayout = global::Sample.Resource.Style.Base_Widget_Design_TabLayout;
-			global::FloatingActionMenu.Resource.Style.Platform_AppCompat = global::Sample.Resource.Style.Platform_AppCompat;
-			global::FloatingActionMenu.Resource.Style.Platform_AppCompat_Light = global::Sample.Resource.Style.Platform_AppCompat_Light;
-			global::FloatingActionMenu.Resource.Style.Platform_ThemeOverlay_AppCompat = global::Sample.Resource.Style.Platform_ThemeOverlay_AppCompat;
-			global::FloatingActionMenu.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark = global::Sample.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark;
-			global::FloatingActionMenu.Resource.Style.Platform_ThemeOverlay_AppCompat_Light = global::Sample.Resource.Style.Platform_ThemeOverlay_AppCompat_Light;
-			global::FloatingActionMenu.Resource.Style.Platform_V11_AppCompat = global::Sample.Resource.Style.Platform_V11_AppCompat;
-			global::FloatingActionMenu.Resource.Style.Platform_V11_AppCompat_Light = global::Sample.Resource.Style.Platform_V11_AppCompat_Light;
-			global::FloatingActionMenu.Resource.Style.Platform_V14_AppCompat = global::Sample.Resource.Style.Platform_V14_AppCompat;
-			global::FloatingActionMenu.Resource.Style.Platform_V14_AppCompat_Light = global::Sample.Resource.Style.Platform_V14_AppCompat_Light;
-			global::FloatingActionMenu.Resource.Style.Platform_V21_AppCompat = global::Sample.Resource.Style.Platform_V21_AppCompat;
-			global::FloatingActionMenu.Resource.Style.Platform_V21_AppCompat_Light = global::Sample.Resource.Style.Platform_V21_AppCompat_Light;
-			global::FloatingActionMenu.Resource.Style.Platform_V25_AppCompat = global::Sample.Resource.Style.Platform_V25_AppCompat;
-			global::FloatingActionMenu.Resource.Style.Platform_V25_AppCompat_Light = global::Sample.Resource.Style.Platform_V25_AppCompat_Light;
-			global::FloatingActionMenu.Resource.Style.Platform_Widget_AppCompat_Spinner = global::Sample.Resource.Style.Platform_Widget_AppCompat_Spinner;
-			global::FloatingActionMenu.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat = global::Sample.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat;
-			global::FloatingActionMenu.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = global::Sample.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem;
-			global::FloatingActionMenu.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon = global::Sample.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon;
-			global::FloatingActionMenu.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem = global::Sample.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem;
-			global::FloatingActionMenu.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = global::Sample.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup;
-			global::FloatingActionMenu.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = global::Sample.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text;
-			global::FloatingActionMenu.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown = global::Sample.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown;
-			global::FloatingActionMenu.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = global::Sample.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1;
-			global::FloatingActionMenu.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = global::Sample.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2;
-			global::FloatingActionMenu.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query = global::Sample.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query;
-			global::FloatingActionMenu.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text = global::Sample.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text;
-			global::FloatingActionMenu.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon = global::Sample.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon;
-			global::FloatingActionMenu.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton = global::Sample.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton;
-			global::FloatingActionMenu.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = global::Sample.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow;
-			global::FloatingActionMenu.Resource.Style.TextAppearance_AppCompat = global::Sample.Resource.Style.TextAppearance_AppCompat;
-			global::FloatingActionMenu.Resource.Style.TextAppearance_AppCompat_Body1 = global::Sample.Resource.Style.TextAppearance_AppCompat_Body1;
-			global::FloatingActionMenu.Resource.Style.TextAppearance_AppCompat_Body2 = global::Sample.Resource.Style.TextAppearance_AppCompat_Body2;
-			global::FloatingActionMenu.Resource.Style.TextAppearance_AppCompat_Button = global::Sample.Resource.Style.TextAppearance_AppCompat_Button;
-			global::FloatingActionMenu.Resource.Style.TextAppearance_AppCompat_Caption = global::Sample.Resource.Style.TextAppearance_AppCompat_Caption;
-			global::FloatingActionMenu.Resource.Style.TextAppearance_AppCompat_Display1 = global::Sample.Resource.Style.TextAppearance_AppCompat_Display1;
-			global::FloatingActionMenu.Resource.Style.TextAppearance_AppCompat_Display2 = global::Sample.Resource.Style.TextAppearance_AppCompat_Display2;
-			global::FloatingActionMenu.Resource.Style.TextAppearance_AppCompat_Display3 = global::Sample.Resource.Style.TextAppearance_AppCompat_Display3;
-			global::FloatingActionMenu.Resource.Style.TextAppearance_AppCompat_Display4 = global::Sample.Resource.Style.TextAppearance_AppCompat_Display4;
-			global::FloatingActionMenu.Resource.Style.TextAppearance_AppCompat_Headline = global::Sample.Resource.Style.TextAppearance_AppCompat_Headline;
-			global::FloatingActionMenu.Resource.Style.TextAppearance_AppCompat_Inverse = global::Sample.Resource.Style.TextAppearance_AppCompat_Inverse;
-			global::FloatingActionMenu.Resource.Style.TextAppearance_AppCompat_Large = global::Sample.Resource.Style.TextAppearance_AppCompat_Large;
-			global::FloatingActionMenu.Resource.Style.TextAppearance_AppCompat_Large_Inverse = global::Sample.Resource.Style.TextAppearance_AppCompat_Large_Inverse;
-			global::FloatingActionMenu.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle = global::Sample.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle;
-			global::FloatingActionMenu.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title = global::Sample.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title;
-			global::FloatingActionMenu.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::Sample.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
-			global::FloatingActionMenu.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::Sample.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
-			global::FloatingActionMenu.Resource.Style.TextAppearance_AppCompat_Medium = global::Sample.Resource.Style.TextAppearance_AppCompat_Medium;
-			global::FloatingActionMenu.Resource.Style.TextAppearance_AppCompat_Medium_Inverse = global::Sample.Resource.Style.TextAppearance_AppCompat_Medium_Inverse;
-			global::FloatingActionMenu.Resource.Style.TextAppearance_AppCompat_Menu = global::Sample.Resource.Style.TextAppearance_AppCompat_Menu;
-			global::FloatingActionMenu.Resource.Style.TextAppearance_AppCompat_Notification = global::Sample.Resource.Style.TextAppearance_AppCompat_Notification;
-			global::FloatingActionMenu.Resource.Style.TextAppearance_AppCompat_Notification_Info = global::Sample.Resource.Style.TextAppearance_AppCompat_Notification_Info;
-			global::FloatingActionMenu.Resource.Style.TextAppearance_AppCompat_Notification_Info_Media = global::Sample.Resource.Style.TextAppearance_AppCompat_Notification_Info_Media;
-			global::FloatingActionMenu.Resource.Style.TextAppearance_AppCompat_Notification_Line2 = global::Sample.Resource.Style.TextAppearance_AppCompat_Notification_Line2;
-			global::FloatingActionMenu.Resource.Style.TextAppearance_AppCompat_Notification_Line2_Media = global::Sample.Resource.Style.TextAppearance_AppCompat_Notification_Line2_Media;
-			global::FloatingActionMenu.Resource.Style.TextAppearance_AppCompat_Notification_Media = global::Sample.Resource.Style.TextAppearance_AppCompat_Notification_Media;
-			global::FloatingActionMenu.Resource.Style.TextAppearance_AppCompat_Notification_Time = global::Sample.Resource.Style.TextAppearance_AppCompat_Notification_Time;
-			global::FloatingActionMenu.Resource.Style.TextAppearance_AppCompat_Notification_Time_Media = global::Sample.Resource.Style.TextAppearance_AppCompat_Notification_Time_Media;
-			global::FloatingActionMenu.Resource.Style.TextAppearance_AppCompat_Notification_Title = global::Sample.Resource.Style.TextAppearance_AppCompat_Notification_Title;
-			global::FloatingActionMenu.Resource.Style.TextAppearance_AppCompat_Notification_Title_Media = global::Sample.Resource.Style.TextAppearance_AppCompat_Notification_Title_Media;
-			global::FloatingActionMenu.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle = global::Sample.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle;
-			global::FloatingActionMenu.Resource.Style.TextAppearance_AppCompat_SearchResult_Title = global::Sample.Resource.Style.TextAppearance_AppCompat_SearchResult_Title;
-			global::FloatingActionMenu.Resource.Style.TextAppearance_AppCompat_Small = global::Sample.Resource.Style.TextAppearance_AppCompat_Small;
-			global::FloatingActionMenu.Resource.Style.TextAppearance_AppCompat_Small_Inverse = global::Sample.Resource.Style.TextAppearance_AppCompat_Small_Inverse;
-			global::FloatingActionMenu.Resource.Style.TextAppearance_AppCompat_Subhead = global::Sample.Resource.Style.TextAppearance_AppCompat_Subhead;
-			global::FloatingActionMenu.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse = global::Sample.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse;
-			global::FloatingActionMenu.Resource.Style.TextAppearance_AppCompat_Title = global::Sample.Resource.Style.TextAppearance_AppCompat_Title;
-			global::FloatingActionMenu.Resource.Style.TextAppearance_AppCompat_Title_Inverse = global::Sample.Resource.Style.TextAppearance_AppCompat_Title_Inverse;
-			global::FloatingActionMenu.Resource.Style.TextAppearance_AppCompat_Tooltip = global::Sample.Resource.Style.TextAppearance_AppCompat_Tooltip;
-			global::FloatingActionMenu.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu = global::Sample.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu;
-			global::FloatingActionMenu.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::Sample.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
-			global::FloatingActionMenu.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::Sample.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
-			global::FloatingActionMenu.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title = global::Sample.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title;
-			global::FloatingActionMenu.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::Sample.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
-			global::FloatingActionMenu.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::Sample.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
-			global::FloatingActionMenu.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = global::Sample.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse;
-			global::FloatingActionMenu.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title = global::Sample.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title;
-			global::FloatingActionMenu.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = global::Sample.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse;
-			global::FloatingActionMenu.Resource.Style.TextAppearance_AppCompat_Widget_Button = global::Sample.Resource.Style.TextAppearance_AppCompat_Widget_Button;
-			global::FloatingActionMenu.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::Sample.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
-			global::FloatingActionMenu.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored = global::Sample.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored;
-			global::FloatingActionMenu.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse = global::Sample.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse;
-			global::FloatingActionMenu.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem = global::Sample.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem;
-			global::FloatingActionMenu.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header = global::Sample.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header;
-			global::FloatingActionMenu.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large = global::Sample.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large;
-			global::FloatingActionMenu.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small = global::Sample.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small;
-			global::FloatingActionMenu.Resource.Style.TextAppearance_AppCompat_Widget_Switch = global::Sample.Resource.Style.TextAppearance_AppCompat_Widget_Switch;
-			global::FloatingActionMenu.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::Sample.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
-			global::FloatingActionMenu.Resource.Style.TextAppearance_Compat_Notification = global::Sample.Resource.Style.TextAppearance_Compat_Notification;
-			global::FloatingActionMenu.Resource.Style.TextAppearance_Compat_Notification_Info = global::Sample.Resource.Style.TextAppearance_Compat_Notification_Info;
-			global::FloatingActionMenu.Resource.Style.TextAppearance_Compat_Notification_Info_Media = global::Sample.Resource.Style.TextAppearance_Compat_Notification_Info_Media;
-			global::FloatingActionMenu.Resource.Style.TextAppearance_Compat_Notification_Line2 = global::Sample.Resource.Style.TextAppearance_Compat_Notification_Line2;
-			global::FloatingActionMenu.Resource.Style.TextAppearance_Compat_Notification_Line2_Media = global::Sample.Resource.Style.TextAppearance_Compat_Notification_Line2_Media;
-			global::FloatingActionMenu.Resource.Style.TextAppearance_Compat_Notification_Media = global::Sample.Resource.Style.TextAppearance_Compat_Notification_Media;
-			global::FloatingActionMenu.Resource.Style.TextAppearance_Compat_Notification_Time = global::Sample.Resource.Style.TextAppearance_Compat_Notification_Time;
-			global::FloatingActionMenu.Resource.Style.TextAppearance_Compat_Notification_Time_Media = global::Sample.Resource.Style.TextAppearance_Compat_Notification_Time_Media;
-			global::FloatingActionMenu.Resource.Style.TextAppearance_Compat_Notification_Title = global::Sample.Resource.Style.TextAppearance_Compat_Notification_Title;
-			global::FloatingActionMenu.Resource.Style.TextAppearance_Compat_Notification_Title_Media = global::Sample.Resource.Style.TextAppearance_Compat_Notification_Title_Media;
-			global::FloatingActionMenu.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded = global::Sample.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded;
-			global::FloatingActionMenu.Resource.Style.TextAppearance_Design_Counter = global::Sample.Resource.Style.TextAppearance_Design_Counter;
-			global::FloatingActionMenu.Resource.Style.TextAppearance_Design_Counter_Overflow = global::Sample.Resource.Style.TextAppearance_Design_Counter_Overflow;
-			global::FloatingActionMenu.Resource.Style.TextAppearance_Design_Error = global::Sample.Resource.Style.TextAppearance_Design_Error;
-			global::FloatingActionMenu.Resource.Style.TextAppearance_Design_Hint = global::Sample.Resource.Style.TextAppearance_Design_Hint;
-			global::FloatingActionMenu.Resource.Style.TextAppearance_Design_Snackbar_Message = global::Sample.Resource.Style.TextAppearance_Design_Snackbar_Message;
-			global::FloatingActionMenu.Resource.Style.TextAppearance_Design_Tab = global::Sample.Resource.Style.TextAppearance_Design_Tab;
-			global::FloatingActionMenu.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::Sample.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
-			global::FloatingActionMenu.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::Sample.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
-			global::FloatingActionMenu.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title = global::Sample.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title;
-			global::FloatingActionMenu.Resource.Style.Theme_AppCompat = global::Sample.Resource.Style.Theme_AppCompat;
-			global::FloatingActionMenu.Resource.Style.Theme_AppCompat_CompactMenu = global::Sample.Resource.Style.Theme_AppCompat_CompactMenu;
-			global::FloatingActionMenu.Resource.Style.Theme_AppCompat_DayNight = global::Sample.Resource.Style.Theme_AppCompat_DayNight;
-			global::FloatingActionMenu.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar = global::Sample.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar;
-			global::FloatingActionMenu.Resource.Style.Theme_AppCompat_DayNight_Dialog = global::Sample.Resource.Style.Theme_AppCompat_DayNight_Dialog;
-			global::FloatingActionMenu.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert = global::Sample.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert;
-			global::FloatingActionMenu.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth = global::Sample.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth;
-			global::FloatingActionMenu.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge = global::Sample.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge;
-			global::FloatingActionMenu.Resource.Style.Theme_AppCompat_DayNight_NoActionBar = global::Sample.Resource.Style.Theme_AppCompat_DayNight_NoActionBar;
-			global::FloatingActionMenu.Resource.Style.Theme_AppCompat_Dialog = global::Sample.Resource.Style.Theme_AppCompat_Dialog;
-			global::FloatingActionMenu.Resource.Style.Theme_AppCompat_Dialog_Alert = global::Sample.Resource.Style.Theme_AppCompat_Dialog_Alert;
-			global::FloatingActionMenu.Resource.Style.Theme_AppCompat_Dialog_MinWidth = global::Sample.Resource.Style.Theme_AppCompat_Dialog_MinWidth;
-			global::FloatingActionMenu.Resource.Style.Theme_AppCompat_DialogWhenLarge = global::Sample.Resource.Style.Theme_AppCompat_DialogWhenLarge;
-			global::FloatingActionMenu.Resource.Style.Theme_AppCompat_Light = global::Sample.Resource.Style.Theme_AppCompat_Light;
-			global::FloatingActionMenu.Resource.Style.Theme_AppCompat_Light_DarkActionBar = global::Sample.Resource.Style.Theme_AppCompat_Light_DarkActionBar;
-			global::FloatingActionMenu.Resource.Style.Theme_AppCompat_Light_Dialog = global::Sample.Resource.Style.Theme_AppCompat_Light_Dialog;
-			global::FloatingActionMenu.Resource.Style.Theme_AppCompat_Light_Dialog_Alert = global::Sample.Resource.Style.Theme_AppCompat_Light_Dialog_Alert;
-			global::FloatingActionMenu.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth = global::Sample.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth;
-			global::FloatingActionMenu.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge = global::Sample.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge;
-			global::FloatingActionMenu.Resource.Style.Theme_AppCompat_Light_NoActionBar = global::Sample.Resource.Style.Theme_AppCompat_Light_NoActionBar;
-			global::FloatingActionMenu.Resource.Style.Theme_AppCompat_NoActionBar = global::Sample.Resource.Style.Theme_AppCompat_NoActionBar;
-			global::FloatingActionMenu.Resource.Style.Theme_Design = global::Sample.Resource.Style.Theme_Design;
-			global::FloatingActionMenu.Resource.Style.Theme_Design_BottomSheetDialog = global::Sample.Resource.Style.Theme_Design_BottomSheetDialog;
-			global::FloatingActionMenu.Resource.Style.Theme_Design_Light = global::Sample.Resource.Style.Theme_Design_Light;
-			global::FloatingActionMenu.Resource.Style.Theme_Design_Light_BottomSheetDialog = global::Sample.Resource.Style.Theme_Design_Light_BottomSheetDialog;
-			global::FloatingActionMenu.Resource.Style.Theme_Design_Light_NoActionBar = global::Sample.Resource.Style.Theme_Design_Light_NoActionBar;
-			global::FloatingActionMenu.Resource.Style.Theme_Design_NoActionBar = global::Sample.Resource.Style.Theme_Design_NoActionBar;
-			global::FloatingActionMenu.Resource.Style.ThemeOverlay_AppCompat = global::Sample.Resource.Style.ThemeOverlay_AppCompat;
-			global::FloatingActionMenu.Resource.Style.ThemeOverlay_AppCompat_ActionBar = global::Sample.Resource.Style.ThemeOverlay_AppCompat_ActionBar;
-			global::FloatingActionMenu.Resource.Style.ThemeOverlay_AppCompat_Dark = global::Sample.Resource.Style.ThemeOverlay_AppCompat_Dark;
-			global::FloatingActionMenu.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar = global::Sample.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar;
-			global::FloatingActionMenu.Resource.Style.ThemeOverlay_AppCompat_Dialog = global::Sample.Resource.Style.ThemeOverlay_AppCompat_Dialog;
-			global::FloatingActionMenu.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert = global::Sample.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert;
-			global::FloatingActionMenu.Resource.Style.ThemeOverlay_AppCompat_Light = global::Sample.Resource.Style.ThemeOverlay_AppCompat_Light;
-			global::FloatingActionMenu.Resource.Style.Widget_AppCompat_ActionBar = global::Sample.Resource.Style.Widget_AppCompat_ActionBar;
-			global::FloatingActionMenu.Resource.Style.Widget_AppCompat_ActionBar_Solid = global::Sample.Resource.Style.Widget_AppCompat_ActionBar_Solid;
-			global::FloatingActionMenu.Resource.Style.Widget_AppCompat_ActionBar_TabBar = global::Sample.Resource.Style.Widget_AppCompat_ActionBar_TabBar;
-			global::FloatingActionMenu.Resource.Style.Widget_AppCompat_ActionBar_TabText = global::Sample.Resource.Style.Widget_AppCompat_ActionBar_TabText;
-			global::FloatingActionMenu.Resource.Style.Widget_AppCompat_ActionBar_TabView = global::Sample.Resource.Style.Widget_AppCompat_ActionBar_TabView;
-			global::FloatingActionMenu.Resource.Style.Widget_AppCompat_ActionButton = global::Sample.Resource.Style.Widget_AppCompat_ActionButton;
-			global::FloatingActionMenu.Resource.Style.Widget_AppCompat_ActionButton_CloseMode = global::Sample.Resource.Style.Widget_AppCompat_ActionButton_CloseMode;
-			global::FloatingActionMenu.Resource.Style.Widget_AppCompat_ActionButton_Overflow = global::Sample.Resource.Style.Widget_AppCompat_ActionButton_Overflow;
-			global::FloatingActionMenu.Resource.Style.Widget_AppCompat_ActionMode = global::Sample.Resource.Style.Widget_AppCompat_ActionMode;
-			global::FloatingActionMenu.Resource.Style.Widget_AppCompat_ActivityChooserView = global::Sample.Resource.Style.Widget_AppCompat_ActivityChooserView;
-			global::FloatingActionMenu.Resource.Style.Widget_AppCompat_AutoCompleteTextView = global::Sample.Resource.Style.Widget_AppCompat_AutoCompleteTextView;
-			global::FloatingActionMenu.Resource.Style.Widget_AppCompat_Button = global::Sample.Resource.Style.Widget_AppCompat_Button;
-			global::FloatingActionMenu.Resource.Style.Widget_AppCompat_Button_Borderless = global::Sample.Resource.Style.Widget_AppCompat_Button_Borderless;
-			global::FloatingActionMenu.Resource.Style.Widget_AppCompat_Button_Borderless_Colored = global::Sample.Resource.Style.Widget_AppCompat_Button_Borderless_Colored;
-			global::FloatingActionMenu.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog = global::Sample.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog;
-			global::FloatingActionMenu.Resource.Style.Widget_AppCompat_Button_Colored = global::Sample.Resource.Style.Widget_AppCompat_Button_Colored;
-			global::FloatingActionMenu.Resource.Style.Widget_AppCompat_Button_Small = global::Sample.Resource.Style.Widget_AppCompat_Button_Small;
-			global::FloatingActionMenu.Resource.Style.Widget_AppCompat_ButtonBar = global::Sample.Resource.Style.Widget_AppCompat_ButtonBar;
-			global::FloatingActionMenu.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog = global::Sample.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog;
-			global::FloatingActionMenu.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox = global::Sample.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox;
-			global::FloatingActionMenu.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton = global::Sample.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton;
-			global::FloatingActionMenu.Resource.Style.Widget_AppCompat_CompoundButton_Switch = global::Sample.Resource.Style.Widget_AppCompat_CompoundButton_Switch;
-			global::FloatingActionMenu.Resource.Style.Widget_AppCompat_DrawerArrowToggle = global::Sample.Resource.Style.Widget_AppCompat_DrawerArrowToggle;
-			global::FloatingActionMenu.Resource.Style.Widget_AppCompat_DropDownItem_Spinner = global::Sample.Resource.Style.Widget_AppCompat_DropDownItem_Spinner;
-			global::FloatingActionMenu.Resource.Style.Widget_AppCompat_EditText = global::Sample.Resource.Style.Widget_AppCompat_EditText;
-			global::FloatingActionMenu.Resource.Style.Widget_AppCompat_ImageButton = global::Sample.Resource.Style.Widget_AppCompat_ImageButton;
-			global::FloatingActionMenu.Resource.Style.Widget_AppCompat_Light_ActionBar = global::Sample.Resource.Style.Widget_AppCompat_Light_ActionBar;
-			global::FloatingActionMenu.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid = global::Sample.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid;
-			global::FloatingActionMenu.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse = global::Sample.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse;
-			global::FloatingActionMenu.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar = global::Sample.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar;
-			global::FloatingActionMenu.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse = global::Sample.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse;
-			global::FloatingActionMenu.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText = global::Sample.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText;
-			global::FloatingActionMenu.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::Sample.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse;
-			global::FloatingActionMenu.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView = global::Sample.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView;
-			global::FloatingActionMenu.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse = global::Sample.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse;
-			global::FloatingActionMenu.Resource.Style.Widget_AppCompat_Light_ActionButton = global::Sample.Resource.Style.Widget_AppCompat_Light_ActionButton;
-			global::FloatingActionMenu.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode = global::Sample.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode;
-			global::FloatingActionMenu.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow = global::Sample.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow;
-			global::FloatingActionMenu.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse = global::Sample.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse;
-			global::FloatingActionMenu.Resource.Style.Widget_AppCompat_Light_ActivityChooserView = global::Sample.Resource.Style.Widget_AppCompat_Light_ActivityChooserView;
-			global::FloatingActionMenu.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView = global::Sample.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView;
-			global::FloatingActionMenu.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner = global::Sample.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner;
-			global::FloatingActionMenu.Resource.Style.Widget_AppCompat_Light_ListPopupWindow = global::Sample.Resource.Style.Widget_AppCompat_Light_ListPopupWindow;
-			global::FloatingActionMenu.Resource.Style.Widget_AppCompat_Light_ListView_DropDown = global::Sample.Resource.Style.Widget_AppCompat_Light_ListView_DropDown;
-			global::FloatingActionMenu.Resource.Style.Widget_AppCompat_Light_PopupMenu = global::Sample.Resource.Style.Widget_AppCompat_Light_PopupMenu;
-			global::FloatingActionMenu.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow = global::Sample.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow;
-			global::FloatingActionMenu.Resource.Style.Widget_AppCompat_Light_SearchView = global::Sample.Resource.Style.Widget_AppCompat_Light_SearchView;
-			global::FloatingActionMenu.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar = global::Sample.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar;
-			global::FloatingActionMenu.Resource.Style.Widget_AppCompat_ListMenuView = global::Sample.Resource.Style.Widget_AppCompat_ListMenuView;
-			global::FloatingActionMenu.Resource.Style.Widget_AppCompat_ListPopupWindow = global::Sample.Resource.Style.Widget_AppCompat_ListPopupWindow;
-			global::FloatingActionMenu.Resource.Style.Widget_AppCompat_ListView = global::Sample.Resource.Style.Widget_AppCompat_ListView;
-			global::FloatingActionMenu.Resource.Style.Widget_AppCompat_ListView_DropDown = global::Sample.Resource.Style.Widget_AppCompat_ListView_DropDown;
-			global::FloatingActionMenu.Resource.Style.Widget_AppCompat_ListView_Menu = global::Sample.Resource.Style.Widget_AppCompat_ListView_Menu;
-			global::FloatingActionMenu.Resource.Style.Widget_AppCompat_PopupMenu = global::Sample.Resource.Style.Widget_AppCompat_PopupMenu;
-			global::FloatingActionMenu.Resource.Style.Widget_AppCompat_PopupMenu_Overflow = global::Sample.Resource.Style.Widget_AppCompat_PopupMenu_Overflow;
-			global::FloatingActionMenu.Resource.Style.Widget_AppCompat_PopupWindow = global::Sample.Resource.Style.Widget_AppCompat_PopupWindow;
-			global::FloatingActionMenu.Resource.Style.Widget_AppCompat_ProgressBar = global::Sample.Resource.Style.Widget_AppCompat_ProgressBar;
-			global::FloatingActionMenu.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal = global::Sample.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal;
-			global::FloatingActionMenu.Resource.Style.Widget_AppCompat_RatingBar = global::Sample.Resource.Style.Widget_AppCompat_RatingBar;
-			global::FloatingActionMenu.Resource.Style.Widget_AppCompat_RatingBar_Indicator = global::Sample.Resource.Style.Widget_AppCompat_RatingBar_Indicator;
-			global::FloatingActionMenu.Resource.Style.Widget_AppCompat_RatingBar_Small = global::Sample.Resource.Style.Widget_AppCompat_RatingBar_Small;
-			global::FloatingActionMenu.Resource.Style.Widget_AppCompat_SearchView = global::Sample.Resource.Style.Widget_AppCompat_SearchView;
-			global::FloatingActionMenu.Resource.Style.Widget_AppCompat_SearchView_ActionBar = global::Sample.Resource.Style.Widget_AppCompat_SearchView_ActionBar;
-			global::FloatingActionMenu.Resource.Style.Widget_AppCompat_SeekBar = global::Sample.Resource.Style.Widget_AppCompat_SeekBar;
-			global::FloatingActionMenu.Resource.Style.Widget_AppCompat_SeekBar_Discrete = global::Sample.Resource.Style.Widget_AppCompat_SeekBar_Discrete;
-			global::FloatingActionMenu.Resource.Style.Widget_AppCompat_Spinner = global::Sample.Resource.Style.Widget_AppCompat_Spinner;
-			global::FloatingActionMenu.Resource.Style.Widget_AppCompat_Spinner_DropDown = global::Sample.Resource.Style.Widget_AppCompat_Spinner_DropDown;
-			global::FloatingActionMenu.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar = global::Sample.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar;
-			global::FloatingActionMenu.Resource.Style.Widget_AppCompat_Spinner_Underlined = global::Sample.Resource.Style.Widget_AppCompat_Spinner_Underlined;
-			global::FloatingActionMenu.Resource.Style.Widget_AppCompat_TextView_SpinnerItem = global::Sample.Resource.Style.Widget_AppCompat_TextView_SpinnerItem;
-			global::FloatingActionMenu.Resource.Style.Widget_AppCompat_Toolbar = global::Sample.Resource.Style.Widget_AppCompat_Toolbar;
-			global::FloatingActionMenu.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation = global::Sample.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation;
-			global::FloatingActionMenu.Resource.Style.Widget_Compat_NotificationActionContainer = global::Sample.Resource.Style.Widget_Compat_NotificationActionContainer;
-			global::FloatingActionMenu.Resource.Style.Widget_Compat_NotificationActionText = global::Sample.Resource.Style.Widget_Compat_NotificationActionText;
-			global::FloatingActionMenu.Resource.Style.Widget_Design_AppBarLayout = global::Sample.Resource.Style.Widget_Design_AppBarLayout;
-			global::FloatingActionMenu.Resource.Style.Widget_Design_BottomNavigationView = global::Sample.Resource.Style.Widget_Design_BottomNavigationView;
-			global::FloatingActionMenu.Resource.Style.Widget_Design_BottomSheet_Modal = global::Sample.Resource.Style.Widget_Design_BottomSheet_Modal;
-			global::FloatingActionMenu.Resource.Style.Widget_Design_CollapsingToolbar = global::Sample.Resource.Style.Widget_Design_CollapsingToolbar;
-			global::FloatingActionMenu.Resource.Style.Widget_Design_CoordinatorLayout = global::Sample.Resource.Style.Widget_Design_CoordinatorLayout;
-			global::FloatingActionMenu.Resource.Style.Widget_Design_FloatingActionButton = global::Sample.Resource.Style.Widget_Design_FloatingActionButton;
-			global::FloatingActionMenu.Resource.Style.Widget_Design_NavigationView = global::Sample.Resource.Style.Widget_Design_NavigationView;
-			global::FloatingActionMenu.Resource.Style.Widget_Design_ScrimInsetsFrameLayout = global::Sample.Resource.Style.Widget_Design_ScrimInsetsFrameLayout;
-			global::FloatingActionMenu.Resource.Style.Widget_Design_Snackbar = global::Sample.Resource.Style.Widget_Design_Snackbar;
-			global::FloatingActionMenu.Resource.Style.Widget_Design_TabLayout = global::Sample.Resource.Style.Widget_Design_TabLayout;
-			global::FloatingActionMenu.Resource.Style.Widget_Design_TextInputLayout = global::Sample.Resource.Style.Widget_Design_TextInputLayout;
-			global::FloatingActionMenu.Resource.Styleable.ActionBar = global::Sample.Resource.Styleable.ActionBar;
-			global::FloatingActionMenu.Resource.Styleable.ActionBar_background = global::Sample.Resource.Styleable.ActionBar_background;
-			global::FloatingActionMenu.Resource.Styleable.ActionBar_backgroundSplit = global::Sample.Resource.Styleable.ActionBar_backgroundSplit;
-			global::FloatingActionMenu.Resource.Styleable.ActionBar_backgroundStacked = global::Sample.Resource.Styleable.ActionBar_backgroundStacked;
-			global::FloatingActionMenu.Resource.Styleable.ActionBar_contentInsetEnd = global::Sample.Resource.Styleable.ActionBar_contentInsetEnd;
-			global::FloatingActionMenu.Resource.Styleable.ActionBar_contentInsetEndWithActions = global::Sample.Resource.Styleable.ActionBar_contentInsetEndWithActions;
-			global::FloatingActionMenu.Resource.Styleable.ActionBar_contentInsetLeft = global::Sample.Resource.Styleable.ActionBar_contentInsetLeft;
-			global::FloatingActionMenu.Resource.Styleable.ActionBar_contentInsetRight = global::Sample.Resource.Styleable.ActionBar_contentInsetRight;
-			global::FloatingActionMenu.Resource.Styleable.ActionBar_contentInsetStart = global::Sample.Resource.Styleable.ActionBar_contentInsetStart;
-			global::FloatingActionMenu.Resource.Styleable.ActionBar_contentInsetStartWithNavigation = global::Sample.Resource.Styleable.ActionBar_contentInsetStartWithNavigation;
-			global::FloatingActionMenu.Resource.Styleable.ActionBar_customNavigationLayout = global::Sample.Resource.Styleable.ActionBar_customNavigationLayout;
-			global::FloatingActionMenu.Resource.Styleable.ActionBar_displayOptions = global::Sample.Resource.Styleable.ActionBar_displayOptions;
-			global::FloatingActionMenu.Resource.Styleable.ActionBar_divider = global::Sample.Resource.Styleable.ActionBar_divider;
-			global::FloatingActionMenu.Resource.Styleable.ActionBar_elevation = global::Sample.Resource.Styleable.ActionBar_elevation;
-			global::FloatingActionMenu.Resource.Styleable.ActionBar_height = global::Sample.Resource.Styleable.ActionBar_height;
-			global::FloatingActionMenu.Resource.Styleable.ActionBar_hideOnContentScroll = global::Sample.Resource.Styleable.ActionBar_hideOnContentScroll;
-			global::FloatingActionMenu.Resource.Styleable.ActionBar_homeAsUpIndicator = global::Sample.Resource.Styleable.ActionBar_homeAsUpIndicator;
-			global::FloatingActionMenu.Resource.Styleable.ActionBar_homeLayout = global::Sample.Resource.Styleable.ActionBar_homeLayout;
-			global::FloatingActionMenu.Resource.Styleable.ActionBar_icon = global::Sample.Resource.Styleable.ActionBar_icon;
-			global::FloatingActionMenu.Resource.Styleable.ActionBar_indeterminateProgressStyle = global::Sample.Resource.Styleable.ActionBar_indeterminateProgressStyle;
-			global::FloatingActionMenu.Resource.Styleable.ActionBar_itemPadding = global::Sample.Resource.Styleable.ActionBar_itemPadding;
-			global::FloatingActionMenu.Resource.Styleable.ActionBar_logo = global::Sample.Resource.Styleable.ActionBar_logo;
-			global::FloatingActionMenu.Resource.Styleable.ActionBar_navigationMode = global::Sample.Resource.Styleable.ActionBar_navigationMode;
-			global::FloatingActionMenu.Resource.Styleable.ActionBar_popupTheme = global::Sample.Resource.Styleable.ActionBar_popupTheme;
-			global::FloatingActionMenu.Resource.Styleable.ActionBar_progressBarPadding = global::Sample.Resource.Styleable.ActionBar_progressBarPadding;
-			global::FloatingActionMenu.Resource.Styleable.ActionBar_progressBarStyle = global::Sample.Resource.Styleable.ActionBar_progressBarStyle;
-			global::FloatingActionMenu.Resource.Styleable.ActionBar_subtitle = global::Sample.Resource.Styleable.ActionBar_subtitle;
-			global::FloatingActionMenu.Resource.Styleable.ActionBar_subtitleTextStyle = global::Sample.Resource.Styleable.ActionBar_subtitleTextStyle;
-			global::FloatingActionMenu.Resource.Styleable.ActionBar_title = global::Sample.Resource.Styleable.ActionBar_title;
-			global::FloatingActionMenu.Resource.Styleable.ActionBar_titleTextStyle = global::Sample.Resource.Styleable.ActionBar_titleTextStyle;
-			global::FloatingActionMenu.Resource.Styleable.ActionBarLayout = global::Sample.Resource.Styleable.ActionBarLayout;
-			global::FloatingActionMenu.Resource.Styleable.ActionBarLayout_android_layout_gravity = global::Sample.Resource.Styleable.ActionBarLayout_android_layout_gravity;
-			global::FloatingActionMenu.Resource.Styleable.ActionMenuItemView = global::Sample.Resource.Styleable.ActionMenuItemView;
-			global::FloatingActionMenu.Resource.Styleable.ActionMenuItemView_android_minWidth = global::Sample.Resource.Styleable.ActionMenuItemView_android_minWidth;
-			global::FloatingActionMenu.Resource.Styleable.ActionMenuView = global::Sample.Resource.Styleable.ActionMenuView;
-			global::FloatingActionMenu.Resource.Styleable.ActionMode = global::Sample.Resource.Styleable.ActionMode;
-			global::FloatingActionMenu.Resource.Styleable.ActionMode_background = global::Sample.Resource.Styleable.ActionMode_background;
-			global::FloatingActionMenu.Resource.Styleable.ActionMode_backgroundSplit = global::Sample.Resource.Styleable.ActionMode_backgroundSplit;
-			global::FloatingActionMenu.Resource.Styleable.ActionMode_closeItemLayout = global::Sample.Resource.Styleable.ActionMode_closeItemLayout;
-			global::FloatingActionMenu.Resource.Styleable.ActionMode_height = global::Sample.Resource.Styleable.ActionMode_height;
-			global::FloatingActionMenu.Resource.Styleable.ActionMode_subtitleTextStyle = global::Sample.Resource.Styleable.ActionMode_subtitleTextStyle;
-			global::FloatingActionMenu.Resource.Styleable.ActionMode_titleTextStyle = global::Sample.Resource.Styleable.ActionMode_titleTextStyle;
-			global::FloatingActionMenu.Resource.Styleable.ActivityChooserView = global::Sample.Resource.Styleable.ActivityChooserView;
-			global::FloatingActionMenu.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable = global::Sample.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable;
-			global::FloatingActionMenu.Resource.Styleable.ActivityChooserView_initialActivityCount = global::Sample.Resource.Styleable.ActivityChooserView_initialActivityCount;
-			global::FloatingActionMenu.Resource.Styleable.AlertDialog = global::Sample.Resource.Styleable.AlertDialog;
-			global::FloatingActionMenu.Resource.Styleable.AlertDialog_android_layout = global::Sample.Resource.Styleable.AlertDialog_android_layout;
-			global::FloatingActionMenu.Resource.Styleable.AlertDialog_buttonPanelSideLayout = global::Sample.Resource.Styleable.AlertDialog_buttonPanelSideLayout;
-			global::FloatingActionMenu.Resource.Styleable.AlertDialog_listItemLayout = global::Sample.Resource.Styleable.AlertDialog_listItemLayout;
-			global::FloatingActionMenu.Resource.Styleable.AlertDialog_listLayout = global::Sample.Resource.Styleable.AlertDialog_listLayout;
-			global::FloatingActionMenu.Resource.Styleable.AlertDialog_multiChoiceItemLayout = global::Sample.Resource.Styleable.AlertDialog_multiChoiceItemLayout;
-			global::FloatingActionMenu.Resource.Styleable.AlertDialog_showTitle = global::Sample.Resource.Styleable.AlertDialog_showTitle;
-			global::FloatingActionMenu.Resource.Styleable.AlertDialog_singleChoiceItemLayout = global::Sample.Resource.Styleable.AlertDialog_singleChoiceItemLayout;
-			global::FloatingActionMenu.Resource.Styleable.AppBarLayout = global::Sample.Resource.Styleable.AppBarLayout;
-			global::FloatingActionMenu.Resource.Styleable.AppBarLayout_android_background = global::Sample.Resource.Styleable.AppBarLayout_android_background;
-			global::FloatingActionMenu.Resource.Styleable.AppBarLayout_android_keyboardNavigationCluster = global::Sample.Resource.Styleable.AppBarLayout_android_keyboardNavigationCluster;
-			global::FloatingActionMenu.Resource.Styleable.AppBarLayout_android_touchscreenBlocksFocus = global::Sample.Resource.Styleable.AppBarLayout_android_touchscreenBlocksFocus;
-			global::FloatingActionMenu.Resource.Styleable.AppBarLayout_elevation = global::Sample.Resource.Styleable.AppBarLayout_elevation;
-			global::FloatingActionMenu.Resource.Styleable.AppBarLayout_expanded = global::Sample.Resource.Styleable.AppBarLayout_expanded;
-			global::FloatingActionMenu.Resource.Styleable.AppBarLayoutStates = global::Sample.Resource.Styleable.AppBarLayoutStates;
-			global::FloatingActionMenu.Resource.Styleable.AppBarLayoutStates_state_collapsed = global::Sample.Resource.Styleable.AppBarLayoutStates_state_collapsed;
-			global::FloatingActionMenu.Resource.Styleable.AppBarLayoutStates_state_collapsible = global::Sample.Resource.Styleable.AppBarLayoutStates_state_collapsible;
-			global::FloatingActionMenu.Resource.Styleable.AppBarLayout_Layout = global::Sample.Resource.Styleable.AppBarLayout_Layout;
-			global::FloatingActionMenu.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags = global::Sample.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags;
-			global::FloatingActionMenu.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator = global::Sample.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatImageView = global::Sample.Resource.Styleable.AppCompatImageView;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatImageView_android_src = global::Sample.Resource.Styleable.AppCompatImageView_android_src;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatImageView_srcCompat = global::Sample.Resource.Styleable.AppCompatImageView_srcCompat;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatImageView_tint = global::Sample.Resource.Styleable.AppCompatImageView_tint;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatImageView_tintMode = global::Sample.Resource.Styleable.AppCompatImageView_tintMode;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatSeekBar = global::Sample.Resource.Styleable.AppCompatSeekBar;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatSeekBar_android_thumb = global::Sample.Resource.Styleable.AppCompatSeekBar_android_thumb;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatSeekBar_tickMark = global::Sample.Resource.Styleable.AppCompatSeekBar_tickMark;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatSeekBar_tickMarkTint = global::Sample.Resource.Styleable.AppCompatSeekBar_tickMarkTint;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode = global::Sample.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTextHelper = global::Sample.Resource.Styleable.AppCompatTextHelper;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTextHelper_android_drawableBottom = global::Sample.Resource.Styleable.AppCompatTextHelper_android_drawableBottom;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTextHelper_android_drawableEnd = global::Sample.Resource.Styleable.AppCompatTextHelper_android_drawableEnd;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTextHelper_android_drawableLeft = global::Sample.Resource.Styleable.AppCompatTextHelper_android_drawableLeft;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTextHelper_android_drawableRight = global::Sample.Resource.Styleable.AppCompatTextHelper_android_drawableRight;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTextHelper_android_drawableStart = global::Sample.Resource.Styleable.AppCompatTextHelper_android_drawableStart;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTextHelper_android_drawableTop = global::Sample.Resource.Styleable.AppCompatTextHelper_android_drawableTop;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTextHelper_android_textAppearance = global::Sample.Resource.Styleable.AppCompatTextHelper_android_textAppearance;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTextView = global::Sample.Resource.Styleable.AppCompatTextView;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTextView_android_textAppearance = global::Sample.Resource.Styleable.AppCompatTextView_android_textAppearance;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize = global::Sample.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize = global::Sample.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTextView_autoSizePresetSizes = global::Sample.Resource.Styleable.AppCompatTextView_autoSizePresetSizes;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity = global::Sample.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTextView_autoSizeTextType = global::Sample.Resource.Styleable.AppCompatTextView_autoSizeTextType;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTextView_fontFamily = global::Sample.Resource.Styleable.AppCompatTextView_fontFamily;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTextView_textAllCaps = global::Sample.Resource.Styleable.AppCompatTextView_textAllCaps;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme = global::Sample.Resource.Styleable.AppCompatTheme;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_actionBarDivider = global::Sample.Resource.Styleable.AppCompatTheme_actionBarDivider;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_actionBarItemBackground = global::Sample.Resource.Styleable.AppCompatTheme_actionBarItemBackground;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_actionBarPopupTheme = global::Sample.Resource.Styleable.AppCompatTheme_actionBarPopupTheme;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_actionBarSize = global::Sample.Resource.Styleable.AppCompatTheme_actionBarSize;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_actionBarSplitStyle = global::Sample.Resource.Styleable.AppCompatTheme_actionBarSplitStyle;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_actionBarStyle = global::Sample.Resource.Styleable.AppCompatTheme_actionBarStyle;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle = global::Sample.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_actionBarTabStyle = global::Sample.Resource.Styleable.AppCompatTheme_actionBarTabStyle;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle = global::Sample.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_actionBarTheme = global::Sample.Resource.Styleable.AppCompatTheme_actionBarTheme;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme = global::Sample.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_actionButtonStyle = global::Sample.Resource.Styleable.AppCompatTheme_actionButtonStyle;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_actionDropDownStyle = global::Sample.Resource.Styleable.AppCompatTheme_actionDropDownStyle;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance = global::Sample.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_actionMenuTextColor = global::Sample.Resource.Styleable.AppCompatTheme_actionMenuTextColor;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_actionModeBackground = global::Sample.Resource.Styleable.AppCompatTheme_actionModeBackground;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle = global::Sample.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable = global::Sample.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable = global::Sample.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_actionModeCutDrawable = global::Sample.Resource.Styleable.AppCompatTheme_actionModeCutDrawable;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_actionModeFindDrawable = global::Sample.Resource.Styleable.AppCompatTheme_actionModeFindDrawable;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_actionModePasteDrawable = global::Sample.Resource.Styleable.AppCompatTheme_actionModePasteDrawable;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle = global::Sample.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable = global::Sample.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_actionModeShareDrawable = global::Sample.Resource.Styleable.AppCompatTheme_actionModeShareDrawable;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_actionModeSplitBackground = global::Sample.Resource.Styleable.AppCompatTheme_actionModeSplitBackground;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_actionModeStyle = global::Sample.Resource.Styleable.AppCompatTheme_actionModeStyle;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable = global::Sample.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle = global::Sample.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle = global::Sample.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_activityChooserViewStyle = global::Sample.Resource.Styleable.AppCompatTheme_activityChooserViewStyle;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle = global::Sample.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons = global::Sample.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_alertDialogStyle = global::Sample.Resource.Styleable.AppCompatTheme_alertDialogStyle;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_alertDialogTheme = global::Sample.Resource.Styleable.AppCompatTheme_alertDialogTheme;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle = global::Sample.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_android_windowIsFloating = global::Sample.Resource.Styleable.AppCompatTheme_android_windowIsFloating;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle = global::Sample.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_borderlessButtonStyle = global::Sample.Resource.Styleable.AppCompatTheme_borderlessButtonStyle;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle = global::Sample.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle = global::Sample.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle = global::Sample.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle = global::Sample.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_buttonBarStyle = global::Sample.Resource.Styleable.AppCompatTheme_buttonBarStyle;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_buttonStyle = global::Sample.Resource.Styleable.AppCompatTheme_buttonStyle;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_buttonStyleSmall = global::Sample.Resource.Styleable.AppCompatTheme_buttonStyleSmall;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_checkboxStyle = global::Sample.Resource.Styleable.AppCompatTheme_checkboxStyle;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_checkedTextViewStyle = global::Sample.Resource.Styleable.AppCompatTheme_checkedTextViewStyle;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_colorAccent = global::Sample.Resource.Styleable.AppCompatTheme_colorAccent;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_colorBackgroundFloating = global::Sample.Resource.Styleable.AppCompatTheme_colorBackgroundFloating;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_colorButtonNormal = global::Sample.Resource.Styleable.AppCompatTheme_colorButtonNormal;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_colorControlActivated = global::Sample.Resource.Styleable.AppCompatTheme_colorControlActivated;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_colorControlHighlight = global::Sample.Resource.Styleable.AppCompatTheme_colorControlHighlight;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_colorControlNormal = global::Sample.Resource.Styleable.AppCompatTheme_colorControlNormal;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_colorError = global::Sample.Resource.Styleable.AppCompatTheme_colorError;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_colorPrimary = global::Sample.Resource.Styleable.AppCompatTheme_colorPrimary;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_colorPrimaryDark = global::Sample.Resource.Styleable.AppCompatTheme_colorPrimaryDark;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal = global::Sample.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_controlBackground = global::Sample.Resource.Styleable.AppCompatTheme_controlBackground;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_dialogPreferredPadding = global::Sample.Resource.Styleable.AppCompatTheme_dialogPreferredPadding;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_dialogTheme = global::Sample.Resource.Styleable.AppCompatTheme_dialogTheme;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_dividerHorizontal = global::Sample.Resource.Styleable.AppCompatTheme_dividerHorizontal;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_dividerVertical = global::Sample.Resource.Styleable.AppCompatTheme_dividerVertical;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_dropDownListViewStyle = global::Sample.Resource.Styleable.AppCompatTheme_dropDownListViewStyle;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight = global::Sample.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_editTextBackground = global::Sample.Resource.Styleable.AppCompatTheme_editTextBackground;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_editTextColor = global::Sample.Resource.Styleable.AppCompatTheme_editTextColor;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_editTextStyle = global::Sample.Resource.Styleable.AppCompatTheme_editTextStyle;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_homeAsUpIndicator = global::Sample.Resource.Styleable.AppCompatTheme_homeAsUpIndicator;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_imageButtonStyle = global::Sample.Resource.Styleable.AppCompatTheme_imageButtonStyle;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator = global::Sample.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_listDividerAlertDialog = global::Sample.Resource.Styleable.AppCompatTheme_listDividerAlertDialog;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_listMenuViewStyle = global::Sample.Resource.Styleable.AppCompatTheme_listMenuViewStyle;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_listPopupWindowStyle = global::Sample.Resource.Styleable.AppCompatTheme_listPopupWindowStyle;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_listPreferredItemHeight = global::Sample.Resource.Styleable.AppCompatTheme_listPreferredItemHeight;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge = global::Sample.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall = global::Sample.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft = global::Sample.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight = global::Sample.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_panelBackground = global::Sample.Resource.Styleable.AppCompatTheme_panelBackground;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_panelMenuListTheme = global::Sample.Resource.Styleable.AppCompatTheme_panelMenuListTheme;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_panelMenuListWidth = global::Sample.Resource.Styleable.AppCompatTheme_panelMenuListWidth;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_popupMenuStyle = global::Sample.Resource.Styleable.AppCompatTheme_popupMenuStyle;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_popupWindowStyle = global::Sample.Resource.Styleable.AppCompatTheme_popupWindowStyle;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_radioButtonStyle = global::Sample.Resource.Styleable.AppCompatTheme_radioButtonStyle;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_ratingBarStyle = global::Sample.Resource.Styleable.AppCompatTheme_ratingBarStyle;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator = global::Sample.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall = global::Sample.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_searchViewStyle = global::Sample.Resource.Styleable.AppCompatTheme_searchViewStyle;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_seekBarStyle = global::Sample.Resource.Styleable.AppCompatTheme_seekBarStyle;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_selectableItemBackground = global::Sample.Resource.Styleable.AppCompatTheme_selectableItemBackground;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless = global::Sample.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle = global::Sample.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_spinnerStyle = global::Sample.Resource.Styleable.AppCompatTheme_spinnerStyle;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_switchStyle = global::Sample.Resource.Styleable.AppCompatTheme_switchStyle;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu = global::Sample.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_textAppearanceListItem = global::Sample.Resource.Styleable.AppCompatTheme_textAppearanceListItem;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary = global::Sample.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall = global::Sample.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader = global::Sample.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle = global::Sample.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle = global::Sample.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu = global::Sample.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem = global::Sample.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_textColorSearchUrl = global::Sample.Resource.Styleable.AppCompatTheme_textColorSearchUrl;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle = global::Sample.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_toolbarStyle = global::Sample.Resource.Styleable.AppCompatTheme_toolbarStyle;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_tooltipForegroundColor = global::Sample.Resource.Styleable.AppCompatTheme_tooltipForegroundColor;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_tooltipFrameBackground = global::Sample.Resource.Styleable.AppCompatTheme_tooltipFrameBackground;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_windowActionBar = global::Sample.Resource.Styleable.AppCompatTheme_windowActionBar;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_windowActionBarOverlay = global::Sample.Resource.Styleable.AppCompatTheme_windowActionBarOverlay;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_windowActionModeOverlay = global::Sample.Resource.Styleable.AppCompatTheme_windowActionModeOverlay;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor = global::Sample.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor = global::Sample.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor = global::Sample.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor = global::Sample.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_windowMinWidthMajor = global::Sample.Resource.Styleable.AppCompatTheme_windowMinWidthMajor;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_windowMinWidthMinor = global::Sample.Resource.Styleable.AppCompatTheme_windowMinWidthMinor;
-			global::FloatingActionMenu.Resource.Styleable.AppCompatTheme_windowNoTitle = global::Sample.Resource.Styleable.AppCompatTheme_windowNoTitle;
-			global::FloatingActionMenu.Resource.Styleable.BottomNavigationView = global::Sample.Resource.Styleable.BottomNavigationView;
-			global::FloatingActionMenu.Resource.Styleable.BottomNavigationView_elevation = global::Sample.Resource.Styleable.BottomNavigationView_elevation;
-			global::FloatingActionMenu.Resource.Styleable.BottomNavigationView_itemBackground = global::Sample.Resource.Styleable.BottomNavigationView_itemBackground;
-			global::FloatingActionMenu.Resource.Styleable.BottomNavigationView_itemIconTint = global::Sample.Resource.Styleable.BottomNavigationView_itemIconTint;
-			global::FloatingActionMenu.Resource.Styleable.BottomNavigationView_itemTextColor = global::Sample.Resource.Styleable.BottomNavigationView_itemTextColor;
-			global::FloatingActionMenu.Resource.Styleable.BottomNavigationView_menu = global::Sample.Resource.Styleable.BottomNavigationView_menu;
-			global::FloatingActionMenu.Resource.Styleable.BottomSheetBehavior_Layout = global::Sample.Resource.Styleable.BottomSheetBehavior_Layout;
-			global::FloatingActionMenu.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable = global::Sample.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable;
-			global::FloatingActionMenu.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight = global::Sample.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight;
-			global::FloatingActionMenu.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed = global::Sample.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed;
-			global::FloatingActionMenu.Resource.Styleable.ButtonBarLayout = global::Sample.Resource.Styleable.ButtonBarLayout;
-			global::FloatingActionMenu.Resource.Styleable.ButtonBarLayout_allowStacking = global::Sample.Resource.Styleable.ButtonBarLayout_allowStacking;
-			global::FloatingActionMenu.Resource.Styleable.CollapsingToolbarLayout = global::Sample.Resource.Styleable.CollapsingToolbarLayout;
-			global::FloatingActionMenu.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity = global::Sample.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity;
-			global::FloatingActionMenu.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance = global::Sample.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance;
-			global::FloatingActionMenu.Resource.Styleable.CollapsingToolbarLayout_contentScrim = global::Sample.Resource.Styleable.CollapsingToolbarLayout_contentScrim;
-			global::FloatingActionMenu.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity = global::Sample.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity;
-			global::FloatingActionMenu.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin = global::Sample.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin;
-			global::FloatingActionMenu.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom = global::Sample.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom;
-			global::FloatingActionMenu.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd = global::Sample.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd;
-			global::FloatingActionMenu.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart = global::Sample.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart;
-			global::FloatingActionMenu.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop = global::Sample.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop;
-			global::FloatingActionMenu.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance = global::Sample.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance;
-			global::FloatingActionMenu.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration = global::Sample.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration;
-			global::FloatingActionMenu.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger = global::Sample.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger;
-			global::FloatingActionMenu.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim = global::Sample.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim;
-			global::FloatingActionMenu.Resource.Styleable.CollapsingToolbarLayout_title = global::Sample.Resource.Styleable.CollapsingToolbarLayout_title;
-			global::FloatingActionMenu.Resource.Styleable.CollapsingToolbarLayout_titleEnabled = global::Sample.Resource.Styleable.CollapsingToolbarLayout_titleEnabled;
-			global::FloatingActionMenu.Resource.Styleable.CollapsingToolbarLayout_toolbarId = global::Sample.Resource.Styleable.CollapsingToolbarLayout_toolbarId;
-			global::FloatingActionMenu.Resource.Styleable.CollapsingToolbarLayout_Layout = global::Sample.Resource.Styleable.CollapsingToolbarLayout_Layout;
-			global::FloatingActionMenu.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode = global::Sample.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode;
-			global::FloatingActionMenu.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier = global::Sample.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier;
-			global::FloatingActionMenu.Resource.Styleable.ColorStateListItem = global::Sample.Resource.Styleable.ColorStateListItem;
-			global::FloatingActionMenu.Resource.Styleable.ColorStateListItem_alpha = global::Sample.Resource.Styleable.ColorStateListItem_alpha;
-			global::FloatingActionMenu.Resource.Styleable.ColorStateListItem_android_alpha = global::Sample.Resource.Styleable.ColorStateListItem_android_alpha;
-			global::FloatingActionMenu.Resource.Styleable.ColorStateListItem_android_color = global::Sample.Resource.Styleable.ColorStateListItem_android_color;
-			global::FloatingActionMenu.Resource.Styleable.CompoundButton = global::Sample.Resource.Styleable.CompoundButton;
-			global::FloatingActionMenu.Resource.Styleable.CompoundButton_android_button = global::Sample.Resource.Styleable.CompoundButton_android_button;
-			global::FloatingActionMenu.Resource.Styleable.CompoundButton_buttonTint = global::Sample.Resource.Styleable.CompoundButton_buttonTint;
-			global::FloatingActionMenu.Resource.Styleable.CompoundButton_buttonTintMode = global::Sample.Resource.Styleable.CompoundButton_buttonTintMode;
-			global::FloatingActionMenu.Resource.Styleable.CoordinatorLayout = global::Sample.Resource.Styleable.CoordinatorLayout;
-			global::FloatingActionMenu.Resource.Styleable.CoordinatorLayout_keylines = global::Sample.Resource.Styleable.CoordinatorLayout_keylines;
-			global::FloatingActionMenu.Resource.Styleable.CoordinatorLayout_statusBarBackground = global::Sample.Resource.Styleable.CoordinatorLayout_statusBarBackground;
-			global::FloatingActionMenu.Resource.Styleable.CoordinatorLayout_Layout = global::Sample.Resource.Styleable.CoordinatorLayout_Layout;
-			global::FloatingActionMenu.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity = global::Sample.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity;
-			global::FloatingActionMenu.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor = global::Sample.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor;
-			global::FloatingActionMenu.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity = global::Sample.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity;
-			global::FloatingActionMenu.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior = global::Sample.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior;
-			global::FloatingActionMenu.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges = global::Sample.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges;
-			global::FloatingActionMenu.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge = global::Sample.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge;
-			global::FloatingActionMenu.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline = global::Sample.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline;
-			global::FloatingActionMenu.Resource.Styleable.DesignTheme = global::Sample.Resource.Styleable.DesignTheme;
-			global::FloatingActionMenu.Resource.Styleable.DesignTheme_bottomSheetDialogTheme = global::Sample.Resource.Styleable.DesignTheme_bottomSheetDialogTheme;
-			global::FloatingActionMenu.Resource.Styleable.DesignTheme_bottomSheetStyle = global::Sample.Resource.Styleable.DesignTheme_bottomSheetStyle;
-			global::FloatingActionMenu.Resource.Styleable.DesignTheme_textColorError = global::Sample.Resource.Styleable.DesignTheme_textColorError;
-			global::FloatingActionMenu.Resource.Styleable.DrawerArrowToggle = global::Sample.Resource.Styleable.DrawerArrowToggle;
-			global::FloatingActionMenu.Resource.Styleable.DrawerArrowToggle_arrowHeadLength = global::Sample.Resource.Styleable.DrawerArrowToggle_arrowHeadLength;
-			global::FloatingActionMenu.Resource.Styleable.DrawerArrowToggle_arrowShaftLength = global::Sample.Resource.Styleable.DrawerArrowToggle_arrowShaftLength;
-			global::FloatingActionMenu.Resource.Styleable.DrawerArrowToggle_barLength = global::Sample.Resource.Styleable.DrawerArrowToggle_barLength;
-			global::FloatingActionMenu.Resource.Styleable.DrawerArrowToggle_color = global::Sample.Resource.Styleable.DrawerArrowToggle_color;
-			global::FloatingActionMenu.Resource.Styleable.DrawerArrowToggle_drawableSize = global::Sample.Resource.Styleable.DrawerArrowToggle_drawableSize;
-			global::FloatingActionMenu.Resource.Styleable.DrawerArrowToggle_gapBetweenBars = global::Sample.Resource.Styleable.DrawerArrowToggle_gapBetweenBars;
-			global::FloatingActionMenu.Resource.Styleable.DrawerArrowToggle_spinBars = global::Sample.Resource.Styleable.DrawerArrowToggle_spinBars;
-			global::FloatingActionMenu.Resource.Styleable.DrawerArrowToggle_thickness = global::Sample.Resource.Styleable.DrawerArrowToggle_thickness;
-			global::FloatingActionMenu.Resource.Styleable.FloatingActionButton = global::Sample.Resource.Styleable.FloatingActionButton;
-			global::FloatingActionMenu.Resource.Styleable.FloatingActionButton_backgroundTint = global::Sample.Resource.Styleable.FloatingActionButton_backgroundTint;
-			global::FloatingActionMenu.Resource.Styleable.FloatingActionButton_backgroundTintMode = global::Sample.Resource.Styleable.FloatingActionButton_backgroundTintMode;
-			global::FloatingActionMenu.Resource.Styleable.FloatingActionButton_borderWidth = global::Sample.Resource.Styleable.FloatingActionButton_borderWidth;
-			global::FloatingActionMenu.Resource.Styleable.FloatingActionButton_elevation = global::Sample.Resource.Styleable.FloatingActionButton_elevation;
-			global::FloatingActionMenu.Resource.Styleable.FloatingActionButton_fabSize = global::Sample.Resource.Styleable.FloatingActionButton_fabSize;
-			global::FloatingActionMenu.Resource.Styleable.FloatingActionButton_pressedTranslationZ = global::Sample.Resource.Styleable.FloatingActionButton_pressedTranslationZ;
-			global::FloatingActionMenu.Resource.Styleable.FloatingActionButton_rippleColor = global::Sample.Resource.Styleable.FloatingActionButton_rippleColor;
-			global::FloatingActionMenu.Resource.Styleable.FloatingActionButton_useCompatPadding = global::Sample.Resource.Styleable.FloatingActionButton_useCompatPadding;
-			global::FloatingActionMenu.Resource.Styleable.FloatingActionButton_Behavior_Layout = global::Sample.Resource.Styleable.FloatingActionButton_Behavior_Layout;
-			global::FloatingActionMenu.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide = global::Sample.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide;
-			global::FloatingActionMenu.Resource.Styleable.FloatingActionMenu = global::Sample.Resource.Styleable.FloatingActionMenu;
-			global::FloatingActionMenu.Resource.Styleable.FloatingActionMenu_android_layout_alignParentBottom = global::Sample.Resource.Styleable.FloatingActionMenu_android_layout_alignParentBottom;
-			global::FloatingActionMenu.Resource.Styleable.FloatingActionMenu_android_layout_alignParentLeft = global::Sample.Resource.Styleable.FloatingActionMenu_android_layout_alignParentLeft;
-			global::FloatingActionMenu.Resource.Styleable.FloatingActionMenu_android_layout_alignParentRight = global::Sample.Resource.Styleable.FloatingActionMenu_android_layout_alignParentRight;
-			global::FloatingActionMenu.Resource.Styleable.FloatingActionMenu_android_layout_alignParentTop = global::Sample.Resource.Styleable.FloatingActionMenu_android_layout_alignParentTop;
-			global::FloatingActionMenu.Resource.Styleable.FloatingActionMenu_buttonBackgroundColor = global::Sample.Resource.Styleable.FloatingActionMenu_buttonBackgroundColor;
-			global::FloatingActionMenu.Resource.Styleable.FloatingActionMenu_buttonElevation = global::Sample.Resource.Styleable.FloatingActionMenu_buttonElevation;
-			global::FloatingActionMenu.Resource.Styleable.FloatingActionMenu_buttonIcon = global::Sample.Resource.Styleable.FloatingActionMenu_buttonIcon;
-			global::FloatingActionMenu.Resource.Styleable.FloatingActionMenu_buttonSpacing = global::Sample.Resource.Styleable.FloatingActionMenu_buttonSpacing;
-			global::FloatingActionMenu.Resource.Styleable.FloatingActionMenu_layout_labelBackgroundColor = global::Sample.Resource.Styleable.FloatingActionMenu_layout_labelBackgroundColor;
-			global::FloatingActionMenu.Resource.Styleable.FloatingActionMenu_layout_labelDirection = global::Sample.Resource.Styleable.FloatingActionMenu_layout_labelDirection;
-			global::FloatingActionMenu.Resource.Styleable.FloatingActionMenu_layout_labelSpacing = global::Sample.Resource.Styleable.FloatingActionMenu_layout_labelSpacing;
-			global::FloatingActionMenu.Resource.Styleable.FloatingActionMenu_layout_labelText = global::Sample.Resource.Styleable.FloatingActionMenu_layout_labelText;
-			global::FloatingActionMenu.Resource.Styleable.FloatingActionMenu_layout_labelTextColor = global::Sample.Resource.Styleable.FloatingActionMenu_layout_labelTextColor;
-			global::FloatingActionMenu.Resource.Styleable.FloatingActionMenu_layout_labelTextSize = global::Sample.Resource.Styleable.FloatingActionMenu_layout_labelTextSize;
-			global::FloatingActionMenu.Resource.Styleable.FloatingActionMenu_openDirection = global::Sample.Resource.Styleable.FloatingActionMenu_openDirection;
-			global::FloatingActionMenu.Resource.Styleable.FloatingActionMenu_openOnHold = global::Sample.Resource.Styleable.FloatingActionMenu_openOnHold;
-			global::FloatingActionMenu.Resource.Styleable.FontFamily = global::Sample.Resource.Styleable.FontFamily;
-			global::FloatingActionMenu.Resource.Styleable.FontFamily_fontProviderAuthority = global::Sample.Resource.Styleable.FontFamily_fontProviderAuthority;
-			global::FloatingActionMenu.Resource.Styleable.FontFamily_fontProviderCerts = global::Sample.Resource.Styleable.FontFamily_fontProviderCerts;
-			global::FloatingActionMenu.Resource.Styleable.FontFamily_fontProviderFetchStrategy = global::Sample.Resource.Styleable.FontFamily_fontProviderFetchStrategy;
-			global::FloatingActionMenu.Resource.Styleable.FontFamily_fontProviderFetchTimeout = global::Sample.Resource.Styleable.FontFamily_fontProviderFetchTimeout;
-			global::FloatingActionMenu.Resource.Styleable.FontFamily_fontProviderPackage = global::Sample.Resource.Styleable.FontFamily_fontProviderPackage;
-			global::FloatingActionMenu.Resource.Styleable.FontFamily_fontProviderQuery = global::Sample.Resource.Styleable.FontFamily_fontProviderQuery;
-			global::FloatingActionMenu.Resource.Styleable.FontFamilyFont = global::Sample.Resource.Styleable.FontFamilyFont;
-			global::FloatingActionMenu.Resource.Styleable.FontFamilyFont_font = global::Sample.Resource.Styleable.FontFamilyFont_font;
-			global::FloatingActionMenu.Resource.Styleable.FontFamilyFont_fontStyle = global::Sample.Resource.Styleable.FontFamilyFont_fontStyle;
-			global::FloatingActionMenu.Resource.Styleable.FontFamilyFont_fontWeight = global::Sample.Resource.Styleable.FontFamilyFont_fontWeight;
-			global::FloatingActionMenu.Resource.Styleable.ForegroundLinearLayout = global::Sample.Resource.Styleable.ForegroundLinearLayout;
-			global::FloatingActionMenu.Resource.Styleable.ForegroundLinearLayout_android_foreground = global::Sample.Resource.Styleable.ForegroundLinearLayout_android_foreground;
-			global::FloatingActionMenu.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity = global::Sample.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity;
-			global::FloatingActionMenu.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding = global::Sample.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding;
-			global::FloatingActionMenu.Resource.Styleable.LinearLayoutCompat = global::Sample.Resource.Styleable.LinearLayoutCompat;
-			global::FloatingActionMenu.Resource.Styleable.LinearLayoutCompat_android_baselineAligned = global::Sample.Resource.Styleable.LinearLayoutCompat_android_baselineAligned;
-			global::FloatingActionMenu.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex = global::Sample.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex;
-			global::FloatingActionMenu.Resource.Styleable.LinearLayoutCompat_android_gravity = global::Sample.Resource.Styleable.LinearLayoutCompat_android_gravity;
-			global::FloatingActionMenu.Resource.Styleable.LinearLayoutCompat_android_orientation = global::Sample.Resource.Styleable.LinearLayoutCompat_android_orientation;
-			global::FloatingActionMenu.Resource.Styleable.LinearLayoutCompat_android_weightSum = global::Sample.Resource.Styleable.LinearLayoutCompat_android_weightSum;
-			global::FloatingActionMenu.Resource.Styleable.LinearLayoutCompat_divider = global::Sample.Resource.Styleable.LinearLayoutCompat_divider;
-			global::FloatingActionMenu.Resource.Styleable.LinearLayoutCompat_dividerPadding = global::Sample.Resource.Styleable.LinearLayoutCompat_dividerPadding;
-			global::FloatingActionMenu.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild = global::Sample.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild;
-			global::FloatingActionMenu.Resource.Styleable.LinearLayoutCompat_showDividers = global::Sample.Resource.Styleable.LinearLayoutCompat_showDividers;
-			global::FloatingActionMenu.Resource.Styleable.LinearLayoutCompat_Layout = global::Sample.Resource.Styleable.LinearLayoutCompat_Layout;
-			global::FloatingActionMenu.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity = global::Sample.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity;
-			global::FloatingActionMenu.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height = global::Sample.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height;
-			global::FloatingActionMenu.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight = global::Sample.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight;
-			global::FloatingActionMenu.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width = global::Sample.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width;
-			global::FloatingActionMenu.Resource.Styleable.ListPopupWindow = global::Sample.Resource.Styleable.ListPopupWindow;
-			global::FloatingActionMenu.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset = global::Sample.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset;
-			global::FloatingActionMenu.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset = global::Sample.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset;
-			global::FloatingActionMenu.Resource.Styleable.MenuGroup = global::Sample.Resource.Styleable.MenuGroup;
-			global::FloatingActionMenu.Resource.Styleable.MenuGroup_android_checkableBehavior = global::Sample.Resource.Styleable.MenuGroup_android_checkableBehavior;
-			global::FloatingActionMenu.Resource.Styleable.MenuGroup_android_enabled = global::Sample.Resource.Styleable.MenuGroup_android_enabled;
-			global::FloatingActionMenu.Resource.Styleable.MenuGroup_android_id = global::Sample.Resource.Styleable.MenuGroup_android_id;
-			global::FloatingActionMenu.Resource.Styleable.MenuGroup_android_menuCategory = global::Sample.Resource.Styleable.MenuGroup_android_menuCategory;
-			global::FloatingActionMenu.Resource.Styleable.MenuGroup_android_orderInCategory = global::Sample.Resource.Styleable.MenuGroup_android_orderInCategory;
-			global::FloatingActionMenu.Resource.Styleable.MenuGroup_android_visible = global::Sample.Resource.Styleable.MenuGroup_android_visible;
-			global::FloatingActionMenu.Resource.Styleable.MenuItem = global::Sample.Resource.Styleable.MenuItem;
-			global::FloatingActionMenu.Resource.Styleable.MenuItem_actionLayout = global::Sample.Resource.Styleable.MenuItem_actionLayout;
-			global::FloatingActionMenu.Resource.Styleable.MenuItem_actionProviderClass = global::Sample.Resource.Styleable.MenuItem_actionProviderClass;
-			global::FloatingActionMenu.Resource.Styleable.MenuItem_actionViewClass = global::Sample.Resource.Styleable.MenuItem_actionViewClass;
-			global::FloatingActionMenu.Resource.Styleable.MenuItem_alphabeticModifiers = global::Sample.Resource.Styleable.MenuItem_alphabeticModifiers;
-			global::FloatingActionMenu.Resource.Styleable.MenuItem_android_alphabeticShortcut = global::Sample.Resource.Styleable.MenuItem_android_alphabeticShortcut;
-			global::FloatingActionMenu.Resource.Styleable.MenuItem_android_checkable = global::Sample.Resource.Styleable.MenuItem_android_checkable;
-			global::FloatingActionMenu.Resource.Styleable.MenuItem_android_checked = global::Sample.Resource.Styleable.MenuItem_android_checked;
-			global::FloatingActionMenu.Resource.Styleable.MenuItem_android_enabled = global::Sample.Resource.Styleable.MenuItem_android_enabled;
-			global::FloatingActionMenu.Resource.Styleable.MenuItem_android_icon = global::Sample.Resource.Styleable.MenuItem_android_icon;
-			global::FloatingActionMenu.Resource.Styleable.MenuItem_android_id = global::Sample.Resource.Styleable.MenuItem_android_id;
-			global::FloatingActionMenu.Resource.Styleable.MenuItem_android_menuCategory = global::Sample.Resource.Styleable.MenuItem_android_menuCategory;
-			global::FloatingActionMenu.Resource.Styleable.MenuItem_android_numericShortcut = global::Sample.Resource.Styleable.MenuItem_android_numericShortcut;
-			global::FloatingActionMenu.Resource.Styleable.MenuItem_android_onClick = global::Sample.Resource.Styleable.MenuItem_android_onClick;
-			global::FloatingActionMenu.Resource.Styleable.MenuItem_android_orderInCategory = global::Sample.Resource.Styleable.MenuItem_android_orderInCategory;
-			global::FloatingActionMenu.Resource.Styleable.MenuItem_android_title = global::Sample.Resource.Styleable.MenuItem_android_title;
-			global::FloatingActionMenu.Resource.Styleable.MenuItem_android_titleCondensed = global::Sample.Resource.Styleable.MenuItem_android_titleCondensed;
-			global::FloatingActionMenu.Resource.Styleable.MenuItem_android_visible = global::Sample.Resource.Styleable.MenuItem_android_visible;
-			global::FloatingActionMenu.Resource.Styleable.MenuItem_contentDescription = global::Sample.Resource.Styleable.MenuItem_contentDescription;
-			global::FloatingActionMenu.Resource.Styleable.MenuItem_iconTint = global::Sample.Resource.Styleable.MenuItem_iconTint;
-			global::FloatingActionMenu.Resource.Styleable.MenuItem_iconTintMode = global::Sample.Resource.Styleable.MenuItem_iconTintMode;
-			global::FloatingActionMenu.Resource.Styleable.MenuItem_numericModifiers = global::Sample.Resource.Styleable.MenuItem_numericModifiers;
-			global::FloatingActionMenu.Resource.Styleable.MenuItem_showAsAction = global::Sample.Resource.Styleable.MenuItem_showAsAction;
-			global::FloatingActionMenu.Resource.Styleable.MenuItem_tooltipText = global::Sample.Resource.Styleable.MenuItem_tooltipText;
-			global::FloatingActionMenu.Resource.Styleable.MenuView = global::Sample.Resource.Styleable.MenuView;
-			global::FloatingActionMenu.Resource.Styleable.MenuView_android_headerBackground = global::Sample.Resource.Styleable.MenuView_android_headerBackground;
-			global::FloatingActionMenu.Resource.Styleable.MenuView_android_horizontalDivider = global::Sample.Resource.Styleable.MenuView_android_horizontalDivider;
-			global::FloatingActionMenu.Resource.Styleable.MenuView_android_itemBackground = global::Sample.Resource.Styleable.MenuView_android_itemBackground;
-			global::FloatingActionMenu.Resource.Styleable.MenuView_android_itemIconDisabledAlpha = global::Sample.Resource.Styleable.MenuView_android_itemIconDisabledAlpha;
-			global::FloatingActionMenu.Resource.Styleable.MenuView_android_itemTextAppearance = global::Sample.Resource.Styleable.MenuView_android_itemTextAppearance;
-			global::FloatingActionMenu.Resource.Styleable.MenuView_android_verticalDivider = global::Sample.Resource.Styleable.MenuView_android_verticalDivider;
-			global::FloatingActionMenu.Resource.Styleable.MenuView_android_windowAnimationStyle = global::Sample.Resource.Styleable.MenuView_android_windowAnimationStyle;
-			global::FloatingActionMenu.Resource.Styleable.MenuView_preserveIconSpacing = global::Sample.Resource.Styleable.MenuView_preserveIconSpacing;
-			global::FloatingActionMenu.Resource.Styleable.MenuView_subMenuArrow = global::Sample.Resource.Styleable.MenuView_subMenuArrow;
-			global::FloatingActionMenu.Resource.Styleable.NavigationView = global::Sample.Resource.Styleable.NavigationView;
-			global::FloatingActionMenu.Resource.Styleable.NavigationView_android_background = global::Sample.Resource.Styleable.NavigationView_android_background;
-			global::FloatingActionMenu.Resource.Styleable.NavigationView_android_fitsSystemWindows = global::Sample.Resource.Styleable.NavigationView_android_fitsSystemWindows;
-			global::FloatingActionMenu.Resource.Styleable.NavigationView_android_maxWidth = global::Sample.Resource.Styleable.NavigationView_android_maxWidth;
-			global::FloatingActionMenu.Resource.Styleable.NavigationView_elevation = global::Sample.Resource.Styleable.NavigationView_elevation;
-			global::FloatingActionMenu.Resource.Styleable.NavigationView_headerLayout = global::Sample.Resource.Styleable.NavigationView_headerLayout;
-			global::FloatingActionMenu.Resource.Styleable.NavigationView_itemBackground = global::Sample.Resource.Styleable.NavigationView_itemBackground;
-			global::FloatingActionMenu.Resource.Styleable.NavigationView_itemIconTint = global::Sample.Resource.Styleable.NavigationView_itemIconTint;
-			global::FloatingActionMenu.Resource.Styleable.NavigationView_itemTextAppearance = global::Sample.Resource.Styleable.NavigationView_itemTextAppearance;
-			global::FloatingActionMenu.Resource.Styleable.NavigationView_itemTextColor = global::Sample.Resource.Styleable.NavigationView_itemTextColor;
-			global::FloatingActionMenu.Resource.Styleable.NavigationView_menu = global::Sample.Resource.Styleable.NavigationView_menu;
-			global::FloatingActionMenu.Resource.Styleable.PopupWindow = global::Sample.Resource.Styleable.PopupWindow;
-			global::FloatingActionMenu.Resource.Styleable.PopupWindow_android_popupAnimationStyle = global::Sample.Resource.Styleable.PopupWindow_android_popupAnimationStyle;
-			global::FloatingActionMenu.Resource.Styleable.PopupWindow_android_popupBackground = global::Sample.Resource.Styleable.PopupWindow_android_popupBackground;
-			global::FloatingActionMenu.Resource.Styleable.PopupWindow_overlapAnchor = global::Sample.Resource.Styleable.PopupWindow_overlapAnchor;
-			global::FloatingActionMenu.Resource.Styleable.PopupWindowBackgroundState = global::Sample.Resource.Styleable.PopupWindowBackgroundState;
-			global::FloatingActionMenu.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor = global::Sample.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor;
-			global::FloatingActionMenu.Resource.Styleable.RecycleListView = global::Sample.Resource.Styleable.RecycleListView;
-			global::FloatingActionMenu.Resource.Styleable.RecycleListView_paddingBottomNoButtons = global::Sample.Resource.Styleable.RecycleListView_paddingBottomNoButtons;
-			global::FloatingActionMenu.Resource.Styleable.RecycleListView_paddingTopNoTitle = global::Sample.Resource.Styleable.RecycleListView_paddingTopNoTitle;
-			global::FloatingActionMenu.Resource.Styleable.RecyclerView = global::Sample.Resource.Styleable.RecyclerView;
-			global::FloatingActionMenu.Resource.Styleable.RecyclerView_android_descendantFocusability = global::Sample.Resource.Styleable.RecyclerView_android_descendantFocusability;
-			global::FloatingActionMenu.Resource.Styleable.RecyclerView_android_orientation = global::Sample.Resource.Styleable.RecyclerView_android_orientation;
-			global::FloatingActionMenu.Resource.Styleable.RecyclerView_fastScrollEnabled = global::Sample.Resource.Styleable.RecyclerView_fastScrollEnabled;
-			global::FloatingActionMenu.Resource.Styleable.RecyclerView_fastScrollHorizontalThumbDrawable = global::Sample.Resource.Styleable.RecyclerView_fastScrollHorizontalThumbDrawable;
-			global::FloatingActionMenu.Resource.Styleable.RecyclerView_fastScrollHorizontalTrackDrawable = global::Sample.Resource.Styleable.RecyclerView_fastScrollHorizontalTrackDrawable;
-			global::FloatingActionMenu.Resource.Styleable.RecyclerView_fastScrollVerticalThumbDrawable = global::Sample.Resource.Styleable.RecyclerView_fastScrollVerticalThumbDrawable;
-			global::FloatingActionMenu.Resource.Styleable.RecyclerView_fastScrollVerticalTrackDrawable = global::Sample.Resource.Styleable.RecyclerView_fastScrollVerticalTrackDrawable;
-			global::FloatingActionMenu.Resource.Styleable.RecyclerView_layoutManager = global::Sample.Resource.Styleable.RecyclerView_layoutManager;
-			global::FloatingActionMenu.Resource.Styleable.RecyclerView_reverseLayout = global::Sample.Resource.Styleable.RecyclerView_reverseLayout;
-			global::FloatingActionMenu.Resource.Styleable.RecyclerView_spanCount = global::Sample.Resource.Styleable.RecyclerView_spanCount;
-			global::FloatingActionMenu.Resource.Styleable.RecyclerView_stackFromEnd = global::Sample.Resource.Styleable.RecyclerView_stackFromEnd;
-			global::FloatingActionMenu.Resource.Styleable.ScrimInsetsFrameLayout = global::Sample.Resource.Styleable.ScrimInsetsFrameLayout;
-			global::FloatingActionMenu.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground = global::Sample.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground;
-			global::FloatingActionMenu.Resource.Styleable.ScrollingViewBehavior_Layout = global::Sample.Resource.Styleable.ScrollingViewBehavior_Layout;
-			global::FloatingActionMenu.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop = global::Sample.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop;
-			global::FloatingActionMenu.Resource.Styleable.SearchView = global::Sample.Resource.Styleable.SearchView;
-			global::FloatingActionMenu.Resource.Styleable.SearchView_android_focusable = global::Sample.Resource.Styleable.SearchView_android_focusable;
-			global::FloatingActionMenu.Resource.Styleable.SearchView_android_imeOptions = global::Sample.Resource.Styleable.SearchView_android_imeOptions;
-			global::FloatingActionMenu.Resource.Styleable.SearchView_android_inputType = global::Sample.Resource.Styleable.SearchView_android_inputType;
-			global::FloatingActionMenu.Resource.Styleable.SearchView_android_maxWidth = global::Sample.Resource.Styleable.SearchView_android_maxWidth;
-			global::FloatingActionMenu.Resource.Styleable.SearchView_closeIcon = global::Sample.Resource.Styleable.SearchView_closeIcon;
-			global::FloatingActionMenu.Resource.Styleable.SearchView_commitIcon = global::Sample.Resource.Styleable.SearchView_commitIcon;
-			global::FloatingActionMenu.Resource.Styleable.SearchView_defaultQueryHint = global::Sample.Resource.Styleable.SearchView_defaultQueryHint;
-			global::FloatingActionMenu.Resource.Styleable.SearchView_goIcon = global::Sample.Resource.Styleable.SearchView_goIcon;
-			global::FloatingActionMenu.Resource.Styleable.SearchView_iconifiedByDefault = global::Sample.Resource.Styleable.SearchView_iconifiedByDefault;
-			global::FloatingActionMenu.Resource.Styleable.SearchView_layout = global::Sample.Resource.Styleable.SearchView_layout;
-			global::FloatingActionMenu.Resource.Styleable.SearchView_queryBackground = global::Sample.Resource.Styleable.SearchView_queryBackground;
-			global::FloatingActionMenu.Resource.Styleable.SearchView_queryHint = global::Sample.Resource.Styleable.SearchView_queryHint;
-			global::FloatingActionMenu.Resource.Styleable.SearchView_searchHintIcon = global::Sample.Resource.Styleable.SearchView_searchHintIcon;
-			global::FloatingActionMenu.Resource.Styleable.SearchView_searchIcon = global::Sample.Resource.Styleable.SearchView_searchIcon;
-			global::FloatingActionMenu.Resource.Styleable.SearchView_submitBackground = global::Sample.Resource.Styleable.SearchView_submitBackground;
-			global::FloatingActionMenu.Resource.Styleable.SearchView_suggestionRowLayout = global::Sample.Resource.Styleable.SearchView_suggestionRowLayout;
-			global::FloatingActionMenu.Resource.Styleable.SearchView_voiceIcon = global::Sample.Resource.Styleable.SearchView_voiceIcon;
-			global::FloatingActionMenu.Resource.Styleable.SnackbarLayout = global::Sample.Resource.Styleable.SnackbarLayout;
-			global::FloatingActionMenu.Resource.Styleable.SnackbarLayout_android_maxWidth = global::Sample.Resource.Styleable.SnackbarLayout_android_maxWidth;
-			global::FloatingActionMenu.Resource.Styleable.SnackbarLayout_elevation = global::Sample.Resource.Styleable.SnackbarLayout_elevation;
-			global::FloatingActionMenu.Resource.Styleable.SnackbarLayout_maxActionInlineWidth = global::Sample.Resource.Styleable.SnackbarLayout_maxActionInlineWidth;
-			global::FloatingActionMenu.Resource.Styleable.Spinner = global::Sample.Resource.Styleable.Spinner;
-			global::FloatingActionMenu.Resource.Styleable.Spinner_android_dropDownWidth = global::Sample.Resource.Styleable.Spinner_android_dropDownWidth;
-			global::FloatingActionMenu.Resource.Styleable.Spinner_android_entries = global::Sample.Resource.Styleable.Spinner_android_entries;
-			global::FloatingActionMenu.Resource.Styleable.Spinner_android_popupBackground = global::Sample.Resource.Styleable.Spinner_android_popupBackground;
-			global::FloatingActionMenu.Resource.Styleable.Spinner_android_prompt = global::Sample.Resource.Styleable.Spinner_android_prompt;
-			global::FloatingActionMenu.Resource.Styleable.Spinner_popupTheme = global::Sample.Resource.Styleable.Spinner_popupTheme;
-			global::FloatingActionMenu.Resource.Styleable.SwitchCompat = global::Sample.Resource.Styleable.SwitchCompat;
-			global::FloatingActionMenu.Resource.Styleable.SwitchCompat_android_textOff = global::Sample.Resource.Styleable.SwitchCompat_android_textOff;
-			global::FloatingActionMenu.Resource.Styleable.SwitchCompat_android_textOn = global::Sample.Resource.Styleable.SwitchCompat_android_textOn;
-			global::FloatingActionMenu.Resource.Styleable.SwitchCompat_android_thumb = global::Sample.Resource.Styleable.SwitchCompat_android_thumb;
-			global::FloatingActionMenu.Resource.Styleable.SwitchCompat_showText = global::Sample.Resource.Styleable.SwitchCompat_showText;
-			global::FloatingActionMenu.Resource.Styleable.SwitchCompat_splitTrack = global::Sample.Resource.Styleable.SwitchCompat_splitTrack;
-			global::FloatingActionMenu.Resource.Styleable.SwitchCompat_switchMinWidth = global::Sample.Resource.Styleable.SwitchCompat_switchMinWidth;
-			global::FloatingActionMenu.Resource.Styleable.SwitchCompat_switchPadding = global::Sample.Resource.Styleable.SwitchCompat_switchPadding;
-			global::FloatingActionMenu.Resource.Styleable.SwitchCompat_switchTextAppearance = global::Sample.Resource.Styleable.SwitchCompat_switchTextAppearance;
-			global::FloatingActionMenu.Resource.Styleable.SwitchCompat_thumbTextPadding = global::Sample.Resource.Styleable.SwitchCompat_thumbTextPadding;
-			global::FloatingActionMenu.Resource.Styleable.SwitchCompat_thumbTint = global::Sample.Resource.Styleable.SwitchCompat_thumbTint;
-			global::FloatingActionMenu.Resource.Styleable.SwitchCompat_thumbTintMode = global::Sample.Resource.Styleable.SwitchCompat_thumbTintMode;
-			global::FloatingActionMenu.Resource.Styleable.SwitchCompat_track = global::Sample.Resource.Styleable.SwitchCompat_track;
-			global::FloatingActionMenu.Resource.Styleable.SwitchCompat_trackTint = global::Sample.Resource.Styleable.SwitchCompat_trackTint;
-			global::FloatingActionMenu.Resource.Styleable.SwitchCompat_trackTintMode = global::Sample.Resource.Styleable.SwitchCompat_trackTintMode;
-			global::FloatingActionMenu.Resource.Styleable.TabItem = global::Sample.Resource.Styleable.TabItem;
-			global::FloatingActionMenu.Resource.Styleable.TabItem_android_icon = global::Sample.Resource.Styleable.TabItem_android_icon;
-			global::FloatingActionMenu.Resource.Styleable.TabItem_android_layout = global::Sample.Resource.Styleable.TabItem_android_layout;
-			global::FloatingActionMenu.Resource.Styleable.TabItem_android_text = global::Sample.Resource.Styleable.TabItem_android_text;
-			global::FloatingActionMenu.Resource.Styleable.TabLayout = global::Sample.Resource.Styleable.TabLayout;
-			global::FloatingActionMenu.Resource.Styleable.TabLayout_tabBackground = global::Sample.Resource.Styleable.TabLayout_tabBackground;
-			global::FloatingActionMenu.Resource.Styleable.TabLayout_tabContentStart = global::Sample.Resource.Styleable.TabLayout_tabContentStart;
-			global::FloatingActionMenu.Resource.Styleable.TabLayout_tabGravity = global::Sample.Resource.Styleable.TabLayout_tabGravity;
-			global::FloatingActionMenu.Resource.Styleable.TabLayout_tabIndicatorColor = global::Sample.Resource.Styleable.TabLayout_tabIndicatorColor;
-			global::FloatingActionMenu.Resource.Styleable.TabLayout_tabIndicatorHeight = global::Sample.Resource.Styleable.TabLayout_tabIndicatorHeight;
-			global::FloatingActionMenu.Resource.Styleable.TabLayout_tabMaxWidth = global::Sample.Resource.Styleable.TabLayout_tabMaxWidth;
-			global::FloatingActionMenu.Resource.Styleable.TabLayout_tabMinWidth = global::Sample.Resource.Styleable.TabLayout_tabMinWidth;
-			global::FloatingActionMenu.Resource.Styleable.TabLayout_tabMode = global::Sample.Resource.Styleable.TabLayout_tabMode;
-			global::FloatingActionMenu.Resource.Styleable.TabLayout_tabPadding = global::Sample.Resource.Styleable.TabLayout_tabPadding;
-			global::FloatingActionMenu.Resource.Styleable.TabLayout_tabPaddingBottom = global::Sample.Resource.Styleable.TabLayout_tabPaddingBottom;
-			global::FloatingActionMenu.Resource.Styleable.TabLayout_tabPaddingEnd = global::Sample.Resource.Styleable.TabLayout_tabPaddingEnd;
-			global::FloatingActionMenu.Resource.Styleable.TabLayout_tabPaddingStart = global::Sample.Resource.Styleable.TabLayout_tabPaddingStart;
-			global::FloatingActionMenu.Resource.Styleable.TabLayout_tabPaddingTop = global::Sample.Resource.Styleable.TabLayout_tabPaddingTop;
-			global::FloatingActionMenu.Resource.Styleable.TabLayout_tabSelectedTextColor = global::Sample.Resource.Styleable.TabLayout_tabSelectedTextColor;
-			global::FloatingActionMenu.Resource.Styleable.TabLayout_tabTextAppearance = global::Sample.Resource.Styleable.TabLayout_tabTextAppearance;
-			global::FloatingActionMenu.Resource.Styleable.TabLayout_tabTextColor = global::Sample.Resource.Styleable.TabLayout_tabTextColor;
-			global::FloatingActionMenu.Resource.Styleable.TextAppearance = global::Sample.Resource.Styleable.TextAppearance;
-			global::FloatingActionMenu.Resource.Styleable.TextAppearance_android_fontFamily = global::Sample.Resource.Styleable.TextAppearance_android_fontFamily;
-			global::FloatingActionMenu.Resource.Styleable.TextAppearance_android_shadowColor = global::Sample.Resource.Styleable.TextAppearance_android_shadowColor;
-			global::FloatingActionMenu.Resource.Styleable.TextAppearance_android_shadowDx = global::Sample.Resource.Styleable.TextAppearance_android_shadowDx;
-			global::FloatingActionMenu.Resource.Styleable.TextAppearance_android_shadowDy = global::Sample.Resource.Styleable.TextAppearance_android_shadowDy;
-			global::FloatingActionMenu.Resource.Styleable.TextAppearance_android_shadowRadius = global::Sample.Resource.Styleable.TextAppearance_android_shadowRadius;
-			global::FloatingActionMenu.Resource.Styleable.TextAppearance_android_textColor = global::Sample.Resource.Styleable.TextAppearance_android_textColor;
-			global::FloatingActionMenu.Resource.Styleable.TextAppearance_android_textColorHint = global::Sample.Resource.Styleable.TextAppearance_android_textColorHint;
-			global::FloatingActionMenu.Resource.Styleable.TextAppearance_android_textColorLink = global::Sample.Resource.Styleable.TextAppearance_android_textColorLink;
-			global::FloatingActionMenu.Resource.Styleable.TextAppearance_android_textSize = global::Sample.Resource.Styleable.TextAppearance_android_textSize;
-			global::FloatingActionMenu.Resource.Styleable.TextAppearance_android_textStyle = global::Sample.Resource.Styleable.TextAppearance_android_textStyle;
-			global::FloatingActionMenu.Resource.Styleable.TextAppearance_android_typeface = global::Sample.Resource.Styleable.TextAppearance_android_typeface;
-			global::FloatingActionMenu.Resource.Styleable.TextAppearance_fontFamily = global::Sample.Resource.Styleable.TextAppearance_fontFamily;
-			global::FloatingActionMenu.Resource.Styleable.TextAppearance_textAllCaps = global::Sample.Resource.Styleable.TextAppearance_textAllCaps;
-			global::FloatingActionMenu.Resource.Styleable.TextInputLayout = global::Sample.Resource.Styleable.TextInputLayout;
-			global::FloatingActionMenu.Resource.Styleable.TextInputLayout_android_hint = global::Sample.Resource.Styleable.TextInputLayout_android_hint;
-			global::FloatingActionMenu.Resource.Styleable.TextInputLayout_android_textColorHint = global::Sample.Resource.Styleable.TextInputLayout_android_textColorHint;
-			global::FloatingActionMenu.Resource.Styleable.TextInputLayout_counterEnabled = global::Sample.Resource.Styleable.TextInputLayout_counterEnabled;
-			global::FloatingActionMenu.Resource.Styleable.TextInputLayout_counterMaxLength = global::Sample.Resource.Styleable.TextInputLayout_counterMaxLength;
-			global::FloatingActionMenu.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance = global::Sample.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance;
-			global::FloatingActionMenu.Resource.Styleable.TextInputLayout_counterTextAppearance = global::Sample.Resource.Styleable.TextInputLayout_counterTextAppearance;
-			global::FloatingActionMenu.Resource.Styleable.TextInputLayout_errorEnabled = global::Sample.Resource.Styleable.TextInputLayout_errorEnabled;
-			global::FloatingActionMenu.Resource.Styleable.TextInputLayout_errorTextAppearance = global::Sample.Resource.Styleable.TextInputLayout_errorTextAppearance;
-			global::FloatingActionMenu.Resource.Styleable.TextInputLayout_hintAnimationEnabled = global::Sample.Resource.Styleable.TextInputLayout_hintAnimationEnabled;
-			global::FloatingActionMenu.Resource.Styleable.TextInputLayout_hintEnabled = global::Sample.Resource.Styleable.TextInputLayout_hintEnabled;
-			global::FloatingActionMenu.Resource.Styleable.TextInputLayout_hintTextAppearance = global::Sample.Resource.Styleable.TextInputLayout_hintTextAppearance;
-			global::FloatingActionMenu.Resource.Styleable.TextInputLayout_passwordToggleContentDescription = global::Sample.Resource.Styleable.TextInputLayout_passwordToggleContentDescription;
-			global::FloatingActionMenu.Resource.Styleable.TextInputLayout_passwordToggleDrawable = global::Sample.Resource.Styleable.TextInputLayout_passwordToggleDrawable;
-			global::FloatingActionMenu.Resource.Styleable.TextInputLayout_passwordToggleEnabled = global::Sample.Resource.Styleable.TextInputLayout_passwordToggleEnabled;
-			global::FloatingActionMenu.Resource.Styleable.TextInputLayout_passwordToggleTint = global::Sample.Resource.Styleable.TextInputLayout_passwordToggleTint;
-			global::FloatingActionMenu.Resource.Styleable.TextInputLayout_passwordToggleTintMode = global::Sample.Resource.Styleable.TextInputLayout_passwordToggleTintMode;
-			global::FloatingActionMenu.Resource.Styleable.Toolbar = global::Sample.Resource.Styleable.Toolbar;
-			global::FloatingActionMenu.Resource.Styleable.Toolbar_android_gravity = global::Sample.Resource.Styleable.Toolbar_android_gravity;
-			global::FloatingActionMenu.Resource.Styleable.Toolbar_android_minHeight = global::Sample.Resource.Styleable.Toolbar_android_minHeight;
-			global::FloatingActionMenu.Resource.Styleable.Toolbar_buttonGravity = global::Sample.Resource.Styleable.Toolbar_buttonGravity;
-			global::FloatingActionMenu.Resource.Styleable.Toolbar_collapseContentDescription = global::Sample.Resource.Styleable.Toolbar_collapseContentDescription;
-			global::FloatingActionMenu.Resource.Styleable.Toolbar_collapseIcon = global::Sample.Resource.Styleable.Toolbar_collapseIcon;
-			global::FloatingActionMenu.Resource.Styleable.Toolbar_contentInsetEnd = global::Sample.Resource.Styleable.Toolbar_contentInsetEnd;
-			global::FloatingActionMenu.Resource.Styleable.Toolbar_contentInsetEndWithActions = global::Sample.Resource.Styleable.Toolbar_contentInsetEndWithActions;
-			global::FloatingActionMenu.Resource.Styleable.Toolbar_contentInsetLeft = global::Sample.Resource.Styleable.Toolbar_contentInsetLeft;
-			global::FloatingActionMenu.Resource.Styleable.Toolbar_contentInsetRight = global::Sample.Resource.Styleable.Toolbar_contentInsetRight;
-			global::FloatingActionMenu.Resource.Styleable.Toolbar_contentInsetStart = global::Sample.Resource.Styleable.Toolbar_contentInsetStart;
-			global::FloatingActionMenu.Resource.Styleable.Toolbar_contentInsetStartWithNavigation = global::Sample.Resource.Styleable.Toolbar_contentInsetStartWithNavigation;
-			global::FloatingActionMenu.Resource.Styleable.Toolbar_logo = global::Sample.Resource.Styleable.Toolbar_logo;
-			global::FloatingActionMenu.Resource.Styleable.Toolbar_logoDescription = global::Sample.Resource.Styleable.Toolbar_logoDescription;
-			global::FloatingActionMenu.Resource.Styleable.Toolbar_maxButtonHeight = global::Sample.Resource.Styleable.Toolbar_maxButtonHeight;
-			global::FloatingActionMenu.Resource.Styleable.Toolbar_navigationContentDescription = global::Sample.Resource.Styleable.Toolbar_navigationContentDescription;
-			global::FloatingActionMenu.Resource.Styleable.Toolbar_navigationIcon = global::Sample.Resource.Styleable.Toolbar_navigationIcon;
-			global::FloatingActionMenu.Resource.Styleable.Toolbar_popupTheme = global::Sample.Resource.Styleable.Toolbar_popupTheme;
-			global::FloatingActionMenu.Resource.Styleable.Toolbar_subtitle = global::Sample.Resource.Styleable.Toolbar_subtitle;
-			global::FloatingActionMenu.Resource.Styleable.Toolbar_subtitleTextAppearance = global::Sample.Resource.Styleable.Toolbar_subtitleTextAppearance;
-			global::FloatingActionMenu.Resource.Styleable.Toolbar_subtitleTextColor = global::Sample.Resource.Styleable.Toolbar_subtitleTextColor;
-			global::FloatingActionMenu.Resource.Styleable.Toolbar_title = global::Sample.Resource.Styleable.Toolbar_title;
-			global::FloatingActionMenu.Resource.Styleable.Toolbar_titleMargin = global::Sample.Resource.Styleable.Toolbar_titleMargin;
-			global::FloatingActionMenu.Resource.Styleable.Toolbar_titleMarginBottom = global::Sample.Resource.Styleable.Toolbar_titleMarginBottom;
-			global::FloatingActionMenu.Resource.Styleable.Toolbar_titleMarginEnd = global::Sample.Resource.Styleable.Toolbar_titleMarginEnd;
-			global::FloatingActionMenu.Resource.Styleable.Toolbar_titleMarginStart = global::Sample.Resource.Styleable.Toolbar_titleMarginStart;
-			global::FloatingActionMenu.Resource.Styleable.Toolbar_titleMarginTop = global::Sample.Resource.Styleable.Toolbar_titleMarginTop;
-			global::FloatingActionMenu.Resource.Styleable.Toolbar_titleMargins = global::Sample.Resource.Styleable.Toolbar_titleMargins;
-			global::FloatingActionMenu.Resource.Styleable.Toolbar_titleTextAppearance = global::Sample.Resource.Styleable.Toolbar_titleTextAppearance;
-			global::FloatingActionMenu.Resource.Styleable.Toolbar_titleTextColor = global::Sample.Resource.Styleable.Toolbar_titleTextColor;
-			global::FloatingActionMenu.Resource.Styleable.View = global::Sample.Resource.Styleable.View;
-			global::FloatingActionMenu.Resource.Styleable.View_android_focusable = global::Sample.Resource.Styleable.View_android_focusable;
-			global::FloatingActionMenu.Resource.Styleable.View_android_theme = global::Sample.Resource.Styleable.View_android_theme;
-			global::FloatingActionMenu.Resource.Styleable.View_paddingEnd = global::Sample.Resource.Styleable.View_paddingEnd;
-			global::FloatingActionMenu.Resource.Styleable.View_paddingStart = global::Sample.Resource.Styleable.View_paddingStart;
-			global::FloatingActionMenu.Resource.Styleable.View_theme = global::Sample.Resource.Styleable.View_theme;
-			global::FloatingActionMenu.Resource.Styleable.ViewBackgroundHelper = global::Sample.Resource.Styleable.ViewBackgroundHelper;
-			global::FloatingActionMenu.Resource.Styleable.ViewBackgroundHelper_android_background = global::Sample.Resource.Styleable.ViewBackgroundHelper_android_background;
-			global::FloatingActionMenu.Resource.Styleable.ViewBackgroundHelper_backgroundTint = global::Sample.Resource.Styleable.ViewBackgroundHelper_backgroundTint;
-			global::FloatingActionMenu.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode = global::Sample.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode;
-			global::FloatingActionMenu.Resource.Styleable.ViewStubCompat = global::Sample.Resource.Styleable.ViewStubCompat;
-			global::FloatingActionMenu.Resource.Styleable.ViewStubCompat_android_id = global::Sample.Resource.Styleable.ViewStubCompat_android_id;
-			global::FloatingActionMenu.Resource.Styleable.ViewStubCompat_android_inflatedId = global::Sample.Resource.Styleable.ViewStubCompat_android_inflatedId;
-			global::FloatingActionMenu.Resource.Styleable.ViewStubCompat_android_layout = global::Sample.Resource.Styleable.ViewStubCompat_android_layout;
+			global::TakajiMesser.Droid.Resource.Animation.abc_fade_in = global::Sample.Resource.Animation.abc_fade_in;
+			global::TakajiMesser.Droid.Resource.Animation.abc_fade_out = global::Sample.Resource.Animation.abc_fade_out;
+			global::TakajiMesser.Droid.Resource.Animation.abc_grow_fade_in_from_bottom = global::Sample.Resource.Animation.abc_grow_fade_in_from_bottom;
+			global::TakajiMesser.Droid.Resource.Animation.abc_popup_enter = global::Sample.Resource.Animation.abc_popup_enter;
+			global::TakajiMesser.Droid.Resource.Animation.abc_popup_exit = global::Sample.Resource.Animation.abc_popup_exit;
+			global::TakajiMesser.Droid.Resource.Animation.abc_shrink_fade_out_from_bottom = global::Sample.Resource.Animation.abc_shrink_fade_out_from_bottom;
+			global::TakajiMesser.Droid.Resource.Animation.abc_slide_in_bottom = global::Sample.Resource.Animation.abc_slide_in_bottom;
+			global::TakajiMesser.Droid.Resource.Animation.abc_slide_in_top = global::Sample.Resource.Animation.abc_slide_in_top;
+			global::TakajiMesser.Droid.Resource.Animation.abc_slide_out_bottom = global::Sample.Resource.Animation.abc_slide_out_bottom;
+			global::TakajiMesser.Droid.Resource.Animation.abc_slide_out_top = global::Sample.Resource.Animation.abc_slide_out_top;
+			global::TakajiMesser.Droid.Resource.Animation.child_grow = global::Sample.Resource.Animation.child_grow;
+			global::TakajiMesser.Droid.Resource.Animation.child_shrink = global::Sample.Resource.Animation.child_shrink;
+			global::TakajiMesser.Droid.Resource.Animation.design_bottom_sheet_slide_in = global::Sample.Resource.Animation.design_bottom_sheet_slide_in;
+			global::TakajiMesser.Droid.Resource.Animation.design_bottom_sheet_slide_out = global::Sample.Resource.Animation.design_bottom_sheet_slide_out;
+			global::TakajiMesser.Droid.Resource.Animation.design_snackbar_in = global::Sample.Resource.Animation.design_snackbar_in;
+			global::TakajiMesser.Droid.Resource.Animation.design_snackbar_out = global::Sample.Resource.Animation.design_snackbar_out;
+			global::TakajiMesser.Droid.Resource.Animation.fab_close = global::Sample.Resource.Animation.fab_close;
+			global::TakajiMesser.Droid.Resource.Animation.fab_open = global::Sample.Resource.Animation.fab_open;
+			global::TakajiMesser.Droid.Resource.Animation.label_slide_in_down = global::Sample.Resource.Animation.label_slide_in_down;
+			global::TakajiMesser.Droid.Resource.Animation.label_slide_in_left = global::Sample.Resource.Animation.label_slide_in_left;
+			global::TakajiMesser.Droid.Resource.Animation.label_slide_in_right = global::Sample.Resource.Animation.label_slide_in_right;
+			global::TakajiMesser.Droid.Resource.Animation.label_slide_in_up = global::Sample.Resource.Animation.label_slide_in_up;
+			global::TakajiMesser.Droid.Resource.Animation.label_slide_out_down = global::Sample.Resource.Animation.label_slide_out_down;
+			global::TakajiMesser.Droid.Resource.Animation.label_slide_out_left = global::Sample.Resource.Animation.label_slide_out_left;
+			global::TakajiMesser.Droid.Resource.Animation.label_slide_out_right = global::Sample.Resource.Animation.label_slide_out_right;
+			global::TakajiMesser.Droid.Resource.Animation.label_slide_out_up = global::Sample.Resource.Animation.label_slide_out_up;
+			global::TakajiMesser.Droid.Resource.Animation.tooltip_enter = global::Sample.Resource.Animation.tooltip_enter;
+			global::TakajiMesser.Droid.Resource.Animation.tooltip_exit = global::Sample.Resource.Animation.tooltip_exit;
+			global::TakajiMesser.Droid.Resource.Animator.design_appbar_state_list_animator = global::Sample.Resource.Animator.design_appbar_state_list_animator;
+			global::TakajiMesser.Droid.Resource.Attribute.actionBarDivider = global::Sample.Resource.Attribute.actionBarDivider;
+			global::TakajiMesser.Droid.Resource.Attribute.actionBarItemBackground = global::Sample.Resource.Attribute.actionBarItemBackground;
+			global::TakajiMesser.Droid.Resource.Attribute.actionBarPopupTheme = global::Sample.Resource.Attribute.actionBarPopupTheme;
+			global::TakajiMesser.Droid.Resource.Attribute.actionBarSize = global::Sample.Resource.Attribute.actionBarSize;
+			global::TakajiMesser.Droid.Resource.Attribute.actionBarSplitStyle = global::Sample.Resource.Attribute.actionBarSplitStyle;
+			global::TakajiMesser.Droid.Resource.Attribute.actionBarStyle = global::Sample.Resource.Attribute.actionBarStyle;
+			global::TakajiMesser.Droid.Resource.Attribute.actionBarTabBarStyle = global::Sample.Resource.Attribute.actionBarTabBarStyle;
+			global::TakajiMesser.Droid.Resource.Attribute.actionBarTabStyle = global::Sample.Resource.Attribute.actionBarTabStyle;
+			global::TakajiMesser.Droid.Resource.Attribute.actionBarTabTextStyle = global::Sample.Resource.Attribute.actionBarTabTextStyle;
+			global::TakajiMesser.Droid.Resource.Attribute.actionBarTheme = global::Sample.Resource.Attribute.actionBarTheme;
+			global::TakajiMesser.Droid.Resource.Attribute.actionBarWidgetTheme = global::Sample.Resource.Attribute.actionBarWidgetTheme;
+			global::TakajiMesser.Droid.Resource.Attribute.actionButtonStyle = global::Sample.Resource.Attribute.actionButtonStyle;
+			global::TakajiMesser.Droid.Resource.Attribute.actionDropDownStyle = global::Sample.Resource.Attribute.actionDropDownStyle;
+			global::TakajiMesser.Droid.Resource.Attribute.actionLayout = global::Sample.Resource.Attribute.actionLayout;
+			global::TakajiMesser.Droid.Resource.Attribute.actionMenuTextAppearance = global::Sample.Resource.Attribute.actionMenuTextAppearance;
+			global::TakajiMesser.Droid.Resource.Attribute.actionMenuTextColor = global::Sample.Resource.Attribute.actionMenuTextColor;
+			global::TakajiMesser.Droid.Resource.Attribute.actionModeBackground = global::Sample.Resource.Attribute.actionModeBackground;
+			global::TakajiMesser.Droid.Resource.Attribute.actionModeCloseButtonStyle = global::Sample.Resource.Attribute.actionModeCloseButtonStyle;
+			global::TakajiMesser.Droid.Resource.Attribute.actionModeCloseDrawable = global::Sample.Resource.Attribute.actionModeCloseDrawable;
+			global::TakajiMesser.Droid.Resource.Attribute.actionModeCopyDrawable = global::Sample.Resource.Attribute.actionModeCopyDrawable;
+			global::TakajiMesser.Droid.Resource.Attribute.actionModeCutDrawable = global::Sample.Resource.Attribute.actionModeCutDrawable;
+			global::TakajiMesser.Droid.Resource.Attribute.actionModeFindDrawable = global::Sample.Resource.Attribute.actionModeFindDrawable;
+			global::TakajiMesser.Droid.Resource.Attribute.actionModePasteDrawable = global::Sample.Resource.Attribute.actionModePasteDrawable;
+			global::TakajiMesser.Droid.Resource.Attribute.actionModePopupWindowStyle = global::Sample.Resource.Attribute.actionModePopupWindowStyle;
+			global::TakajiMesser.Droid.Resource.Attribute.actionModeSelectAllDrawable = global::Sample.Resource.Attribute.actionModeSelectAllDrawable;
+			global::TakajiMesser.Droid.Resource.Attribute.actionModeShareDrawable = global::Sample.Resource.Attribute.actionModeShareDrawable;
+			global::TakajiMesser.Droid.Resource.Attribute.actionModeSplitBackground = global::Sample.Resource.Attribute.actionModeSplitBackground;
+			global::TakajiMesser.Droid.Resource.Attribute.actionModeStyle = global::Sample.Resource.Attribute.actionModeStyle;
+			global::TakajiMesser.Droid.Resource.Attribute.actionModeWebSearchDrawable = global::Sample.Resource.Attribute.actionModeWebSearchDrawable;
+			global::TakajiMesser.Droid.Resource.Attribute.actionOverflowButtonStyle = global::Sample.Resource.Attribute.actionOverflowButtonStyle;
+			global::TakajiMesser.Droid.Resource.Attribute.actionOverflowMenuStyle = global::Sample.Resource.Attribute.actionOverflowMenuStyle;
+			global::TakajiMesser.Droid.Resource.Attribute.actionProviderClass = global::Sample.Resource.Attribute.actionProviderClass;
+			global::TakajiMesser.Droid.Resource.Attribute.actionViewClass = global::Sample.Resource.Attribute.actionViewClass;
+			global::TakajiMesser.Droid.Resource.Attribute.activityChooserViewStyle = global::Sample.Resource.Attribute.activityChooserViewStyle;
+			global::TakajiMesser.Droid.Resource.Attribute.alertDialogButtonGroupStyle = global::Sample.Resource.Attribute.alertDialogButtonGroupStyle;
+			global::TakajiMesser.Droid.Resource.Attribute.alertDialogCenterButtons = global::Sample.Resource.Attribute.alertDialogCenterButtons;
+			global::TakajiMesser.Droid.Resource.Attribute.alertDialogStyle = global::Sample.Resource.Attribute.alertDialogStyle;
+			global::TakajiMesser.Droid.Resource.Attribute.alertDialogTheme = global::Sample.Resource.Attribute.alertDialogTheme;
+			global::TakajiMesser.Droid.Resource.Attribute.allowStacking = global::Sample.Resource.Attribute.allowStacking;
+			global::TakajiMesser.Droid.Resource.Attribute.alpha = global::Sample.Resource.Attribute.alpha;
+			global::TakajiMesser.Droid.Resource.Attribute.alphabeticModifiers = global::Sample.Resource.Attribute.alphabeticModifiers;
+			global::TakajiMesser.Droid.Resource.Attribute.arrowHeadLength = global::Sample.Resource.Attribute.arrowHeadLength;
+			global::TakajiMesser.Droid.Resource.Attribute.arrowShaftLength = global::Sample.Resource.Attribute.arrowShaftLength;
+			global::TakajiMesser.Droid.Resource.Attribute.autoCompleteTextViewStyle = global::Sample.Resource.Attribute.autoCompleteTextViewStyle;
+			global::TakajiMesser.Droid.Resource.Attribute.autoSizeMaxTextSize = global::Sample.Resource.Attribute.autoSizeMaxTextSize;
+			global::TakajiMesser.Droid.Resource.Attribute.autoSizeMinTextSize = global::Sample.Resource.Attribute.autoSizeMinTextSize;
+			global::TakajiMesser.Droid.Resource.Attribute.autoSizePresetSizes = global::Sample.Resource.Attribute.autoSizePresetSizes;
+			global::TakajiMesser.Droid.Resource.Attribute.autoSizeStepGranularity = global::Sample.Resource.Attribute.autoSizeStepGranularity;
+			global::TakajiMesser.Droid.Resource.Attribute.autoSizeTextType = global::Sample.Resource.Attribute.autoSizeTextType;
+			global::TakajiMesser.Droid.Resource.Attribute.background = global::Sample.Resource.Attribute.background;
+			global::TakajiMesser.Droid.Resource.Attribute.backgroundSplit = global::Sample.Resource.Attribute.backgroundSplit;
+			global::TakajiMesser.Droid.Resource.Attribute.backgroundStacked = global::Sample.Resource.Attribute.backgroundStacked;
+			global::TakajiMesser.Droid.Resource.Attribute.backgroundTint = global::Sample.Resource.Attribute.backgroundTint;
+			global::TakajiMesser.Droid.Resource.Attribute.backgroundTintMode = global::Sample.Resource.Attribute.backgroundTintMode;
+			global::TakajiMesser.Droid.Resource.Attribute.barLength = global::Sample.Resource.Attribute.barLength;
+			global::TakajiMesser.Droid.Resource.Attribute.behavior_autoHide = global::Sample.Resource.Attribute.behavior_autoHide;
+			global::TakajiMesser.Droid.Resource.Attribute.behavior_hideable = global::Sample.Resource.Attribute.behavior_hideable;
+			global::TakajiMesser.Droid.Resource.Attribute.behavior_overlapTop = global::Sample.Resource.Attribute.behavior_overlapTop;
+			global::TakajiMesser.Droid.Resource.Attribute.behavior_peekHeight = global::Sample.Resource.Attribute.behavior_peekHeight;
+			global::TakajiMesser.Droid.Resource.Attribute.behavior_skipCollapsed = global::Sample.Resource.Attribute.behavior_skipCollapsed;
+			global::TakajiMesser.Droid.Resource.Attribute.borderWidth = global::Sample.Resource.Attribute.borderWidth;
+			global::TakajiMesser.Droid.Resource.Attribute.borderlessButtonStyle = global::Sample.Resource.Attribute.borderlessButtonStyle;
+			global::TakajiMesser.Droid.Resource.Attribute.bottomSheetDialogTheme = global::Sample.Resource.Attribute.bottomSheetDialogTheme;
+			global::TakajiMesser.Droid.Resource.Attribute.bottomSheetStyle = global::Sample.Resource.Attribute.bottomSheetStyle;
+			global::TakajiMesser.Droid.Resource.Attribute.buttonBackgroundColor = global::Sample.Resource.Attribute.buttonBackgroundColor;
+			global::TakajiMesser.Droid.Resource.Attribute.buttonBarButtonStyle = global::Sample.Resource.Attribute.buttonBarButtonStyle;
+			global::TakajiMesser.Droid.Resource.Attribute.buttonBarNegativeButtonStyle = global::Sample.Resource.Attribute.buttonBarNegativeButtonStyle;
+			global::TakajiMesser.Droid.Resource.Attribute.buttonBarNeutralButtonStyle = global::Sample.Resource.Attribute.buttonBarNeutralButtonStyle;
+			global::TakajiMesser.Droid.Resource.Attribute.buttonBarPositiveButtonStyle = global::Sample.Resource.Attribute.buttonBarPositiveButtonStyle;
+			global::TakajiMesser.Droid.Resource.Attribute.buttonBarStyle = global::Sample.Resource.Attribute.buttonBarStyle;
+			global::TakajiMesser.Droid.Resource.Attribute.buttonElevation = global::Sample.Resource.Attribute.buttonElevation;
+			global::TakajiMesser.Droid.Resource.Attribute.buttonGravity = global::Sample.Resource.Attribute.buttonGravity;
+			global::TakajiMesser.Droid.Resource.Attribute.buttonIcon = global::Sample.Resource.Attribute.buttonIcon;
+			global::TakajiMesser.Droid.Resource.Attribute.buttonPanelSideLayout = global::Sample.Resource.Attribute.buttonPanelSideLayout;
+			global::TakajiMesser.Droid.Resource.Attribute.buttonSpacing = global::Sample.Resource.Attribute.buttonSpacing;
+			global::TakajiMesser.Droid.Resource.Attribute.buttonStyle = global::Sample.Resource.Attribute.buttonStyle;
+			global::TakajiMesser.Droid.Resource.Attribute.buttonStyleSmall = global::Sample.Resource.Attribute.buttonStyleSmall;
+			global::TakajiMesser.Droid.Resource.Attribute.buttonTint = global::Sample.Resource.Attribute.buttonTint;
+			global::TakajiMesser.Droid.Resource.Attribute.buttonTintMode = global::Sample.Resource.Attribute.buttonTintMode;
+			global::TakajiMesser.Droid.Resource.Attribute.checkboxStyle = global::Sample.Resource.Attribute.checkboxStyle;
+			global::TakajiMesser.Droid.Resource.Attribute.checkedTextViewStyle = global::Sample.Resource.Attribute.checkedTextViewStyle;
+			global::TakajiMesser.Droid.Resource.Attribute.closeIcon = global::Sample.Resource.Attribute.closeIcon;
+			global::TakajiMesser.Droid.Resource.Attribute.closeItemLayout = global::Sample.Resource.Attribute.closeItemLayout;
+			global::TakajiMesser.Droid.Resource.Attribute.collapseContentDescription = global::Sample.Resource.Attribute.collapseContentDescription;
+			global::TakajiMesser.Droid.Resource.Attribute.collapseIcon = global::Sample.Resource.Attribute.collapseIcon;
+			global::TakajiMesser.Droid.Resource.Attribute.collapsedTitleGravity = global::Sample.Resource.Attribute.collapsedTitleGravity;
+			global::TakajiMesser.Droid.Resource.Attribute.collapsedTitleTextAppearance = global::Sample.Resource.Attribute.collapsedTitleTextAppearance;
+			global::TakajiMesser.Droid.Resource.Attribute.color = global::Sample.Resource.Attribute.color;
+			global::TakajiMesser.Droid.Resource.Attribute.colorAccent = global::Sample.Resource.Attribute.colorAccent;
+			global::TakajiMesser.Droid.Resource.Attribute.colorBackgroundFloating = global::Sample.Resource.Attribute.colorBackgroundFloating;
+			global::TakajiMesser.Droid.Resource.Attribute.colorButtonNormal = global::Sample.Resource.Attribute.colorButtonNormal;
+			global::TakajiMesser.Droid.Resource.Attribute.colorControlActivated = global::Sample.Resource.Attribute.colorControlActivated;
+			global::TakajiMesser.Droid.Resource.Attribute.colorControlHighlight = global::Sample.Resource.Attribute.colorControlHighlight;
+			global::TakajiMesser.Droid.Resource.Attribute.colorControlNormal = global::Sample.Resource.Attribute.colorControlNormal;
+			global::TakajiMesser.Droid.Resource.Attribute.colorError = global::Sample.Resource.Attribute.colorError;
+			global::TakajiMesser.Droid.Resource.Attribute.colorPrimary = global::Sample.Resource.Attribute.colorPrimary;
+			global::TakajiMesser.Droid.Resource.Attribute.colorPrimaryDark = global::Sample.Resource.Attribute.colorPrimaryDark;
+			global::TakajiMesser.Droid.Resource.Attribute.colorSwitchThumbNormal = global::Sample.Resource.Attribute.colorSwitchThumbNormal;
+			global::TakajiMesser.Droid.Resource.Attribute.commitIcon = global::Sample.Resource.Attribute.commitIcon;
+			global::TakajiMesser.Droid.Resource.Attribute.contentDescription = global::Sample.Resource.Attribute.contentDescription;
+			global::TakajiMesser.Droid.Resource.Attribute.contentInsetEnd = global::Sample.Resource.Attribute.contentInsetEnd;
+			global::TakajiMesser.Droid.Resource.Attribute.contentInsetEndWithActions = global::Sample.Resource.Attribute.contentInsetEndWithActions;
+			global::TakajiMesser.Droid.Resource.Attribute.contentInsetLeft = global::Sample.Resource.Attribute.contentInsetLeft;
+			global::TakajiMesser.Droid.Resource.Attribute.contentInsetRight = global::Sample.Resource.Attribute.contentInsetRight;
+			global::TakajiMesser.Droid.Resource.Attribute.contentInsetStart = global::Sample.Resource.Attribute.contentInsetStart;
+			global::TakajiMesser.Droid.Resource.Attribute.contentInsetStartWithNavigation = global::Sample.Resource.Attribute.contentInsetStartWithNavigation;
+			global::TakajiMesser.Droid.Resource.Attribute.contentScrim = global::Sample.Resource.Attribute.contentScrim;
+			global::TakajiMesser.Droid.Resource.Attribute.controlBackground = global::Sample.Resource.Attribute.controlBackground;
+			global::TakajiMesser.Droid.Resource.Attribute.counterEnabled = global::Sample.Resource.Attribute.counterEnabled;
+			global::TakajiMesser.Droid.Resource.Attribute.counterMaxLength = global::Sample.Resource.Attribute.counterMaxLength;
+			global::TakajiMesser.Droid.Resource.Attribute.counterOverflowTextAppearance = global::Sample.Resource.Attribute.counterOverflowTextAppearance;
+			global::TakajiMesser.Droid.Resource.Attribute.counterTextAppearance = global::Sample.Resource.Attribute.counterTextAppearance;
+			global::TakajiMesser.Droid.Resource.Attribute.customNavigationLayout = global::Sample.Resource.Attribute.customNavigationLayout;
+			global::TakajiMesser.Droid.Resource.Attribute.defaultQueryHint = global::Sample.Resource.Attribute.defaultQueryHint;
+			global::TakajiMesser.Droid.Resource.Attribute.dialogPreferredPadding = global::Sample.Resource.Attribute.dialogPreferredPadding;
+			global::TakajiMesser.Droid.Resource.Attribute.dialogTheme = global::Sample.Resource.Attribute.dialogTheme;
+			global::TakajiMesser.Droid.Resource.Attribute.displayOptions = global::Sample.Resource.Attribute.displayOptions;
+			global::TakajiMesser.Droid.Resource.Attribute.divider = global::Sample.Resource.Attribute.divider;
+			global::TakajiMesser.Droid.Resource.Attribute.dividerHorizontal = global::Sample.Resource.Attribute.dividerHorizontal;
+			global::TakajiMesser.Droid.Resource.Attribute.dividerPadding = global::Sample.Resource.Attribute.dividerPadding;
+			global::TakajiMesser.Droid.Resource.Attribute.dividerVertical = global::Sample.Resource.Attribute.dividerVertical;
+			global::TakajiMesser.Droid.Resource.Attribute.drawableSize = global::Sample.Resource.Attribute.drawableSize;
+			global::TakajiMesser.Droid.Resource.Attribute.drawerArrowStyle = global::Sample.Resource.Attribute.drawerArrowStyle;
+			global::TakajiMesser.Droid.Resource.Attribute.dropDownListViewStyle = global::Sample.Resource.Attribute.dropDownListViewStyle;
+			global::TakajiMesser.Droid.Resource.Attribute.dropdownListPreferredItemHeight = global::Sample.Resource.Attribute.dropdownListPreferredItemHeight;
+			global::TakajiMesser.Droid.Resource.Attribute.editTextBackground = global::Sample.Resource.Attribute.editTextBackground;
+			global::TakajiMesser.Droid.Resource.Attribute.editTextColor = global::Sample.Resource.Attribute.editTextColor;
+			global::TakajiMesser.Droid.Resource.Attribute.editTextStyle = global::Sample.Resource.Attribute.editTextStyle;
+			global::TakajiMesser.Droid.Resource.Attribute.elevation = global::Sample.Resource.Attribute.elevation;
+			global::TakajiMesser.Droid.Resource.Attribute.errorEnabled = global::Sample.Resource.Attribute.errorEnabled;
+			global::TakajiMesser.Droid.Resource.Attribute.errorTextAppearance = global::Sample.Resource.Attribute.errorTextAppearance;
+			global::TakajiMesser.Droid.Resource.Attribute.expandActivityOverflowButtonDrawable = global::Sample.Resource.Attribute.expandActivityOverflowButtonDrawable;
+			global::TakajiMesser.Droid.Resource.Attribute.expanded = global::Sample.Resource.Attribute.expanded;
+			global::TakajiMesser.Droid.Resource.Attribute.expandedTitleGravity = global::Sample.Resource.Attribute.expandedTitleGravity;
+			global::TakajiMesser.Droid.Resource.Attribute.expandedTitleMargin = global::Sample.Resource.Attribute.expandedTitleMargin;
+			global::TakajiMesser.Droid.Resource.Attribute.expandedTitleMarginBottom = global::Sample.Resource.Attribute.expandedTitleMarginBottom;
+			global::TakajiMesser.Droid.Resource.Attribute.expandedTitleMarginEnd = global::Sample.Resource.Attribute.expandedTitleMarginEnd;
+			global::TakajiMesser.Droid.Resource.Attribute.expandedTitleMarginStart = global::Sample.Resource.Attribute.expandedTitleMarginStart;
+			global::TakajiMesser.Droid.Resource.Attribute.expandedTitleMarginTop = global::Sample.Resource.Attribute.expandedTitleMarginTop;
+			global::TakajiMesser.Droid.Resource.Attribute.expandedTitleTextAppearance = global::Sample.Resource.Attribute.expandedTitleTextAppearance;
+			global::TakajiMesser.Droid.Resource.Attribute.fabSize = global::Sample.Resource.Attribute.fabSize;
+			global::TakajiMesser.Droid.Resource.Attribute.fastScrollEnabled = global::Sample.Resource.Attribute.fastScrollEnabled;
+			global::TakajiMesser.Droid.Resource.Attribute.fastScrollHorizontalThumbDrawable = global::Sample.Resource.Attribute.fastScrollHorizontalThumbDrawable;
+			global::TakajiMesser.Droid.Resource.Attribute.fastScrollHorizontalTrackDrawable = global::Sample.Resource.Attribute.fastScrollHorizontalTrackDrawable;
+			global::TakajiMesser.Droid.Resource.Attribute.fastScrollVerticalThumbDrawable = global::Sample.Resource.Attribute.fastScrollVerticalThumbDrawable;
+			global::TakajiMesser.Droid.Resource.Attribute.fastScrollVerticalTrackDrawable = global::Sample.Resource.Attribute.fastScrollVerticalTrackDrawable;
+			global::TakajiMesser.Droid.Resource.Attribute.font = global::Sample.Resource.Attribute.font;
+			global::TakajiMesser.Droid.Resource.Attribute.fontFamily = global::Sample.Resource.Attribute.fontFamily;
+			global::TakajiMesser.Droid.Resource.Attribute.fontProviderAuthority = global::Sample.Resource.Attribute.fontProviderAuthority;
+			global::TakajiMesser.Droid.Resource.Attribute.fontProviderCerts = global::Sample.Resource.Attribute.fontProviderCerts;
+			global::TakajiMesser.Droid.Resource.Attribute.fontProviderFetchStrategy = global::Sample.Resource.Attribute.fontProviderFetchStrategy;
+			global::TakajiMesser.Droid.Resource.Attribute.fontProviderFetchTimeout = global::Sample.Resource.Attribute.fontProviderFetchTimeout;
+			global::TakajiMesser.Droid.Resource.Attribute.fontProviderPackage = global::Sample.Resource.Attribute.fontProviderPackage;
+			global::TakajiMesser.Droid.Resource.Attribute.fontProviderQuery = global::Sample.Resource.Attribute.fontProviderQuery;
+			global::TakajiMesser.Droid.Resource.Attribute.fontStyle = global::Sample.Resource.Attribute.fontStyle;
+			global::TakajiMesser.Droid.Resource.Attribute.fontWeight = global::Sample.Resource.Attribute.fontWeight;
+			global::TakajiMesser.Droid.Resource.Attribute.foregroundInsidePadding = global::Sample.Resource.Attribute.foregroundInsidePadding;
+			global::TakajiMesser.Droid.Resource.Attribute.gapBetweenBars = global::Sample.Resource.Attribute.gapBetweenBars;
+			global::TakajiMesser.Droid.Resource.Attribute.goIcon = global::Sample.Resource.Attribute.goIcon;
+			global::TakajiMesser.Droid.Resource.Attribute.headerLayout = global::Sample.Resource.Attribute.headerLayout;
+			global::TakajiMesser.Droid.Resource.Attribute.height = global::Sample.Resource.Attribute.height;
+			global::TakajiMesser.Droid.Resource.Attribute.hideOnContentScroll = global::Sample.Resource.Attribute.hideOnContentScroll;
+			global::TakajiMesser.Droid.Resource.Attribute.hintAnimationEnabled = global::Sample.Resource.Attribute.hintAnimationEnabled;
+			global::TakajiMesser.Droid.Resource.Attribute.hintEnabled = global::Sample.Resource.Attribute.hintEnabled;
+			global::TakajiMesser.Droid.Resource.Attribute.hintTextAppearance = global::Sample.Resource.Attribute.hintTextAppearance;
+			global::TakajiMesser.Droid.Resource.Attribute.homeAsUpIndicator = global::Sample.Resource.Attribute.homeAsUpIndicator;
+			global::TakajiMesser.Droid.Resource.Attribute.homeLayout = global::Sample.Resource.Attribute.homeLayout;
+			global::TakajiMesser.Droid.Resource.Attribute.icon = global::Sample.Resource.Attribute.icon;
+			global::TakajiMesser.Droid.Resource.Attribute.iconTint = global::Sample.Resource.Attribute.iconTint;
+			global::TakajiMesser.Droid.Resource.Attribute.iconTintMode = global::Sample.Resource.Attribute.iconTintMode;
+			global::TakajiMesser.Droid.Resource.Attribute.iconifiedByDefault = global::Sample.Resource.Attribute.iconifiedByDefault;
+			global::TakajiMesser.Droid.Resource.Attribute.imageButtonStyle = global::Sample.Resource.Attribute.imageButtonStyle;
+			global::TakajiMesser.Droid.Resource.Attribute.indeterminateProgressStyle = global::Sample.Resource.Attribute.indeterminateProgressStyle;
+			global::TakajiMesser.Droid.Resource.Attribute.initialActivityCount = global::Sample.Resource.Attribute.initialActivityCount;
+			global::TakajiMesser.Droid.Resource.Attribute.insetForeground = global::Sample.Resource.Attribute.insetForeground;
+			global::TakajiMesser.Droid.Resource.Attribute.isLightTheme = global::Sample.Resource.Attribute.isLightTheme;
+			global::TakajiMesser.Droid.Resource.Attribute.itemBackground = global::Sample.Resource.Attribute.itemBackground;
+			global::TakajiMesser.Droid.Resource.Attribute.itemIconTint = global::Sample.Resource.Attribute.itemIconTint;
+			global::TakajiMesser.Droid.Resource.Attribute.itemPadding = global::Sample.Resource.Attribute.itemPadding;
+			global::TakajiMesser.Droid.Resource.Attribute.itemTextAppearance = global::Sample.Resource.Attribute.itemTextAppearance;
+			global::TakajiMesser.Droid.Resource.Attribute.itemTextColor = global::Sample.Resource.Attribute.itemTextColor;
+			global::TakajiMesser.Droid.Resource.Attribute.keylines = global::Sample.Resource.Attribute.keylines;
+			global::TakajiMesser.Droid.Resource.Attribute.layout = global::Sample.Resource.Attribute.layout;
+			global::TakajiMesser.Droid.Resource.Attribute.layoutManager = global::Sample.Resource.Attribute.layoutManager;
+			global::TakajiMesser.Droid.Resource.Attribute.layout_anchor = global::Sample.Resource.Attribute.layout_anchor;
+			global::TakajiMesser.Droid.Resource.Attribute.layout_anchorGravity = global::Sample.Resource.Attribute.layout_anchorGravity;
+			global::TakajiMesser.Droid.Resource.Attribute.layout_behavior = global::Sample.Resource.Attribute.layout_behavior;
+			global::TakajiMesser.Droid.Resource.Attribute.layout_collapseMode = global::Sample.Resource.Attribute.layout_collapseMode;
+			global::TakajiMesser.Droid.Resource.Attribute.layout_collapseParallaxMultiplier = global::Sample.Resource.Attribute.layout_collapseParallaxMultiplier;
+			global::TakajiMesser.Droid.Resource.Attribute.layout_dodgeInsetEdges = global::Sample.Resource.Attribute.layout_dodgeInsetEdges;
+			global::TakajiMesser.Droid.Resource.Attribute.layout_insetEdge = global::Sample.Resource.Attribute.layout_insetEdge;
+			global::TakajiMesser.Droid.Resource.Attribute.layout_keyline = global::Sample.Resource.Attribute.layout_keyline;
+			global::TakajiMesser.Droid.Resource.Attribute.layout_labelBackgroundColor = global::Sample.Resource.Attribute.layout_labelBackgroundColor;
+			global::TakajiMesser.Droid.Resource.Attribute.layout_labelDirection = global::Sample.Resource.Attribute.layout_labelDirection;
+			global::TakajiMesser.Droid.Resource.Attribute.layout_labelSpacing = global::Sample.Resource.Attribute.layout_labelSpacing;
+			global::TakajiMesser.Droid.Resource.Attribute.layout_labelText = global::Sample.Resource.Attribute.layout_labelText;
+			global::TakajiMesser.Droid.Resource.Attribute.layout_labelTextColor = global::Sample.Resource.Attribute.layout_labelTextColor;
+			global::TakajiMesser.Droid.Resource.Attribute.layout_labelTextSize = global::Sample.Resource.Attribute.layout_labelTextSize;
+			global::TakajiMesser.Droid.Resource.Attribute.layout_scrollFlags = global::Sample.Resource.Attribute.layout_scrollFlags;
+			global::TakajiMesser.Droid.Resource.Attribute.layout_scrollInterpolator = global::Sample.Resource.Attribute.layout_scrollInterpolator;
+			global::TakajiMesser.Droid.Resource.Attribute.listChoiceBackgroundIndicator = global::Sample.Resource.Attribute.listChoiceBackgroundIndicator;
+			global::TakajiMesser.Droid.Resource.Attribute.listDividerAlertDialog = global::Sample.Resource.Attribute.listDividerAlertDialog;
+			global::TakajiMesser.Droid.Resource.Attribute.listItemLayout = global::Sample.Resource.Attribute.listItemLayout;
+			global::TakajiMesser.Droid.Resource.Attribute.listLayout = global::Sample.Resource.Attribute.listLayout;
+			global::TakajiMesser.Droid.Resource.Attribute.listMenuViewStyle = global::Sample.Resource.Attribute.listMenuViewStyle;
+			global::TakajiMesser.Droid.Resource.Attribute.listPopupWindowStyle = global::Sample.Resource.Attribute.listPopupWindowStyle;
+			global::TakajiMesser.Droid.Resource.Attribute.listPreferredItemHeight = global::Sample.Resource.Attribute.listPreferredItemHeight;
+			global::TakajiMesser.Droid.Resource.Attribute.listPreferredItemHeightLarge = global::Sample.Resource.Attribute.listPreferredItemHeightLarge;
+			global::TakajiMesser.Droid.Resource.Attribute.listPreferredItemHeightSmall = global::Sample.Resource.Attribute.listPreferredItemHeightSmall;
+			global::TakajiMesser.Droid.Resource.Attribute.listPreferredItemPaddingLeft = global::Sample.Resource.Attribute.listPreferredItemPaddingLeft;
+			global::TakajiMesser.Droid.Resource.Attribute.listPreferredItemPaddingRight = global::Sample.Resource.Attribute.listPreferredItemPaddingRight;
+			global::TakajiMesser.Droid.Resource.Attribute.logo = global::Sample.Resource.Attribute.logo;
+			global::TakajiMesser.Droid.Resource.Attribute.logoDescription = global::Sample.Resource.Attribute.logoDescription;
+			global::TakajiMesser.Droid.Resource.Attribute.maxActionInlineWidth = global::Sample.Resource.Attribute.maxActionInlineWidth;
+			global::TakajiMesser.Droid.Resource.Attribute.maxButtonHeight = global::Sample.Resource.Attribute.maxButtonHeight;
+			global::TakajiMesser.Droid.Resource.Attribute.measureWithLargestChild = global::Sample.Resource.Attribute.measureWithLargestChild;
+			global::TakajiMesser.Droid.Resource.Attribute.menu = global::Sample.Resource.Attribute.menu;
+			global::TakajiMesser.Droid.Resource.Attribute.multiChoiceItemLayout = global::Sample.Resource.Attribute.multiChoiceItemLayout;
+			global::TakajiMesser.Droid.Resource.Attribute.navigationContentDescription = global::Sample.Resource.Attribute.navigationContentDescription;
+			global::TakajiMesser.Droid.Resource.Attribute.navigationIcon = global::Sample.Resource.Attribute.navigationIcon;
+			global::TakajiMesser.Droid.Resource.Attribute.navigationMode = global::Sample.Resource.Attribute.navigationMode;
+			global::TakajiMesser.Droid.Resource.Attribute.numericModifiers = global::Sample.Resource.Attribute.numericModifiers;
+			global::TakajiMesser.Droid.Resource.Attribute.openDirection = global::Sample.Resource.Attribute.openDirection;
+			global::TakajiMesser.Droid.Resource.Attribute.openOnHold = global::Sample.Resource.Attribute.openOnHold;
+			global::TakajiMesser.Droid.Resource.Attribute.overlapAnchor = global::Sample.Resource.Attribute.overlapAnchor;
+			global::TakajiMesser.Droid.Resource.Attribute.paddingBottomNoButtons = global::Sample.Resource.Attribute.paddingBottomNoButtons;
+			global::TakajiMesser.Droid.Resource.Attribute.paddingEnd = global::Sample.Resource.Attribute.paddingEnd;
+			global::TakajiMesser.Droid.Resource.Attribute.paddingStart = global::Sample.Resource.Attribute.paddingStart;
+			global::TakajiMesser.Droid.Resource.Attribute.paddingTopNoTitle = global::Sample.Resource.Attribute.paddingTopNoTitle;
+			global::TakajiMesser.Droid.Resource.Attribute.panelBackground = global::Sample.Resource.Attribute.panelBackground;
+			global::TakajiMesser.Droid.Resource.Attribute.panelMenuListTheme = global::Sample.Resource.Attribute.panelMenuListTheme;
+			global::TakajiMesser.Droid.Resource.Attribute.panelMenuListWidth = global::Sample.Resource.Attribute.panelMenuListWidth;
+			global::TakajiMesser.Droid.Resource.Attribute.passwordToggleContentDescription = global::Sample.Resource.Attribute.passwordToggleContentDescription;
+			global::TakajiMesser.Droid.Resource.Attribute.passwordToggleDrawable = global::Sample.Resource.Attribute.passwordToggleDrawable;
+			global::TakajiMesser.Droid.Resource.Attribute.passwordToggleEnabled = global::Sample.Resource.Attribute.passwordToggleEnabled;
+			global::TakajiMesser.Droid.Resource.Attribute.passwordToggleTint = global::Sample.Resource.Attribute.passwordToggleTint;
+			global::TakajiMesser.Droid.Resource.Attribute.passwordToggleTintMode = global::Sample.Resource.Attribute.passwordToggleTintMode;
+			global::TakajiMesser.Droid.Resource.Attribute.popupMenuStyle = global::Sample.Resource.Attribute.popupMenuStyle;
+			global::TakajiMesser.Droid.Resource.Attribute.popupTheme = global::Sample.Resource.Attribute.popupTheme;
+			global::TakajiMesser.Droid.Resource.Attribute.popupWindowStyle = global::Sample.Resource.Attribute.popupWindowStyle;
+			global::TakajiMesser.Droid.Resource.Attribute.preserveIconSpacing = global::Sample.Resource.Attribute.preserveIconSpacing;
+			global::TakajiMesser.Droid.Resource.Attribute.pressedTranslationZ = global::Sample.Resource.Attribute.pressedTranslationZ;
+			global::TakajiMesser.Droid.Resource.Attribute.progressBarPadding = global::Sample.Resource.Attribute.progressBarPadding;
+			global::TakajiMesser.Droid.Resource.Attribute.progressBarStyle = global::Sample.Resource.Attribute.progressBarStyle;
+			global::TakajiMesser.Droid.Resource.Attribute.queryBackground = global::Sample.Resource.Attribute.queryBackground;
+			global::TakajiMesser.Droid.Resource.Attribute.queryHint = global::Sample.Resource.Attribute.queryHint;
+			global::TakajiMesser.Droid.Resource.Attribute.radioButtonStyle = global::Sample.Resource.Attribute.radioButtonStyle;
+			global::TakajiMesser.Droid.Resource.Attribute.ratingBarStyle = global::Sample.Resource.Attribute.ratingBarStyle;
+			global::TakajiMesser.Droid.Resource.Attribute.ratingBarStyleIndicator = global::Sample.Resource.Attribute.ratingBarStyleIndicator;
+			global::TakajiMesser.Droid.Resource.Attribute.ratingBarStyleSmall = global::Sample.Resource.Attribute.ratingBarStyleSmall;
+			global::TakajiMesser.Droid.Resource.Attribute.reverseLayout = global::Sample.Resource.Attribute.reverseLayout;
+			global::TakajiMesser.Droid.Resource.Attribute.rippleColor = global::Sample.Resource.Attribute.rippleColor;
+			global::TakajiMesser.Droid.Resource.Attribute.scrimAnimationDuration = global::Sample.Resource.Attribute.scrimAnimationDuration;
+			global::TakajiMesser.Droid.Resource.Attribute.scrimVisibleHeightTrigger = global::Sample.Resource.Attribute.scrimVisibleHeightTrigger;
+			global::TakajiMesser.Droid.Resource.Attribute.searchHintIcon = global::Sample.Resource.Attribute.searchHintIcon;
+			global::TakajiMesser.Droid.Resource.Attribute.searchIcon = global::Sample.Resource.Attribute.searchIcon;
+			global::TakajiMesser.Droid.Resource.Attribute.searchViewStyle = global::Sample.Resource.Attribute.searchViewStyle;
+			global::TakajiMesser.Droid.Resource.Attribute.seekBarStyle = global::Sample.Resource.Attribute.seekBarStyle;
+			global::TakajiMesser.Droid.Resource.Attribute.selectableItemBackground = global::Sample.Resource.Attribute.selectableItemBackground;
+			global::TakajiMesser.Droid.Resource.Attribute.selectableItemBackgroundBorderless = global::Sample.Resource.Attribute.selectableItemBackgroundBorderless;
+			global::TakajiMesser.Droid.Resource.Attribute.showAsAction = global::Sample.Resource.Attribute.showAsAction;
+			global::TakajiMesser.Droid.Resource.Attribute.showDividers = global::Sample.Resource.Attribute.showDividers;
+			global::TakajiMesser.Droid.Resource.Attribute.showText = global::Sample.Resource.Attribute.showText;
+			global::TakajiMesser.Droid.Resource.Attribute.showTitle = global::Sample.Resource.Attribute.showTitle;
+			global::TakajiMesser.Droid.Resource.Attribute.singleChoiceItemLayout = global::Sample.Resource.Attribute.singleChoiceItemLayout;
+			global::TakajiMesser.Droid.Resource.Attribute.spanCount = global::Sample.Resource.Attribute.spanCount;
+			global::TakajiMesser.Droid.Resource.Attribute.spinBars = global::Sample.Resource.Attribute.spinBars;
+			global::TakajiMesser.Droid.Resource.Attribute.spinnerDropDownItemStyle = global::Sample.Resource.Attribute.spinnerDropDownItemStyle;
+			global::TakajiMesser.Droid.Resource.Attribute.spinnerStyle = global::Sample.Resource.Attribute.spinnerStyle;
+			global::TakajiMesser.Droid.Resource.Attribute.splitTrack = global::Sample.Resource.Attribute.splitTrack;
+			global::TakajiMesser.Droid.Resource.Attribute.srcCompat = global::Sample.Resource.Attribute.srcCompat;
+			global::TakajiMesser.Droid.Resource.Attribute.stackFromEnd = global::Sample.Resource.Attribute.stackFromEnd;
+			global::TakajiMesser.Droid.Resource.Attribute.state_above_anchor = global::Sample.Resource.Attribute.state_above_anchor;
+			global::TakajiMesser.Droid.Resource.Attribute.state_collapsed = global::Sample.Resource.Attribute.state_collapsed;
+			global::TakajiMesser.Droid.Resource.Attribute.state_collapsible = global::Sample.Resource.Attribute.state_collapsible;
+			global::TakajiMesser.Droid.Resource.Attribute.statusBarBackground = global::Sample.Resource.Attribute.statusBarBackground;
+			global::TakajiMesser.Droid.Resource.Attribute.statusBarScrim = global::Sample.Resource.Attribute.statusBarScrim;
+			global::TakajiMesser.Droid.Resource.Attribute.subMenuArrow = global::Sample.Resource.Attribute.subMenuArrow;
+			global::TakajiMesser.Droid.Resource.Attribute.submitBackground = global::Sample.Resource.Attribute.submitBackground;
+			global::TakajiMesser.Droid.Resource.Attribute.subtitle = global::Sample.Resource.Attribute.subtitle;
+			global::TakajiMesser.Droid.Resource.Attribute.subtitleTextAppearance = global::Sample.Resource.Attribute.subtitleTextAppearance;
+			global::TakajiMesser.Droid.Resource.Attribute.subtitleTextColor = global::Sample.Resource.Attribute.subtitleTextColor;
+			global::TakajiMesser.Droid.Resource.Attribute.subtitleTextStyle = global::Sample.Resource.Attribute.subtitleTextStyle;
+			global::TakajiMesser.Droid.Resource.Attribute.suggestionRowLayout = global::Sample.Resource.Attribute.suggestionRowLayout;
+			global::TakajiMesser.Droid.Resource.Attribute.switchMinWidth = global::Sample.Resource.Attribute.switchMinWidth;
+			global::TakajiMesser.Droid.Resource.Attribute.switchPadding = global::Sample.Resource.Attribute.switchPadding;
+			global::TakajiMesser.Droid.Resource.Attribute.switchStyle = global::Sample.Resource.Attribute.switchStyle;
+			global::TakajiMesser.Droid.Resource.Attribute.switchTextAppearance = global::Sample.Resource.Attribute.switchTextAppearance;
+			global::TakajiMesser.Droid.Resource.Attribute.tabBackground = global::Sample.Resource.Attribute.tabBackground;
+			global::TakajiMesser.Droid.Resource.Attribute.tabContentStart = global::Sample.Resource.Attribute.tabContentStart;
+			global::TakajiMesser.Droid.Resource.Attribute.tabGravity = global::Sample.Resource.Attribute.tabGravity;
+			global::TakajiMesser.Droid.Resource.Attribute.tabIndicatorColor = global::Sample.Resource.Attribute.tabIndicatorColor;
+			global::TakajiMesser.Droid.Resource.Attribute.tabIndicatorHeight = global::Sample.Resource.Attribute.tabIndicatorHeight;
+			global::TakajiMesser.Droid.Resource.Attribute.tabMaxWidth = global::Sample.Resource.Attribute.tabMaxWidth;
+			global::TakajiMesser.Droid.Resource.Attribute.tabMinWidth = global::Sample.Resource.Attribute.tabMinWidth;
+			global::TakajiMesser.Droid.Resource.Attribute.tabMode = global::Sample.Resource.Attribute.tabMode;
+			global::TakajiMesser.Droid.Resource.Attribute.tabPadding = global::Sample.Resource.Attribute.tabPadding;
+			global::TakajiMesser.Droid.Resource.Attribute.tabPaddingBottom = global::Sample.Resource.Attribute.tabPaddingBottom;
+			global::TakajiMesser.Droid.Resource.Attribute.tabPaddingEnd = global::Sample.Resource.Attribute.tabPaddingEnd;
+			global::TakajiMesser.Droid.Resource.Attribute.tabPaddingStart = global::Sample.Resource.Attribute.tabPaddingStart;
+			global::TakajiMesser.Droid.Resource.Attribute.tabPaddingTop = global::Sample.Resource.Attribute.tabPaddingTop;
+			global::TakajiMesser.Droid.Resource.Attribute.tabSelectedTextColor = global::Sample.Resource.Attribute.tabSelectedTextColor;
+			global::TakajiMesser.Droid.Resource.Attribute.tabTextAppearance = global::Sample.Resource.Attribute.tabTextAppearance;
+			global::TakajiMesser.Droid.Resource.Attribute.tabTextColor = global::Sample.Resource.Attribute.tabTextColor;
+			global::TakajiMesser.Droid.Resource.Attribute.textAllCaps = global::Sample.Resource.Attribute.textAllCaps;
+			global::TakajiMesser.Droid.Resource.Attribute.textAppearanceLargePopupMenu = global::Sample.Resource.Attribute.textAppearanceLargePopupMenu;
+			global::TakajiMesser.Droid.Resource.Attribute.textAppearanceListItem = global::Sample.Resource.Attribute.textAppearanceListItem;
+			global::TakajiMesser.Droid.Resource.Attribute.textAppearanceListItemSecondary = global::Sample.Resource.Attribute.textAppearanceListItemSecondary;
+			global::TakajiMesser.Droid.Resource.Attribute.textAppearanceListItemSmall = global::Sample.Resource.Attribute.textAppearanceListItemSmall;
+			global::TakajiMesser.Droid.Resource.Attribute.textAppearancePopupMenuHeader = global::Sample.Resource.Attribute.textAppearancePopupMenuHeader;
+			global::TakajiMesser.Droid.Resource.Attribute.textAppearanceSearchResultSubtitle = global::Sample.Resource.Attribute.textAppearanceSearchResultSubtitle;
+			global::TakajiMesser.Droid.Resource.Attribute.textAppearanceSearchResultTitle = global::Sample.Resource.Attribute.textAppearanceSearchResultTitle;
+			global::TakajiMesser.Droid.Resource.Attribute.textAppearanceSmallPopupMenu = global::Sample.Resource.Attribute.textAppearanceSmallPopupMenu;
+			global::TakajiMesser.Droid.Resource.Attribute.textColorAlertDialogListItem = global::Sample.Resource.Attribute.textColorAlertDialogListItem;
+			global::TakajiMesser.Droid.Resource.Attribute.textColorError = global::Sample.Resource.Attribute.textColorError;
+			global::TakajiMesser.Droid.Resource.Attribute.textColorSearchUrl = global::Sample.Resource.Attribute.textColorSearchUrl;
+			global::TakajiMesser.Droid.Resource.Attribute.theme = global::Sample.Resource.Attribute.theme;
+			global::TakajiMesser.Droid.Resource.Attribute.thickness = global::Sample.Resource.Attribute.thickness;
+			global::TakajiMesser.Droid.Resource.Attribute.thumbTextPadding = global::Sample.Resource.Attribute.thumbTextPadding;
+			global::TakajiMesser.Droid.Resource.Attribute.thumbTint = global::Sample.Resource.Attribute.thumbTint;
+			global::TakajiMesser.Droid.Resource.Attribute.thumbTintMode = global::Sample.Resource.Attribute.thumbTintMode;
+			global::TakajiMesser.Droid.Resource.Attribute.tickMark = global::Sample.Resource.Attribute.tickMark;
+			global::TakajiMesser.Droid.Resource.Attribute.tickMarkTint = global::Sample.Resource.Attribute.tickMarkTint;
+			global::TakajiMesser.Droid.Resource.Attribute.tickMarkTintMode = global::Sample.Resource.Attribute.tickMarkTintMode;
+			global::TakajiMesser.Droid.Resource.Attribute.tint = global::Sample.Resource.Attribute.tint;
+			global::TakajiMesser.Droid.Resource.Attribute.tintMode = global::Sample.Resource.Attribute.tintMode;
+			global::TakajiMesser.Droid.Resource.Attribute.title = global::Sample.Resource.Attribute.title;
+			global::TakajiMesser.Droid.Resource.Attribute.titleEnabled = global::Sample.Resource.Attribute.titleEnabled;
+			global::TakajiMesser.Droid.Resource.Attribute.titleMargin = global::Sample.Resource.Attribute.titleMargin;
+			global::TakajiMesser.Droid.Resource.Attribute.titleMarginBottom = global::Sample.Resource.Attribute.titleMarginBottom;
+			global::TakajiMesser.Droid.Resource.Attribute.titleMarginEnd = global::Sample.Resource.Attribute.titleMarginEnd;
+			global::TakajiMesser.Droid.Resource.Attribute.titleMarginStart = global::Sample.Resource.Attribute.titleMarginStart;
+			global::TakajiMesser.Droid.Resource.Attribute.titleMarginTop = global::Sample.Resource.Attribute.titleMarginTop;
+			global::TakajiMesser.Droid.Resource.Attribute.titleMargins = global::Sample.Resource.Attribute.titleMargins;
+			global::TakajiMesser.Droid.Resource.Attribute.titleTextAppearance = global::Sample.Resource.Attribute.titleTextAppearance;
+			global::TakajiMesser.Droid.Resource.Attribute.titleTextColor = global::Sample.Resource.Attribute.titleTextColor;
+			global::TakajiMesser.Droid.Resource.Attribute.titleTextStyle = global::Sample.Resource.Attribute.titleTextStyle;
+			global::TakajiMesser.Droid.Resource.Attribute.toolbarId = global::Sample.Resource.Attribute.toolbarId;
+			global::TakajiMesser.Droid.Resource.Attribute.toolbarNavigationButtonStyle = global::Sample.Resource.Attribute.toolbarNavigationButtonStyle;
+			global::TakajiMesser.Droid.Resource.Attribute.toolbarStyle = global::Sample.Resource.Attribute.toolbarStyle;
+			global::TakajiMesser.Droid.Resource.Attribute.tooltipForegroundColor = global::Sample.Resource.Attribute.tooltipForegroundColor;
+			global::TakajiMesser.Droid.Resource.Attribute.tooltipFrameBackground = global::Sample.Resource.Attribute.tooltipFrameBackground;
+			global::TakajiMesser.Droid.Resource.Attribute.tooltipText = global::Sample.Resource.Attribute.tooltipText;
+			global::TakajiMesser.Droid.Resource.Attribute.track = global::Sample.Resource.Attribute.track;
+			global::TakajiMesser.Droid.Resource.Attribute.trackTint = global::Sample.Resource.Attribute.trackTint;
+			global::TakajiMesser.Droid.Resource.Attribute.trackTintMode = global::Sample.Resource.Attribute.trackTintMode;
+			global::TakajiMesser.Droid.Resource.Attribute.useCompatPadding = global::Sample.Resource.Attribute.useCompatPadding;
+			global::TakajiMesser.Droid.Resource.Attribute.voiceIcon = global::Sample.Resource.Attribute.voiceIcon;
+			global::TakajiMesser.Droid.Resource.Attribute.windowActionBar = global::Sample.Resource.Attribute.windowActionBar;
+			global::TakajiMesser.Droid.Resource.Attribute.windowActionBarOverlay = global::Sample.Resource.Attribute.windowActionBarOverlay;
+			global::TakajiMesser.Droid.Resource.Attribute.windowActionModeOverlay = global::Sample.Resource.Attribute.windowActionModeOverlay;
+			global::TakajiMesser.Droid.Resource.Attribute.windowFixedHeightMajor = global::Sample.Resource.Attribute.windowFixedHeightMajor;
+			global::TakajiMesser.Droid.Resource.Attribute.windowFixedHeightMinor = global::Sample.Resource.Attribute.windowFixedHeightMinor;
+			global::TakajiMesser.Droid.Resource.Attribute.windowFixedWidthMajor = global::Sample.Resource.Attribute.windowFixedWidthMajor;
+			global::TakajiMesser.Droid.Resource.Attribute.windowFixedWidthMinor = global::Sample.Resource.Attribute.windowFixedWidthMinor;
+			global::TakajiMesser.Droid.Resource.Attribute.windowMinWidthMajor = global::Sample.Resource.Attribute.windowMinWidthMajor;
+			global::TakajiMesser.Droid.Resource.Attribute.windowMinWidthMinor = global::Sample.Resource.Attribute.windowMinWidthMinor;
+			global::TakajiMesser.Droid.Resource.Attribute.windowNoTitle = global::Sample.Resource.Attribute.windowNoTitle;
+			global::TakajiMesser.Droid.Resource.Boolean.abc_action_bar_embed_tabs = global::Sample.Resource.Boolean.abc_action_bar_embed_tabs;
+			global::TakajiMesser.Droid.Resource.Boolean.abc_allow_stacked_button_bar = global::Sample.Resource.Boolean.abc_allow_stacked_button_bar;
+			global::TakajiMesser.Droid.Resource.Boolean.abc_config_actionMenuItemAllCaps = global::Sample.Resource.Boolean.abc_config_actionMenuItemAllCaps;
+			global::TakajiMesser.Droid.Resource.Boolean.abc_config_closeDialogWhenTouchOutside = global::Sample.Resource.Boolean.abc_config_closeDialogWhenTouchOutside;
+			global::TakajiMesser.Droid.Resource.Boolean.abc_config_showMenuShortcutsWhenKeyboardPresent = global::Sample.Resource.Boolean.abc_config_showMenuShortcutsWhenKeyboardPresent;
+			global::TakajiMesser.Droid.Resource.Color.abc_background_cache_hint_selector_material_dark = global::Sample.Resource.Color.abc_background_cache_hint_selector_material_dark;
+			global::TakajiMesser.Droid.Resource.Color.abc_background_cache_hint_selector_material_light = global::Sample.Resource.Color.abc_background_cache_hint_selector_material_light;
+			global::TakajiMesser.Droid.Resource.Color.abc_btn_colored_borderless_text_material = global::Sample.Resource.Color.abc_btn_colored_borderless_text_material;
+			global::TakajiMesser.Droid.Resource.Color.abc_btn_colored_text_material = global::Sample.Resource.Color.abc_btn_colored_text_material;
+			global::TakajiMesser.Droid.Resource.Color.abc_color_highlight_material = global::Sample.Resource.Color.abc_color_highlight_material;
+			global::TakajiMesser.Droid.Resource.Color.abc_hint_foreground_material_dark = global::Sample.Resource.Color.abc_hint_foreground_material_dark;
+			global::TakajiMesser.Droid.Resource.Color.abc_hint_foreground_material_light = global::Sample.Resource.Color.abc_hint_foreground_material_light;
+			global::TakajiMesser.Droid.Resource.Color.abc_input_method_navigation_guard = global::Sample.Resource.Color.abc_input_method_navigation_guard;
+			global::TakajiMesser.Droid.Resource.Color.abc_primary_text_disable_only_material_dark = global::Sample.Resource.Color.abc_primary_text_disable_only_material_dark;
+			global::TakajiMesser.Droid.Resource.Color.abc_primary_text_disable_only_material_light = global::Sample.Resource.Color.abc_primary_text_disable_only_material_light;
+			global::TakajiMesser.Droid.Resource.Color.abc_primary_text_material_dark = global::Sample.Resource.Color.abc_primary_text_material_dark;
+			global::TakajiMesser.Droid.Resource.Color.abc_primary_text_material_light = global::Sample.Resource.Color.abc_primary_text_material_light;
+			global::TakajiMesser.Droid.Resource.Color.abc_search_url_text = global::Sample.Resource.Color.abc_search_url_text;
+			global::TakajiMesser.Droid.Resource.Color.abc_search_url_text_normal = global::Sample.Resource.Color.abc_search_url_text_normal;
+			global::TakajiMesser.Droid.Resource.Color.abc_search_url_text_pressed = global::Sample.Resource.Color.abc_search_url_text_pressed;
+			global::TakajiMesser.Droid.Resource.Color.abc_search_url_text_selected = global::Sample.Resource.Color.abc_search_url_text_selected;
+			global::TakajiMesser.Droid.Resource.Color.abc_secondary_text_material_dark = global::Sample.Resource.Color.abc_secondary_text_material_dark;
+			global::TakajiMesser.Droid.Resource.Color.abc_secondary_text_material_light = global::Sample.Resource.Color.abc_secondary_text_material_light;
+			global::TakajiMesser.Droid.Resource.Color.abc_tint_btn_checkable = global::Sample.Resource.Color.abc_tint_btn_checkable;
+			global::TakajiMesser.Droid.Resource.Color.abc_tint_default = global::Sample.Resource.Color.abc_tint_default;
+			global::TakajiMesser.Droid.Resource.Color.abc_tint_edittext = global::Sample.Resource.Color.abc_tint_edittext;
+			global::TakajiMesser.Droid.Resource.Color.abc_tint_seek_thumb = global::Sample.Resource.Color.abc_tint_seek_thumb;
+			global::TakajiMesser.Droid.Resource.Color.abc_tint_spinner = global::Sample.Resource.Color.abc_tint_spinner;
+			global::TakajiMesser.Droid.Resource.Color.abc_tint_switch_track = global::Sample.Resource.Color.abc_tint_switch_track;
+			global::TakajiMesser.Droid.Resource.Color.accent_material_dark = global::Sample.Resource.Color.accent_material_dark;
+			global::TakajiMesser.Droid.Resource.Color.accent_material_light = global::Sample.Resource.Color.accent_material_light;
+			global::TakajiMesser.Droid.Resource.Color.background_floating_material_dark = global::Sample.Resource.Color.background_floating_material_dark;
+			global::TakajiMesser.Droid.Resource.Color.background_floating_material_light = global::Sample.Resource.Color.background_floating_material_light;
+			global::TakajiMesser.Droid.Resource.Color.background_material_dark = global::Sample.Resource.Color.background_material_dark;
+			global::TakajiMesser.Droid.Resource.Color.background_material_light = global::Sample.Resource.Color.background_material_light;
+			global::TakajiMesser.Droid.Resource.Color.bright_foreground_disabled_material_dark = global::Sample.Resource.Color.bright_foreground_disabled_material_dark;
+			global::TakajiMesser.Droid.Resource.Color.bright_foreground_disabled_material_light = global::Sample.Resource.Color.bright_foreground_disabled_material_light;
+			global::TakajiMesser.Droid.Resource.Color.bright_foreground_inverse_material_dark = global::Sample.Resource.Color.bright_foreground_inverse_material_dark;
+			global::TakajiMesser.Droid.Resource.Color.bright_foreground_inverse_material_light = global::Sample.Resource.Color.bright_foreground_inverse_material_light;
+			global::TakajiMesser.Droid.Resource.Color.bright_foreground_material_dark = global::Sample.Resource.Color.bright_foreground_material_dark;
+			global::TakajiMesser.Droid.Resource.Color.bright_foreground_material_light = global::Sample.Resource.Color.bright_foreground_material_light;
+			global::TakajiMesser.Droid.Resource.Color.button_material_dark = global::Sample.Resource.Color.button_material_dark;
+			global::TakajiMesser.Droid.Resource.Color.button_material_light = global::Sample.Resource.Color.button_material_light;
+			global::TakajiMesser.Droid.Resource.Color.design_bottom_navigation_shadow_color = global::Sample.Resource.Color.design_bottom_navigation_shadow_color;
+			global::TakajiMesser.Droid.Resource.Color.design_error = global::Sample.Resource.Color.design_error;
+			global::TakajiMesser.Droid.Resource.Color.design_fab_shadow_end_color = global::Sample.Resource.Color.design_fab_shadow_end_color;
+			global::TakajiMesser.Droid.Resource.Color.design_fab_shadow_mid_color = global::Sample.Resource.Color.design_fab_shadow_mid_color;
+			global::TakajiMesser.Droid.Resource.Color.design_fab_shadow_start_color = global::Sample.Resource.Color.design_fab_shadow_start_color;
+			global::TakajiMesser.Droid.Resource.Color.design_fab_stroke_end_inner_color = global::Sample.Resource.Color.design_fab_stroke_end_inner_color;
+			global::TakajiMesser.Droid.Resource.Color.design_fab_stroke_end_outer_color = global::Sample.Resource.Color.design_fab_stroke_end_outer_color;
+			global::TakajiMesser.Droid.Resource.Color.design_fab_stroke_top_inner_color = global::Sample.Resource.Color.design_fab_stroke_top_inner_color;
+			global::TakajiMesser.Droid.Resource.Color.design_fab_stroke_top_outer_color = global::Sample.Resource.Color.design_fab_stroke_top_outer_color;
+			global::TakajiMesser.Droid.Resource.Color.design_snackbar_background_color = global::Sample.Resource.Color.design_snackbar_background_color;
+			global::TakajiMesser.Droid.Resource.Color.design_tint_password_toggle = global::Sample.Resource.Color.design_tint_password_toggle;
+			global::TakajiMesser.Droid.Resource.Color.dim_foreground_disabled_material_dark = global::Sample.Resource.Color.dim_foreground_disabled_material_dark;
+			global::TakajiMesser.Droid.Resource.Color.dim_foreground_disabled_material_light = global::Sample.Resource.Color.dim_foreground_disabled_material_light;
+			global::TakajiMesser.Droid.Resource.Color.dim_foreground_material_dark = global::Sample.Resource.Color.dim_foreground_material_dark;
+			global::TakajiMesser.Droid.Resource.Color.dim_foreground_material_light = global::Sample.Resource.Color.dim_foreground_material_light;
+			global::TakajiMesser.Droid.Resource.Color.error_color_material = global::Sample.Resource.Color.error_color_material;
+			global::TakajiMesser.Droid.Resource.Color.foreground_material_dark = global::Sample.Resource.Color.foreground_material_dark;
+			global::TakajiMesser.Droid.Resource.Color.foreground_material_light = global::Sample.Resource.Color.foreground_material_light;
+			global::TakajiMesser.Droid.Resource.Color.highlighted_text_material_dark = global::Sample.Resource.Color.highlighted_text_material_dark;
+			global::TakajiMesser.Droid.Resource.Color.highlighted_text_material_light = global::Sample.Resource.Color.highlighted_text_material_light;
+			global::TakajiMesser.Droid.Resource.Color.material_blue_grey_800 = global::Sample.Resource.Color.material_blue_grey_800;
+			global::TakajiMesser.Droid.Resource.Color.material_blue_grey_900 = global::Sample.Resource.Color.material_blue_grey_900;
+			global::TakajiMesser.Droid.Resource.Color.material_blue_grey_950 = global::Sample.Resource.Color.material_blue_grey_950;
+			global::TakajiMesser.Droid.Resource.Color.material_deep_teal_200 = global::Sample.Resource.Color.material_deep_teal_200;
+			global::TakajiMesser.Droid.Resource.Color.material_deep_teal_500 = global::Sample.Resource.Color.material_deep_teal_500;
+			global::TakajiMesser.Droid.Resource.Color.material_grey_100 = global::Sample.Resource.Color.material_grey_100;
+			global::TakajiMesser.Droid.Resource.Color.material_grey_300 = global::Sample.Resource.Color.material_grey_300;
+			global::TakajiMesser.Droid.Resource.Color.material_grey_50 = global::Sample.Resource.Color.material_grey_50;
+			global::TakajiMesser.Droid.Resource.Color.material_grey_600 = global::Sample.Resource.Color.material_grey_600;
+			global::TakajiMesser.Droid.Resource.Color.material_grey_800 = global::Sample.Resource.Color.material_grey_800;
+			global::TakajiMesser.Droid.Resource.Color.material_grey_850 = global::Sample.Resource.Color.material_grey_850;
+			global::TakajiMesser.Droid.Resource.Color.material_grey_900 = global::Sample.Resource.Color.material_grey_900;
+			global::TakajiMesser.Droid.Resource.Color.notification_action_color_filter = global::Sample.Resource.Color.notification_action_color_filter;
+			global::TakajiMesser.Droid.Resource.Color.notification_icon_bg_color = global::Sample.Resource.Color.notification_icon_bg_color;
+			global::TakajiMesser.Droid.Resource.Color.notification_material_background_media_default_color = global::Sample.Resource.Color.notification_material_background_media_default_color;
+			global::TakajiMesser.Droid.Resource.Color.primary_dark_material_dark = global::Sample.Resource.Color.primary_dark_material_dark;
+			global::TakajiMesser.Droid.Resource.Color.primary_dark_material_light = global::Sample.Resource.Color.primary_dark_material_light;
+			global::TakajiMesser.Droid.Resource.Color.primary_material_dark = global::Sample.Resource.Color.primary_material_dark;
+			global::TakajiMesser.Droid.Resource.Color.primary_material_light = global::Sample.Resource.Color.primary_material_light;
+			global::TakajiMesser.Droid.Resource.Color.primary_text_default_material_dark = global::Sample.Resource.Color.primary_text_default_material_dark;
+			global::TakajiMesser.Droid.Resource.Color.primary_text_default_material_light = global::Sample.Resource.Color.primary_text_default_material_light;
+			global::TakajiMesser.Droid.Resource.Color.primary_text_disabled_material_dark = global::Sample.Resource.Color.primary_text_disabled_material_dark;
+			global::TakajiMesser.Droid.Resource.Color.primary_text_disabled_material_light = global::Sample.Resource.Color.primary_text_disabled_material_light;
+			global::TakajiMesser.Droid.Resource.Color.ripple_material_dark = global::Sample.Resource.Color.ripple_material_dark;
+			global::TakajiMesser.Droid.Resource.Color.ripple_material_light = global::Sample.Resource.Color.ripple_material_light;
+			global::TakajiMesser.Droid.Resource.Color.secondary_text_default_material_dark = global::Sample.Resource.Color.secondary_text_default_material_dark;
+			global::TakajiMesser.Droid.Resource.Color.secondary_text_default_material_light = global::Sample.Resource.Color.secondary_text_default_material_light;
+			global::TakajiMesser.Droid.Resource.Color.secondary_text_disabled_material_dark = global::Sample.Resource.Color.secondary_text_disabled_material_dark;
+			global::TakajiMesser.Droid.Resource.Color.secondary_text_disabled_material_light = global::Sample.Resource.Color.secondary_text_disabled_material_light;
+			global::TakajiMesser.Droid.Resource.Color.switch_thumb_disabled_material_dark = global::Sample.Resource.Color.switch_thumb_disabled_material_dark;
+			global::TakajiMesser.Droid.Resource.Color.switch_thumb_disabled_material_light = global::Sample.Resource.Color.switch_thumb_disabled_material_light;
+			global::TakajiMesser.Droid.Resource.Color.switch_thumb_material_dark = global::Sample.Resource.Color.switch_thumb_material_dark;
+			global::TakajiMesser.Droid.Resource.Color.switch_thumb_material_light = global::Sample.Resource.Color.switch_thumb_material_light;
+			global::TakajiMesser.Droid.Resource.Color.switch_thumb_normal_material_dark = global::Sample.Resource.Color.switch_thumb_normal_material_dark;
+			global::TakajiMesser.Droid.Resource.Color.switch_thumb_normal_material_light = global::Sample.Resource.Color.switch_thumb_normal_material_light;
+			global::TakajiMesser.Droid.Resource.Color.tooltip_background_dark = global::Sample.Resource.Color.tooltip_background_dark;
+			global::TakajiMesser.Droid.Resource.Color.tooltip_background_light = global::Sample.Resource.Color.tooltip_background_light;
+			global::TakajiMesser.Droid.Resource.Dimension.abc_action_bar_content_inset_material = global::Sample.Resource.Dimension.abc_action_bar_content_inset_material;
+			global::TakajiMesser.Droid.Resource.Dimension.abc_action_bar_content_inset_with_nav = global::Sample.Resource.Dimension.abc_action_bar_content_inset_with_nav;
+			global::TakajiMesser.Droid.Resource.Dimension.abc_action_bar_default_height_material = global::Sample.Resource.Dimension.abc_action_bar_default_height_material;
+			global::TakajiMesser.Droid.Resource.Dimension.abc_action_bar_default_padding_end_material = global::Sample.Resource.Dimension.abc_action_bar_default_padding_end_material;
+			global::TakajiMesser.Droid.Resource.Dimension.abc_action_bar_default_padding_start_material = global::Sample.Resource.Dimension.abc_action_bar_default_padding_start_material;
+			global::TakajiMesser.Droid.Resource.Dimension.abc_action_bar_elevation_material = global::Sample.Resource.Dimension.abc_action_bar_elevation_material;
+			global::TakajiMesser.Droid.Resource.Dimension.abc_action_bar_icon_vertical_padding_material = global::Sample.Resource.Dimension.abc_action_bar_icon_vertical_padding_material;
+			global::TakajiMesser.Droid.Resource.Dimension.abc_action_bar_overflow_padding_end_material = global::Sample.Resource.Dimension.abc_action_bar_overflow_padding_end_material;
+			global::TakajiMesser.Droid.Resource.Dimension.abc_action_bar_overflow_padding_start_material = global::Sample.Resource.Dimension.abc_action_bar_overflow_padding_start_material;
+			global::TakajiMesser.Droid.Resource.Dimension.abc_action_bar_progress_bar_size = global::Sample.Resource.Dimension.abc_action_bar_progress_bar_size;
+			global::TakajiMesser.Droid.Resource.Dimension.abc_action_bar_stacked_max_height = global::Sample.Resource.Dimension.abc_action_bar_stacked_max_height;
+			global::TakajiMesser.Droid.Resource.Dimension.abc_action_bar_stacked_tab_max_width = global::Sample.Resource.Dimension.abc_action_bar_stacked_tab_max_width;
+			global::TakajiMesser.Droid.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material = global::Sample.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material;
+			global::TakajiMesser.Droid.Resource.Dimension.abc_action_bar_subtitle_top_margin_material = global::Sample.Resource.Dimension.abc_action_bar_subtitle_top_margin_material;
+			global::TakajiMesser.Droid.Resource.Dimension.abc_action_button_min_height_material = global::Sample.Resource.Dimension.abc_action_button_min_height_material;
+			global::TakajiMesser.Droid.Resource.Dimension.abc_action_button_min_width_material = global::Sample.Resource.Dimension.abc_action_button_min_width_material;
+			global::TakajiMesser.Droid.Resource.Dimension.abc_action_button_min_width_overflow_material = global::Sample.Resource.Dimension.abc_action_button_min_width_overflow_material;
+			global::TakajiMesser.Droid.Resource.Dimension.abc_alert_dialog_button_bar_height = global::Sample.Resource.Dimension.abc_alert_dialog_button_bar_height;
+			global::TakajiMesser.Droid.Resource.Dimension.abc_button_inset_horizontal_material = global::Sample.Resource.Dimension.abc_button_inset_horizontal_material;
+			global::TakajiMesser.Droid.Resource.Dimension.abc_button_inset_vertical_material = global::Sample.Resource.Dimension.abc_button_inset_vertical_material;
+			global::TakajiMesser.Droid.Resource.Dimension.abc_button_padding_horizontal_material = global::Sample.Resource.Dimension.abc_button_padding_horizontal_material;
+			global::TakajiMesser.Droid.Resource.Dimension.abc_button_padding_vertical_material = global::Sample.Resource.Dimension.abc_button_padding_vertical_material;
+			global::TakajiMesser.Droid.Resource.Dimension.abc_cascading_menus_min_smallest_width = global::Sample.Resource.Dimension.abc_cascading_menus_min_smallest_width;
+			global::TakajiMesser.Droid.Resource.Dimension.abc_config_prefDialogWidth = global::Sample.Resource.Dimension.abc_config_prefDialogWidth;
+			global::TakajiMesser.Droid.Resource.Dimension.abc_control_corner_material = global::Sample.Resource.Dimension.abc_control_corner_material;
+			global::TakajiMesser.Droid.Resource.Dimension.abc_control_inset_material = global::Sample.Resource.Dimension.abc_control_inset_material;
+			global::TakajiMesser.Droid.Resource.Dimension.abc_control_padding_material = global::Sample.Resource.Dimension.abc_control_padding_material;
+			global::TakajiMesser.Droid.Resource.Dimension.abc_dialog_fixed_height_major = global::Sample.Resource.Dimension.abc_dialog_fixed_height_major;
+			global::TakajiMesser.Droid.Resource.Dimension.abc_dialog_fixed_height_minor = global::Sample.Resource.Dimension.abc_dialog_fixed_height_minor;
+			global::TakajiMesser.Droid.Resource.Dimension.abc_dialog_fixed_width_major = global::Sample.Resource.Dimension.abc_dialog_fixed_width_major;
+			global::TakajiMesser.Droid.Resource.Dimension.abc_dialog_fixed_width_minor = global::Sample.Resource.Dimension.abc_dialog_fixed_width_minor;
+			global::TakajiMesser.Droid.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons = global::Sample.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons;
+			global::TakajiMesser.Droid.Resource.Dimension.abc_dialog_list_padding_top_no_title = global::Sample.Resource.Dimension.abc_dialog_list_padding_top_no_title;
+			global::TakajiMesser.Droid.Resource.Dimension.abc_dialog_min_width_major = global::Sample.Resource.Dimension.abc_dialog_min_width_major;
+			global::TakajiMesser.Droid.Resource.Dimension.abc_dialog_min_width_minor = global::Sample.Resource.Dimension.abc_dialog_min_width_minor;
+			global::TakajiMesser.Droid.Resource.Dimension.abc_dialog_padding_material = global::Sample.Resource.Dimension.abc_dialog_padding_material;
+			global::TakajiMesser.Droid.Resource.Dimension.abc_dialog_padding_top_material = global::Sample.Resource.Dimension.abc_dialog_padding_top_material;
+			global::TakajiMesser.Droid.Resource.Dimension.abc_dialog_title_divider_material = global::Sample.Resource.Dimension.abc_dialog_title_divider_material;
+			global::TakajiMesser.Droid.Resource.Dimension.abc_disabled_alpha_material_dark = global::Sample.Resource.Dimension.abc_disabled_alpha_material_dark;
+			global::TakajiMesser.Droid.Resource.Dimension.abc_disabled_alpha_material_light = global::Sample.Resource.Dimension.abc_disabled_alpha_material_light;
+			global::TakajiMesser.Droid.Resource.Dimension.abc_dropdownitem_icon_width = global::Sample.Resource.Dimension.abc_dropdownitem_icon_width;
+			global::TakajiMesser.Droid.Resource.Dimension.abc_dropdownitem_text_padding_left = global::Sample.Resource.Dimension.abc_dropdownitem_text_padding_left;
+			global::TakajiMesser.Droid.Resource.Dimension.abc_dropdownitem_text_padding_right = global::Sample.Resource.Dimension.abc_dropdownitem_text_padding_right;
+			global::TakajiMesser.Droid.Resource.Dimension.abc_edit_text_inset_bottom_material = global::Sample.Resource.Dimension.abc_edit_text_inset_bottom_material;
+			global::TakajiMesser.Droid.Resource.Dimension.abc_edit_text_inset_horizontal_material = global::Sample.Resource.Dimension.abc_edit_text_inset_horizontal_material;
+			global::TakajiMesser.Droid.Resource.Dimension.abc_edit_text_inset_top_material = global::Sample.Resource.Dimension.abc_edit_text_inset_top_material;
+			global::TakajiMesser.Droid.Resource.Dimension.abc_floating_window_z = global::Sample.Resource.Dimension.abc_floating_window_z;
+			global::TakajiMesser.Droid.Resource.Dimension.abc_list_item_padding_horizontal_material = global::Sample.Resource.Dimension.abc_list_item_padding_horizontal_material;
+			global::TakajiMesser.Droid.Resource.Dimension.abc_panel_menu_list_width = global::Sample.Resource.Dimension.abc_panel_menu_list_width;
+			global::TakajiMesser.Droid.Resource.Dimension.abc_progress_bar_height_material = global::Sample.Resource.Dimension.abc_progress_bar_height_material;
+			global::TakajiMesser.Droid.Resource.Dimension.abc_search_view_preferred_height = global::Sample.Resource.Dimension.abc_search_view_preferred_height;
+			global::TakajiMesser.Droid.Resource.Dimension.abc_search_view_preferred_width = global::Sample.Resource.Dimension.abc_search_view_preferred_width;
+			global::TakajiMesser.Droid.Resource.Dimension.abc_seekbar_track_background_height_material = global::Sample.Resource.Dimension.abc_seekbar_track_background_height_material;
+			global::TakajiMesser.Droid.Resource.Dimension.abc_seekbar_track_progress_height_material = global::Sample.Resource.Dimension.abc_seekbar_track_progress_height_material;
+			global::TakajiMesser.Droid.Resource.Dimension.abc_select_dialog_padding_start_material = global::Sample.Resource.Dimension.abc_select_dialog_padding_start_material;
+			global::TakajiMesser.Droid.Resource.Dimension.abc_switch_padding = global::Sample.Resource.Dimension.abc_switch_padding;
+			global::TakajiMesser.Droid.Resource.Dimension.abc_text_size_body_1_material = global::Sample.Resource.Dimension.abc_text_size_body_1_material;
+			global::TakajiMesser.Droid.Resource.Dimension.abc_text_size_body_2_material = global::Sample.Resource.Dimension.abc_text_size_body_2_material;
+			global::TakajiMesser.Droid.Resource.Dimension.abc_text_size_button_material = global::Sample.Resource.Dimension.abc_text_size_button_material;
+			global::TakajiMesser.Droid.Resource.Dimension.abc_text_size_caption_material = global::Sample.Resource.Dimension.abc_text_size_caption_material;
+			global::TakajiMesser.Droid.Resource.Dimension.abc_text_size_display_1_material = global::Sample.Resource.Dimension.abc_text_size_display_1_material;
+			global::TakajiMesser.Droid.Resource.Dimension.abc_text_size_display_2_material = global::Sample.Resource.Dimension.abc_text_size_display_2_material;
+			global::TakajiMesser.Droid.Resource.Dimension.abc_text_size_display_3_material = global::Sample.Resource.Dimension.abc_text_size_display_3_material;
+			global::TakajiMesser.Droid.Resource.Dimension.abc_text_size_display_4_material = global::Sample.Resource.Dimension.abc_text_size_display_4_material;
+			global::TakajiMesser.Droid.Resource.Dimension.abc_text_size_headline_material = global::Sample.Resource.Dimension.abc_text_size_headline_material;
+			global::TakajiMesser.Droid.Resource.Dimension.abc_text_size_large_material = global::Sample.Resource.Dimension.abc_text_size_large_material;
+			global::TakajiMesser.Droid.Resource.Dimension.abc_text_size_medium_material = global::Sample.Resource.Dimension.abc_text_size_medium_material;
+			global::TakajiMesser.Droid.Resource.Dimension.abc_text_size_menu_header_material = global::Sample.Resource.Dimension.abc_text_size_menu_header_material;
+			global::TakajiMesser.Droid.Resource.Dimension.abc_text_size_menu_material = global::Sample.Resource.Dimension.abc_text_size_menu_material;
+			global::TakajiMesser.Droid.Resource.Dimension.abc_text_size_small_material = global::Sample.Resource.Dimension.abc_text_size_small_material;
+			global::TakajiMesser.Droid.Resource.Dimension.abc_text_size_subhead_material = global::Sample.Resource.Dimension.abc_text_size_subhead_material;
+			global::TakajiMesser.Droid.Resource.Dimension.abc_text_size_subtitle_material_toolbar = global::Sample.Resource.Dimension.abc_text_size_subtitle_material_toolbar;
+			global::TakajiMesser.Droid.Resource.Dimension.abc_text_size_title_material = global::Sample.Resource.Dimension.abc_text_size_title_material;
+			global::TakajiMesser.Droid.Resource.Dimension.abc_text_size_title_material_toolbar = global::Sample.Resource.Dimension.abc_text_size_title_material_toolbar;
+			global::TakajiMesser.Droid.Resource.Dimension.compat_button_inset_horizontal_material = global::Sample.Resource.Dimension.compat_button_inset_horizontal_material;
+			global::TakajiMesser.Droid.Resource.Dimension.compat_button_inset_vertical_material = global::Sample.Resource.Dimension.compat_button_inset_vertical_material;
+			global::TakajiMesser.Droid.Resource.Dimension.compat_button_padding_horizontal_material = global::Sample.Resource.Dimension.compat_button_padding_horizontal_material;
+			global::TakajiMesser.Droid.Resource.Dimension.compat_button_padding_vertical_material = global::Sample.Resource.Dimension.compat_button_padding_vertical_material;
+			global::TakajiMesser.Droid.Resource.Dimension.compat_control_corner_material = global::Sample.Resource.Dimension.compat_control_corner_material;
+			global::TakajiMesser.Droid.Resource.Dimension.design_appbar_elevation = global::Sample.Resource.Dimension.design_appbar_elevation;
+			global::TakajiMesser.Droid.Resource.Dimension.design_bottom_navigation_active_item_max_width = global::Sample.Resource.Dimension.design_bottom_navigation_active_item_max_width;
+			global::TakajiMesser.Droid.Resource.Dimension.design_bottom_navigation_active_text_size = global::Sample.Resource.Dimension.design_bottom_navigation_active_text_size;
+			global::TakajiMesser.Droid.Resource.Dimension.design_bottom_navigation_elevation = global::Sample.Resource.Dimension.design_bottom_navigation_elevation;
+			global::TakajiMesser.Droid.Resource.Dimension.design_bottom_navigation_height = global::Sample.Resource.Dimension.design_bottom_navigation_height;
+			global::TakajiMesser.Droid.Resource.Dimension.design_bottom_navigation_item_max_width = global::Sample.Resource.Dimension.design_bottom_navigation_item_max_width;
+			global::TakajiMesser.Droid.Resource.Dimension.design_bottom_navigation_item_min_width = global::Sample.Resource.Dimension.design_bottom_navigation_item_min_width;
+			global::TakajiMesser.Droid.Resource.Dimension.design_bottom_navigation_margin = global::Sample.Resource.Dimension.design_bottom_navigation_margin;
+			global::TakajiMesser.Droid.Resource.Dimension.design_bottom_navigation_shadow_height = global::Sample.Resource.Dimension.design_bottom_navigation_shadow_height;
+			global::TakajiMesser.Droid.Resource.Dimension.design_bottom_navigation_text_size = global::Sample.Resource.Dimension.design_bottom_navigation_text_size;
+			global::TakajiMesser.Droid.Resource.Dimension.design_bottom_sheet_modal_elevation = global::Sample.Resource.Dimension.design_bottom_sheet_modal_elevation;
+			global::TakajiMesser.Droid.Resource.Dimension.design_bottom_sheet_peek_height_min = global::Sample.Resource.Dimension.design_bottom_sheet_peek_height_min;
+			global::TakajiMesser.Droid.Resource.Dimension.design_fab_border_width = global::Sample.Resource.Dimension.design_fab_border_width;
+			global::TakajiMesser.Droid.Resource.Dimension.design_fab_elevation = global::Sample.Resource.Dimension.design_fab_elevation;
+			global::TakajiMesser.Droid.Resource.Dimension.design_fab_image_size = global::Sample.Resource.Dimension.design_fab_image_size;
+			global::TakajiMesser.Droid.Resource.Dimension.design_fab_size_mini = global::Sample.Resource.Dimension.design_fab_size_mini;
+			global::TakajiMesser.Droid.Resource.Dimension.design_fab_size_normal = global::Sample.Resource.Dimension.design_fab_size_normal;
+			global::TakajiMesser.Droid.Resource.Dimension.design_fab_translation_z_pressed = global::Sample.Resource.Dimension.design_fab_translation_z_pressed;
+			global::TakajiMesser.Droid.Resource.Dimension.design_navigation_elevation = global::Sample.Resource.Dimension.design_navigation_elevation;
+			global::TakajiMesser.Droid.Resource.Dimension.design_navigation_icon_padding = global::Sample.Resource.Dimension.design_navigation_icon_padding;
+			global::TakajiMesser.Droid.Resource.Dimension.design_navigation_icon_size = global::Sample.Resource.Dimension.design_navigation_icon_size;
+			global::TakajiMesser.Droid.Resource.Dimension.design_navigation_max_width = global::Sample.Resource.Dimension.design_navigation_max_width;
+			global::TakajiMesser.Droid.Resource.Dimension.design_navigation_padding_bottom = global::Sample.Resource.Dimension.design_navigation_padding_bottom;
+			global::TakajiMesser.Droid.Resource.Dimension.design_navigation_separator_vertical_padding = global::Sample.Resource.Dimension.design_navigation_separator_vertical_padding;
+			global::TakajiMesser.Droid.Resource.Dimension.design_snackbar_action_inline_max_width = global::Sample.Resource.Dimension.design_snackbar_action_inline_max_width;
+			global::TakajiMesser.Droid.Resource.Dimension.design_snackbar_background_corner_radius = global::Sample.Resource.Dimension.design_snackbar_background_corner_radius;
+			global::TakajiMesser.Droid.Resource.Dimension.design_snackbar_elevation = global::Sample.Resource.Dimension.design_snackbar_elevation;
+			global::TakajiMesser.Droid.Resource.Dimension.design_snackbar_extra_spacing_horizontal = global::Sample.Resource.Dimension.design_snackbar_extra_spacing_horizontal;
+			global::TakajiMesser.Droid.Resource.Dimension.design_snackbar_max_width = global::Sample.Resource.Dimension.design_snackbar_max_width;
+			global::TakajiMesser.Droid.Resource.Dimension.design_snackbar_min_width = global::Sample.Resource.Dimension.design_snackbar_min_width;
+			global::TakajiMesser.Droid.Resource.Dimension.design_snackbar_padding_horizontal = global::Sample.Resource.Dimension.design_snackbar_padding_horizontal;
+			global::TakajiMesser.Droid.Resource.Dimension.design_snackbar_padding_vertical = global::Sample.Resource.Dimension.design_snackbar_padding_vertical;
+			global::TakajiMesser.Droid.Resource.Dimension.design_snackbar_padding_vertical_2lines = global::Sample.Resource.Dimension.design_snackbar_padding_vertical_2lines;
+			global::TakajiMesser.Droid.Resource.Dimension.design_snackbar_text_size = global::Sample.Resource.Dimension.design_snackbar_text_size;
+			global::TakajiMesser.Droid.Resource.Dimension.design_tab_max_width = global::Sample.Resource.Dimension.design_tab_max_width;
+			global::TakajiMesser.Droid.Resource.Dimension.design_tab_scrollable_min_width = global::Sample.Resource.Dimension.design_tab_scrollable_min_width;
+			global::TakajiMesser.Droid.Resource.Dimension.design_tab_text_size = global::Sample.Resource.Dimension.design_tab_text_size;
+			global::TakajiMesser.Droid.Resource.Dimension.design_tab_text_size_2line = global::Sample.Resource.Dimension.design_tab_text_size_2line;
+			global::TakajiMesser.Droid.Resource.Dimension.disabled_alpha_material_dark = global::Sample.Resource.Dimension.disabled_alpha_material_dark;
+			global::TakajiMesser.Droid.Resource.Dimension.disabled_alpha_material_light = global::Sample.Resource.Dimension.disabled_alpha_material_light;
+			global::TakajiMesser.Droid.Resource.Dimension.fastscroll_default_thickness = global::Sample.Resource.Dimension.fastscroll_default_thickness;
+			global::TakajiMesser.Droid.Resource.Dimension.fastscroll_margin = global::Sample.Resource.Dimension.fastscroll_margin;
+			global::TakajiMesser.Droid.Resource.Dimension.fastscroll_minimum_range = global::Sample.Resource.Dimension.fastscroll_minimum_range;
+			global::TakajiMesser.Droid.Resource.Dimension.highlight_alpha_material_colored = global::Sample.Resource.Dimension.highlight_alpha_material_colored;
+			global::TakajiMesser.Droid.Resource.Dimension.highlight_alpha_material_dark = global::Sample.Resource.Dimension.highlight_alpha_material_dark;
+			global::TakajiMesser.Droid.Resource.Dimension.highlight_alpha_material_light = global::Sample.Resource.Dimension.highlight_alpha_material_light;
+			global::TakajiMesser.Droid.Resource.Dimension.hint_alpha_material_dark = global::Sample.Resource.Dimension.hint_alpha_material_dark;
+			global::TakajiMesser.Droid.Resource.Dimension.hint_alpha_material_light = global::Sample.Resource.Dimension.hint_alpha_material_light;
+			global::TakajiMesser.Droid.Resource.Dimension.hint_pressed_alpha_material_dark = global::Sample.Resource.Dimension.hint_pressed_alpha_material_dark;
+			global::TakajiMesser.Droid.Resource.Dimension.hint_pressed_alpha_material_light = global::Sample.Resource.Dimension.hint_pressed_alpha_material_light;
+			global::TakajiMesser.Droid.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame = global::Sample.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame;
+			global::TakajiMesser.Droid.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity = global::Sample.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity;
+			global::TakajiMesser.Droid.Resource.Dimension.item_touch_helper_swipe_escape_velocity = global::Sample.Resource.Dimension.item_touch_helper_swipe_escape_velocity;
+			global::TakajiMesser.Droid.Resource.Dimension.notification_action_icon_size = global::Sample.Resource.Dimension.notification_action_icon_size;
+			global::TakajiMesser.Droid.Resource.Dimension.notification_action_text_size = global::Sample.Resource.Dimension.notification_action_text_size;
+			global::TakajiMesser.Droid.Resource.Dimension.notification_big_circle_margin = global::Sample.Resource.Dimension.notification_big_circle_margin;
+			global::TakajiMesser.Droid.Resource.Dimension.notification_content_margin_start = global::Sample.Resource.Dimension.notification_content_margin_start;
+			global::TakajiMesser.Droid.Resource.Dimension.notification_large_icon_height = global::Sample.Resource.Dimension.notification_large_icon_height;
+			global::TakajiMesser.Droid.Resource.Dimension.notification_large_icon_width = global::Sample.Resource.Dimension.notification_large_icon_width;
+			global::TakajiMesser.Droid.Resource.Dimension.notification_main_column_padding_top = global::Sample.Resource.Dimension.notification_main_column_padding_top;
+			global::TakajiMesser.Droid.Resource.Dimension.notification_media_narrow_margin = global::Sample.Resource.Dimension.notification_media_narrow_margin;
+			global::TakajiMesser.Droid.Resource.Dimension.notification_right_icon_size = global::Sample.Resource.Dimension.notification_right_icon_size;
+			global::TakajiMesser.Droid.Resource.Dimension.notification_right_side_padding_top = global::Sample.Resource.Dimension.notification_right_side_padding_top;
+			global::TakajiMesser.Droid.Resource.Dimension.notification_small_icon_background_padding = global::Sample.Resource.Dimension.notification_small_icon_background_padding;
+			global::TakajiMesser.Droid.Resource.Dimension.notification_small_icon_size_as_large = global::Sample.Resource.Dimension.notification_small_icon_size_as_large;
+			global::TakajiMesser.Droid.Resource.Dimension.notification_subtext_size = global::Sample.Resource.Dimension.notification_subtext_size;
+			global::TakajiMesser.Droid.Resource.Dimension.notification_top_pad = global::Sample.Resource.Dimension.notification_top_pad;
+			global::TakajiMesser.Droid.Resource.Dimension.notification_top_pad_large_text = global::Sample.Resource.Dimension.notification_top_pad_large_text;
+			global::TakajiMesser.Droid.Resource.Dimension.tooltip_corner_radius = global::Sample.Resource.Dimension.tooltip_corner_radius;
+			global::TakajiMesser.Droid.Resource.Dimension.tooltip_horizontal_padding = global::Sample.Resource.Dimension.tooltip_horizontal_padding;
+			global::TakajiMesser.Droid.Resource.Dimension.tooltip_margin = global::Sample.Resource.Dimension.tooltip_margin;
+			global::TakajiMesser.Droid.Resource.Dimension.tooltip_precise_anchor_extra_offset = global::Sample.Resource.Dimension.tooltip_precise_anchor_extra_offset;
+			global::TakajiMesser.Droid.Resource.Dimension.tooltip_precise_anchor_threshold = global::Sample.Resource.Dimension.tooltip_precise_anchor_threshold;
+			global::TakajiMesser.Droid.Resource.Dimension.tooltip_vertical_padding = global::Sample.Resource.Dimension.tooltip_vertical_padding;
+			global::TakajiMesser.Droid.Resource.Dimension.tooltip_y_offset_non_touch = global::Sample.Resource.Dimension.tooltip_y_offset_non_touch;
+			global::TakajiMesser.Droid.Resource.Dimension.tooltip_y_offset_touch = global::Sample.Resource.Dimension.tooltip_y_offset_touch;
+			global::TakajiMesser.Droid.Resource.Drawable.abc_ab_share_pack_mtrl_alpha = global::Sample.Resource.Drawable.abc_ab_share_pack_mtrl_alpha;
+			global::TakajiMesser.Droid.Resource.Drawable.abc_action_bar_item_background_material = global::Sample.Resource.Drawable.abc_action_bar_item_background_material;
+			global::TakajiMesser.Droid.Resource.Drawable.abc_btn_borderless_material = global::Sample.Resource.Drawable.abc_btn_borderless_material;
+			global::TakajiMesser.Droid.Resource.Drawable.abc_btn_check_material = global::Sample.Resource.Drawable.abc_btn_check_material;
+			global::TakajiMesser.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_000 = global::Sample.Resource.Drawable.abc_btn_check_to_on_mtrl_000;
+			global::TakajiMesser.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_015 = global::Sample.Resource.Drawable.abc_btn_check_to_on_mtrl_015;
+			global::TakajiMesser.Droid.Resource.Drawable.abc_btn_colored_material = global::Sample.Resource.Drawable.abc_btn_colored_material;
+			global::TakajiMesser.Droid.Resource.Drawable.abc_btn_default_mtrl_shape = global::Sample.Resource.Drawable.abc_btn_default_mtrl_shape;
+			global::TakajiMesser.Droid.Resource.Drawable.abc_btn_radio_material = global::Sample.Resource.Drawable.abc_btn_radio_material;
+			global::TakajiMesser.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_000 = global::Sample.Resource.Drawable.abc_btn_radio_to_on_mtrl_000;
+			global::TakajiMesser.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_015 = global::Sample.Resource.Drawable.abc_btn_radio_to_on_mtrl_015;
+			global::TakajiMesser.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001 = global::Sample.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001;
+			global::TakajiMesser.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012 = global::Sample.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012;
+			global::TakajiMesser.Droid.Resource.Drawable.abc_cab_background_internal_bg = global::Sample.Resource.Drawable.abc_cab_background_internal_bg;
+			global::TakajiMesser.Droid.Resource.Drawable.abc_cab_background_top_material = global::Sample.Resource.Drawable.abc_cab_background_top_material;
+			global::TakajiMesser.Droid.Resource.Drawable.abc_cab_background_top_mtrl_alpha = global::Sample.Resource.Drawable.abc_cab_background_top_mtrl_alpha;
+			global::TakajiMesser.Droid.Resource.Drawable.abc_control_background_material = global::Sample.Resource.Drawable.abc_control_background_material;
+			global::TakajiMesser.Droid.Resource.Drawable.abc_dialog_material_background = global::Sample.Resource.Drawable.abc_dialog_material_background;
+			global::TakajiMesser.Droid.Resource.Drawable.abc_edit_text_material = global::Sample.Resource.Drawable.abc_edit_text_material;
+			global::TakajiMesser.Droid.Resource.Drawable.abc_ic_ab_back_material = global::Sample.Resource.Drawable.abc_ic_ab_back_material;
+			global::TakajiMesser.Droid.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp = global::Sample.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp;
+			global::TakajiMesser.Droid.Resource.Drawable.abc_ic_clear_material = global::Sample.Resource.Drawable.abc_ic_clear_material;
+			global::TakajiMesser.Droid.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha = global::Sample.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha;
+			global::TakajiMesser.Droid.Resource.Drawable.abc_ic_go_search_api_material = global::Sample.Resource.Drawable.abc_ic_go_search_api_material;
+			global::TakajiMesser.Droid.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha = global::Sample.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha;
+			global::TakajiMesser.Droid.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha = global::Sample.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha;
+			global::TakajiMesser.Droid.Resource.Drawable.abc_ic_menu_overflow_material = global::Sample.Resource.Drawable.abc_ic_menu_overflow_material;
+			global::TakajiMesser.Droid.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha = global::Sample.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha;
+			global::TakajiMesser.Droid.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha = global::Sample.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha;
+			global::TakajiMesser.Droid.Resource.Drawable.abc_ic_menu_share_mtrl_alpha = global::Sample.Resource.Drawable.abc_ic_menu_share_mtrl_alpha;
+			global::TakajiMesser.Droid.Resource.Drawable.abc_ic_search_api_material = global::Sample.Resource.Drawable.abc_ic_search_api_material;
+			global::TakajiMesser.Droid.Resource.Drawable.abc_ic_star_black_16dp = global::Sample.Resource.Drawable.abc_ic_star_black_16dp;
+			global::TakajiMesser.Droid.Resource.Drawable.abc_ic_star_black_36dp = global::Sample.Resource.Drawable.abc_ic_star_black_36dp;
+			global::TakajiMesser.Droid.Resource.Drawable.abc_ic_star_black_48dp = global::Sample.Resource.Drawable.abc_ic_star_black_48dp;
+			global::TakajiMesser.Droid.Resource.Drawable.abc_ic_star_half_black_16dp = global::Sample.Resource.Drawable.abc_ic_star_half_black_16dp;
+			global::TakajiMesser.Droid.Resource.Drawable.abc_ic_star_half_black_36dp = global::Sample.Resource.Drawable.abc_ic_star_half_black_36dp;
+			global::TakajiMesser.Droid.Resource.Drawable.abc_ic_star_half_black_48dp = global::Sample.Resource.Drawable.abc_ic_star_half_black_48dp;
+			global::TakajiMesser.Droid.Resource.Drawable.abc_ic_voice_search_api_material = global::Sample.Resource.Drawable.abc_ic_voice_search_api_material;
+			global::TakajiMesser.Droid.Resource.Drawable.abc_item_background_holo_dark = global::Sample.Resource.Drawable.abc_item_background_holo_dark;
+			global::TakajiMesser.Droid.Resource.Drawable.abc_item_background_holo_light = global::Sample.Resource.Drawable.abc_item_background_holo_light;
+			global::TakajiMesser.Droid.Resource.Drawable.abc_list_divider_mtrl_alpha = global::Sample.Resource.Drawable.abc_list_divider_mtrl_alpha;
+			global::TakajiMesser.Droid.Resource.Drawable.abc_list_focused_holo = global::Sample.Resource.Drawable.abc_list_focused_holo;
+			global::TakajiMesser.Droid.Resource.Drawable.abc_list_longpressed_holo = global::Sample.Resource.Drawable.abc_list_longpressed_holo;
+			global::TakajiMesser.Droid.Resource.Drawable.abc_list_pressed_holo_dark = global::Sample.Resource.Drawable.abc_list_pressed_holo_dark;
+			global::TakajiMesser.Droid.Resource.Drawable.abc_list_pressed_holo_light = global::Sample.Resource.Drawable.abc_list_pressed_holo_light;
+			global::TakajiMesser.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_dark = global::Sample.Resource.Drawable.abc_list_selector_background_transition_holo_dark;
+			global::TakajiMesser.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_light = global::Sample.Resource.Drawable.abc_list_selector_background_transition_holo_light;
+			global::TakajiMesser.Droid.Resource.Drawable.abc_list_selector_disabled_holo_dark = global::Sample.Resource.Drawable.abc_list_selector_disabled_holo_dark;
+			global::TakajiMesser.Droid.Resource.Drawable.abc_list_selector_disabled_holo_light = global::Sample.Resource.Drawable.abc_list_selector_disabled_holo_light;
+			global::TakajiMesser.Droid.Resource.Drawable.abc_list_selector_holo_dark = global::Sample.Resource.Drawable.abc_list_selector_holo_dark;
+			global::TakajiMesser.Droid.Resource.Drawable.abc_list_selector_holo_light = global::Sample.Resource.Drawable.abc_list_selector_holo_light;
+			global::TakajiMesser.Droid.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult = global::Sample.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult;
+			global::TakajiMesser.Droid.Resource.Drawable.abc_popup_background_mtrl_mult = global::Sample.Resource.Drawable.abc_popup_background_mtrl_mult;
+			global::TakajiMesser.Droid.Resource.Drawable.abc_ratingbar_indicator_material = global::Sample.Resource.Drawable.abc_ratingbar_indicator_material;
+			global::TakajiMesser.Droid.Resource.Drawable.abc_ratingbar_material = global::Sample.Resource.Drawable.abc_ratingbar_material;
+			global::TakajiMesser.Droid.Resource.Drawable.abc_ratingbar_small_material = global::Sample.Resource.Drawable.abc_ratingbar_small_material;
+			global::TakajiMesser.Droid.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha = global::Sample.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha;
+			global::TakajiMesser.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000 = global::Sample.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000;
+			global::TakajiMesser.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005 = global::Sample.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005;
+			global::TakajiMesser.Droid.Resource.Drawable.abc_scrubber_primary_mtrl_alpha = global::Sample.Resource.Drawable.abc_scrubber_primary_mtrl_alpha;
+			global::TakajiMesser.Droid.Resource.Drawable.abc_scrubber_track_mtrl_alpha = global::Sample.Resource.Drawable.abc_scrubber_track_mtrl_alpha;
+			global::TakajiMesser.Droid.Resource.Drawable.abc_seekbar_thumb_material = global::Sample.Resource.Drawable.abc_seekbar_thumb_material;
+			global::TakajiMesser.Droid.Resource.Drawable.abc_seekbar_tick_mark_material = global::Sample.Resource.Drawable.abc_seekbar_tick_mark_material;
+			global::TakajiMesser.Droid.Resource.Drawable.abc_seekbar_track_material = global::Sample.Resource.Drawable.abc_seekbar_track_material;
+			global::TakajiMesser.Droid.Resource.Drawable.abc_spinner_mtrl_am_alpha = global::Sample.Resource.Drawable.abc_spinner_mtrl_am_alpha;
+			global::TakajiMesser.Droid.Resource.Drawable.abc_spinner_textfield_background_material = global::Sample.Resource.Drawable.abc_spinner_textfield_background_material;
+			global::TakajiMesser.Droid.Resource.Drawable.abc_switch_thumb_material = global::Sample.Resource.Drawable.abc_switch_thumb_material;
+			global::TakajiMesser.Droid.Resource.Drawable.abc_switch_track_mtrl_alpha = global::Sample.Resource.Drawable.abc_switch_track_mtrl_alpha;
+			global::TakajiMesser.Droid.Resource.Drawable.abc_tab_indicator_material = global::Sample.Resource.Drawable.abc_tab_indicator_material;
+			global::TakajiMesser.Droid.Resource.Drawable.abc_tab_indicator_mtrl_alpha = global::Sample.Resource.Drawable.abc_tab_indicator_mtrl_alpha;
+			global::TakajiMesser.Droid.Resource.Drawable.abc_text_cursor_material = global::Sample.Resource.Drawable.abc_text_cursor_material;
+			global::TakajiMesser.Droid.Resource.Drawable.abc_text_select_handle_left_mtrl_dark = global::Sample.Resource.Drawable.abc_text_select_handle_left_mtrl_dark;
+			global::TakajiMesser.Droid.Resource.Drawable.abc_text_select_handle_left_mtrl_light = global::Sample.Resource.Drawable.abc_text_select_handle_left_mtrl_light;
+			global::TakajiMesser.Droid.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark = global::Sample.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark;
+			global::TakajiMesser.Droid.Resource.Drawable.abc_text_select_handle_middle_mtrl_light = global::Sample.Resource.Drawable.abc_text_select_handle_middle_mtrl_light;
+			global::TakajiMesser.Droid.Resource.Drawable.abc_text_select_handle_right_mtrl_dark = global::Sample.Resource.Drawable.abc_text_select_handle_right_mtrl_dark;
+			global::TakajiMesser.Droid.Resource.Drawable.abc_text_select_handle_right_mtrl_light = global::Sample.Resource.Drawable.abc_text_select_handle_right_mtrl_light;
+			global::TakajiMesser.Droid.Resource.Drawable.abc_textfield_activated_mtrl_alpha = global::Sample.Resource.Drawable.abc_textfield_activated_mtrl_alpha;
+			global::TakajiMesser.Droid.Resource.Drawable.abc_textfield_default_mtrl_alpha = global::Sample.Resource.Drawable.abc_textfield_default_mtrl_alpha;
+			global::TakajiMesser.Droid.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha = global::Sample.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha;
+			global::TakajiMesser.Droid.Resource.Drawable.abc_textfield_search_default_mtrl_alpha = global::Sample.Resource.Drawable.abc_textfield_search_default_mtrl_alpha;
+			global::TakajiMesser.Droid.Resource.Drawable.abc_textfield_search_material = global::Sample.Resource.Drawable.abc_textfield_search_material;
+			global::TakajiMesser.Droid.Resource.Drawable.abc_vector_test = global::Sample.Resource.Drawable.abc_vector_test;
+			global::TakajiMesser.Droid.Resource.Drawable.avd_hide_password = global::Sample.Resource.Drawable.avd_hide_password;
+			global::TakajiMesser.Droid.Resource.Drawable.avd_hide_password_1 = global::Sample.Resource.Drawable.avd_hide_password_1;
+			global::TakajiMesser.Droid.Resource.Drawable.avd_hide_password_2 = global::Sample.Resource.Drawable.avd_hide_password_2;
+			global::TakajiMesser.Droid.Resource.Drawable.avd_hide_password_3 = global::Sample.Resource.Drawable.avd_hide_password_3;
+			global::TakajiMesser.Droid.Resource.Drawable.avd_show_password = global::Sample.Resource.Drawable.avd_show_password;
+			global::TakajiMesser.Droid.Resource.Drawable.avd_show_password_1 = global::Sample.Resource.Drawable.avd_show_password_1;
+			global::TakajiMesser.Droid.Resource.Drawable.avd_show_password_2 = global::Sample.Resource.Drawable.avd_show_password_2;
+			global::TakajiMesser.Droid.Resource.Drawable.avd_show_password_3 = global::Sample.Resource.Drawable.avd_show_password_3;
+			global::TakajiMesser.Droid.Resource.Drawable.design_bottom_navigation_item_background = global::Sample.Resource.Drawable.design_bottom_navigation_item_background;
+			global::TakajiMesser.Droid.Resource.Drawable.design_fab_background = global::Sample.Resource.Drawable.design_fab_background;
+			global::TakajiMesser.Droid.Resource.Drawable.design_ic_visibility = global::Sample.Resource.Drawable.design_ic_visibility;
+			global::TakajiMesser.Droid.Resource.Drawable.design_ic_visibility_off = global::Sample.Resource.Drawable.design_ic_visibility_off;
+			global::TakajiMesser.Droid.Resource.Drawable.design_password_eye = global::Sample.Resource.Drawable.design_password_eye;
+			global::TakajiMesser.Droid.Resource.Drawable.design_snackbar_background = global::Sample.Resource.Drawable.design_snackbar_background;
+			global::TakajiMesser.Droid.Resource.Drawable.fab_add = global::Sample.Resource.Drawable.fab_add;
+			global::TakajiMesser.Droid.Resource.Drawable.fab_label_background = global::Sample.Resource.Drawable.fab_label_background;
+			global::TakajiMesser.Droid.Resource.Drawable.navigation_empty_icon = global::Sample.Resource.Drawable.navigation_empty_icon;
+			global::TakajiMesser.Droid.Resource.Drawable.notification_action_background = global::Sample.Resource.Drawable.notification_action_background;
+			global::TakajiMesser.Droid.Resource.Drawable.notification_bg = global::Sample.Resource.Drawable.notification_bg;
+			global::TakajiMesser.Droid.Resource.Drawable.notification_bg_low = global::Sample.Resource.Drawable.notification_bg_low;
+			global::TakajiMesser.Droid.Resource.Drawable.notification_bg_low_normal = global::Sample.Resource.Drawable.notification_bg_low_normal;
+			global::TakajiMesser.Droid.Resource.Drawable.notification_bg_low_pressed = global::Sample.Resource.Drawable.notification_bg_low_pressed;
+			global::TakajiMesser.Droid.Resource.Drawable.notification_bg_normal = global::Sample.Resource.Drawable.notification_bg_normal;
+			global::TakajiMesser.Droid.Resource.Drawable.notification_bg_normal_pressed = global::Sample.Resource.Drawable.notification_bg_normal_pressed;
+			global::TakajiMesser.Droid.Resource.Drawable.notification_icon_background = global::Sample.Resource.Drawable.notification_icon_background;
+			global::TakajiMesser.Droid.Resource.Drawable.notification_template_icon_bg = global::Sample.Resource.Drawable.notification_template_icon_bg;
+			global::TakajiMesser.Droid.Resource.Drawable.notification_template_icon_low_bg = global::Sample.Resource.Drawable.notification_template_icon_low_bg;
+			global::TakajiMesser.Droid.Resource.Drawable.notification_tile_bg = global::Sample.Resource.Drawable.notification_tile_bg;
+			global::TakajiMesser.Droid.Resource.Drawable.notify_panel_notification_icon_bg = global::Sample.Resource.Drawable.notify_panel_notification_icon_bg;
+			global::TakajiMesser.Droid.Resource.Drawable.tooltip_frame_dark = global::Sample.Resource.Drawable.tooltip_frame_dark;
+			global::TakajiMesser.Droid.Resource.Drawable.tooltip_frame_light = global::Sample.Resource.Drawable.tooltip_frame_light;
+			global::TakajiMesser.Droid.Resource.Id.ALT = global::Sample.Resource.Id.ALT;
+			global::TakajiMesser.Droid.Resource.Id.CTRL = global::Sample.Resource.Id.CTRL;
+			global::TakajiMesser.Droid.Resource.Id.FUNCTION = global::Sample.Resource.Id.FUNCTION;
+			global::TakajiMesser.Droid.Resource.Id.META = global::Sample.Resource.Id.META;
+			global::TakajiMesser.Droid.Resource.Id.SHIFT = global::Sample.Resource.Id.SHIFT;
+			global::TakajiMesser.Droid.Resource.Id.SYM = global::Sample.Resource.Id.SYM;
+			global::TakajiMesser.Droid.Resource.Id.action0 = global::Sample.Resource.Id.action0;
+			global::TakajiMesser.Droid.Resource.Id.action_bar = global::Sample.Resource.Id.action_bar;
+			global::TakajiMesser.Droid.Resource.Id.action_bar_activity_content = global::Sample.Resource.Id.action_bar_activity_content;
+			global::TakajiMesser.Droid.Resource.Id.action_bar_container = global::Sample.Resource.Id.action_bar_container;
+			global::TakajiMesser.Droid.Resource.Id.action_bar_root = global::Sample.Resource.Id.action_bar_root;
+			global::TakajiMesser.Droid.Resource.Id.action_bar_spinner = global::Sample.Resource.Id.action_bar_spinner;
+			global::TakajiMesser.Droid.Resource.Id.action_bar_subtitle = global::Sample.Resource.Id.action_bar_subtitle;
+			global::TakajiMesser.Droid.Resource.Id.action_bar_title = global::Sample.Resource.Id.action_bar_title;
+			global::TakajiMesser.Droid.Resource.Id.action_container = global::Sample.Resource.Id.action_container;
+			global::TakajiMesser.Droid.Resource.Id.action_context_bar = global::Sample.Resource.Id.action_context_bar;
+			global::TakajiMesser.Droid.Resource.Id.action_divider = global::Sample.Resource.Id.action_divider;
+			global::TakajiMesser.Droid.Resource.Id.action_image = global::Sample.Resource.Id.action_image;
+			global::TakajiMesser.Droid.Resource.Id.action_menu_divider = global::Sample.Resource.Id.action_menu_divider;
+			global::TakajiMesser.Droid.Resource.Id.action_menu_presenter = global::Sample.Resource.Id.action_menu_presenter;
+			global::TakajiMesser.Droid.Resource.Id.action_mode_bar = global::Sample.Resource.Id.action_mode_bar;
+			global::TakajiMesser.Droid.Resource.Id.action_mode_bar_stub = global::Sample.Resource.Id.action_mode_bar_stub;
+			global::TakajiMesser.Droid.Resource.Id.action_mode_close_button = global::Sample.Resource.Id.action_mode_close_button;
+			global::TakajiMesser.Droid.Resource.Id.action_text = global::Sample.Resource.Id.action_text;
+			global::TakajiMesser.Droid.Resource.Id.actions = global::Sample.Resource.Id.actions;
+			global::TakajiMesser.Droid.Resource.Id.activity_chooser_view_content = global::Sample.Resource.Id.activity_chooser_view_content;
+			global::TakajiMesser.Droid.Resource.Id.add = global::Sample.Resource.Id.add;
+			global::TakajiMesser.Droid.Resource.Id.alertTitle = global::Sample.Resource.Id.alertTitle;
+			global::TakajiMesser.Droid.Resource.Id.all = global::Sample.Resource.Id.all;
+			global::TakajiMesser.Droid.Resource.Id.always = global::Sample.Resource.Id.always;
+			global::TakajiMesser.Droid.Resource.Id.async = global::Sample.Resource.Id.async;
+			global::TakajiMesser.Droid.Resource.Id.auto = global::Sample.Resource.Id.auto;
+			global::TakajiMesser.Droid.Resource.Id.beginning = global::Sample.Resource.Id.beginning;
+			global::TakajiMesser.Droid.Resource.Id.blocking = global::Sample.Resource.Id.blocking;
+			global::TakajiMesser.Droid.Resource.Id.bottom = global::Sample.Resource.Id.bottom;
+			global::TakajiMesser.Droid.Resource.Id.buttonPanel = global::Sample.Resource.Id.buttonPanel;
+			global::TakajiMesser.Droid.Resource.Id.cancel_action = global::Sample.Resource.Id.cancel_action;
+			global::TakajiMesser.Droid.Resource.Id.center = global::Sample.Resource.Id.center;
+			global::TakajiMesser.Droid.Resource.Id.center_horizontal = global::Sample.Resource.Id.center_horizontal;
+			global::TakajiMesser.Droid.Resource.Id.center_vertical = global::Sample.Resource.Id.center_vertical;
+			global::TakajiMesser.Droid.Resource.Id.checkbox = global::Sample.Resource.Id.checkbox;
+			global::TakajiMesser.Droid.Resource.Id.chronometer = global::Sample.Resource.Id.chronometer;
+			global::TakajiMesser.Droid.Resource.Id.clip_horizontal = global::Sample.Resource.Id.clip_horizontal;
+			global::TakajiMesser.Droid.Resource.Id.clip_vertical = global::Sample.Resource.Id.clip_vertical;
+			global::TakajiMesser.Droid.Resource.Id.collapseActionView = global::Sample.Resource.Id.collapseActionView;
+			global::TakajiMesser.Droid.Resource.Id.container = global::Sample.Resource.Id.container;
+			global::TakajiMesser.Droid.Resource.Id.contentPanel = global::Sample.Resource.Id.contentPanel;
+			global::TakajiMesser.Droid.Resource.Id.coordinator = global::Sample.Resource.Id.coordinator;
+			global::TakajiMesser.Droid.Resource.Id.custom = global::Sample.Resource.Id.custom;
+			global::TakajiMesser.Droid.Resource.Id.customPanel = global::Sample.Resource.Id.customPanel;
+			global::TakajiMesser.Droid.Resource.Id.decor_content_parent = global::Sample.Resource.Id.decor_content_parent;
+			global::TakajiMesser.Droid.Resource.Id.default_activity_button = global::Sample.Resource.Id.default_activity_button;
+			global::TakajiMesser.Droid.Resource.Id.design_bottom_sheet = global::Sample.Resource.Id.design_bottom_sheet;
+			global::TakajiMesser.Droid.Resource.Id.design_menu_item_action_area = global::Sample.Resource.Id.design_menu_item_action_area;
+			global::TakajiMesser.Droid.Resource.Id.design_menu_item_action_area_stub = global::Sample.Resource.Id.design_menu_item_action_area_stub;
+			global::TakajiMesser.Droid.Resource.Id.design_menu_item_text = global::Sample.Resource.Id.design_menu_item_text;
+			global::TakajiMesser.Droid.Resource.Id.design_navigation_view = global::Sample.Resource.Id.design_navigation_view;
+			global::TakajiMesser.Droid.Resource.Id.disableHome = global::Sample.Resource.Id.disableHome;
+			global::TakajiMesser.Droid.Resource.Id.down = global::Sample.Resource.Id.down;
+			global::TakajiMesser.Droid.Resource.Id.edit_query = global::Sample.Resource.Id.edit_query;
+			global::TakajiMesser.Droid.Resource.Id.end = global::Sample.Resource.Id.end;
+			global::TakajiMesser.Droid.Resource.Id.end_padder = global::Sample.Resource.Id.end_padder;
+			global::TakajiMesser.Droid.Resource.Id.enterAlways = global::Sample.Resource.Id.enterAlways;
+			global::TakajiMesser.Droid.Resource.Id.enterAlwaysCollapsed = global::Sample.Resource.Id.enterAlwaysCollapsed;
+			global::TakajiMesser.Droid.Resource.Id.exitUntilCollapsed = global::Sample.Resource.Id.exitUntilCollapsed;
+			global::TakajiMesser.Droid.Resource.Id.expand_activities_button = global::Sample.Resource.Id.expand_activities_button;
+			global::TakajiMesser.Droid.Resource.Id.expanded_menu = global::Sample.Resource.Id.expanded_menu;
+			global::TakajiMesser.Droid.Resource.Id.fab_label = global::Sample.Resource.Id.fab_label;
+			global::TakajiMesser.Droid.Resource.Id.fill = global::Sample.Resource.Id.fill;
+			global::TakajiMesser.Droid.Resource.Id.fill_horizontal = global::Sample.Resource.Id.fill_horizontal;
+			global::TakajiMesser.Droid.Resource.Id.fill_vertical = global::Sample.Resource.Id.fill_vertical;
+			global::TakajiMesser.Droid.Resource.Id.@fixed = global::Sample.Resource.Id.@fixed;
+			global::TakajiMesser.Droid.Resource.Id.forever = global::Sample.Resource.Id.forever;
+			global::TakajiMesser.Droid.Resource.Id.ghost_view = global::Sample.Resource.Id.ghost_view;
+			global::TakajiMesser.Droid.Resource.Id.home = global::Sample.Resource.Id.home;
+			global::TakajiMesser.Droid.Resource.Id.homeAsUp = global::Sample.Resource.Id.homeAsUp;
+			global::TakajiMesser.Droid.Resource.Id.icon = global::Sample.Resource.Id.icon;
+			global::TakajiMesser.Droid.Resource.Id.icon_group = global::Sample.Resource.Id.icon_group;
+			global::TakajiMesser.Droid.Resource.Id.ifRoom = global::Sample.Resource.Id.ifRoom;
+			global::TakajiMesser.Droid.Resource.Id.image = global::Sample.Resource.Id.image;
+			global::TakajiMesser.Droid.Resource.Id.info = global::Sample.Resource.Id.info;
+			global::TakajiMesser.Droid.Resource.Id.italic = global::Sample.Resource.Id.italic;
+			global::TakajiMesser.Droid.Resource.Id.item_touch_helper_previous_elevation = global::Sample.Resource.Id.item_touch_helper_previous_elevation;
+			global::TakajiMesser.Droid.Resource.Id.largeLabel = global::Sample.Resource.Id.largeLabel;
+			global::TakajiMesser.Droid.Resource.Id.left = global::Sample.Resource.Id.left;
+			global::TakajiMesser.Droid.Resource.Id.line1 = global::Sample.Resource.Id.line1;
+			global::TakajiMesser.Droid.Resource.Id.line3 = global::Sample.Resource.Id.line3;
+			global::TakajiMesser.Droid.Resource.Id.listMode = global::Sample.Resource.Id.listMode;
+			global::TakajiMesser.Droid.Resource.Id.list_item = global::Sample.Resource.Id.list_item;
+			global::TakajiMesser.Droid.Resource.Id.masked = global::Sample.Resource.Id.masked;
+			global::TakajiMesser.Droid.Resource.Id.media_actions = global::Sample.Resource.Id.media_actions;
+			global::TakajiMesser.Droid.Resource.Id.message = global::Sample.Resource.Id.message;
+			global::TakajiMesser.Droid.Resource.Id.middle = global::Sample.Resource.Id.middle;
+			global::TakajiMesser.Droid.Resource.Id.mini = global::Sample.Resource.Id.mini;
+			global::TakajiMesser.Droid.Resource.Id.multiply = global::Sample.Resource.Id.multiply;
+			global::TakajiMesser.Droid.Resource.Id.navigation_header_container = global::Sample.Resource.Id.navigation_header_container;
+			global::TakajiMesser.Droid.Resource.Id.never = global::Sample.Resource.Id.never;
+			global::TakajiMesser.Droid.Resource.Id.none = global::Sample.Resource.Id.none;
+			global::TakajiMesser.Droid.Resource.Id.normal = global::Sample.Resource.Id.normal;
+			global::TakajiMesser.Droid.Resource.Id.notification_background = global::Sample.Resource.Id.notification_background;
+			global::TakajiMesser.Droid.Resource.Id.notification_main_column = global::Sample.Resource.Id.notification_main_column;
+			global::TakajiMesser.Droid.Resource.Id.notification_main_column_container = global::Sample.Resource.Id.notification_main_column_container;
+			global::TakajiMesser.Droid.Resource.Id.parallax = global::Sample.Resource.Id.parallax;
+			global::TakajiMesser.Droid.Resource.Id.parentPanel = global::Sample.Resource.Id.parentPanel;
+			global::TakajiMesser.Droid.Resource.Id.parent_matrix = global::Sample.Resource.Id.parent_matrix;
+			global::TakajiMesser.Droid.Resource.Id.pin = global::Sample.Resource.Id.pin;
+			global::TakajiMesser.Droid.Resource.Id.progress_circular = global::Sample.Resource.Id.progress_circular;
+			global::TakajiMesser.Droid.Resource.Id.progress_horizontal = global::Sample.Resource.Id.progress_horizontal;
+			global::TakajiMesser.Droid.Resource.Id.radio = global::Sample.Resource.Id.radio;
+			global::TakajiMesser.Droid.Resource.Id.right = global::Sample.Resource.Id.right;
+			global::TakajiMesser.Droid.Resource.Id.right_icon = global::Sample.Resource.Id.right_icon;
+			global::TakajiMesser.Droid.Resource.Id.right_side = global::Sample.Resource.Id.right_side;
+			global::TakajiMesser.Droid.Resource.Id.save_image_matrix = global::Sample.Resource.Id.save_image_matrix;
+			global::TakajiMesser.Droid.Resource.Id.save_non_transition_alpha = global::Sample.Resource.Id.save_non_transition_alpha;
+			global::TakajiMesser.Droid.Resource.Id.save_scale_type = global::Sample.Resource.Id.save_scale_type;
+			global::TakajiMesser.Droid.Resource.Id.screen = global::Sample.Resource.Id.screen;
+			global::TakajiMesser.Droid.Resource.Id.scroll = global::Sample.Resource.Id.scroll;
+			global::TakajiMesser.Droid.Resource.Id.scrollIndicatorDown = global::Sample.Resource.Id.scrollIndicatorDown;
+			global::TakajiMesser.Droid.Resource.Id.scrollIndicatorUp = global::Sample.Resource.Id.scrollIndicatorUp;
+			global::TakajiMesser.Droid.Resource.Id.scrollView = global::Sample.Resource.Id.scrollView;
+			global::TakajiMesser.Droid.Resource.Id.scrollable = global::Sample.Resource.Id.scrollable;
+			global::TakajiMesser.Droid.Resource.Id.search_badge = global::Sample.Resource.Id.search_badge;
+			global::TakajiMesser.Droid.Resource.Id.search_bar = global::Sample.Resource.Id.search_bar;
+			global::TakajiMesser.Droid.Resource.Id.search_button = global::Sample.Resource.Id.search_button;
+			global::TakajiMesser.Droid.Resource.Id.search_close_btn = global::Sample.Resource.Id.search_close_btn;
+			global::TakajiMesser.Droid.Resource.Id.search_edit_frame = global::Sample.Resource.Id.search_edit_frame;
+			global::TakajiMesser.Droid.Resource.Id.search_go_btn = global::Sample.Resource.Id.search_go_btn;
+			global::TakajiMesser.Droid.Resource.Id.search_mag_icon = global::Sample.Resource.Id.search_mag_icon;
+			global::TakajiMesser.Droid.Resource.Id.search_plate = global::Sample.Resource.Id.search_plate;
+			global::TakajiMesser.Droid.Resource.Id.search_src_text = global::Sample.Resource.Id.search_src_text;
+			global::TakajiMesser.Droid.Resource.Id.search_voice_btn = global::Sample.Resource.Id.search_voice_btn;
+			global::TakajiMesser.Droid.Resource.Id.select_dialog_listview = global::Sample.Resource.Id.select_dialog_listview;
+			global::TakajiMesser.Droid.Resource.Id.shortcut = global::Sample.Resource.Id.shortcut;
+			global::TakajiMesser.Droid.Resource.Id.showCustom = global::Sample.Resource.Id.showCustom;
+			global::TakajiMesser.Droid.Resource.Id.showHome = global::Sample.Resource.Id.showHome;
+			global::TakajiMesser.Droid.Resource.Id.showTitle = global::Sample.Resource.Id.showTitle;
+			global::TakajiMesser.Droid.Resource.Id.smallLabel = global::Sample.Resource.Id.smallLabel;
+			global::TakajiMesser.Droid.Resource.Id.snackbar_action = global::Sample.Resource.Id.snackbar_action;
+			global::TakajiMesser.Droid.Resource.Id.snackbar_text = global::Sample.Resource.Id.snackbar_text;
+			global::TakajiMesser.Droid.Resource.Id.snap = global::Sample.Resource.Id.snap;
+			global::TakajiMesser.Droid.Resource.Id.spacer = global::Sample.Resource.Id.spacer;
+			global::TakajiMesser.Droid.Resource.Id.split_action_bar = global::Sample.Resource.Id.split_action_bar;
+			global::TakajiMesser.Droid.Resource.Id.src_atop = global::Sample.Resource.Id.src_atop;
+			global::TakajiMesser.Droid.Resource.Id.src_in = global::Sample.Resource.Id.src_in;
+			global::TakajiMesser.Droid.Resource.Id.src_over = global::Sample.Resource.Id.src_over;
+			global::TakajiMesser.Droid.Resource.Id.start = global::Sample.Resource.Id.start;
+			global::TakajiMesser.Droid.Resource.Id.status_bar_latest_event_content = global::Sample.Resource.Id.status_bar_latest_event_content;
+			global::TakajiMesser.Droid.Resource.Id.submenuarrow = global::Sample.Resource.Id.submenuarrow;
+			global::TakajiMesser.Droid.Resource.Id.submit_area = global::Sample.Resource.Id.submit_area;
+			global::TakajiMesser.Droid.Resource.Id.tabMode = global::Sample.Resource.Id.tabMode;
+			global::TakajiMesser.Droid.Resource.Id.text = global::Sample.Resource.Id.text;
+			global::TakajiMesser.Droid.Resource.Id.text2 = global::Sample.Resource.Id.text2;
+			global::TakajiMesser.Droid.Resource.Id.textSpacerNoButtons = global::Sample.Resource.Id.textSpacerNoButtons;
+			global::TakajiMesser.Droid.Resource.Id.textSpacerNoTitle = global::Sample.Resource.Id.textSpacerNoTitle;
+			global::TakajiMesser.Droid.Resource.Id.text_input_password_toggle = global::Sample.Resource.Id.text_input_password_toggle;
+			global::TakajiMesser.Droid.Resource.Id.textinput_counter = global::Sample.Resource.Id.textinput_counter;
+			global::TakajiMesser.Droid.Resource.Id.textinput_error = global::Sample.Resource.Id.textinput_error;
+			global::TakajiMesser.Droid.Resource.Id.time = global::Sample.Resource.Id.time;
+			global::TakajiMesser.Droid.Resource.Id.title = global::Sample.Resource.Id.title;
+			global::TakajiMesser.Droid.Resource.Id.titleDividerNoCustom = global::Sample.Resource.Id.titleDividerNoCustom;
+			global::TakajiMesser.Droid.Resource.Id.title_template = global::Sample.Resource.Id.title_template;
+			global::TakajiMesser.Droid.Resource.Id.top = global::Sample.Resource.Id.top;
+			global::TakajiMesser.Droid.Resource.Id.topPanel = global::Sample.Resource.Id.topPanel;
+			global::TakajiMesser.Droid.Resource.Id.touch_outside = global::Sample.Resource.Id.touch_outside;
+			global::TakajiMesser.Droid.Resource.Id.transition_current_scene = global::Sample.Resource.Id.transition_current_scene;
+			global::TakajiMesser.Droid.Resource.Id.transition_layout_save = global::Sample.Resource.Id.transition_layout_save;
+			global::TakajiMesser.Droid.Resource.Id.transition_position = global::Sample.Resource.Id.transition_position;
+			global::TakajiMesser.Droid.Resource.Id.transition_scene_layoutid_cache = global::Sample.Resource.Id.transition_scene_layoutid_cache;
+			global::TakajiMesser.Droid.Resource.Id.transition_transform = global::Sample.Resource.Id.transition_transform;
+			global::TakajiMesser.Droid.Resource.Id.uniform = global::Sample.Resource.Id.uniform;
+			global::TakajiMesser.Droid.Resource.Id.up = global::Sample.Resource.Id.up;
+			global::TakajiMesser.Droid.Resource.Id.useLogo = global::Sample.Resource.Id.useLogo;
+			global::TakajiMesser.Droid.Resource.Id.view_offset_helper = global::Sample.Resource.Id.view_offset_helper;
+			global::TakajiMesser.Droid.Resource.Id.visible = global::Sample.Resource.Id.visible;
+			global::TakajiMesser.Droid.Resource.Id.withText = global::Sample.Resource.Id.withText;
+			global::TakajiMesser.Droid.Resource.Id.wrap_content = global::Sample.Resource.Id.wrap_content;
+			global::TakajiMesser.Droid.Resource.Integer.abc_config_activityDefaultDur = global::Sample.Resource.Integer.abc_config_activityDefaultDur;
+			global::TakajiMesser.Droid.Resource.Integer.abc_config_activityShortDur = global::Sample.Resource.Integer.abc_config_activityShortDur;
+			global::TakajiMesser.Droid.Resource.Integer.app_bar_elevation_anim_duration = global::Sample.Resource.Integer.app_bar_elevation_anim_duration;
+			global::TakajiMesser.Droid.Resource.Integer.bottom_sheet_slide_duration = global::Sample.Resource.Integer.bottom_sheet_slide_duration;
+			global::TakajiMesser.Droid.Resource.Integer.cancel_button_image_alpha = global::Sample.Resource.Integer.cancel_button_image_alpha;
+			global::TakajiMesser.Droid.Resource.Integer.config_tooltipAnimTime = global::Sample.Resource.Integer.config_tooltipAnimTime;
+			global::TakajiMesser.Droid.Resource.Integer.design_snackbar_text_max_lines = global::Sample.Resource.Integer.design_snackbar_text_max_lines;
+			global::TakajiMesser.Droid.Resource.Integer.hide_password_duration = global::Sample.Resource.Integer.hide_password_duration;
+			global::TakajiMesser.Droid.Resource.Integer.show_password_duration = global::Sample.Resource.Integer.show_password_duration;
+			global::TakajiMesser.Droid.Resource.Integer.status_bar_notification_info_maxnum = global::Sample.Resource.Integer.status_bar_notification_info_maxnum;
+			global::TakajiMesser.Droid.Resource.Layout.abc_action_bar_title_item = global::Sample.Resource.Layout.abc_action_bar_title_item;
+			global::TakajiMesser.Droid.Resource.Layout.abc_action_bar_up_container = global::Sample.Resource.Layout.abc_action_bar_up_container;
+			global::TakajiMesser.Droid.Resource.Layout.abc_action_bar_view_list_nav_layout = global::Sample.Resource.Layout.abc_action_bar_view_list_nav_layout;
+			global::TakajiMesser.Droid.Resource.Layout.abc_action_menu_item_layout = global::Sample.Resource.Layout.abc_action_menu_item_layout;
+			global::TakajiMesser.Droid.Resource.Layout.abc_action_menu_layout = global::Sample.Resource.Layout.abc_action_menu_layout;
+			global::TakajiMesser.Droid.Resource.Layout.abc_action_mode_bar = global::Sample.Resource.Layout.abc_action_mode_bar;
+			global::TakajiMesser.Droid.Resource.Layout.abc_action_mode_close_item_material = global::Sample.Resource.Layout.abc_action_mode_close_item_material;
+			global::TakajiMesser.Droid.Resource.Layout.abc_activity_chooser_view = global::Sample.Resource.Layout.abc_activity_chooser_view;
+			global::TakajiMesser.Droid.Resource.Layout.abc_activity_chooser_view_list_item = global::Sample.Resource.Layout.abc_activity_chooser_view_list_item;
+			global::TakajiMesser.Droid.Resource.Layout.abc_alert_dialog_button_bar_material = global::Sample.Resource.Layout.abc_alert_dialog_button_bar_material;
+			global::TakajiMesser.Droid.Resource.Layout.abc_alert_dialog_material = global::Sample.Resource.Layout.abc_alert_dialog_material;
+			global::TakajiMesser.Droid.Resource.Layout.abc_alert_dialog_title_material = global::Sample.Resource.Layout.abc_alert_dialog_title_material;
+			global::TakajiMesser.Droid.Resource.Layout.abc_dialog_title_material = global::Sample.Resource.Layout.abc_dialog_title_material;
+			global::TakajiMesser.Droid.Resource.Layout.abc_expanded_menu_layout = global::Sample.Resource.Layout.abc_expanded_menu_layout;
+			global::TakajiMesser.Droid.Resource.Layout.abc_list_menu_item_checkbox = global::Sample.Resource.Layout.abc_list_menu_item_checkbox;
+			global::TakajiMesser.Droid.Resource.Layout.abc_list_menu_item_icon = global::Sample.Resource.Layout.abc_list_menu_item_icon;
+			global::TakajiMesser.Droid.Resource.Layout.abc_list_menu_item_layout = global::Sample.Resource.Layout.abc_list_menu_item_layout;
+			global::TakajiMesser.Droid.Resource.Layout.abc_list_menu_item_radio = global::Sample.Resource.Layout.abc_list_menu_item_radio;
+			global::TakajiMesser.Droid.Resource.Layout.abc_popup_menu_header_item_layout = global::Sample.Resource.Layout.abc_popup_menu_header_item_layout;
+			global::TakajiMesser.Droid.Resource.Layout.abc_popup_menu_item_layout = global::Sample.Resource.Layout.abc_popup_menu_item_layout;
+			global::TakajiMesser.Droid.Resource.Layout.abc_screen_content_include = global::Sample.Resource.Layout.abc_screen_content_include;
+			global::TakajiMesser.Droid.Resource.Layout.abc_screen_simple = global::Sample.Resource.Layout.abc_screen_simple;
+			global::TakajiMesser.Droid.Resource.Layout.abc_screen_simple_overlay_action_mode = global::Sample.Resource.Layout.abc_screen_simple_overlay_action_mode;
+			global::TakajiMesser.Droid.Resource.Layout.abc_screen_toolbar = global::Sample.Resource.Layout.abc_screen_toolbar;
+			global::TakajiMesser.Droid.Resource.Layout.abc_search_dropdown_item_icons_2line = global::Sample.Resource.Layout.abc_search_dropdown_item_icons_2line;
+			global::TakajiMesser.Droid.Resource.Layout.abc_search_view = global::Sample.Resource.Layout.abc_search_view;
+			global::TakajiMesser.Droid.Resource.Layout.abc_select_dialog_material = global::Sample.Resource.Layout.abc_select_dialog_material;
+			global::TakajiMesser.Droid.Resource.Layout.design_bottom_navigation_item = global::Sample.Resource.Layout.design_bottom_navigation_item;
+			global::TakajiMesser.Droid.Resource.Layout.design_bottom_sheet_dialog = global::Sample.Resource.Layout.design_bottom_sheet_dialog;
+			global::TakajiMesser.Droid.Resource.Layout.design_layout_snackbar = global::Sample.Resource.Layout.design_layout_snackbar;
+			global::TakajiMesser.Droid.Resource.Layout.design_layout_snackbar_include = global::Sample.Resource.Layout.design_layout_snackbar_include;
+			global::TakajiMesser.Droid.Resource.Layout.design_layout_tab_icon = global::Sample.Resource.Layout.design_layout_tab_icon;
+			global::TakajiMesser.Droid.Resource.Layout.design_layout_tab_text = global::Sample.Resource.Layout.design_layout_tab_text;
+			global::TakajiMesser.Droid.Resource.Layout.design_menu_item_action_area = global::Sample.Resource.Layout.design_menu_item_action_area;
+			global::TakajiMesser.Droid.Resource.Layout.design_navigation_item = global::Sample.Resource.Layout.design_navigation_item;
+			global::TakajiMesser.Droid.Resource.Layout.design_navigation_item_header = global::Sample.Resource.Layout.design_navigation_item_header;
+			global::TakajiMesser.Droid.Resource.Layout.design_navigation_item_separator = global::Sample.Resource.Layout.design_navigation_item_separator;
+			global::TakajiMesser.Droid.Resource.Layout.design_navigation_item_subheader = global::Sample.Resource.Layout.design_navigation_item_subheader;
+			global::TakajiMesser.Droid.Resource.Layout.design_navigation_menu = global::Sample.Resource.Layout.design_navigation_menu;
+			global::TakajiMesser.Droid.Resource.Layout.design_navigation_menu_item = global::Sample.Resource.Layout.design_navigation_menu_item;
+			global::TakajiMesser.Droid.Resource.Layout.design_text_input_password_icon = global::Sample.Resource.Layout.design_text_input_password_icon;
+			global::TakajiMesser.Droid.Resource.Layout.notification_action = global::Sample.Resource.Layout.notification_action;
+			global::TakajiMesser.Droid.Resource.Layout.notification_action_tombstone = global::Sample.Resource.Layout.notification_action_tombstone;
+			global::TakajiMesser.Droid.Resource.Layout.notification_media_action = global::Sample.Resource.Layout.notification_media_action;
+			global::TakajiMesser.Droid.Resource.Layout.notification_media_cancel_action = global::Sample.Resource.Layout.notification_media_cancel_action;
+			global::TakajiMesser.Droid.Resource.Layout.notification_template_big_media = global::Sample.Resource.Layout.notification_template_big_media;
+			global::TakajiMesser.Droid.Resource.Layout.notification_template_big_media_custom = global::Sample.Resource.Layout.notification_template_big_media_custom;
+			global::TakajiMesser.Droid.Resource.Layout.notification_template_big_media_narrow = global::Sample.Resource.Layout.notification_template_big_media_narrow;
+			global::TakajiMesser.Droid.Resource.Layout.notification_template_big_media_narrow_custom = global::Sample.Resource.Layout.notification_template_big_media_narrow_custom;
+			global::TakajiMesser.Droid.Resource.Layout.notification_template_custom_big = global::Sample.Resource.Layout.notification_template_custom_big;
+			global::TakajiMesser.Droid.Resource.Layout.notification_template_icon_group = global::Sample.Resource.Layout.notification_template_icon_group;
+			global::TakajiMesser.Droid.Resource.Layout.notification_template_lines_media = global::Sample.Resource.Layout.notification_template_lines_media;
+			global::TakajiMesser.Droid.Resource.Layout.notification_template_media = global::Sample.Resource.Layout.notification_template_media;
+			global::TakajiMesser.Droid.Resource.Layout.notification_template_media_custom = global::Sample.Resource.Layout.notification_template_media_custom;
+			global::TakajiMesser.Droid.Resource.Layout.notification_template_part_chronometer = global::Sample.Resource.Layout.notification_template_part_chronometer;
+			global::TakajiMesser.Droid.Resource.Layout.notification_template_part_time = global::Sample.Resource.Layout.notification_template_part_time;
+			global::TakajiMesser.Droid.Resource.Layout.select_dialog_item_material = global::Sample.Resource.Layout.select_dialog_item_material;
+			global::TakajiMesser.Droid.Resource.Layout.select_dialog_multichoice_material = global::Sample.Resource.Layout.select_dialog_multichoice_material;
+			global::TakajiMesser.Droid.Resource.Layout.select_dialog_singlechoice_material = global::Sample.Resource.Layout.select_dialog_singlechoice_material;
+			global::TakajiMesser.Droid.Resource.Layout.support_simple_spinner_dropdown_item = global::Sample.Resource.Layout.support_simple_spinner_dropdown_item;
+			global::TakajiMesser.Droid.Resource.Layout.tooltip = global::Sample.Resource.Layout.tooltip;
+			global::TakajiMesser.Droid.Resource.String.abc_action_bar_home_description = global::Sample.Resource.String.abc_action_bar_home_description;
+			global::TakajiMesser.Droid.Resource.String.abc_action_bar_home_description_format = global::Sample.Resource.String.abc_action_bar_home_description_format;
+			global::TakajiMesser.Droid.Resource.String.abc_action_bar_home_subtitle_description_format = global::Sample.Resource.String.abc_action_bar_home_subtitle_description_format;
+			global::TakajiMesser.Droid.Resource.String.abc_action_bar_up_description = global::Sample.Resource.String.abc_action_bar_up_description;
+			global::TakajiMesser.Droid.Resource.String.abc_action_menu_overflow_description = global::Sample.Resource.String.abc_action_menu_overflow_description;
+			global::TakajiMesser.Droid.Resource.String.abc_action_mode_done = global::Sample.Resource.String.abc_action_mode_done;
+			global::TakajiMesser.Droid.Resource.String.abc_activity_chooser_view_see_all = global::Sample.Resource.String.abc_activity_chooser_view_see_all;
+			global::TakajiMesser.Droid.Resource.String.abc_activitychooserview_choose_application = global::Sample.Resource.String.abc_activitychooserview_choose_application;
+			global::TakajiMesser.Droid.Resource.String.abc_capital_off = global::Sample.Resource.String.abc_capital_off;
+			global::TakajiMesser.Droid.Resource.String.abc_capital_on = global::Sample.Resource.String.abc_capital_on;
+			global::TakajiMesser.Droid.Resource.String.abc_font_family_body_1_material = global::Sample.Resource.String.abc_font_family_body_1_material;
+			global::TakajiMesser.Droid.Resource.String.abc_font_family_body_2_material = global::Sample.Resource.String.abc_font_family_body_2_material;
+			global::TakajiMesser.Droid.Resource.String.abc_font_family_button_material = global::Sample.Resource.String.abc_font_family_button_material;
+			global::TakajiMesser.Droid.Resource.String.abc_font_family_caption_material = global::Sample.Resource.String.abc_font_family_caption_material;
+			global::TakajiMesser.Droid.Resource.String.abc_font_family_display_1_material = global::Sample.Resource.String.abc_font_family_display_1_material;
+			global::TakajiMesser.Droid.Resource.String.abc_font_family_display_2_material = global::Sample.Resource.String.abc_font_family_display_2_material;
+			global::TakajiMesser.Droid.Resource.String.abc_font_family_display_3_material = global::Sample.Resource.String.abc_font_family_display_3_material;
+			global::TakajiMesser.Droid.Resource.String.abc_font_family_display_4_material = global::Sample.Resource.String.abc_font_family_display_4_material;
+			global::TakajiMesser.Droid.Resource.String.abc_font_family_headline_material = global::Sample.Resource.String.abc_font_family_headline_material;
+			global::TakajiMesser.Droid.Resource.String.abc_font_family_menu_material = global::Sample.Resource.String.abc_font_family_menu_material;
+			global::TakajiMesser.Droid.Resource.String.abc_font_family_subhead_material = global::Sample.Resource.String.abc_font_family_subhead_material;
+			global::TakajiMesser.Droid.Resource.String.abc_font_family_title_material = global::Sample.Resource.String.abc_font_family_title_material;
+			global::TakajiMesser.Droid.Resource.String.abc_search_hint = global::Sample.Resource.String.abc_search_hint;
+			global::TakajiMesser.Droid.Resource.String.abc_searchview_description_clear = global::Sample.Resource.String.abc_searchview_description_clear;
+			global::TakajiMesser.Droid.Resource.String.abc_searchview_description_query = global::Sample.Resource.String.abc_searchview_description_query;
+			global::TakajiMesser.Droid.Resource.String.abc_searchview_description_search = global::Sample.Resource.String.abc_searchview_description_search;
+			global::TakajiMesser.Droid.Resource.String.abc_searchview_description_submit = global::Sample.Resource.String.abc_searchview_description_submit;
+			global::TakajiMesser.Droid.Resource.String.abc_searchview_description_voice = global::Sample.Resource.String.abc_searchview_description_voice;
+			global::TakajiMesser.Droid.Resource.String.abc_shareactionprovider_share_with = global::Sample.Resource.String.abc_shareactionprovider_share_with;
+			global::TakajiMesser.Droid.Resource.String.abc_shareactionprovider_share_with_application = global::Sample.Resource.String.abc_shareactionprovider_share_with_application;
+			global::TakajiMesser.Droid.Resource.String.abc_toolbar_collapse_description = global::Sample.Resource.String.abc_toolbar_collapse_description;
+			global::TakajiMesser.Droid.Resource.String.appbar_scrolling_view_behavior = global::Sample.Resource.String.appbar_scrolling_view_behavior;
+			global::TakajiMesser.Droid.Resource.String.bottom_sheet_behavior = global::Sample.Resource.String.bottom_sheet_behavior;
+			global::TakajiMesser.Droid.Resource.String.character_counter_pattern = global::Sample.Resource.String.character_counter_pattern;
+			global::TakajiMesser.Droid.Resource.String.password_toggle_content_description = global::Sample.Resource.String.password_toggle_content_description;
+			global::TakajiMesser.Droid.Resource.String.path_password_eye = global::Sample.Resource.String.path_password_eye;
+			global::TakajiMesser.Droid.Resource.String.path_password_eye_mask_strike_through = global::Sample.Resource.String.path_password_eye_mask_strike_through;
+			global::TakajiMesser.Droid.Resource.String.path_password_eye_mask_visible = global::Sample.Resource.String.path_password_eye_mask_visible;
+			global::TakajiMesser.Droid.Resource.String.path_password_strike_through = global::Sample.Resource.String.path_password_strike_through;
+			global::TakajiMesser.Droid.Resource.String.search_menu_title = global::Sample.Resource.String.search_menu_title;
+			global::TakajiMesser.Droid.Resource.String.status_bar_notification_info_overflow = global::Sample.Resource.String.status_bar_notification_info_overflow;
+			global::TakajiMesser.Droid.Resource.Style.AlertDialog_AppCompat = global::Sample.Resource.Style.AlertDialog_AppCompat;
+			global::TakajiMesser.Droid.Resource.Style.AlertDialog_AppCompat_Light = global::Sample.Resource.Style.AlertDialog_AppCompat_Light;
+			global::TakajiMesser.Droid.Resource.Style.Animation_AppCompat_Dialog = global::Sample.Resource.Style.Animation_AppCompat_Dialog;
+			global::TakajiMesser.Droid.Resource.Style.Animation_AppCompat_DropDownUp = global::Sample.Resource.Style.Animation_AppCompat_DropDownUp;
+			global::TakajiMesser.Droid.Resource.Style.Animation_AppCompat_Tooltip = global::Sample.Resource.Style.Animation_AppCompat_Tooltip;
+			global::TakajiMesser.Droid.Resource.Style.Animation_Design_BottomSheetDialog = global::Sample.Resource.Style.Animation_Design_BottomSheetDialog;
+			global::TakajiMesser.Droid.Resource.Style.Base_AlertDialog_AppCompat = global::Sample.Resource.Style.Base_AlertDialog_AppCompat;
+			global::TakajiMesser.Droid.Resource.Style.Base_AlertDialog_AppCompat_Light = global::Sample.Resource.Style.Base_AlertDialog_AppCompat_Light;
+			global::TakajiMesser.Droid.Resource.Style.Base_Animation_AppCompat_Dialog = global::Sample.Resource.Style.Base_Animation_AppCompat_Dialog;
+			global::TakajiMesser.Droid.Resource.Style.Base_Animation_AppCompat_DropDownUp = global::Sample.Resource.Style.Base_Animation_AppCompat_DropDownUp;
+			global::TakajiMesser.Droid.Resource.Style.Base_Animation_AppCompat_Tooltip = global::Sample.Resource.Style.Base_Animation_AppCompat_Tooltip;
+			global::TakajiMesser.Droid.Resource.Style.Base_DialogWindowTitle_AppCompat = global::Sample.Resource.Style.Base_DialogWindowTitle_AppCompat;
+			global::TakajiMesser.Droid.Resource.Style.Base_DialogWindowTitleBackground_AppCompat = global::Sample.Resource.Style.Base_DialogWindowTitleBackground_AppCompat;
+			global::TakajiMesser.Droid.Resource.Style.Base_TextAppearance_AppCompat = global::Sample.Resource.Style.Base_TextAppearance_AppCompat;
+			global::TakajiMesser.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body1 = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Body1;
+			global::TakajiMesser.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body2 = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Body2;
+			global::TakajiMesser.Droid.Resource.Style.Base_TextAppearance_AppCompat_Button = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Button;
+			global::TakajiMesser.Droid.Resource.Style.Base_TextAppearance_AppCompat_Caption = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Caption;
+			global::TakajiMesser.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display1 = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Display1;
+			global::TakajiMesser.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display2 = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Display2;
+			global::TakajiMesser.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display3 = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Display3;
+			global::TakajiMesser.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display4 = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Display4;
+			global::TakajiMesser.Droid.Resource.Style.Base_TextAppearance_AppCompat_Headline = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Headline;
+			global::TakajiMesser.Droid.Resource.Style.Base_TextAppearance_AppCompat_Inverse = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Inverse;
+			global::TakajiMesser.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Large;
+			global::TakajiMesser.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse;
+			global::TakajiMesser.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::TakajiMesser.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::TakajiMesser.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Medium;
+			global::TakajiMesser.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse;
+			global::TakajiMesser.Droid.Resource.Style.Base_TextAppearance_AppCompat_Menu = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Menu;
+			global::TakajiMesser.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_SearchResult;
+			global::TakajiMesser.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::TakajiMesser.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title;
+			global::TakajiMesser.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Small;
+			global::TakajiMesser.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse;
+			global::TakajiMesser.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Subhead;
+			global::TakajiMesser.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse;
+			global::TakajiMesser.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Title;
+			global::TakajiMesser.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse;
+			global::TakajiMesser.Droid.Resource.Style.Base_TextAppearance_AppCompat_Tooltip = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Tooltip;
+			global::TakajiMesser.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::TakajiMesser.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::TakajiMesser.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::TakajiMesser.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::TakajiMesser.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::TakajiMesser.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::TakajiMesser.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::TakajiMesser.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button;
+			global::TakajiMesser.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::TakajiMesser.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored;
+			global::TakajiMesser.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::TakajiMesser.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem;
+			global::TakajiMesser.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::TakajiMesser.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::TakajiMesser.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::TakajiMesser.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch;
+			global::TakajiMesser.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::Sample.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::TakajiMesser.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::Sample.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::TakajiMesser.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::Sample.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::TakajiMesser.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title = global::Sample.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::TakajiMesser.Droid.Resource.Style.Base_Theme_AppCompat = global::Sample.Resource.Style.Base_Theme_AppCompat;
+			global::TakajiMesser.Droid.Resource.Style.Base_Theme_AppCompat_CompactMenu = global::Sample.Resource.Style.Base_Theme_AppCompat_CompactMenu;
+			global::TakajiMesser.Droid.Resource.Style.Base_Theme_AppCompat_Dialog = global::Sample.Resource.Style.Base_Theme_AppCompat_Dialog;
+			global::TakajiMesser.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_Alert = global::Sample.Resource.Style.Base_Theme_AppCompat_Dialog_Alert;
+			global::TakajiMesser.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize = global::Sample.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize;
+			global::TakajiMesser.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth = global::Sample.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth;
+			global::TakajiMesser.Droid.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge = global::Sample.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge;
+			global::TakajiMesser.Droid.Resource.Style.Base_Theme_AppCompat_Light = global::Sample.Resource.Style.Base_Theme_AppCompat_Light;
+			global::TakajiMesser.Droid.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar = global::Sample.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar;
+			global::TakajiMesser.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog = global::Sample.Resource.Style.Base_Theme_AppCompat_Light_Dialog;
+			global::TakajiMesser.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert = global::Sample.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert;
+			global::TakajiMesser.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize = global::Sample.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize;
+			global::TakajiMesser.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth = global::Sample.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth;
+			global::TakajiMesser.Droid.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge = global::Sample.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge;
+			global::TakajiMesser.Droid.Resource.Style.Base_ThemeOverlay_AppCompat = global::Sample.Resource.Style.Base_ThemeOverlay_AppCompat;
+			global::TakajiMesser.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar = global::Sample.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar;
+			global::TakajiMesser.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark = global::Sample.Resource.Style.Base_ThemeOverlay_AppCompat_Dark;
+			global::TakajiMesser.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar = global::Sample.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::TakajiMesser.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog = global::Sample.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog;
+			global::TakajiMesser.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert = global::Sample.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert;
+			global::TakajiMesser.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Light = global::Sample.Resource.Style.Base_ThemeOverlay_AppCompat_Light;
+			global::TakajiMesser.Droid.Resource.Style.Base_V11_Theme_AppCompat_Dialog = global::Sample.Resource.Style.Base_V11_Theme_AppCompat_Dialog;
+			global::TakajiMesser.Droid.Resource.Style.Base_V11_Theme_AppCompat_Light_Dialog = global::Sample.Resource.Style.Base_V11_Theme_AppCompat_Light_Dialog;
+			global::TakajiMesser.Droid.Resource.Style.Base_V11_ThemeOverlay_AppCompat_Dialog = global::Sample.Resource.Style.Base_V11_ThemeOverlay_AppCompat_Dialog;
+			global::TakajiMesser.Droid.Resource.Style.Base_V12_Widget_AppCompat_AutoCompleteTextView = global::Sample.Resource.Style.Base_V12_Widget_AppCompat_AutoCompleteTextView;
+			global::TakajiMesser.Droid.Resource.Style.Base_V12_Widget_AppCompat_EditText = global::Sample.Resource.Style.Base_V12_Widget_AppCompat_EditText;
+			global::TakajiMesser.Droid.Resource.Style.Base_V14_Widget_Design_AppBarLayout = global::Sample.Resource.Style.Base_V14_Widget_Design_AppBarLayout;
+			global::TakajiMesser.Droid.Resource.Style.Base_V21_Theme_AppCompat = global::Sample.Resource.Style.Base_V21_Theme_AppCompat;
+			global::TakajiMesser.Droid.Resource.Style.Base_V21_Theme_AppCompat_Dialog = global::Sample.Resource.Style.Base_V21_Theme_AppCompat_Dialog;
+			global::TakajiMesser.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light = global::Sample.Resource.Style.Base_V21_Theme_AppCompat_Light;
+			global::TakajiMesser.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog = global::Sample.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog;
+			global::TakajiMesser.Droid.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog = global::Sample.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog;
+			global::TakajiMesser.Droid.Resource.Style.Base_V21_Widget_Design_AppBarLayout = global::Sample.Resource.Style.Base_V21_Widget_Design_AppBarLayout;
+			global::TakajiMesser.Droid.Resource.Style.Base_V22_Theme_AppCompat = global::Sample.Resource.Style.Base_V22_Theme_AppCompat;
+			global::TakajiMesser.Droid.Resource.Style.Base_V22_Theme_AppCompat_Light = global::Sample.Resource.Style.Base_V22_Theme_AppCompat_Light;
+			global::TakajiMesser.Droid.Resource.Style.Base_V23_Theme_AppCompat = global::Sample.Resource.Style.Base_V23_Theme_AppCompat;
+			global::TakajiMesser.Droid.Resource.Style.Base_V23_Theme_AppCompat_Light = global::Sample.Resource.Style.Base_V23_Theme_AppCompat_Light;
+			global::TakajiMesser.Droid.Resource.Style.Base_V26_Theme_AppCompat = global::Sample.Resource.Style.Base_V26_Theme_AppCompat;
+			global::TakajiMesser.Droid.Resource.Style.Base_V26_Theme_AppCompat_Light = global::Sample.Resource.Style.Base_V26_Theme_AppCompat_Light;
+			global::TakajiMesser.Droid.Resource.Style.Base_V26_Widget_AppCompat_Toolbar = global::Sample.Resource.Style.Base_V26_Widget_AppCompat_Toolbar;
+			global::TakajiMesser.Droid.Resource.Style.Base_V26_Widget_Design_AppBarLayout = global::Sample.Resource.Style.Base_V26_Widget_Design_AppBarLayout;
+			global::TakajiMesser.Droid.Resource.Style.Base_V7_Theme_AppCompat = global::Sample.Resource.Style.Base_V7_Theme_AppCompat;
+			global::TakajiMesser.Droid.Resource.Style.Base_V7_Theme_AppCompat_Dialog = global::Sample.Resource.Style.Base_V7_Theme_AppCompat_Dialog;
+			global::TakajiMesser.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light = global::Sample.Resource.Style.Base_V7_Theme_AppCompat_Light;
+			global::TakajiMesser.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog = global::Sample.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog;
+			global::TakajiMesser.Droid.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog = global::Sample.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog;
+			global::TakajiMesser.Droid.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView = global::Sample.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView;
+			global::TakajiMesser.Droid.Resource.Style.Base_V7_Widget_AppCompat_EditText = global::Sample.Resource.Style.Base_V7_Widget_AppCompat_EditText;
+			global::TakajiMesser.Droid.Resource.Style.Base_V7_Widget_AppCompat_Toolbar = global::Sample.Resource.Style.Base_V7_Widget_AppCompat_Toolbar;
+			global::TakajiMesser.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar = global::Sample.Resource.Style.Base_Widget_AppCompat_ActionBar;
+			global::TakajiMesser.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid = global::Sample.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid;
+			global::TakajiMesser.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar = global::Sample.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar;
+			global::TakajiMesser.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText = global::Sample.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText;
+			global::TakajiMesser.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView = global::Sample.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView;
+			global::TakajiMesser.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton = global::Sample.Resource.Style.Base_Widget_AppCompat_ActionButton;
+			global::TakajiMesser.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode = global::Sample.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode;
+			global::TakajiMesser.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow = global::Sample.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow;
+			global::TakajiMesser.Droid.Resource.Style.Base_Widget_AppCompat_ActionMode = global::Sample.Resource.Style.Base_Widget_AppCompat_ActionMode;
+			global::TakajiMesser.Droid.Resource.Style.Base_Widget_AppCompat_ActivityChooserView = global::Sample.Resource.Style.Base_Widget_AppCompat_ActivityChooserView;
+			global::TakajiMesser.Droid.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView = global::Sample.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView;
+			global::TakajiMesser.Droid.Resource.Style.Base_Widget_AppCompat_Button = global::Sample.Resource.Style.Base_Widget_AppCompat_Button;
+			global::TakajiMesser.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless = global::Sample.Resource.Style.Base_Widget_AppCompat_Button_Borderless;
+			global::TakajiMesser.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored = global::Sample.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored;
+			global::TakajiMesser.Droid.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = global::Sample.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::TakajiMesser.Droid.Resource.Style.Base_Widget_AppCompat_Button_Colored = global::Sample.Resource.Style.Base_Widget_AppCompat_Button_Colored;
+			global::TakajiMesser.Droid.Resource.Style.Base_Widget_AppCompat_Button_Small = global::Sample.Resource.Style.Base_Widget_AppCompat_Button_Small;
+			global::TakajiMesser.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar = global::Sample.Resource.Style.Base_Widget_AppCompat_ButtonBar;
+			global::TakajiMesser.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog = global::Sample.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog;
+			global::TakajiMesser.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox = global::Sample.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox;
+			global::TakajiMesser.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton = global::Sample.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton;
+			global::TakajiMesser.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch = global::Sample.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch;
+			global::TakajiMesser.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle = global::Sample.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle;
+			global::TakajiMesser.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common = global::Sample.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common;
+			global::TakajiMesser.Droid.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner = global::Sample.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner;
+			global::TakajiMesser.Droid.Resource.Style.Base_Widget_AppCompat_EditText = global::Sample.Resource.Style.Base_Widget_AppCompat_EditText;
+			global::TakajiMesser.Droid.Resource.Style.Base_Widget_AppCompat_ImageButton = global::Sample.Resource.Style.Base_Widget_AppCompat_ImageButton;
+			global::TakajiMesser.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar = global::Sample.Resource.Style.Base_Widget_AppCompat_Light_ActionBar;
+			global::TakajiMesser.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid = global::Sample.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid;
+			global::TakajiMesser.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar = global::Sample.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar;
+			global::TakajiMesser.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText = global::Sample.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText;
+			global::TakajiMesser.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::Sample.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::TakajiMesser.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView = global::Sample.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView;
+			global::TakajiMesser.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu = global::Sample.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu;
+			global::TakajiMesser.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow = global::Sample.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::TakajiMesser.Droid.Resource.Style.Base_Widget_AppCompat_ListMenuView = global::Sample.Resource.Style.Base_Widget_AppCompat_ListMenuView;
+			global::TakajiMesser.Droid.Resource.Style.Base_Widget_AppCompat_ListPopupWindow = global::Sample.Resource.Style.Base_Widget_AppCompat_ListPopupWindow;
+			global::TakajiMesser.Droid.Resource.Style.Base_Widget_AppCompat_ListView = global::Sample.Resource.Style.Base_Widget_AppCompat_ListView;
+			global::TakajiMesser.Droid.Resource.Style.Base_Widget_AppCompat_ListView_DropDown = global::Sample.Resource.Style.Base_Widget_AppCompat_ListView_DropDown;
+			global::TakajiMesser.Droid.Resource.Style.Base_Widget_AppCompat_ListView_Menu = global::Sample.Resource.Style.Base_Widget_AppCompat_ListView_Menu;
+			global::TakajiMesser.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu = global::Sample.Resource.Style.Base_Widget_AppCompat_PopupMenu;
+			global::TakajiMesser.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow = global::Sample.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow;
+			global::TakajiMesser.Droid.Resource.Style.Base_Widget_AppCompat_PopupWindow = global::Sample.Resource.Style.Base_Widget_AppCompat_PopupWindow;
+			global::TakajiMesser.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar = global::Sample.Resource.Style.Base_Widget_AppCompat_ProgressBar;
+			global::TakajiMesser.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal = global::Sample.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal;
+			global::TakajiMesser.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar = global::Sample.Resource.Style.Base_Widget_AppCompat_RatingBar;
+			global::TakajiMesser.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator = global::Sample.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator;
+			global::TakajiMesser.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Small = global::Sample.Resource.Style.Base_Widget_AppCompat_RatingBar_Small;
+			global::TakajiMesser.Droid.Resource.Style.Base_Widget_AppCompat_SearchView = global::Sample.Resource.Style.Base_Widget_AppCompat_SearchView;
+			global::TakajiMesser.Droid.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar = global::Sample.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar;
+			global::TakajiMesser.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar = global::Sample.Resource.Style.Base_Widget_AppCompat_SeekBar;
+			global::TakajiMesser.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete = global::Sample.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete;
+			global::TakajiMesser.Droid.Resource.Style.Base_Widget_AppCompat_Spinner = global::Sample.Resource.Style.Base_Widget_AppCompat_Spinner;
+			global::TakajiMesser.Droid.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined = global::Sample.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined;
+			global::TakajiMesser.Droid.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem = global::Sample.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem;
+			global::TakajiMesser.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar = global::Sample.Resource.Style.Base_Widget_AppCompat_Toolbar;
+			global::TakajiMesser.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation = global::Sample.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation;
+			global::TakajiMesser.Droid.Resource.Style.Base_Widget_Design_AppBarLayout = global::Sample.Resource.Style.Base_Widget_Design_AppBarLayout;
+			global::TakajiMesser.Droid.Resource.Style.Base_Widget_Design_TabLayout = global::Sample.Resource.Style.Base_Widget_Design_TabLayout;
+			global::TakajiMesser.Droid.Resource.Style.Platform_AppCompat = global::Sample.Resource.Style.Platform_AppCompat;
+			global::TakajiMesser.Droid.Resource.Style.Platform_AppCompat_Light = global::Sample.Resource.Style.Platform_AppCompat_Light;
+			global::TakajiMesser.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat = global::Sample.Resource.Style.Platform_ThemeOverlay_AppCompat;
+			global::TakajiMesser.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark = global::Sample.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark;
+			global::TakajiMesser.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Light = global::Sample.Resource.Style.Platform_ThemeOverlay_AppCompat_Light;
+			global::TakajiMesser.Droid.Resource.Style.Platform_V11_AppCompat = global::Sample.Resource.Style.Platform_V11_AppCompat;
+			global::TakajiMesser.Droid.Resource.Style.Platform_V11_AppCompat_Light = global::Sample.Resource.Style.Platform_V11_AppCompat_Light;
+			global::TakajiMesser.Droid.Resource.Style.Platform_V14_AppCompat = global::Sample.Resource.Style.Platform_V14_AppCompat;
+			global::TakajiMesser.Droid.Resource.Style.Platform_V14_AppCompat_Light = global::Sample.Resource.Style.Platform_V14_AppCompat_Light;
+			global::TakajiMesser.Droid.Resource.Style.Platform_V21_AppCompat = global::Sample.Resource.Style.Platform_V21_AppCompat;
+			global::TakajiMesser.Droid.Resource.Style.Platform_V21_AppCompat_Light = global::Sample.Resource.Style.Platform_V21_AppCompat_Light;
+			global::TakajiMesser.Droid.Resource.Style.Platform_V25_AppCompat = global::Sample.Resource.Style.Platform_V25_AppCompat;
+			global::TakajiMesser.Droid.Resource.Style.Platform_V25_AppCompat_Light = global::Sample.Resource.Style.Platform_V25_AppCompat_Light;
+			global::TakajiMesser.Droid.Resource.Style.Platform_Widget_AppCompat_Spinner = global::Sample.Resource.Style.Platform_Widget_AppCompat_Spinner;
+			global::TakajiMesser.Droid.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat = global::Sample.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat;
+			global::TakajiMesser.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = global::Sample.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem;
+			global::TakajiMesser.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon = global::Sample.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon;
+			global::TakajiMesser.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem = global::Sample.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem;
+			global::TakajiMesser.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = global::Sample.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup;
+			global::TakajiMesser.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = global::Sample.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text;
+			global::TakajiMesser.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown = global::Sample.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown;
+			global::TakajiMesser.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = global::Sample.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1;
+			global::TakajiMesser.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = global::Sample.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2;
+			global::TakajiMesser.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query = global::Sample.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query;
+			global::TakajiMesser.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text = global::Sample.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text;
+			global::TakajiMesser.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon = global::Sample.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon;
+			global::TakajiMesser.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton = global::Sample.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton;
+			global::TakajiMesser.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = global::Sample.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow;
+			global::TakajiMesser.Droid.Resource.Style.TextAppearance_AppCompat = global::Sample.Resource.Style.TextAppearance_AppCompat;
+			global::TakajiMesser.Droid.Resource.Style.TextAppearance_AppCompat_Body1 = global::Sample.Resource.Style.TextAppearance_AppCompat_Body1;
+			global::TakajiMesser.Droid.Resource.Style.TextAppearance_AppCompat_Body2 = global::Sample.Resource.Style.TextAppearance_AppCompat_Body2;
+			global::TakajiMesser.Droid.Resource.Style.TextAppearance_AppCompat_Button = global::Sample.Resource.Style.TextAppearance_AppCompat_Button;
+			global::TakajiMesser.Droid.Resource.Style.TextAppearance_AppCompat_Caption = global::Sample.Resource.Style.TextAppearance_AppCompat_Caption;
+			global::TakajiMesser.Droid.Resource.Style.TextAppearance_AppCompat_Display1 = global::Sample.Resource.Style.TextAppearance_AppCompat_Display1;
+			global::TakajiMesser.Droid.Resource.Style.TextAppearance_AppCompat_Display2 = global::Sample.Resource.Style.TextAppearance_AppCompat_Display2;
+			global::TakajiMesser.Droid.Resource.Style.TextAppearance_AppCompat_Display3 = global::Sample.Resource.Style.TextAppearance_AppCompat_Display3;
+			global::TakajiMesser.Droid.Resource.Style.TextAppearance_AppCompat_Display4 = global::Sample.Resource.Style.TextAppearance_AppCompat_Display4;
+			global::TakajiMesser.Droid.Resource.Style.TextAppearance_AppCompat_Headline = global::Sample.Resource.Style.TextAppearance_AppCompat_Headline;
+			global::TakajiMesser.Droid.Resource.Style.TextAppearance_AppCompat_Inverse = global::Sample.Resource.Style.TextAppearance_AppCompat_Inverse;
+			global::TakajiMesser.Droid.Resource.Style.TextAppearance_AppCompat_Large = global::Sample.Resource.Style.TextAppearance_AppCompat_Large;
+			global::TakajiMesser.Droid.Resource.Style.TextAppearance_AppCompat_Large_Inverse = global::Sample.Resource.Style.TextAppearance_AppCompat_Large_Inverse;
+			global::TakajiMesser.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle = global::Sample.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle;
+			global::TakajiMesser.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title = global::Sample.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title;
+			global::TakajiMesser.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::Sample.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::TakajiMesser.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::Sample.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::TakajiMesser.Droid.Resource.Style.TextAppearance_AppCompat_Medium = global::Sample.Resource.Style.TextAppearance_AppCompat_Medium;
+			global::TakajiMesser.Droid.Resource.Style.TextAppearance_AppCompat_Medium_Inverse = global::Sample.Resource.Style.TextAppearance_AppCompat_Medium_Inverse;
+			global::TakajiMesser.Droid.Resource.Style.TextAppearance_AppCompat_Menu = global::Sample.Resource.Style.TextAppearance_AppCompat_Menu;
+			global::TakajiMesser.Droid.Resource.Style.TextAppearance_AppCompat_Notification = global::Sample.Resource.Style.TextAppearance_AppCompat_Notification;
+			global::TakajiMesser.Droid.Resource.Style.TextAppearance_AppCompat_Notification_Info = global::Sample.Resource.Style.TextAppearance_AppCompat_Notification_Info;
+			global::TakajiMesser.Droid.Resource.Style.TextAppearance_AppCompat_Notification_Info_Media = global::Sample.Resource.Style.TextAppearance_AppCompat_Notification_Info_Media;
+			global::TakajiMesser.Droid.Resource.Style.TextAppearance_AppCompat_Notification_Line2 = global::Sample.Resource.Style.TextAppearance_AppCompat_Notification_Line2;
+			global::TakajiMesser.Droid.Resource.Style.TextAppearance_AppCompat_Notification_Line2_Media = global::Sample.Resource.Style.TextAppearance_AppCompat_Notification_Line2_Media;
+			global::TakajiMesser.Droid.Resource.Style.TextAppearance_AppCompat_Notification_Media = global::Sample.Resource.Style.TextAppearance_AppCompat_Notification_Media;
+			global::TakajiMesser.Droid.Resource.Style.TextAppearance_AppCompat_Notification_Time = global::Sample.Resource.Style.TextAppearance_AppCompat_Notification_Time;
+			global::TakajiMesser.Droid.Resource.Style.TextAppearance_AppCompat_Notification_Time_Media = global::Sample.Resource.Style.TextAppearance_AppCompat_Notification_Time_Media;
+			global::TakajiMesser.Droid.Resource.Style.TextAppearance_AppCompat_Notification_Title = global::Sample.Resource.Style.TextAppearance_AppCompat_Notification_Title;
+			global::TakajiMesser.Droid.Resource.Style.TextAppearance_AppCompat_Notification_Title_Media = global::Sample.Resource.Style.TextAppearance_AppCompat_Notification_Title_Media;
+			global::TakajiMesser.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle = global::Sample.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::TakajiMesser.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Title = global::Sample.Resource.Style.TextAppearance_AppCompat_SearchResult_Title;
+			global::TakajiMesser.Droid.Resource.Style.TextAppearance_AppCompat_Small = global::Sample.Resource.Style.TextAppearance_AppCompat_Small;
+			global::TakajiMesser.Droid.Resource.Style.TextAppearance_AppCompat_Small_Inverse = global::Sample.Resource.Style.TextAppearance_AppCompat_Small_Inverse;
+			global::TakajiMesser.Droid.Resource.Style.TextAppearance_AppCompat_Subhead = global::Sample.Resource.Style.TextAppearance_AppCompat_Subhead;
+			global::TakajiMesser.Droid.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse = global::Sample.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse;
+			global::TakajiMesser.Droid.Resource.Style.TextAppearance_AppCompat_Title = global::Sample.Resource.Style.TextAppearance_AppCompat_Title;
+			global::TakajiMesser.Droid.Resource.Style.TextAppearance_AppCompat_Title_Inverse = global::Sample.Resource.Style.TextAppearance_AppCompat_Title_Inverse;
+			global::TakajiMesser.Droid.Resource.Style.TextAppearance_AppCompat_Tooltip = global::Sample.Resource.Style.TextAppearance_AppCompat_Tooltip;
+			global::TakajiMesser.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu = global::Sample.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::TakajiMesser.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::Sample.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::TakajiMesser.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::Sample.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::TakajiMesser.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title = global::Sample.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::TakajiMesser.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::Sample.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::TakajiMesser.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::Sample.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::TakajiMesser.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = global::Sample.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse;
+			global::TakajiMesser.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title = global::Sample.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::TakajiMesser.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = global::Sample.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse;
+			global::TakajiMesser.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button = global::Sample.Resource.Style.TextAppearance_AppCompat_Widget_Button;
+			global::TakajiMesser.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::Sample.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::TakajiMesser.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored = global::Sample.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored;
+			global::TakajiMesser.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse = global::Sample.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::TakajiMesser.Droid.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem = global::Sample.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem;
+			global::TakajiMesser.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header = global::Sample.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::TakajiMesser.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large = global::Sample.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::TakajiMesser.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small = global::Sample.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::TakajiMesser.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Switch = global::Sample.Resource.Style.TextAppearance_AppCompat_Widget_Switch;
+			global::TakajiMesser.Droid.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::Sample.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::TakajiMesser.Droid.Resource.Style.TextAppearance_Compat_Notification = global::Sample.Resource.Style.TextAppearance_Compat_Notification;
+			global::TakajiMesser.Droid.Resource.Style.TextAppearance_Compat_Notification_Info = global::Sample.Resource.Style.TextAppearance_Compat_Notification_Info;
+			global::TakajiMesser.Droid.Resource.Style.TextAppearance_Compat_Notification_Info_Media = global::Sample.Resource.Style.TextAppearance_Compat_Notification_Info_Media;
+			global::TakajiMesser.Droid.Resource.Style.TextAppearance_Compat_Notification_Line2 = global::Sample.Resource.Style.TextAppearance_Compat_Notification_Line2;
+			global::TakajiMesser.Droid.Resource.Style.TextAppearance_Compat_Notification_Line2_Media = global::Sample.Resource.Style.TextAppearance_Compat_Notification_Line2_Media;
+			global::TakajiMesser.Droid.Resource.Style.TextAppearance_Compat_Notification_Media = global::Sample.Resource.Style.TextAppearance_Compat_Notification_Media;
+			global::TakajiMesser.Droid.Resource.Style.TextAppearance_Compat_Notification_Time = global::Sample.Resource.Style.TextAppearance_Compat_Notification_Time;
+			global::TakajiMesser.Droid.Resource.Style.TextAppearance_Compat_Notification_Time_Media = global::Sample.Resource.Style.TextAppearance_Compat_Notification_Time_Media;
+			global::TakajiMesser.Droid.Resource.Style.TextAppearance_Compat_Notification_Title = global::Sample.Resource.Style.TextAppearance_Compat_Notification_Title;
+			global::TakajiMesser.Droid.Resource.Style.TextAppearance_Compat_Notification_Title_Media = global::Sample.Resource.Style.TextAppearance_Compat_Notification_Title_Media;
+			global::TakajiMesser.Droid.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded = global::Sample.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded;
+			global::TakajiMesser.Droid.Resource.Style.TextAppearance_Design_Counter = global::Sample.Resource.Style.TextAppearance_Design_Counter;
+			global::TakajiMesser.Droid.Resource.Style.TextAppearance_Design_Counter_Overflow = global::Sample.Resource.Style.TextAppearance_Design_Counter_Overflow;
+			global::TakajiMesser.Droid.Resource.Style.TextAppearance_Design_Error = global::Sample.Resource.Style.TextAppearance_Design_Error;
+			global::TakajiMesser.Droid.Resource.Style.TextAppearance_Design_Hint = global::Sample.Resource.Style.TextAppearance_Design_Hint;
+			global::TakajiMesser.Droid.Resource.Style.TextAppearance_Design_Snackbar_Message = global::Sample.Resource.Style.TextAppearance_Design_Snackbar_Message;
+			global::TakajiMesser.Droid.Resource.Style.TextAppearance_Design_Tab = global::Sample.Resource.Style.TextAppearance_Design_Tab;
+			global::TakajiMesser.Droid.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::Sample.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::TakajiMesser.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::Sample.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::TakajiMesser.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title = global::Sample.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::TakajiMesser.Droid.Resource.Style.Theme_AppCompat = global::Sample.Resource.Style.Theme_AppCompat;
+			global::TakajiMesser.Droid.Resource.Style.Theme_AppCompat_CompactMenu = global::Sample.Resource.Style.Theme_AppCompat_CompactMenu;
+			global::TakajiMesser.Droid.Resource.Style.Theme_AppCompat_DayNight = global::Sample.Resource.Style.Theme_AppCompat_DayNight;
+			global::TakajiMesser.Droid.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar = global::Sample.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar;
+			global::TakajiMesser.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog = global::Sample.Resource.Style.Theme_AppCompat_DayNight_Dialog;
+			global::TakajiMesser.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert = global::Sample.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert;
+			global::TakajiMesser.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth = global::Sample.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth;
+			global::TakajiMesser.Droid.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge = global::Sample.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge;
+			global::TakajiMesser.Droid.Resource.Style.Theme_AppCompat_DayNight_NoActionBar = global::Sample.Resource.Style.Theme_AppCompat_DayNight_NoActionBar;
+			global::TakajiMesser.Droid.Resource.Style.Theme_AppCompat_Dialog = global::Sample.Resource.Style.Theme_AppCompat_Dialog;
+			global::TakajiMesser.Droid.Resource.Style.Theme_AppCompat_Dialog_Alert = global::Sample.Resource.Style.Theme_AppCompat_Dialog_Alert;
+			global::TakajiMesser.Droid.Resource.Style.Theme_AppCompat_Dialog_MinWidth = global::Sample.Resource.Style.Theme_AppCompat_Dialog_MinWidth;
+			global::TakajiMesser.Droid.Resource.Style.Theme_AppCompat_DialogWhenLarge = global::Sample.Resource.Style.Theme_AppCompat_DialogWhenLarge;
+			global::TakajiMesser.Droid.Resource.Style.Theme_AppCompat_Light = global::Sample.Resource.Style.Theme_AppCompat_Light;
+			global::TakajiMesser.Droid.Resource.Style.Theme_AppCompat_Light_DarkActionBar = global::Sample.Resource.Style.Theme_AppCompat_Light_DarkActionBar;
+			global::TakajiMesser.Droid.Resource.Style.Theme_AppCompat_Light_Dialog = global::Sample.Resource.Style.Theme_AppCompat_Light_Dialog;
+			global::TakajiMesser.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_Alert = global::Sample.Resource.Style.Theme_AppCompat_Light_Dialog_Alert;
+			global::TakajiMesser.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth = global::Sample.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth;
+			global::TakajiMesser.Droid.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge = global::Sample.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge;
+			global::TakajiMesser.Droid.Resource.Style.Theme_AppCompat_Light_NoActionBar = global::Sample.Resource.Style.Theme_AppCompat_Light_NoActionBar;
+			global::TakajiMesser.Droid.Resource.Style.Theme_AppCompat_NoActionBar = global::Sample.Resource.Style.Theme_AppCompat_NoActionBar;
+			global::TakajiMesser.Droid.Resource.Style.Theme_Design = global::Sample.Resource.Style.Theme_Design;
+			global::TakajiMesser.Droid.Resource.Style.Theme_Design_BottomSheetDialog = global::Sample.Resource.Style.Theme_Design_BottomSheetDialog;
+			global::TakajiMesser.Droid.Resource.Style.Theme_Design_Light = global::Sample.Resource.Style.Theme_Design_Light;
+			global::TakajiMesser.Droid.Resource.Style.Theme_Design_Light_BottomSheetDialog = global::Sample.Resource.Style.Theme_Design_Light_BottomSheetDialog;
+			global::TakajiMesser.Droid.Resource.Style.Theme_Design_Light_NoActionBar = global::Sample.Resource.Style.Theme_Design_Light_NoActionBar;
+			global::TakajiMesser.Droid.Resource.Style.Theme_Design_NoActionBar = global::Sample.Resource.Style.Theme_Design_NoActionBar;
+			global::TakajiMesser.Droid.Resource.Style.ThemeOverlay_AppCompat = global::Sample.Resource.Style.ThemeOverlay_AppCompat;
+			global::TakajiMesser.Droid.Resource.Style.ThemeOverlay_AppCompat_ActionBar = global::Sample.Resource.Style.ThemeOverlay_AppCompat_ActionBar;
+			global::TakajiMesser.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark = global::Sample.Resource.Style.ThemeOverlay_AppCompat_Dark;
+			global::TakajiMesser.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar = global::Sample.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::TakajiMesser.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog = global::Sample.Resource.Style.ThemeOverlay_AppCompat_Dialog;
+			global::TakajiMesser.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert = global::Sample.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert;
+			global::TakajiMesser.Droid.Resource.Style.ThemeOverlay_AppCompat_Light = global::Sample.Resource.Style.ThemeOverlay_AppCompat_Light;
+			global::TakajiMesser.Droid.Resource.Style.Widget_AppCompat_ActionBar = global::Sample.Resource.Style.Widget_AppCompat_ActionBar;
+			global::TakajiMesser.Droid.Resource.Style.Widget_AppCompat_ActionBar_Solid = global::Sample.Resource.Style.Widget_AppCompat_ActionBar_Solid;
+			global::TakajiMesser.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabBar = global::Sample.Resource.Style.Widget_AppCompat_ActionBar_TabBar;
+			global::TakajiMesser.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabText = global::Sample.Resource.Style.Widget_AppCompat_ActionBar_TabText;
+			global::TakajiMesser.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabView = global::Sample.Resource.Style.Widget_AppCompat_ActionBar_TabView;
+			global::TakajiMesser.Droid.Resource.Style.Widget_AppCompat_ActionButton = global::Sample.Resource.Style.Widget_AppCompat_ActionButton;
+			global::TakajiMesser.Droid.Resource.Style.Widget_AppCompat_ActionButton_CloseMode = global::Sample.Resource.Style.Widget_AppCompat_ActionButton_CloseMode;
+			global::TakajiMesser.Droid.Resource.Style.Widget_AppCompat_ActionButton_Overflow = global::Sample.Resource.Style.Widget_AppCompat_ActionButton_Overflow;
+			global::TakajiMesser.Droid.Resource.Style.Widget_AppCompat_ActionMode = global::Sample.Resource.Style.Widget_AppCompat_ActionMode;
+			global::TakajiMesser.Droid.Resource.Style.Widget_AppCompat_ActivityChooserView = global::Sample.Resource.Style.Widget_AppCompat_ActivityChooserView;
+			global::TakajiMesser.Droid.Resource.Style.Widget_AppCompat_AutoCompleteTextView = global::Sample.Resource.Style.Widget_AppCompat_AutoCompleteTextView;
+			global::TakajiMesser.Droid.Resource.Style.Widget_AppCompat_Button = global::Sample.Resource.Style.Widget_AppCompat_Button;
+			global::TakajiMesser.Droid.Resource.Style.Widget_AppCompat_Button_Borderless = global::Sample.Resource.Style.Widget_AppCompat_Button_Borderless;
+			global::TakajiMesser.Droid.Resource.Style.Widget_AppCompat_Button_Borderless_Colored = global::Sample.Resource.Style.Widget_AppCompat_Button_Borderless_Colored;
+			global::TakajiMesser.Droid.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog = global::Sample.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::TakajiMesser.Droid.Resource.Style.Widget_AppCompat_Button_Colored = global::Sample.Resource.Style.Widget_AppCompat_Button_Colored;
+			global::TakajiMesser.Droid.Resource.Style.Widget_AppCompat_Button_Small = global::Sample.Resource.Style.Widget_AppCompat_Button_Small;
+			global::TakajiMesser.Droid.Resource.Style.Widget_AppCompat_ButtonBar = global::Sample.Resource.Style.Widget_AppCompat_ButtonBar;
+			global::TakajiMesser.Droid.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog = global::Sample.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog;
+			global::TakajiMesser.Droid.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox = global::Sample.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox;
+			global::TakajiMesser.Droid.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton = global::Sample.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton;
+			global::TakajiMesser.Droid.Resource.Style.Widget_AppCompat_CompoundButton_Switch = global::Sample.Resource.Style.Widget_AppCompat_CompoundButton_Switch;
+			global::TakajiMesser.Droid.Resource.Style.Widget_AppCompat_DrawerArrowToggle = global::Sample.Resource.Style.Widget_AppCompat_DrawerArrowToggle;
+			global::TakajiMesser.Droid.Resource.Style.Widget_AppCompat_DropDownItem_Spinner = global::Sample.Resource.Style.Widget_AppCompat_DropDownItem_Spinner;
+			global::TakajiMesser.Droid.Resource.Style.Widget_AppCompat_EditText = global::Sample.Resource.Style.Widget_AppCompat_EditText;
+			global::TakajiMesser.Droid.Resource.Style.Widget_AppCompat_ImageButton = global::Sample.Resource.Style.Widget_AppCompat_ImageButton;
+			global::TakajiMesser.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar = global::Sample.Resource.Style.Widget_AppCompat_Light_ActionBar;
+			global::TakajiMesser.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid = global::Sample.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid;
+			global::TakajiMesser.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse = global::Sample.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse;
+			global::TakajiMesser.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar = global::Sample.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar;
+			global::TakajiMesser.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse = global::Sample.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse;
+			global::TakajiMesser.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText = global::Sample.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText;
+			global::TakajiMesser.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::Sample.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::TakajiMesser.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView = global::Sample.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView;
+			global::TakajiMesser.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse = global::Sample.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse;
+			global::TakajiMesser.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton = global::Sample.Resource.Style.Widget_AppCompat_Light_ActionButton;
+			global::TakajiMesser.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode = global::Sample.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode;
+			global::TakajiMesser.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow = global::Sample.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow;
+			global::TakajiMesser.Droid.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse = global::Sample.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse;
+			global::TakajiMesser.Droid.Resource.Style.Widget_AppCompat_Light_ActivityChooserView = global::Sample.Resource.Style.Widget_AppCompat_Light_ActivityChooserView;
+			global::TakajiMesser.Droid.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView = global::Sample.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView;
+			global::TakajiMesser.Droid.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner = global::Sample.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner;
+			global::TakajiMesser.Droid.Resource.Style.Widget_AppCompat_Light_ListPopupWindow = global::Sample.Resource.Style.Widget_AppCompat_Light_ListPopupWindow;
+			global::TakajiMesser.Droid.Resource.Style.Widget_AppCompat_Light_ListView_DropDown = global::Sample.Resource.Style.Widget_AppCompat_Light_ListView_DropDown;
+			global::TakajiMesser.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu = global::Sample.Resource.Style.Widget_AppCompat_Light_PopupMenu;
+			global::TakajiMesser.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow = global::Sample.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::TakajiMesser.Droid.Resource.Style.Widget_AppCompat_Light_SearchView = global::Sample.Resource.Style.Widget_AppCompat_Light_SearchView;
+			global::TakajiMesser.Droid.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar = global::Sample.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar;
+			global::TakajiMesser.Droid.Resource.Style.Widget_AppCompat_ListMenuView = global::Sample.Resource.Style.Widget_AppCompat_ListMenuView;
+			global::TakajiMesser.Droid.Resource.Style.Widget_AppCompat_ListPopupWindow = global::Sample.Resource.Style.Widget_AppCompat_ListPopupWindow;
+			global::TakajiMesser.Droid.Resource.Style.Widget_AppCompat_ListView = global::Sample.Resource.Style.Widget_AppCompat_ListView;
+			global::TakajiMesser.Droid.Resource.Style.Widget_AppCompat_ListView_DropDown = global::Sample.Resource.Style.Widget_AppCompat_ListView_DropDown;
+			global::TakajiMesser.Droid.Resource.Style.Widget_AppCompat_ListView_Menu = global::Sample.Resource.Style.Widget_AppCompat_ListView_Menu;
+			global::TakajiMesser.Droid.Resource.Style.Widget_AppCompat_PopupMenu = global::Sample.Resource.Style.Widget_AppCompat_PopupMenu;
+			global::TakajiMesser.Droid.Resource.Style.Widget_AppCompat_PopupMenu_Overflow = global::Sample.Resource.Style.Widget_AppCompat_PopupMenu_Overflow;
+			global::TakajiMesser.Droid.Resource.Style.Widget_AppCompat_PopupWindow = global::Sample.Resource.Style.Widget_AppCompat_PopupWindow;
+			global::TakajiMesser.Droid.Resource.Style.Widget_AppCompat_ProgressBar = global::Sample.Resource.Style.Widget_AppCompat_ProgressBar;
+			global::TakajiMesser.Droid.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal = global::Sample.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal;
+			global::TakajiMesser.Droid.Resource.Style.Widget_AppCompat_RatingBar = global::Sample.Resource.Style.Widget_AppCompat_RatingBar;
+			global::TakajiMesser.Droid.Resource.Style.Widget_AppCompat_RatingBar_Indicator = global::Sample.Resource.Style.Widget_AppCompat_RatingBar_Indicator;
+			global::TakajiMesser.Droid.Resource.Style.Widget_AppCompat_RatingBar_Small = global::Sample.Resource.Style.Widget_AppCompat_RatingBar_Small;
+			global::TakajiMesser.Droid.Resource.Style.Widget_AppCompat_SearchView = global::Sample.Resource.Style.Widget_AppCompat_SearchView;
+			global::TakajiMesser.Droid.Resource.Style.Widget_AppCompat_SearchView_ActionBar = global::Sample.Resource.Style.Widget_AppCompat_SearchView_ActionBar;
+			global::TakajiMesser.Droid.Resource.Style.Widget_AppCompat_SeekBar = global::Sample.Resource.Style.Widget_AppCompat_SeekBar;
+			global::TakajiMesser.Droid.Resource.Style.Widget_AppCompat_SeekBar_Discrete = global::Sample.Resource.Style.Widget_AppCompat_SeekBar_Discrete;
+			global::TakajiMesser.Droid.Resource.Style.Widget_AppCompat_Spinner = global::Sample.Resource.Style.Widget_AppCompat_Spinner;
+			global::TakajiMesser.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown = global::Sample.Resource.Style.Widget_AppCompat_Spinner_DropDown;
+			global::TakajiMesser.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar = global::Sample.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar;
+			global::TakajiMesser.Droid.Resource.Style.Widget_AppCompat_Spinner_Underlined = global::Sample.Resource.Style.Widget_AppCompat_Spinner_Underlined;
+			global::TakajiMesser.Droid.Resource.Style.Widget_AppCompat_TextView_SpinnerItem = global::Sample.Resource.Style.Widget_AppCompat_TextView_SpinnerItem;
+			global::TakajiMesser.Droid.Resource.Style.Widget_AppCompat_Toolbar = global::Sample.Resource.Style.Widget_AppCompat_Toolbar;
+			global::TakajiMesser.Droid.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation = global::Sample.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation;
+			global::TakajiMesser.Droid.Resource.Style.Widget_Compat_NotificationActionContainer = global::Sample.Resource.Style.Widget_Compat_NotificationActionContainer;
+			global::TakajiMesser.Droid.Resource.Style.Widget_Compat_NotificationActionText = global::Sample.Resource.Style.Widget_Compat_NotificationActionText;
+			global::TakajiMesser.Droid.Resource.Style.Widget_Design_AppBarLayout = global::Sample.Resource.Style.Widget_Design_AppBarLayout;
+			global::TakajiMesser.Droid.Resource.Style.Widget_Design_BottomNavigationView = global::Sample.Resource.Style.Widget_Design_BottomNavigationView;
+			global::TakajiMesser.Droid.Resource.Style.Widget_Design_BottomSheet_Modal = global::Sample.Resource.Style.Widget_Design_BottomSheet_Modal;
+			global::TakajiMesser.Droid.Resource.Style.Widget_Design_CollapsingToolbar = global::Sample.Resource.Style.Widget_Design_CollapsingToolbar;
+			global::TakajiMesser.Droid.Resource.Style.Widget_Design_CoordinatorLayout = global::Sample.Resource.Style.Widget_Design_CoordinatorLayout;
+			global::TakajiMesser.Droid.Resource.Style.Widget_Design_FloatingActionButton = global::Sample.Resource.Style.Widget_Design_FloatingActionButton;
+			global::TakajiMesser.Droid.Resource.Style.Widget_Design_NavigationView = global::Sample.Resource.Style.Widget_Design_NavigationView;
+			global::TakajiMesser.Droid.Resource.Style.Widget_Design_ScrimInsetsFrameLayout = global::Sample.Resource.Style.Widget_Design_ScrimInsetsFrameLayout;
+			global::TakajiMesser.Droid.Resource.Style.Widget_Design_Snackbar = global::Sample.Resource.Style.Widget_Design_Snackbar;
+			global::TakajiMesser.Droid.Resource.Style.Widget_Design_TabLayout = global::Sample.Resource.Style.Widget_Design_TabLayout;
+			global::TakajiMesser.Droid.Resource.Style.Widget_Design_TextInputLayout = global::Sample.Resource.Style.Widget_Design_TextInputLayout;
+			global::TakajiMesser.Droid.Resource.Styleable.ActionBar = global::Sample.Resource.Styleable.ActionBar;
+			global::TakajiMesser.Droid.Resource.Styleable.ActionBar_background = global::Sample.Resource.Styleable.ActionBar_background;
+			global::TakajiMesser.Droid.Resource.Styleable.ActionBar_backgroundSplit = global::Sample.Resource.Styleable.ActionBar_backgroundSplit;
+			global::TakajiMesser.Droid.Resource.Styleable.ActionBar_backgroundStacked = global::Sample.Resource.Styleable.ActionBar_backgroundStacked;
+			global::TakajiMesser.Droid.Resource.Styleable.ActionBar_contentInsetEnd = global::Sample.Resource.Styleable.ActionBar_contentInsetEnd;
+			global::TakajiMesser.Droid.Resource.Styleable.ActionBar_contentInsetEndWithActions = global::Sample.Resource.Styleable.ActionBar_contentInsetEndWithActions;
+			global::TakajiMesser.Droid.Resource.Styleable.ActionBar_contentInsetLeft = global::Sample.Resource.Styleable.ActionBar_contentInsetLeft;
+			global::TakajiMesser.Droid.Resource.Styleable.ActionBar_contentInsetRight = global::Sample.Resource.Styleable.ActionBar_contentInsetRight;
+			global::TakajiMesser.Droid.Resource.Styleable.ActionBar_contentInsetStart = global::Sample.Resource.Styleable.ActionBar_contentInsetStart;
+			global::TakajiMesser.Droid.Resource.Styleable.ActionBar_contentInsetStartWithNavigation = global::Sample.Resource.Styleable.ActionBar_contentInsetStartWithNavigation;
+			global::TakajiMesser.Droid.Resource.Styleable.ActionBar_customNavigationLayout = global::Sample.Resource.Styleable.ActionBar_customNavigationLayout;
+			global::TakajiMesser.Droid.Resource.Styleable.ActionBar_displayOptions = global::Sample.Resource.Styleable.ActionBar_displayOptions;
+			global::TakajiMesser.Droid.Resource.Styleable.ActionBar_divider = global::Sample.Resource.Styleable.ActionBar_divider;
+			global::TakajiMesser.Droid.Resource.Styleable.ActionBar_elevation = global::Sample.Resource.Styleable.ActionBar_elevation;
+			global::TakajiMesser.Droid.Resource.Styleable.ActionBar_height = global::Sample.Resource.Styleable.ActionBar_height;
+			global::TakajiMesser.Droid.Resource.Styleable.ActionBar_hideOnContentScroll = global::Sample.Resource.Styleable.ActionBar_hideOnContentScroll;
+			global::TakajiMesser.Droid.Resource.Styleable.ActionBar_homeAsUpIndicator = global::Sample.Resource.Styleable.ActionBar_homeAsUpIndicator;
+			global::TakajiMesser.Droid.Resource.Styleable.ActionBar_homeLayout = global::Sample.Resource.Styleable.ActionBar_homeLayout;
+			global::TakajiMesser.Droid.Resource.Styleable.ActionBar_icon = global::Sample.Resource.Styleable.ActionBar_icon;
+			global::TakajiMesser.Droid.Resource.Styleable.ActionBar_indeterminateProgressStyle = global::Sample.Resource.Styleable.ActionBar_indeterminateProgressStyle;
+			global::TakajiMesser.Droid.Resource.Styleable.ActionBar_itemPadding = global::Sample.Resource.Styleable.ActionBar_itemPadding;
+			global::TakajiMesser.Droid.Resource.Styleable.ActionBar_logo = global::Sample.Resource.Styleable.ActionBar_logo;
+			global::TakajiMesser.Droid.Resource.Styleable.ActionBar_navigationMode = global::Sample.Resource.Styleable.ActionBar_navigationMode;
+			global::TakajiMesser.Droid.Resource.Styleable.ActionBar_popupTheme = global::Sample.Resource.Styleable.ActionBar_popupTheme;
+			global::TakajiMesser.Droid.Resource.Styleable.ActionBar_progressBarPadding = global::Sample.Resource.Styleable.ActionBar_progressBarPadding;
+			global::TakajiMesser.Droid.Resource.Styleable.ActionBar_progressBarStyle = global::Sample.Resource.Styleable.ActionBar_progressBarStyle;
+			global::TakajiMesser.Droid.Resource.Styleable.ActionBar_subtitle = global::Sample.Resource.Styleable.ActionBar_subtitle;
+			global::TakajiMesser.Droid.Resource.Styleable.ActionBar_subtitleTextStyle = global::Sample.Resource.Styleable.ActionBar_subtitleTextStyle;
+			global::TakajiMesser.Droid.Resource.Styleable.ActionBar_title = global::Sample.Resource.Styleable.ActionBar_title;
+			global::TakajiMesser.Droid.Resource.Styleable.ActionBar_titleTextStyle = global::Sample.Resource.Styleable.ActionBar_titleTextStyle;
+			global::TakajiMesser.Droid.Resource.Styleable.ActionBarLayout = global::Sample.Resource.Styleable.ActionBarLayout;
+			global::TakajiMesser.Droid.Resource.Styleable.ActionBarLayout_android_layout_gravity = global::Sample.Resource.Styleable.ActionBarLayout_android_layout_gravity;
+			global::TakajiMesser.Droid.Resource.Styleable.ActionMenuItemView = global::Sample.Resource.Styleable.ActionMenuItemView;
+			global::TakajiMesser.Droid.Resource.Styleable.ActionMenuItemView_android_minWidth = global::Sample.Resource.Styleable.ActionMenuItemView_android_minWidth;
+			global::TakajiMesser.Droid.Resource.Styleable.ActionMenuView = global::Sample.Resource.Styleable.ActionMenuView;
+			global::TakajiMesser.Droid.Resource.Styleable.ActionMode = global::Sample.Resource.Styleable.ActionMode;
+			global::TakajiMesser.Droid.Resource.Styleable.ActionMode_background = global::Sample.Resource.Styleable.ActionMode_background;
+			global::TakajiMesser.Droid.Resource.Styleable.ActionMode_backgroundSplit = global::Sample.Resource.Styleable.ActionMode_backgroundSplit;
+			global::TakajiMesser.Droid.Resource.Styleable.ActionMode_closeItemLayout = global::Sample.Resource.Styleable.ActionMode_closeItemLayout;
+			global::TakajiMesser.Droid.Resource.Styleable.ActionMode_height = global::Sample.Resource.Styleable.ActionMode_height;
+			global::TakajiMesser.Droid.Resource.Styleable.ActionMode_subtitleTextStyle = global::Sample.Resource.Styleable.ActionMode_subtitleTextStyle;
+			global::TakajiMesser.Droid.Resource.Styleable.ActionMode_titleTextStyle = global::Sample.Resource.Styleable.ActionMode_titleTextStyle;
+			global::TakajiMesser.Droid.Resource.Styleable.ActivityChooserView = global::Sample.Resource.Styleable.ActivityChooserView;
+			global::TakajiMesser.Droid.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable = global::Sample.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable;
+			global::TakajiMesser.Droid.Resource.Styleable.ActivityChooserView_initialActivityCount = global::Sample.Resource.Styleable.ActivityChooserView_initialActivityCount;
+			global::TakajiMesser.Droid.Resource.Styleable.AlertDialog = global::Sample.Resource.Styleable.AlertDialog;
+			global::TakajiMesser.Droid.Resource.Styleable.AlertDialog_android_layout = global::Sample.Resource.Styleable.AlertDialog_android_layout;
+			global::TakajiMesser.Droid.Resource.Styleable.AlertDialog_buttonPanelSideLayout = global::Sample.Resource.Styleable.AlertDialog_buttonPanelSideLayout;
+			global::TakajiMesser.Droid.Resource.Styleable.AlertDialog_listItemLayout = global::Sample.Resource.Styleable.AlertDialog_listItemLayout;
+			global::TakajiMesser.Droid.Resource.Styleable.AlertDialog_listLayout = global::Sample.Resource.Styleable.AlertDialog_listLayout;
+			global::TakajiMesser.Droid.Resource.Styleable.AlertDialog_multiChoiceItemLayout = global::Sample.Resource.Styleable.AlertDialog_multiChoiceItemLayout;
+			global::TakajiMesser.Droid.Resource.Styleable.AlertDialog_showTitle = global::Sample.Resource.Styleable.AlertDialog_showTitle;
+			global::TakajiMesser.Droid.Resource.Styleable.AlertDialog_singleChoiceItemLayout = global::Sample.Resource.Styleable.AlertDialog_singleChoiceItemLayout;
+			global::TakajiMesser.Droid.Resource.Styleable.AppBarLayout = global::Sample.Resource.Styleable.AppBarLayout;
+			global::TakajiMesser.Droid.Resource.Styleable.AppBarLayout_android_background = global::Sample.Resource.Styleable.AppBarLayout_android_background;
+			global::TakajiMesser.Droid.Resource.Styleable.AppBarLayout_android_keyboardNavigationCluster = global::Sample.Resource.Styleable.AppBarLayout_android_keyboardNavigationCluster;
+			global::TakajiMesser.Droid.Resource.Styleable.AppBarLayout_android_touchscreenBlocksFocus = global::Sample.Resource.Styleable.AppBarLayout_android_touchscreenBlocksFocus;
+			global::TakajiMesser.Droid.Resource.Styleable.AppBarLayout_elevation = global::Sample.Resource.Styleable.AppBarLayout_elevation;
+			global::TakajiMesser.Droid.Resource.Styleable.AppBarLayout_expanded = global::Sample.Resource.Styleable.AppBarLayout_expanded;
+			global::TakajiMesser.Droid.Resource.Styleable.AppBarLayoutStates = global::Sample.Resource.Styleable.AppBarLayoutStates;
+			global::TakajiMesser.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsed = global::Sample.Resource.Styleable.AppBarLayoutStates_state_collapsed;
+			global::TakajiMesser.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsible = global::Sample.Resource.Styleable.AppBarLayoutStates_state_collapsible;
+			global::TakajiMesser.Droid.Resource.Styleable.AppBarLayout_Layout = global::Sample.Resource.Styleable.AppBarLayout_Layout;
+			global::TakajiMesser.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags = global::Sample.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags;
+			global::TakajiMesser.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator = global::Sample.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatImageView = global::Sample.Resource.Styleable.AppCompatImageView;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatImageView_android_src = global::Sample.Resource.Styleable.AppCompatImageView_android_src;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatImageView_srcCompat = global::Sample.Resource.Styleable.AppCompatImageView_srcCompat;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatImageView_tint = global::Sample.Resource.Styleable.AppCompatImageView_tint;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatImageView_tintMode = global::Sample.Resource.Styleable.AppCompatImageView_tintMode;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatSeekBar = global::Sample.Resource.Styleable.AppCompatSeekBar;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatSeekBar_android_thumb = global::Sample.Resource.Styleable.AppCompatSeekBar_android_thumb;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatSeekBar_tickMark = global::Sample.Resource.Styleable.AppCompatSeekBar_tickMark;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTint = global::Sample.Resource.Styleable.AppCompatSeekBar_tickMarkTint;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode = global::Sample.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTextHelper = global::Sample.Resource.Styleable.AppCompatTextHelper;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableBottom = global::Sample.Resource.Styleable.AppCompatTextHelper_android_drawableBottom;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableEnd = global::Sample.Resource.Styleable.AppCompatTextHelper_android_drawableEnd;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableLeft = global::Sample.Resource.Styleable.AppCompatTextHelper_android_drawableLeft;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableRight = global::Sample.Resource.Styleable.AppCompatTextHelper_android_drawableRight;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableStart = global::Sample.Resource.Styleable.AppCompatTextHelper_android_drawableStart;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableTop = global::Sample.Resource.Styleable.AppCompatTextHelper_android_drawableTop;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTextHelper_android_textAppearance = global::Sample.Resource.Styleable.AppCompatTextHelper_android_textAppearance;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTextView = global::Sample.Resource.Styleable.AppCompatTextView;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTextView_android_textAppearance = global::Sample.Resource.Styleable.AppCompatTextView_android_textAppearance;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize = global::Sample.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize = global::Sample.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTextView_autoSizePresetSizes = global::Sample.Resource.Styleable.AppCompatTextView_autoSizePresetSizes;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity = global::Sample.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTextView_autoSizeTextType = global::Sample.Resource.Styleable.AppCompatTextView_autoSizeTextType;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTextView_fontFamily = global::Sample.Resource.Styleable.AppCompatTextView_fontFamily;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTextView_textAllCaps = global::Sample.Resource.Styleable.AppCompatTextView_textAllCaps;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme = global::Sample.Resource.Styleable.AppCompatTheme;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_actionBarDivider = global::Sample.Resource.Styleable.AppCompatTheme_actionBarDivider;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_actionBarItemBackground = global::Sample.Resource.Styleable.AppCompatTheme_actionBarItemBackground;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_actionBarPopupTheme = global::Sample.Resource.Styleable.AppCompatTheme_actionBarPopupTheme;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_actionBarSize = global::Sample.Resource.Styleable.AppCompatTheme_actionBarSize;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_actionBarSplitStyle = global::Sample.Resource.Styleable.AppCompatTheme_actionBarSplitStyle;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_actionBarStyle = global::Sample.Resource.Styleable.AppCompatTheme_actionBarStyle;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle = global::Sample.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_actionBarTabStyle = global::Sample.Resource.Styleable.AppCompatTheme_actionBarTabStyle;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle = global::Sample.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_actionBarTheme = global::Sample.Resource.Styleable.AppCompatTheme_actionBarTheme;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme = global::Sample.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_actionButtonStyle = global::Sample.Resource.Styleable.AppCompatTheme_actionButtonStyle;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_actionDropDownStyle = global::Sample.Resource.Styleable.AppCompatTheme_actionDropDownStyle;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance = global::Sample.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextColor = global::Sample.Resource.Styleable.AppCompatTheme_actionMenuTextColor;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_actionModeBackground = global::Sample.Resource.Styleable.AppCompatTheme_actionModeBackground;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle = global::Sample.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable = global::Sample.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable = global::Sample.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_actionModeCutDrawable = global::Sample.Resource.Styleable.AppCompatTheme_actionModeCutDrawable;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_actionModeFindDrawable = global::Sample.Resource.Styleable.AppCompatTheme_actionModeFindDrawable;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_actionModePasteDrawable = global::Sample.Resource.Styleable.AppCompatTheme_actionModePasteDrawable;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle = global::Sample.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable = global::Sample.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_actionModeShareDrawable = global::Sample.Resource.Styleable.AppCompatTheme_actionModeShareDrawable;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_actionModeSplitBackground = global::Sample.Resource.Styleable.AppCompatTheme_actionModeSplitBackground;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_actionModeStyle = global::Sample.Resource.Styleable.AppCompatTheme_actionModeStyle;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable = global::Sample.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle = global::Sample.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle = global::Sample.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_activityChooserViewStyle = global::Sample.Resource.Styleable.AppCompatTheme_activityChooserViewStyle;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle = global::Sample.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons = global::Sample.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_alertDialogStyle = global::Sample.Resource.Styleable.AppCompatTheme_alertDialogStyle;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_alertDialogTheme = global::Sample.Resource.Styleable.AppCompatTheme_alertDialogTheme;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle = global::Sample.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_android_windowIsFloating = global::Sample.Resource.Styleable.AppCompatTheme_android_windowIsFloating;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle = global::Sample.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_borderlessButtonStyle = global::Sample.Resource.Styleable.AppCompatTheme_borderlessButtonStyle;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle = global::Sample.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle = global::Sample.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle = global::Sample.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle = global::Sample.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_buttonBarStyle = global::Sample.Resource.Styleable.AppCompatTheme_buttonBarStyle;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_buttonStyle = global::Sample.Resource.Styleable.AppCompatTheme_buttonStyle;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_buttonStyleSmall = global::Sample.Resource.Styleable.AppCompatTheme_buttonStyleSmall;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_checkboxStyle = global::Sample.Resource.Styleable.AppCompatTheme_checkboxStyle;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_checkedTextViewStyle = global::Sample.Resource.Styleable.AppCompatTheme_checkedTextViewStyle;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_colorAccent = global::Sample.Resource.Styleable.AppCompatTheme_colorAccent;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_colorBackgroundFloating = global::Sample.Resource.Styleable.AppCompatTheme_colorBackgroundFloating;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_colorButtonNormal = global::Sample.Resource.Styleable.AppCompatTheme_colorButtonNormal;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_colorControlActivated = global::Sample.Resource.Styleable.AppCompatTheme_colorControlActivated;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_colorControlHighlight = global::Sample.Resource.Styleable.AppCompatTheme_colorControlHighlight;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_colorControlNormal = global::Sample.Resource.Styleable.AppCompatTheme_colorControlNormal;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_colorError = global::Sample.Resource.Styleable.AppCompatTheme_colorError;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_colorPrimary = global::Sample.Resource.Styleable.AppCompatTheme_colorPrimary;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_colorPrimaryDark = global::Sample.Resource.Styleable.AppCompatTheme_colorPrimaryDark;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal = global::Sample.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_controlBackground = global::Sample.Resource.Styleable.AppCompatTheme_controlBackground;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_dialogPreferredPadding = global::Sample.Resource.Styleable.AppCompatTheme_dialogPreferredPadding;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_dialogTheme = global::Sample.Resource.Styleable.AppCompatTheme_dialogTheme;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_dividerHorizontal = global::Sample.Resource.Styleable.AppCompatTheme_dividerHorizontal;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_dividerVertical = global::Sample.Resource.Styleable.AppCompatTheme_dividerVertical;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_dropDownListViewStyle = global::Sample.Resource.Styleable.AppCompatTheme_dropDownListViewStyle;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight = global::Sample.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_editTextBackground = global::Sample.Resource.Styleable.AppCompatTheme_editTextBackground;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_editTextColor = global::Sample.Resource.Styleable.AppCompatTheme_editTextColor;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_editTextStyle = global::Sample.Resource.Styleable.AppCompatTheme_editTextStyle;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_homeAsUpIndicator = global::Sample.Resource.Styleable.AppCompatTheme_homeAsUpIndicator;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_imageButtonStyle = global::Sample.Resource.Styleable.AppCompatTheme_imageButtonStyle;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator = global::Sample.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_listDividerAlertDialog = global::Sample.Resource.Styleable.AppCompatTheme_listDividerAlertDialog;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_listMenuViewStyle = global::Sample.Resource.Styleable.AppCompatTheme_listMenuViewStyle;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_listPopupWindowStyle = global::Sample.Resource.Styleable.AppCompatTheme_listPopupWindowStyle;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeight = global::Sample.Resource.Styleable.AppCompatTheme_listPreferredItemHeight;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge = global::Sample.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall = global::Sample.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft = global::Sample.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight = global::Sample.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_panelBackground = global::Sample.Resource.Styleable.AppCompatTheme_panelBackground;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_panelMenuListTheme = global::Sample.Resource.Styleable.AppCompatTheme_panelMenuListTheme;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_panelMenuListWidth = global::Sample.Resource.Styleable.AppCompatTheme_panelMenuListWidth;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_popupMenuStyle = global::Sample.Resource.Styleable.AppCompatTheme_popupMenuStyle;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_popupWindowStyle = global::Sample.Resource.Styleable.AppCompatTheme_popupWindowStyle;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_radioButtonStyle = global::Sample.Resource.Styleable.AppCompatTheme_radioButtonStyle;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyle = global::Sample.Resource.Styleable.AppCompatTheme_ratingBarStyle;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator = global::Sample.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall = global::Sample.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_searchViewStyle = global::Sample.Resource.Styleable.AppCompatTheme_searchViewStyle;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_seekBarStyle = global::Sample.Resource.Styleable.AppCompatTheme_seekBarStyle;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackground = global::Sample.Resource.Styleable.AppCompatTheme_selectableItemBackground;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless = global::Sample.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle = global::Sample.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_spinnerStyle = global::Sample.Resource.Styleable.AppCompatTheme_spinnerStyle;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_switchStyle = global::Sample.Resource.Styleable.AppCompatTheme_switchStyle;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu = global::Sample.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItem = global::Sample.Resource.Styleable.AppCompatTheme_textAppearanceListItem;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary = global::Sample.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall = global::Sample.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader = global::Sample.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle = global::Sample.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle = global::Sample.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu = global::Sample.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem = global::Sample.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_textColorSearchUrl = global::Sample.Resource.Styleable.AppCompatTheme_textColorSearchUrl;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle = global::Sample.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_toolbarStyle = global::Sample.Resource.Styleable.AppCompatTheme_toolbarStyle;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_tooltipForegroundColor = global::Sample.Resource.Styleable.AppCompatTheme_tooltipForegroundColor;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_tooltipFrameBackground = global::Sample.Resource.Styleable.AppCompatTheme_tooltipFrameBackground;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_windowActionBar = global::Sample.Resource.Styleable.AppCompatTheme_windowActionBar;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_windowActionBarOverlay = global::Sample.Resource.Styleable.AppCompatTheme_windowActionBarOverlay;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_windowActionModeOverlay = global::Sample.Resource.Styleable.AppCompatTheme_windowActionModeOverlay;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor = global::Sample.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor = global::Sample.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor = global::Sample.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor = global::Sample.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMajor = global::Sample.Resource.Styleable.AppCompatTheme_windowMinWidthMajor;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMinor = global::Sample.Resource.Styleable.AppCompatTheme_windowMinWidthMinor;
+			global::TakajiMesser.Droid.Resource.Styleable.AppCompatTheme_windowNoTitle = global::Sample.Resource.Styleable.AppCompatTheme_windowNoTitle;
+			global::TakajiMesser.Droid.Resource.Styleable.BottomNavigationView = global::Sample.Resource.Styleable.BottomNavigationView;
+			global::TakajiMesser.Droid.Resource.Styleable.BottomNavigationView_elevation = global::Sample.Resource.Styleable.BottomNavigationView_elevation;
+			global::TakajiMesser.Droid.Resource.Styleable.BottomNavigationView_itemBackground = global::Sample.Resource.Styleable.BottomNavigationView_itemBackground;
+			global::TakajiMesser.Droid.Resource.Styleable.BottomNavigationView_itemIconTint = global::Sample.Resource.Styleable.BottomNavigationView_itemIconTint;
+			global::TakajiMesser.Droid.Resource.Styleable.BottomNavigationView_itemTextColor = global::Sample.Resource.Styleable.BottomNavigationView_itemTextColor;
+			global::TakajiMesser.Droid.Resource.Styleable.BottomNavigationView_menu = global::Sample.Resource.Styleable.BottomNavigationView_menu;
+			global::TakajiMesser.Droid.Resource.Styleable.BottomSheetBehavior_Layout = global::Sample.Resource.Styleable.BottomSheetBehavior_Layout;
+			global::TakajiMesser.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable = global::Sample.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable;
+			global::TakajiMesser.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight = global::Sample.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight;
+			global::TakajiMesser.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed = global::Sample.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed;
+			global::TakajiMesser.Droid.Resource.Styleable.ButtonBarLayout = global::Sample.Resource.Styleable.ButtonBarLayout;
+			global::TakajiMesser.Droid.Resource.Styleable.ButtonBarLayout_allowStacking = global::Sample.Resource.Styleable.ButtonBarLayout_allowStacking;
+			global::TakajiMesser.Droid.Resource.Styleable.CollapsingToolbarLayout = global::Sample.Resource.Styleable.CollapsingToolbarLayout;
+			global::TakajiMesser.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity = global::Sample.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity;
+			global::TakajiMesser.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance = global::Sample.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance;
+			global::TakajiMesser.Droid.Resource.Styleable.CollapsingToolbarLayout_contentScrim = global::Sample.Resource.Styleable.CollapsingToolbarLayout_contentScrim;
+			global::TakajiMesser.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity = global::Sample.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity;
+			global::TakajiMesser.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin = global::Sample.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin;
+			global::TakajiMesser.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom = global::Sample.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom;
+			global::TakajiMesser.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd = global::Sample.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd;
+			global::TakajiMesser.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart = global::Sample.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart;
+			global::TakajiMesser.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop = global::Sample.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop;
+			global::TakajiMesser.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance = global::Sample.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance;
+			global::TakajiMesser.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration = global::Sample.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration;
+			global::TakajiMesser.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger = global::Sample.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger;
+			global::TakajiMesser.Droid.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim = global::Sample.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim;
+			global::TakajiMesser.Droid.Resource.Styleable.CollapsingToolbarLayout_title = global::Sample.Resource.Styleable.CollapsingToolbarLayout_title;
+			global::TakajiMesser.Droid.Resource.Styleable.CollapsingToolbarLayout_titleEnabled = global::Sample.Resource.Styleable.CollapsingToolbarLayout_titleEnabled;
+			global::TakajiMesser.Droid.Resource.Styleable.CollapsingToolbarLayout_toolbarId = global::Sample.Resource.Styleable.CollapsingToolbarLayout_toolbarId;
+			global::TakajiMesser.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout = global::Sample.Resource.Styleable.CollapsingToolbarLayout_Layout;
+			global::TakajiMesser.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode = global::Sample.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode;
+			global::TakajiMesser.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier = global::Sample.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier;
+			global::TakajiMesser.Droid.Resource.Styleable.ColorStateListItem = global::Sample.Resource.Styleable.ColorStateListItem;
+			global::TakajiMesser.Droid.Resource.Styleable.ColorStateListItem_alpha = global::Sample.Resource.Styleable.ColorStateListItem_alpha;
+			global::TakajiMesser.Droid.Resource.Styleable.ColorStateListItem_android_alpha = global::Sample.Resource.Styleable.ColorStateListItem_android_alpha;
+			global::TakajiMesser.Droid.Resource.Styleable.ColorStateListItem_android_color = global::Sample.Resource.Styleable.ColorStateListItem_android_color;
+			global::TakajiMesser.Droid.Resource.Styleable.CompoundButton = global::Sample.Resource.Styleable.CompoundButton;
+			global::TakajiMesser.Droid.Resource.Styleable.CompoundButton_android_button = global::Sample.Resource.Styleable.CompoundButton_android_button;
+			global::TakajiMesser.Droid.Resource.Styleable.CompoundButton_buttonTint = global::Sample.Resource.Styleable.CompoundButton_buttonTint;
+			global::TakajiMesser.Droid.Resource.Styleable.CompoundButton_buttonTintMode = global::Sample.Resource.Styleable.CompoundButton_buttonTintMode;
+			global::TakajiMesser.Droid.Resource.Styleable.CoordinatorLayout = global::Sample.Resource.Styleable.CoordinatorLayout;
+			global::TakajiMesser.Droid.Resource.Styleable.CoordinatorLayout_keylines = global::Sample.Resource.Styleable.CoordinatorLayout_keylines;
+			global::TakajiMesser.Droid.Resource.Styleable.CoordinatorLayout_statusBarBackground = global::Sample.Resource.Styleable.CoordinatorLayout_statusBarBackground;
+			global::TakajiMesser.Droid.Resource.Styleable.CoordinatorLayout_Layout = global::Sample.Resource.Styleable.CoordinatorLayout_Layout;
+			global::TakajiMesser.Droid.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity = global::Sample.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity;
+			global::TakajiMesser.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor = global::Sample.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor;
+			global::TakajiMesser.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity = global::Sample.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity;
+			global::TakajiMesser.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior = global::Sample.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior;
+			global::TakajiMesser.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges = global::Sample.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges;
+			global::TakajiMesser.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge = global::Sample.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge;
+			global::TakajiMesser.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline = global::Sample.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline;
+			global::TakajiMesser.Droid.Resource.Styleable.DesignTheme = global::Sample.Resource.Styleable.DesignTheme;
+			global::TakajiMesser.Droid.Resource.Styleable.DesignTheme_bottomSheetDialogTheme = global::Sample.Resource.Styleable.DesignTheme_bottomSheetDialogTheme;
+			global::TakajiMesser.Droid.Resource.Styleable.DesignTheme_bottomSheetStyle = global::Sample.Resource.Styleable.DesignTheme_bottomSheetStyle;
+			global::TakajiMesser.Droid.Resource.Styleable.DesignTheme_textColorError = global::Sample.Resource.Styleable.DesignTheme_textColorError;
+			global::TakajiMesser.Droid.Resource.Styleable.DrawerArrowToggle = global::Sample.Resource.Styleable.DrawerArrowToggle;
+			global::TakajiMesser.Droid.Resource.Styleable.DrawerArrowToggle_arrowHeadLength = global::Sample.Resource.Styleable.DrawerArrowToggle_arrowHeadLength;
+			global::TakajiMesser.Droid.Resource.Styleable.DrawerArrowToggle_arrowShaftLength = global::Sample.Resource.Styleable.DrawerArrowToggle_arrowShaftLength;
+			global::TakajiMesser.Droid.Resource.Styleable.DrawerArrowToggle_barLength = global::Sample.Resource.Styleable.DrawerArrowToggle_barLength;
+			global::TakajiMesser.Droid.Resource.Styleable.DrawerArrowToggle_color = global::Sample.Resource.Styleable.DrawerArrowToggle_color;
+			global::TakajiMesser.Droid.Resource.Styleable.DrawerArrowToggle_drawableSize = global::Sample.Resource.Styleable.DrawerArrowToggle_drawableSize;
+			global::TakajiMesser.Droid.Resource.Styleable.DrawerArrowToggle_gapBetweenBars = global::Sample.Resource.Styleable.DrawerArrowToggle_gapBetweenBars;
+			global::TakajiMesser.Droid.Resource.Styleable.DrawerArrowToggle_spinBars = global::Sample.Resource.Styleable.DrawerArrowToggle_spinBars;
+			global::TakajiMesser.Droid.Resource.Styleable.DrawerArrowToggle_thickness = global::Sample.Resource.Styleable.DrawerArrowToggle_thickness;
+			global::TakajiMesser.Droid.Resource.Styleable.FloatingActionButton = global::Sample.Resource.Styleable.FloatingActionButton;
+			global::TakajiMesser.Droid.Resource.Styleable.FloatingActionButton_backgroundTint = global::Sample.Resource.Styleable.FloatingActionButton_backgroundTint;
+			global::TakajiMesser.Droid.Resource.Styleable.FloatingActionButton_backgroundTintMode = global::Sample.Resource.Styleable.FloatingActionButton_backgroundTintMode;
+			global::TakajiMesser.Droid.Resource.Styleable.FloatingActionButton_borderWidth = global::Sample.Resource.Styleable.FloatingActionButton_borderWidth;
+			global::TakajiMesser.Droid.Resource.Styleable.FloatingActionButton_elevation = global::Sample.Resource.Styleable.FloatingActionButton_elevation;
+			global::TakajiMesser.Droid.Resource.Styleable.FloatingActionButton_fabSize = global::Sample.Resource.Styleable.FloatingActionButton_fabSize;
+			global::TakajiMesser.Droid.Resource.Styleable.FloatingActionButton_pressedTranslationZ = global::Sample.Resource.Styleable.FloatingActionButton_pressedTranslationZ;
+			global::TakajiMesser.Droid.Resource.Styleable.FloatingActionButton_rippleColor = global::Sample.Resource.Styleable.FloatingActionButton_rippleColor;
+			global::TakajiMesser.Droid.Resource.Styleable.FloatingActionButton_useCompatPadding = global::Sample.Resource.Styleable.FloatingActionButton_useCompatPadding;
+			global::TakajiMesser.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout = global::Sample.Resource.Styleable.FloatingActionButton_Behavior_Layout;
+			global::TakajiMesser.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide = global::Sample.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide;
+			global::TakajiMesser.Droid.Resource.Styleable.FloatingActionMenu = global::Sample.Resource.Styleable.FloatingActionMenu;
+			global::TakajiMesser.Droid.Resource.Styleable.FloatingActionMenu_android_layout_alignParentBottom = global::Sample.Resource.Styleable.FloatingActionMenu_android_layout_alignParentBottom;
+			global::TakajiMesser.Droid.Resource.Styleable.FloatingActionMenu_android_layout_alignParentLeft = global::Sample.Resource.Styleable.FloatingActionMenu_android_layout_alignParentLeft;
+			global::TakajiMesser.Droid.Resource.Styleable.FloatingActionMenu_android_layout_alignParentRight = global::Sample.Resource.Styleable.FloatingActionMenu_android_layout_alignParentRight;
+			global::TakajiMesser.Droid.Resource.Styleable.FloatingActionMenu_android_layout_alignParentTop = global::Sample.Resource.Styleable.FloatingActionMenu_android_layout_alignParentTop;
+			global::TakajiMesser.Droid.Resource.Styleable.FloatingActionMenu_buttonBackgroundColor = global::Sample.Resource.Styleable.FloatingActionMenu_buttonBackgroundColor;
+			global::TakajiMesser.Droid.Resource.Styleable.FloatingActionMenu_buttonElevation = global::Sample.Resource.Styleable.FloatingActionMenu_buttonElevation;
+			global::TakajiMesser.Droid.Resource.Styleable.FloatingActionMenu_buttonIcon = global::Sample.Resource.Styleable.FloatingActionMenu_buttonIcon;
+			global::TakajiMesser.Droid.Resource.Styleable.FloatingActionMenu_buttonSpacing = global::Sample.Resource.Styleable.FloatingActionMenu_buttonSpacing;
+			global::TakajiMesser.Droid.Resource.Styleable.FloatingActionMenu_layout_labelBackgroundColor = global::Sample.Resource.Styleable.FloatingActionMenu_layout_labelBackgroundColor;
+			global::TakajiMesser.Droid.Resource.Styleable.FloatingActionMenu_layout_labelDirection = global::Sample.Resource.Styleable.FloatingActionMenu_layout_labelDirection;
+			global::TakajiMesser.Droid.Resource.Styleable.FloatingActionMenu_layout_labelSpacing = global::Sample.Resource.Styleable.FloatingActionMenu_layout_labelSpacing;
+			global::TakajiMesser.Droid.Resource.Styleable.FloatingActionMenu_layout_labelText = global::Sample.Resource.Styleable.FloatingActionMenu_layout_labelText;
+			global::TakajiMesser.Droid.Resource.Styleable.FloatingActionMenu_layout_labelTextColor = global::Sample.Resource.Styleable.FloatingActionMenu_layout_labelTextColor;
+			global::TakajiMesser.Droid.Resource.Styleable.FloatingActionMenu_layout_labelTextSize = global::Sample.Resource.Styleable.FloatingActionMenu_layout_labelTextSize;
+			global::TakajiMesser.Droid.Resource.Styleable.FloatingActionMenu_openDirection = global::Sample.Resource.Styleable.FloatingActionMenu_openDirection;
+			global::TakajiMesser.Droid.Resource.Styleable.FloatingActionMenu_openOnHold = global::Sample.Resource.Styleable.FloatingActionMenu_openOnHold;
+			global::TakajiMesser.Droid.Resource.Styleable.FontFamily = global::Sample.Resource.Styleable.FontFamily;
+			global::TakajiMesser.Droid.Resource.Styleable.FontFamily_fontProviderAuthority = global::Sample.Resource.Styleable.FontFamily_fontProviderAuthority;
+			global::TakajiMesser.Droid.Resource.Styleable.FontFamily_fontProviderCerts = global::Sample.Resource.Styleable.FontFamily_fontProviderCerts;
+			global::TakajiMesser.Droid.Resource.Styleable.FontFamily_fontProviderFetchStrategy = global::Sample.Resource.Styleable.FontFamily_fontProviderFetchStrategy;
+			global::TakajiMesser.Droid.Resource.Styleable.FontFamily_fontProviderFetchTimeout = global::Sample.Resource.Styleable.FontFamily_fontProviderFetchTimeout;
+			global::TakajiMesser.Droid.Resource.Styleable.FontFamily_fontProviderPackage = global::Sample.Resource.Styleable.FontFamily_fontProviderPackage;
+			global::TakajiMesser.Droid.Resource.Styleable.FontFamily_fontProviderQuery = global::Sample.Resource.Styleable.FontFamily_fontProviderQuery;
+			global::TakajiMesser.Droid.Resource.Styleable.FontFamilyFont = global::Sample.Resource.Styleable.FontFamilyFont;
+			global::TakajiMesser.Droid.Resource.Styleable.FontFamilyFont_font = global::Sample.Resource.Styleable.FontFamilyFont_font;
+			global::TakajiMesser.Droid.Resource.Styleable.FontFamilyFont_fontStyle = global::Sample.Resource.Styleable.FontFamilyFont_fontStyle;
+			global::TakajiMesser.Droid.Resource.Styleable.FontFamilyFont_fontWeight = global::Sample.Resource.Styleable.FontFamilyFont_fontWeight;
+			global::TakajiMesser.Droid.Resource.Styleable.ForegroundLinearLayout = global::Sample.Resource.Styleable.ForegroundLinearLayout;
+			global::TakajiMesser.Droid.Resource.Styleable.ForegroundLinearLayout_android_foreground = global::Sample.Resource.Styleable.ForegroundLinearLayout_android_foreground;
+			global::TakajiMesser.Droid.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity = global::Sample.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity;
+			global::TakajiMesser.Droid.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding = global::Sample.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding;
+			global::TakajiMesser.Droid.Resource.Styleable.LinearLayoutCompat = global::Sample.Resource.Styleable.LinearLayoutCompat;
+			global::TakajiMesser.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAligned = global::Sample.Resource.Styleable.LinearLayoutCompat_android_baselineAligned;
+			global::TakajiMesser.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex = global::Sample.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex;
+			global::TakajiMesser.Droid.Resource.Styleable.LinearLayoutCompat_android_gravity = global::Sample.Resource.Styleable.LinearLayoutCompat_android_gravity;
+			global::TakajiMesser.Droid.Resource.Styleable.LinearLayoutCompat_android_orientation = global::Sample.Resource.Styleable.LinearLayoutCompat_android_orientation;
+			global::TakajiMesser.Droid.Resource.Styleable.LinearLayoutCompat_android_weightSum = global::Sample.Resource.Styleable.LinearLayoutCompat_android_weightSum;
+			global::TakajiMesser.Droid.Resource.Styleable.LinearLayoutCompat_divider = global::Sample.Resource.Styleable.LinearLayoutCompat_divider;
+			global::TakajiMesser.Droid.Resource.Styleable.LinearLayoutCompat_dividerPadding = global::Sample.Resource.Styleable.LinearLayoutCompat_dividerPadding;
+			global::TakajiMesser.Droid.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild = global::Sample.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild;
+			global::TakajiMesser.Droid.Resource.Styleable.LinearLayoutCompat_showDividers = global::Sample.Resource.Styleable.LinearLayoutCompat_showDividers;
+			global::TakajiMesser.Droid.Resource.Styleable.LinearLayoutCompat_Layout = global::Sample.Resource.Styleable.LinearLayoutCompat_Layout;
+			global::TakajiMesser.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity = global::Sample.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity;
+			global::TakajiMesser.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height = global::Sample.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height;
+			global::TakajiMesser.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight = global::Sample.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight;
+			global::TakajiMesser.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width = global::Sample.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width;
+			global::TakajiMesser.Droid.Resource.Styleable.ListPopupWindow = global::Sample.Resource.Styleable.ListPopupWindow;
+			global::TakajiMesser.Droid.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset = global::Sample.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset;
+			global::TakajiMesser.Droid.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset = global::Sample.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset;
+			global::TakajiMesser.Droid.Resource.Styleable.MenuGroup = global::Sample.Resource.Styleable.MenuGroup;
+			global::TakajiMesser.Droid.Resource.Styleable.MenuGroup_android_checkableBehavior = global::Sample.Resource.Styleable.MenuGroup_android_checkableBehavior;
+			global::TakajiMesser.Droid.Resource.Styleable.MenuGroup_android_enabled = global::Sample.Resource.Styleable.MenuGroup_android_enabled;
+			global::TakajiMesser.Droid.Resource.Styleable.MenuGroup_android_id = global::Sample.Resource.Styleable.MenuGroup_android_id;
+			global::TakajiMesser.Droid.Resource.Styleable.MenuGroup_android_menuCategory = global::Sample.Resource.Styleable.MenuGroup_android_menuCategory;
+			global::TakajiMesser.Droid.Resource.Styleable.MenuGroup_android_orderInCategory = global::Sample.Resource.Styleable.MenuGroup_android_orderInCategory;
+			global::TakajiMesser.Droid.Resource.Styleable.MenuGroup_android_visible = global::Sample.Resource.Styleable.MenuGroup_android_visible;
+			global::TakajiMesser.Droid.Resource.Styleable.MenuItem = global::Sample.Resource.Styleable.MenuItem;
+			global::TakajiMesser.Droid.Resource.Styleable.MenuItem_actionLayout = global::Sample.Resource.Styleable.MenuItem_actionLayout;
+			global::TakajiMesser.Droid.Resource.Styleable.MenuItem_actionProviderClass = global::Sample.Resource.Styleable.MenuItem_actionProviderClass;
+			global::TakajiMesser.Droid.Resource.Styleable.MenuItem_actionViewClass = global::Sample.Resource.Styleable.MenuItem_actionViewClass;
+			global::TakajiMesser.Droid.Resource.Styleable.MenuItem_alphabeticModifiers = global::Sample.Resource.Styleable.MenuItem_alphabeticModifiers;
+			global::TakajiMesser.Droid.Resource.Styleable.MenuItem_android_alphabeticShortcut = global::Sample.Resource.Styleable.MenuItem_android_alphabeticShortcut;
+			global::TakajiMesser.Droid.Resource.Styleable.MenuItem_android_checkable = global::Sample.Resource.Styleable.MenuItem_android_checkable;
+			global::TakajiMesser.Droid.Resource.Styleable.MenuItem_android_checked = global::Sample.Resource.Styleable.MenuItem_android_checked;
+			global::TakajiMesser.Droid.Resource.Styleable.MenuItem_android_enabled = global::Sample.Resource.Styleable.MenuItem_android_enabled;
+			global::TakajiMesser.Droid.Resource.Styleable.MenuItem_android_icon = global::Sample.Resource.Styleable.MenuItem_android_icon;
+			global::TakajiMesser.Droid.Resource.Styleable.MenuItem_android_id = global::Sample.Resource.Styleable.MenuItem_android_id;
+			global::TakajiMesser.Droid.Resource.Styleable.MenuItem_android_menuCategory = global::Sample.Resource.Styleable.MenuItem_android_menuCategory;
+			global::TakajiMesser.Droid.Resource.Styleable.MenuItem_android_numericShortcut = global::Sample.Resource.Styleable.MenuItem_android_numericShortcut;
+			global::TakajiMesser.Droid.Resource.Styleable.MenuItem_android_onClick = global::Sample.Resource.Styleable.MenuItem_android_onClick;
+			global::TakajiMesser.Droid.Resource.Styleable.MenuItem_android_orderInCategory = global::Sample.Resource.Styleable.MenuItem_android_orderInCategory;
+			global::TakajiMesser.Droid.Resource.Styleable.MenuItem_android_title = global::Sample.Resource.Styleable.MenuItem_android_title;
+			global::TakajiMesser.Droid.Resource.Styleable.MenuItem_android_titleCondensed = global::Sample.Resource.Styleable.MenuItem_android_titleCondensed;
+			global::TakajiMesser.Droid.Resource.Styleable.MenuItem_android_visible = global::Sample.Resource.Styleable.MenuItem_android_visible;
+			global::TakajiMesser.Droid.Resource.Styleable.MenuItem_contentDescription = global::Sample.Resource.Styleable.MenuItem_contentDescription;
+			global::TakajiMesser.Droid.Resource.Styleable.MenuItem_iconTint = global::Sample.Resource.Styleable.MenuItem_iconTint;
+			global::TakajiMesser.Droid.Resource.Styleable.MenuItem_iconTintMode = global::Sample.Resource.Styleable.MenuItem_iconTintMode;
+			global::TakajiMesser.Droid.Resource.Styleable.MenuItem_numericModifiers = global::Sample.Resource.Styleable.MenuItem_numericModifiers;
+			global::TakajiMesser.Droid.Resource.Styleable.MenuItem_showAsAction = global::Sample.Resource.Styleable.MenuItem_showAsAction;
+			global::TakajiMesser.Droid.Resource.Styleable.MenuItem_tooltipText = global::Sample.Resource.Styleable.MenuItem_tooltipText;
+			global::TakajiMesser.Droid.Resource.Styleable.MenuView = global::Sample.Resource.Styleable.MenuView;
+			global::TakajiMesser.Droid.Resource.Styleable.MenuView_android_headerBackground = global::Sample.Resource.Styleable.MenuView_android_headerBackground;
+			global::TakajiMesser.Droid.Resource.Styleable.MenuView_android_horizontalDivider = global::Sample.Resource.Styleable.MenuView_android_horizontalDivider;
+			global::TakajiMesser.Droid.Resource.Styleable.MenuView_android_itemBackground = global::Sample.Resource.Styleable.MenuView_android_itemBackground;
+			global::TakajiMesser.Droid.Resource.Styleable.MenuView_android_itemIconDisabledAlpha = global::Sample.Resource.Styleable.MenuView_android_itemIconDisabledAlpha;
+			global::TakajiMesser.Droid.Resource.Styleable.MenuView_android_itemTextAppearance = global::Sample.Resource.Styleable.MenuView_android_itemTextAppearance;
+			global::TakajiMesser.Droid.Resource.Styleable.MenuView_android_verticalDivider = global::Sample.Resource.Styleable.MenuView_android_verticalDivider;
+			global::TakajiMesser.Droid.Resource.Styleable.MenuView_android_windowAnimationStyle = global::Sample.Resource.Styleable.MenuView_android_windowAnimationStyle;
+			global::TakajiMesser.Droid.Resource.Styleable.MenuView_preserveIconSpacing = global::Sample.Resource.Styleable.MenuView_preserveIconSpacing;
+			global::TakajiMesser.Droid.Resource.Styleable.MenuView_subMenuArrow = global::Sample.Resource.Styleable.MenuView_subMenuArrow;
+			global::TakajiMesser.Droid.Resource.Styleable.NavigationView = global::Sample.Resource.Styleable.NavigationView;
+			global::TakajiMesser.Droid.Resource.Styleable.NavigationView_android_background = global::Sample.Resource.Styleable.NavigationView_android_background;
+			global::TakajiMesser.Droid.Resource.Styleable.NavigationView_android_fitsSystemWindows = global::Sample.Resource.Styleable.NavigationView_android_fitsSystemWindows;
+			global::TakajiMesser.Droid.Resource.Styleable.NavigationView_android_maxWidth = global::Sample.Resource.Styleable.NavigationView_android_maxWidth;
+			global::TakajiMesser.Droid.Resource.Styleable.NavigationView_elevation = global::Sample.Resource.Styleable.NavigationView_elevation;
+			global::TakajiMesser.Droid.Resource.Styleable.NavigationView_headerLayout = global::Sample.Resource.Styleable.NavigationView_headerLayout;
+			global::TakajiMesser.Droid.Resource.Styleable.NavigationView_itemBackground = global::Sample.Resource.Styleable.NavigationView_itemBackground;
+			global::TakajiMesser.Droid.Resource.Styleable.NavigationView_itemIconTint = global::Sample.Resource.Styleable.NavigationView_itemIconTint;
+			global::TakajiMesser.Droid.Resource.Styleable.NavigationView_itemTextAppearance = global::Sample.Resource.Styleable.NavigationView_itemTextAppearance;
+			global::TakajiMesser.Droid.Resource.Styleable.NavigationView_itemTextColor = global::Sample.Resource.Styleable.NavigationView_itemTextColor;
+			global::TakajiMesser.Droid.Resource.Styleable.NavigationView_menu = global::Sample.Resource.Styleable.NavigationView_menu;
+			global::TakajiMesser.Droid.Resource.Styleable.PopupWindow = global::Sample.Resource.Styleable.PopupWindow;
+			global::TakajiMesser.Droid.Resource.Styleable.PopupWindow_android_popupAnimationStyle = global::Sample.Resource.Styleable.PopupWindow_android_popupAnimationStyle;
+			global::TakajiMesser.Droid.Resource.Styleable.PopupWindow_android_popupBackground = global::Sample.Resource.Styleable.PopupWindow_android_popupBackground;
+			global::TakajiMesser.Droid.Resource.Styleable.PopupWindow_overlapAnchor = global::Sample.Resource.Styleable.PopupWindow_overlapAnchor;
+			global::TakajiMesser.Droid.Resource.Styleable.PopupWindowBackgroundState = global::Sample.Resource.Styleable.PopupWindowBackgroundState;
+			global::TakajiMesser.Droid.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor = global::Sample.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor;
+			global::TakajiMesser.Droid.Resource.Styleable.RecycleListView = global::Sample.Resource.Styleable.RecycleListView;
+			global::TakajiMesser.Droid.Resource.Styleable.RecycleListView_paddingBottomNoButtons = global::Sample.Resource.Styleable.RecycleListView_paddingBottomNoButtons;
+			global::TakajiMesser.Droid.Resource.Styleable.RecycleListView_paddingTopNoTitle = global::Sample.Resource.Styleable.RecycleListView_paddingTopNoTitle;
+			global::TakajiMesser.Droid.Resource.Styleable.RecyclerView = global::Sample.Resource.Styleable.RecyclerView;
+			global::TakajiMesser.Droid.Resource.Styleable.RecyclerView_android_descendantFocusability = global::Sample.Resource.Styleable.RecyclerView_android_descendantFocusability;
+			global::TakajiMesser.Droid.Resource.Styleable.RecyclerView_android_orientation = global::Sample.Resource.Styleable.RecyclerView_android_orientation;
+			global::TakajiMesser.Droid.Resource.Styleable.RecyclerView_fastScrollEnabled = global::Sample.Resource.Styleable.RecyclerView_fastScrollEnabled;
+			global::TakajiMesser.Droid.Resource.Styleable.RecyclerView_fastScrollHorizontalThumbDrawable = global::Sample.Resource.Styleable.RecyclerView_fastScrollHorizontalThumbDrawable;
+			global::TakajiMesser.Droid.Resource.Styleable.RecyclerView_fastScrollHorizontalTrackDrawable = global::Sample.Resource.Styleable.RecyclerView_fastScrollHorizontalTrackDrawable;
+			global::TakajiMesser.Droid.Resource.Styleable.RecyclerView_fastScrollVerticalThumbDrawable = global::Sample.Resource.Styleable.RecyclerView_fastScrollVerticalThumbDrawable;
+			global::TakajiMesser.Droid.Resource.Styleable.RecyclerView_fastScrollVerticalTrackDrawable = global::Sample.Resource.Styleable.RecyclerView_fastScrollVerticalTrackDrawable;
+			global::TakajiMesser.Droid.Resource.Styleable.RecyclerView_layoutManager = global::Sample.Resource.Styleable.RecyclerView_layoutManager;
+			global::TakajiMesser.Droid.Resource.Styleable.RecyclerView_reverseLayout = global::Sample.Resource.Styleable.RecyclerView_reverseLayout;
+			global::TakajiMesser.Droid.Resource.Styleable.RecyclerView_spanCount = global::Sample.Resource.Styleable.RecyclerView_spanCount;
+			global::TakajiMesser.Droid.Resource.Styleable.RecyclerView_stackFromEnd = global::Sample.Resource.Styleable.RecyclerView_stackFromEnd;
+			global::TakajiMesser.Droid.Resource.Styleable.ScrimInsetsFrameLayout = global::Sample.Resource.Styleable.ScrimInsetsFrameLayout;
+			global::TakajiMesser.Droid.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground = global::Sample.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground;
+			global::TakajiMesser.Droid.Resource.Styleable.ScrollingViewBehavior_Layout = global::Sample.Resource.Styleable.ScrollingViewBehavior_Layout;
+			global::TakajiMesser.Droid.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop = global::Sample.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop;
+			global::TakajiMesser.Droid.Resource.Styleable.SearchView = global::Sample.Resource.Styleable.SearchView;
+			global::TakajiMesser.Droid.Resource.Styleable.SearchView_android_focusable = global::Sample.Resource.Styleable.SearchView_android_focusable;
+			global::TakajiMesser.Droid.Resource.Styleable.SearchView_android_imeOptions = global::Sample.Resource.Styleable.SearchView_android_imeOptions;
+			global::TakajiMesser.Droid.Resource.Styleable.SearchView_android_inputType = global::Sample.Resource.Styleable.SearchView_android_inputType;
+			global::TakajiMesser.Droid.Resource.Styleable.SearchView_android_maxWidth = global::Sample.Resource.Styleable.SearchView_android_maxWidth;
+			global::TakajiMesser.Droid.Resource.Styleable.SearchView_closeIcon = global::Sample.Resource.Styleable.SearchView_closeIcon;
+			global::TakajiMesser.Droid.Resource.Styleable.SearchView_commitIcon = global::Sample.Resource.Styleable.SearchView_commitIcon;
+			global::TakajiMesser.Droid.Resource.Styleable.SearchView_defaultQueryHint = global::Sample.Resource.Styleable.SearchView_defaultQueryHint;
+			global::TakajiMesser.Droid.Resource.Styleable.SearchView_goIcon = global::Sample.Resource.Styleable.SearchView_goIcon;
+			global::TakajiMesser.Droid.Resource.Styleable.SearchView_iconifiedByDefault = global::Sample.Resource.Styleable.SearchView_iconifiedByDefault;
+			global::TakajiMesser.Droid.Resource.Styleable.SearchView_layout = global::Sample.Resource.Styleable.SearchView_layout;
+			global::TakajiMesser.Droid.Resource.Styleable.SearchView_queryBackground = global::Sample.Resource.Styleable.SearchView_queryBackground;
+			global::TakajiMesser.Droid.Resource.Styleable.SearchView_queryHint = global::Sample.Resource.Styleable.SearchView_queryHint;
+			global::TakajiMesser.Droid.Resource.Styleable.SearchView_searchHintIcon = global::Sample.Resource.Styleable.SearchView_searchHintIcon;
+			global::TakajiMesser.Droid.Resource.Styleable.SearchView_searchIcon = global::Sample.Resource.Styleable.SearchView_searchIcon;
+			global::TakajiMesser.Droid.Resource.Styleable.SearchView_submitBackground = global::Sample.Resource.Styleable.SearchView_submitBackground;
+			global::TakajiMesser.Droid.Resource.Styleable.SearchView_suggestionRowLayout = global::Sample.Resource.Styleable.SearchView_suggestionRowLayout;
+			global::TakajiMesser.Droid.Resource.Styleable.SearchView_voiceIcon = global::Sample.Resource.Styleable.SearchView_voiceIcon;
+			global::TakajiMesser.Droid.Resource.Styleable.SnackbarLayout = global::Sample.Resource.Styleable.SnackbarLayout;
+			global::TakajiMesser.Droid.Resource.Styleable.SnackbarLayout_android_maxWidth = global::Sample.Resource.Styleable.SnackbarLayout_android_maxWidth;
+			global::TakajiMesser.Droid.Resource.Styleable.SnackbarLayout_elevation = global::Sample.Resource.Styleable.SnackbarLayout_elevation;
+			global::TakajiMesser.Droid.Resource.Styleable.SnackbarLayout_maxActionInlineWidth = global::Sample.Resource.Styleable.SnackbarLayout_maxActionInlineWidth;
+			global::TakajiMesser.Droid.Resource.Styleable.Spinner = global::Sample.Resource.Styleable.Spinner;
+			global::TakajiMesser.Droid.Resource.Styleable.Spinner_android_dropDownWidth = global::Sample.Resource.Styleable.Spinner_android_dropDownWidth;
+			global::TakajiMesser.Droid.Resource.Styleable.Spinner_android_entries = global::Sample.Resource.Styleable.Spinner_android_entries;
+			global::TakajiMesser.Droid.Resource.Styleable.Spinner_android_popupBackground = global::Sample.Resource.Styleable.Spinner_android_popupBackground;
+			global::TakajiMesser.Droid.Resource.Styleable.Spinner_android_prompt = global::Sample.Resource.Styleable.Spinner_android_prompt;
+			global::TakajiMesser.Droid.Resource.Styleable.Spinner_popupTheme = global::Sample.Resource.Styleable.Spinner_popupTheme;
+			global::TakajiMesser.Droid.Resource.Styleable.SwitchCompat = global::Sample.Resource.Styleable.SwitchCompat;
+			global::TakajiMesser.Droid.Resource.Styleable.SwitchCompat_android_textOff = global::Sample.Resource.Styleable.SwitchCompat_android_textOff;
+			global::TakajiMesser.Droid.Resource.Styleable.SwitchCompat_android_textOn = global::Sample.Resource.Styleable.SwitchCompat_android_textOn;
+			global::TakajiMesser.Droid.Resource.Styleable.SwitchCompat_android_thumb = global::Sample.Resource.Styleable.SwitchCompat_android_thumb;
+			global::TakajiMesser.Droid.Resource.Styleable.SwitchCompat_showText = global::Sample.Resource.Styleable.SwitchCompat_showText;
+			global::TakajiMesser.Droid.Resource.Styleable.SwitchCompat_splitTrack = global::Sample.Resource.Styleable.SwitchCompat_splitTrack;
+			global::TakajiMesser.Droid.Resource.Styleable.SwitchCompat_switchMinWidth = global::Sample.Resource.Styleable.SwitchCompat_switchMinWidth;
+			global::TakajiMesser.Droid.Resource.Styleable.SwitchCompat_switchPadding = global::Sample.Resource.Styleable.SwitchCompat_switchPadding;
+			global::TakajiMesser.Droid.Resource.Styleable.SwitchCompat_switchTextAppearance = global::Sample.Resource.Styleable.SwitchCompat_switchTextAppearance;
+			global::TakajiMesser.Droid.Resource.Styleable.SwitchCompat_thumbTextPadding = global::Sample.Resource.Styleable.SwitchCompat_thumbTextPadding;
+			global::TakajiMesser.Droid.Resource.Styleable.SwitchCompat_thumbTint = global::Sample.Resource.Styleable.SwitchCompat_thumbTint;
+			global::TakajiMesser.Droid.Resource.Styleable.SwitchCompat_thumbTintMode = global::Sample.Resource.Styleable.SwitchCompat_thumbTintMode;
+			global::TakajiMesser.Droid.Resource.Styleable.SwitchCompat_track = global::Sample.Resource.Styleable.SwitchCompat_track;
+			global::TakajiMesser.Droid.Resource.Styleable.SwitchCompat_trackTint = global::Sample.Resource.Styleable.SwitchCompat_trackTint;
+			global::TakajiMesser.Droid.Resource.Styleable.SwitchCompat_trackTintMode = global::Sample.Resource.Styleable.SwitchCompat_trackTintMode;
+			global::TakajiMesser.Droid.Resource.Styleable.TabItem = global::Sample.Resource.Styleable.TabItem;
+			global::TakajiMesser.Droid.Resource.Styleable.TabItem_android_icon = global::Sample.Resource.Styleable.TabItem_android_icon;
+			global::TakajiMesser.Droid.Resource.Styleable.TabItem_android_layout = global::Sample.Resource.Styleable.TabItem_android_layout;
+			global::TakajiMesser.Droid.Resource.Styleable.TabItem_android_text = global::Sample.Resource.Styleable.TabItem_android_text;
+			global::TakajiMesser.Droid.Resource.Styleable.TabLayout = global::Sample.Resource.Styleable.TabLayout;
+			global::TakajiMesser.Droid.Resource.Styleable.TabLayout_tabBackground = global::Sample.Resource.Styleable.TabLayout_tabBackground;
+			global::TakajiMesser.Droid.Resource.Styleable.TabLayout_tabContentStart = global::Sample.Resource.Styleable.TabLayout_tabContentStart;
+			global::TakajiMesser.Droid.Resource.Styleable.TabLayout_tabGravity = global::Sample.Resource.Styleable.TabLayout_tabGravity;
+			global::TakajiMesser.Droid.Resource.Styleable.TabLayout_tabIndicatorColor = global::Sample.Resource.Styleable.TabLayout_tabIndicatorColor;
+			global::TakajiMesser.Droid.Resource.Styleable.TabLayout_tabIndicatorHeight = global::Sample.Resource.Styleable.TabLayout_tabIndicatorHeight;
+			global::TakajiMesser.Droid.Resource.Styleable.TabLayout_tabMaxWidth = global::Sample.Resource.Styleable.TabLayout_tabMaxWidth;
+			global::TakajiMesser.Droid.Resource.Styleable.TabLayout_tabMinWidth = global::Sample.Resource.Styleable.TabLayout_tabMinWidth;
+			global::TakajiMesser.Droid.Resource.Styleable.TabLayout_tabMode = global::Sample.Resource.Styleable.TabLayout_tabMode;
+			global::TakajiMesser.Droid.Resource.Styleable.TabLayout_tabPadding = global::Sample.Resource.Styleable.TabLayout_tabPadding;
+			global::TakajiMesser.Droid.Resource.Styleable.TabLayout_tabPaddingBottom = global::Sample.Resource.Styleable.TabLayout_tabPaddingBottom;
+			global::TakajiMesser.Droid.Resource.Styleable.TabLayout_tabPaddingEnd = global::Sample.Resource.Styleable.TabLayout_tabPaddingEnd;
+			global::TakajiMesser.Droid.Resource.Styleable.TabLayout_tabPaddingStart = global::Sample.Resource.Styleable.TabLayout_tabPaddingStart;
+			global::TakajiMesser.Droid.Resource.Styleable.TabLayout_tabPaddingTop = global::Sample.Resource.Styleable.TabLayout_tabPaddingTop;
+			global::TakajiMesser.Droid.Resource.Styleable.TabLayout_tabSelectedTextColor = global::Sample.Resource.Styleable.TabLayout_tabSelectedTextColor;
+			global::TakajiMesser.Droid.Resource.Styleable.TabLayout_tabTextAppearance = global::Sample.Resource.Styleable.TabLayout_tabTextAppearance;
+			global::TakajiMesser.Droid.Resource.Styleable.TabLayout_tabTextColor = global::Sample.Resource.Styleable.TabLayout_tabTextColor;
+			global::TakajiMesser.Droid.Resource.Styleable.TextAppearance = global::Sample.Resource.Styleable.TextAppearance;
+			global::TakajiMesser.Droid.Resource.Styleable.TextAppearance_android_fontFamily = global::Sample.Resource.Styleable.TextAppearance_android_fontFamily;
+			global::TakajiMesser.Droid.Resource.Styleable.TextAppearance_android_shadowColor = global::Sample.Resource.Styleable.TextAppearance_android_shadowColor;
+			global::TakajiMesser.Droid.Resource.Styleable.TextAppearance_android_shadowDx = global::Sample.Resource.Styleable.TextAppearance_android_shadowDx;
+			global::TakajiMesser.Droid.Resource.Styleable.TextAppearance_android_shadowDy = global::Sample.Resource.Styleable.TextAppearance_android_shadowDy;
+			global::TakajiMesser.Droid.Resource.Styleable.TextAppearance_android_shadowRadius = global::Sample.Resource.Styleable.TextAppearance_android_shadowRadius;
+			global::TakajiMesser.Droid.Resource.Styleable.TextAppearance_android_textColor = global::Sample.Resource.Styleable.TextAppearance_android_textColor;
+			global::TakajiMesser.Droid.Resource.Styleable.TextAppearance_android_textColorHint = global::Sample.Resource.Styleable.TextAppearance_android_textColorHint;
+			global::TakajiMesser.Droid.Resource.Styleable.TextAppearance_android_textColorLink = global::Sample.Resource.Styleable.TextAppearance_android_textColorLink;
+			global::TakajiMesser.Droid.Resource.Styleable.TextAppearance_android_textSize = global::Sample.Resource.Styleable.TextAppearance_android_textSize;
+			global::TakajiMesser.Droid.Resource.Styleable.TextAppearance_android_textStyle = global::Sample.Resource.Styleable.TextAppearance_android_textStyle;
+			global::TakajiMesser.Droid.Resource.Styleable.TextAppearance_android_typeface = global::Sample.Resource.Styleable.TextAppearance_android_typeface;
+			global::TakajiMesser.Droid.Resource.Styleable.TextAppearance_fontFamily = global::Sample.Resource.Styleable.TextAppearance_fontFamily;
+			global::TakajiMesser.Droid.Resource.Styleable.TextAppearance_textAllCaps = global::Sample.Resource.Styleable.TextAppearance_textAllCaps;
+			global::TakajiMesser.Droid.Resource.Styleable.TextInputLayout = global::Sample.Resource.Styleable.TextInputLayout;
+			global::TakajiMesser.Droid.Resource.Styleable.TextInputLayout_android_hint = global::Sample.Resource.Styleable.TextInputLayout_android_hint;
+			global::TakajiMesser.Droid.Resource.Styleable.TextInputLayout_android_textColorHint = global::Sample.Resource.Styleable.TextInputLayout_android_textColorHint;
+			global::TakajiMesser.Droid.Resource.Styleable.TextInputLayout_counterEnabled = global::Sample.Resource.Styleable.TextInputLayout_counterEnabled;
+			global::TakajiMesser.Droid.Resource.Styleable.TextInputLayout_counterMaxLength = global::Sample.Resource.Styleable.TextInputLayout_counterMaxLength;
+			global::TakajiMesser.Droid.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance = global::Sample.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance;
+			global::TakajiMesser.Droid.Resource.Styleable.TextInputLayout_counterTextAppearance = global::Sample.Resource.Styleable.TextInputLayout_counterTextAppearance;
+			global::TakajiMesser.Droid.Resource.Styleable.TextInputLayout_errorEnabled = global::Sample.Resource.Styleable.TextInputLayout_errorEnabled;
+			global::TakajiMesser.Droid.Resource.Styleable.TextInputLayout_errorTextAppearance = global::Sample.Resource.Styleable.TextInputLayout_errorTextAppearance;
+			global::TakajiMesser.Droid.Resource.Styleable.TextInputLayout_hintAnimationEnabled = global::Sample.Resource.Styleable.TextInputLayout_hintAnimationEnabled;
+			global::TakajiMesser.Droid.Resource.Styleable.TextInputLayout_hintEnabled = global::Sample.Resource.Styleable.TextInputLayout_hintEnabled;
+			global::TakajiMesser.Droid.Resource.Styleable.TextInputLayout_hintTextAppearance = global::Sample.Resource.Styleable.TextInputLayout_hintTextAppearance;
+			global::TakajiMesser.Droid.Resource.Styleable.TextInputLayout_passwordToggleContentDescription = global::Sample.Resource.Styleable.TextInputLayout_passwordToggleContentDescription;
+			global::TakajiMesser.Droid.Resource.Styleable.TextInputLayout_passwordToggleDrawable = global::Sample.Resource.Styleable.TextInputLayout_passwordToggleDrawable;
+			global::TakajiMesser.Droid.Resource.Styleable.TextInputLayout_passwordToggleEnabled = global::Sample.Resource.Styleable.TextInputLayout_passwordToggleEnabled;
+			global::TakajiMesser.Droid.Resource.Styleable.TextInputLayout_passwordToggleTint = global::Sample.Resource.Styleable.TextInputLayout_passwordToggleTint;
+			global::TakajiMesser.Droid.Resource.Styleable.TextInputLayout_passwordToggleTintMode = global::Sample.Resource.Styleable.TextInputLayout_passwordToggleTintMode;
+			global::TakajiMesser.Droid.Resource.Styleable.Toolbar = global::Sample.Resource.Styleable.Toolbar;
+			global::TakajiMesser.Droid.Resource.Styleable.Toolbar_android_gravity = global::Sample.Resource.Styleable.Toolbar_android_gravity;
+			global::TakajiMesser.Droid.Resource.Styleable.Toolbar_android_minHeight = global::Sample.Resource.Styleable.Toolbar_android_minHeight;
+			global::TakajiMesser.Droid.Resource.Styleable.Toolbar_buttonGravity = global::Sample.Resource.Styleable.Toolbar_buttonGravity;
+			global::TakajiMesser.Droid.Resource.Styleable.Toolbar_collapseContentDescription = global::Sample.Resource.Styleable.Toolbar_collapseContentDescription;
+			global::TakajiMesser.Droid.Resource.Styleable.Toolbar_collapseIcon = global::Sample.Resource.Styleable.Toolbar_collapseIcon;
+			global::TakajiMesser.Droid.Resource.Styleable.Toolbar_contentInsetEnd = global::Sample.Resource.Styleable.Toolbar_contentInsetEnd;
+			global::TakajiMesser.Droid.Resource.Styleable.Toolbar_contentInsetEndWithActions = global::Sample.Resource.Styleable.Toolbar_contentInsetEndWithActions;
+			global::TakajiMesser.Droid.Resource.Styleable.Toolbar_contentInsetLeft = global::Sample.Resource.Styleable.Toolbar_contentInsetLeft;
+			global::TakajiMesser.Droid.Resource.Styleable.Toolbar_contentInsetRight = global::Sample.Resource.Styleable.Toolbar_contentInsetRight;
+			global::TakajiMesser.Droid.Resource.Styleable.Toolbar_contentInsetStart = global::Sample.Resource.Styleable.Toolbar_contentInsetStart;
+			global::TakajiMesser.Droid.Resource.Styleable.Toolbar_contentInsetStartWithNavigation = global::Sample.Resource.Styleable.Toolbar_contentInsetStartWithNavigation;
+			global::TakajiMesser.Droid.Resource.Styleable.Toolbar_logo = global::Sample.Resource.Styleable.Toolbar_logo;
+			global::TakajiMesser.Droid.Resource.Styleable.Toolbar_logoDescription = global::Sample.Resource.Styleable.Toolbar_logoDescription;
+			global::TakajiMesser.Droid.Resource.Styleable.Toolbar_maxButtonHeight = global::Sample.Resource.Styleable.Toolbar_maxButtonHeight;
+			global::TakajiMesser.Droid.Resource.Styleable.Toolbar_navigationContentDescription = global::Sample.Resource.Styleable.Toolbar_navigationContentDescription;
+			global::TakajiMesser.Droid.Resource.Styleable.Toolbar_navigationIcon = global::Sample.Resource.Styleable.Toolbar_navigationIcon;
+			global::TakajiMesser.Droid.Resource.Styleable.Toolbar_popupTheme = global::Sample.Resource.Styleable.Toolbar_popupTheme;
+			global::TakajiMesser.Droid.Resource.Styleable.Toolbar_subtitle = global::Sample.Resource.Styleable.Toolbar_subtitle;
+			global::TakajiMesser.Droid.Resource.Styleable.Toolbar_subtitleTextAppearance = global::Sample.Resource.Styleable.Toolbar_subtitleTextAppearance;
+			global::TakajiMesser.Droid.Resource.Styleable.Toolbar_subtitleTextColor = global::Sample.Resource.Styleable.Toolbar_subtitleTextColor;
+			global::TakajiMesser.Droid.Resource.Styleable.Toolbar_title = global::Sample.Resource.Styleable.Toolbar_title;
+			global::TakajiMesser.Droid.Resource.Styleable.Toolbar_titleMargin = global::Sample.Resource.Styleable.Toolbar_titleMargin;
+			global::TakajiMesser.Droid.Resource.Styleable.Toolbar_titleMarginBottom = global::Sample.Resource.Styleable.Toolbar_titleMarginBottom;
+			global::TakajiMesser.Droid.Resource.Styleable.Toolbar_titleMarginEnd = global::Sample.Resource.Styleable.Toolbar_titleMarginEnd;
+			global::TakajiMesser.Droid.Resource.Styleable.Toolbar_titleMarginStart = global::Sample.Resource.Styleable.Toolbar_titleMarginStart;
+			global::TakajiMesser.Droid.Resource.Styleable.Toolbar_titleMarginTop = global::Sample.Resource.Styleable.Toolbar_titleMarginTop;
+			global::TakajiMesser.Droid.Resource.Styleable.Toolbar_titleMargins = global::Sample.Resource.Styleable.Toolbar_titleMargins;
+			global::TakajiMesser.Droid.Resource.Styleable.Toolbar_titleTextAppearance = global::Sample.Resource.Styleable.Toolbar_titleTextAppearance;
+			global::TakajiMesser.Droid.Resource.Styleable.Toolbar_titleTextColor = global::Sample.Resource.Styleable.Toolbar_titleTextColor;
+			global::TakajiMesser.Droid.Resource.Styleable.View = global::Sample.Resource.Styleable.View;
+			global::TakajiMesser.Droid.Resource.Styleable.View_android_focusable = global::Sample.Resource.Styleable.View_android_focusable;
+			global::TakajiMesser.Droid.Resource.Styleable.View_android_theme = global::Sample.Resource.Styleable.View_android_theme;
+			global::TakajiMesser.Droid.Resource.Styleable.View_paddingEnd = global::Sample.Resource.Styleable.View_paddingEnd;
+			global::TakajiMesser.Droid.Resource.Styleable.View_paddingStart = global::Sample.Resource.Styleable.View_paddingStart;
+			global::TakajiMesser.Droid.Resource.Styleable.View_theme = global::Sample.Resource.Styleable.View_theme;
+			global::TakajiMesser.Droid.Resource.Styleable.ViewBackgroundHelper = global::Sample.Resource.Styleable.ViewBackgroundHelper;
+			global::TakajiMesser.Droid.Resource.Styleable.ViewBackgroundHelper_android_background = global::Sample.Resource.Styleable.ViewBackgroundHelper_android_background;
+			global::TakajiMesser.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTint = global::Sample.Resource.Styleable.ViewBackgroundHelper_backgroundTint;
+			global::TakajiMesser.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode = global::Sample.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode;
+			global::TakajiMesser.Droid.Resource.Styleable.ViewStubCompat = global::Sample.Resource.Styleable.ViewStubCompat;
+			global::TakajiMesser.Droid.Resource.Styleable.ViewStubCompat_android_id = global::Sample.Resource.Styleable.ViewStubCompat_android_id;
+			global::TakajiMesser.Droid.Resource.Styleable.ViewStubCompat_android_inflatedId = global::Sample.Resource.Styleable.ViewStubCompat_android_inflatedId;
+			global::TakajiMesser.Droid.Resource.Styleable.ViewStubCompat_android_layout = global::Sample.Resource.Styleable.ViewStubCompat_android_layout;
 		}
 		
 		public partial class Animation
@@ -2073,22 +2077,34 @@ namespace Sample
 			public const int fab_open = 2130968593;
 			
 			// aapt resource value: 0x7f040012
-			public const int label_slide_in_left = 2130968594;
+			public const int label_slide_in_down = 2130968594;
 			
 			// aapt resource value: 0x7f040013
-			public const int label_slide_in_right = 2130968595;
+			public const int label_slide_in_left = 2130968595;
 			
 			// aapt resource value: 0x7f040014
-			public const int label_slide_out_left = 2130968596;
+			public const int label_slide_in_right = 2130968596;
 			
 			// aapt resource value: 0x7f040015
-			public const int label_slide_out_right = 2130968597;
+			public const int label_slide_in_up = 2130968597;
 			
 			// aapt resource value: 0x7f040016
-			public const int tooltip_enter = 2130968598;
+			public const int label_slide_out_down = 2130968598;
 			
 			// aapt resource value: 0x7f040017
-			public const int tooltip_exit = 2130968599;
+			public const int label_slide_out_left = 2130968599;
+			
+			// aapt resource value: 0x7f040018
+			public const int label_slide_out_right = 2130968600;
+			
+			// aapt resource value: 0x7f040019
+			public const int label_slide_out_up = 2130968601;
+			
+			// aapt resource value: 0x7f04001a
+			public const int tooltip_enter = 2130968602;
+			
+			// aapt resource value: 0x7f04001b
+			public const int tooltip_exit = 2130968603;
 			
 			static Animation()
 			{
@@ -2112,37 +2128,6 @@ namespace Sample
 			}
 			
 			private Animator()
-			{
-			}
-		}
-		
-		public partial class Array
-		{
-			
-			// aapt resource value: 0x7f0d0001
-			public const int DisplayTypeValues = 2131558401;
-			
-			// aapt resource value: 0x7f0d0000
-			public const int DisplayTypes = 2131558400;
-			
-			// aapt resource value: 0x7f0d0003
-			public const int GLOSATypeValues = 2131558403;
-			
-			// aapt resource value: 0x7f0d0002
-			public const int GLOSATypes = 2131558402;
-			
-			// aapt resource value: 0x7f0d0005
-			public const int MatchTypeValues = 2131558405;
-			
-			// aapt resource value: 0x7f0d0004
-			public const int MatchTypes = 2131558404;
-			
-			static Array()
-			{
-				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
-			}
-			
-			private Array()
 			{
 			}
 		}
@@ -2627,20 +2612,8 @@ namespace Sample
 			// aapt resource value: 0x7f0100d6
 			public const int goIcon = 2130772182;
 			
-			// aapt resource value: 0x7f01016b
-			public const int headerBackground = 2130772331;
-			
-			// aapt resource value: 0x7f01016a
-			public const int headerFontFamily = 2130772330;
-			
 			// aapt resource value: 0x7f01012f
 			public const int headerLayout = 2130772271;
-			
-			// aapt resource value: 0x7f010169
-			public const int headerTextColor = 2130772329;
-			
-			// aapt resource value: 0x7f010168
-			public const int headerTextSize = 2130772328;
 			
 			// aapt resource value: 0x7f01000a
 			public const int height = 2130771978;
@@ -2662,9 +2635,6 @@ namespace Sample
 			
 			// aapt resource value: 0x7f010019
 			public const int homeLayout = 2130771993;
-			
-			// aapt resource value: 0x7f010170
-			public const int horizontalRowDivider = 2130772336;
 			
 			// aapt resource value: 0x7f010012
 			public const int icon = 2130771986;
@@ -2765,12 +2735,6 @@ namespace Sample
 			// aapt resource value: 0x7f010103
 			public const int layout_scrollInterpolator = 2130772227;
 			
-			// aapt resource value: 0x7f010166
-			public const int lazyLoad = 2130772326;
-			
-			// aapt resource value: 0x7f010167
-			public const int lazyLoadLimit = 2130772327;
-			
 			// aapt resource value: 0x7f01008e
 			public const int listChoiceBackgroundIndicator = 2130772110;
 			
@@ -2816,17 +2780,11 @@ namespace Sample
 			// aapt resource value: 0x7f0100f1
 			public const int maxButtonHeight = 2130772209;
 			
-			// aapt resource value: 0x7f010173
-			public const int maxValue = 2130772339;
-			
 			// aapt resource value: 0x7f0100be
 			public const int measureWithLargestChild = 2130772158;
 			
 			// aapt resource value: 0x7f01012a
 			public const int menu = 2130772266;
-			
-			// aapt resource value: 0x7f010172
-			public const int minValue = 2130772338;
 			
 			// aapt resource value: 0x7f01002c
 			public const int multiChoiceItemLayout = 2130772012;
@@ -2932,18 +2890,6 @@ namespace Sample
 			
 			// aapt resource value: 0x7f010123
 			public const int rippleColor = 2130772259;
-			
-			// aapt resource value: 0x7f01016f
-			public const int rowBackground = 2130772335;
-			
-			// aapt resource value: 0x7f01016e
-			public const int rowFontFamily = 2130772334;
-			
-			// aapt resource value: 0x7f01016d
-			public const int rowTextColor = 2130772333;
-			
-			// aapt resource value: 0x7f01016c
-			public const int rowTextSize = 2130772332;
 			
 			// aapt resource value: 0x7f010112
 			public const int scrimAnimationDuration = 2130772242;
@@ -3229,9 +3175,6 @@ namespace Sample
 			
 			// aapt resource value: 0x7f010127
 			public const int useCompatPadding = 2130772263;
-			
-			// aapt resource value: 0x7f010171
-			public const int verticalRowDivider = 2130772337;
 			
 			// aapt resource value: 0x7f0100d9
 			public const int voiceIcon = 2130772185;
@@ -4467,26 +4410,26 @@ namespace Sample
 			// aapt resource value: 0x7f020053
 			public const int avd_hide_password = 2130837587;
 			
-			// aapt resource value: 0x7f020074
-			public const int avd_hide_password_1 = 2130837620;
-			
 			// aapt resource value: 0x7f020075
-			public const int avd_hide_password_2 = 2130837621;
+			public const int avd_hide_password_1 = 2130837621;
 			
 			// aapt resource value: 0x7f020076
-			public const int avd_hide_password_3 = 2130837622;
+			public const int avd_hide_password_2 = 2130837622;
+			
+			// aapt resource value: 0x7f020077
+			public const int avd_hide_password_3 = 2130837623;
 			
 			// aapt resource value: 0x7f020054
 			public const int avd_show_password = 2130837588;
 			
-			// aapt resource value: 0x7f020077
-			public const int avd_show_password_1 = 2130837623;
-			
 			// aapt resource value: 0x7f020078
-			public const int avd_show_password_2 = 2130837624;
+			public const int avd_show_password_1 = 2130837624;
 			
 			// aapt resource value: 0x7f020079
-			public const int avd_show_password_3 = 2130837625;
+			public const int avd_show_password_2 = 2130837625;
+			
+			// aapt resource value: 0x7f02007a
+			public const int avd_show_password_3 = 2130837626;
 			
 			// aapt resource value: 0x7f020055
 			public const int button_selector = 2130837589;
@@ -4563,11 +4506,11 @@ namespace Sample
 			// aapt resource value: 0x7f02006d
 			public const int notification_icon_background = 2130837613;
 			
-			// aapt resource value: 0x7f020072
-			public const int notification_template_icon_bg = 2130837618;
-			
 			// aapt resource value: 0x7f020073
-			public const int notification_template_icon_low_bg = 2130837619;
+			public const int notification_template_icon_bg = 2130837619;
+			
+			// aapt resource value: 0x7f020074
+			public const int notification_template_icon_low_bg = 2130837620;
 			
 			// aapt resource value: 0x7f02006e
 			public const int notification_tile_bg = 2130837614;
@@ -4576,10 +4519,13 @@ namespace Sample
 			public const int notify_panel_notification_icon_bg = 2130837615;
 			
 			// aapt resource value: 0x7f020070
-			public const int tooltip_frame_dark = 2130837616;
+			public const int rounded_border_dark = 2130837616;
 			
 			// aapt resource value: 0x7f020071
-			public const int tooltip_frame_light = 2130837617;
+			public const int tooltip_frame_dark = 2130837617;
+			
+			// aapt resource value: 0x7f020072
+			public const int tooltip_frame_light = 2130837618;
 			
 			static Drawable()
 			{
@@ -4612,8 +4558,8 @@ namespace Sample
 			// aapt resource value: 0x7f070037
 			public const int SYM = 2131165239;
 			
-			// aapt resource value: 0x7f0700a3
-			public const int action0 = 2131165347;
+			// aapt resource value: 0x7f0700a5
+			public const int action0 = 2131165349;
 			
 			// aapt resource value: 0x7f07007d
 			public const int action_bar = 2131165309;
@@ -4636,17 +4582,17 @@ namespace Sample
 			// aapt resource value: 0x7f07005b
 			public const int action_bar_title = 2131165275;
 			
-			// aapt resource value: 0x7f0700a0
-			public const int action_container = 2131165344;
+			// aapt resource value: 0x7f0700a2
+			public const int action_container = 2131165346;
 			
 			// aapt resource value: 0x7f07007e
 			public const int action_context_bar = 2131165310;
 			
-			// aapt resource value: 0x7f0700a7
-			public const int action_divider = 2131165351;
+			// aapt resource value: 0x7f0700a9
+			public const int action_divider = 2131165353;
 			
-			// aapt resource value: 0x7f0700a1
-			public const int action_image = 2131165345;
+			// aapt resource value: 0x7f0700a3
+			public const int action_image = 2131165347;
 			
 			// aapt resource value: 0x7f070003
 			public const int action_menu_divider = 2131165187;
@@ -4663,11 +4609,11 @@ namespace Sample
 			// aapt resource value: 0x7f07005d
 			public const int action_mode_close_button = 2131165277;
 			
-			// aapt resource value: 0x7f0700a2
-			public const int action_text = 2131165346;
+			// aapt resource value: 0x7f0700a4
+			public const int action_text = 2131165348;
 			
-			// aapt resource value: 0x7f0700b0
-			public const int actions = 2131165360;
+			// aapt resource value: 0x7f0700b2
+			public const int actions = 2131165362;
 			
 			// aapt resource value: 0x7f07005e
 			public const int activity_chooser_view_content = 2131165278;
@@ -4705,8 +4651,8 @@ namespace Sample
 			// aapt resource value: 0x7f07008d
 			public const int button_list = 2131165325;
 			
-			// aapt resource value: 0x7f0700a4
-			public const int cancel_action = 2131165348;
+			// aapt resource value: 0x7f0700a6
+			public const int cancel_action = 2131165350;
 			
 			// aapt resource value: 0x7f070045
 			public const int center = 2131165253;
@@ -4720,8 +4666,8 @@ namespace Sample
 			// aapt resource value: 0x7f070074
 			public const int checkbox = 2131165300;
 			
-			// aapt resource value: 0x7f0700ac
-			public const int chronometer = 2131165356;
+			// aapt resource value: 0x7f0700ae
+			public const int chronometer = 2131165358;
 			
 			// aapt resource value: 0x7f07004e
 			public const int clip_horizontal = 2131165262;
@@ -4732,14 +4678,14 @@ namespace Sample
 			// aapt resource value: 0x7f070039
 			public const int collapseActionView = 2131165241;
 			
-			// aapt resource value: 0x7f070094
-			public const int container = 2131165332;
+			// aapt resource value: 0x7f070096
+			public const int container = 2131165334;
 			
 			// aapt resource value: 0x7f070067
 			public const int contentPanel = 2131165287;
 			
-			// aapt resource value: 0x7f070095
-			public const int coordinator = 2131165333;
+			// aapt resource value: 0x7f070097
+			public const int coordinator = 2131165335;
 			
 			// aapt resource value: 0x7f07006e
 			public const int custom = 2131165294;
@@ -4753,20 +4699,20 @@ namespace Sample
 			// aapt resource value: 0x7f070061
 			public const int default_activity_button = 2131165281;
 			
-			// aapt resource value: 0x7f070097
-			public const int design_bottom_sheet = 2131165335;
+			// aapt resource value: 0x7f070099
+			public const int design_bottom_sheet = 2131165337;
+			
+			// aapt resource value: 0x7f0700a0
+			public const int design_menu_item_action_area = 2131165344;
+			
+			// aapt resource value: 0x7f07009f
+			public const int design_menu_item_action_area_stub = 2131165343;
 			
 			// aapt resource value: 0x7f07009e
-			public const int design_menu_item_action_area = 2131165342;
+			public const int design_menu_item_text = 2131165342;
 			
 			// aapt resource value: 0x7f07009d
-			public const int design_menu_item_action_area_stub = 2131165341;
-			
-			// aapt resource value: 0x7f07009c
-			public const int design_menu_item_text = 2131165340;
-			
-			// aapt resource value: 0x7f07009b
-			public const int design_navigation_view = 2131165339;
+			public const int design_navigation_view = 2131165341;
 			
 			// aapt resource value: 0x7f070020
 			public const int disableHome = 2131165216;
@@ -4780,8 +4726,8 @@ namespace Sample
 			// aapt resource value: 0x7f070030
 			public const int end = 2131165232;
 			
-			// aapt resource value: 0x7f0700b2
-			public const int end_padder = 2131165362;
+			// aapt resource value: 0x7f0700b4
+			public const int end_padder = 2131165364;
 			
 			// aapt resource value: 0x7f07003f
 			public const int enterAlways = 2131165247;
@@ -4791,6 +4737,9 @@ namespace Sample
 			
 			// aapt resource value: 0x7f07008e
 			public const int example_one = 2131165326;
+			
+			// aapt resource value: 0x7f07008f
+			public const int example_two = 2131165327;
 			
 			// aapt resource value: 0x7f070041
 			public const int exitUntilCollapsed = 2131165249;
@@ -4804,14 +4753,17 @@ namespace Sample
 			// aapt resource value: 0x7f07001c
 			public const int fab_label = 2131165212;
 			
-			// aapt resource value: 0x7f07008f
-			public const int fab_one = 2131165327;
-			
 			// aapt resource value: 0x7f070091
-			public const int fab_three = 2131165329;
+			public const int fab_one = 2131165329;
+			
+			// aapt resource value: 0x7f070093
+			public const int fab_three = 2131165331;
+			
+			// aapt resource value: 0x7f070092
+			public const int fab_two = 2131165330;
 			
 			// aapt resource value: 0x7f070090
-			public const int fab_two = 2131165328;
+			public const int fam = 2131165328;
 			
 			// aapt resource value: 0x7f070050
 			public const int fill = 2131165264;
@@ -4840,8 +4792,8 @@ namespace Sample
 			// aapt resource value: 0x7f070063
 			public const int icon = 2131165283;
 			
-			// aapt resource value: 0x7f0700b1
-			public const int icon_group = 2131165361;
+			// aapt resource value: 0x7f0700b3
+			public const int icon_group = 2131165363;
 			
 			// aapt resource value: 0x7f07003a
 			public const int ifRoom = 2131165242;
@@ -4849,8 +4801,8 @@ namespace Sample
 			// aapt resource value: 0x7f070060
 			public const int image = 2131165280;
 			
-			// aapt resource value: 0x7f0700ad
-			public const int info = 2131165357;
+			// aapt resource value: 0x7f0700af
+			public const int info = 2131165359;
 			
 			// aapt resource value: 0x7f070059
 			public const int italic = 2131165273;
@@ -4858,8 +4810,8 @@ namespace Sample
 			// aapt resource value: 0x7f070000
 			public const int item_touch_helper_previous_elevation = 2131165184;
 			
-			// aapt resource value: 0x7f070093
-			public const int largeLabel = 2131165331;
+			// aapt resource value: 0x7f070095
+			public const int largeLabel = 2131165333;
 			
 			// aapt resource value: 0x7f070049
 			public const int left = 2131165257;
@@ -4879,14 +4831,14 @@ namespace Sample
 			// aapt resource value: 0x7f07008c
 			public const int main_toolbar = 2131165324;
 			
+			// aapt resource value: 0x7f0700b7
+			public const int masked = 2131165367;
+			
+			// aapt resource value: 0x7f0700a8
+			public const int media_actions = 2131165352;
+			
 			// aapt resource value: 0x7f0700b5
-			public const int masked = 2131165365;
-			
-			// aapt resource value: 0x7f0700a6
-			public const int media_actions = 2131165350;
-			
-			// aapt resource value: 0x7f0700b3
-			public const int message = 2131165363;
+			public const int message = 2131165365;
 			
 			// aapt resource value: 0x7f070031
 			public const int middle = 2131165233;
@@ -4897,8 +4849,8 @@ namespace Sample
 			// aapt resource value: 0x7f070027
 			public const int multiply = 2131165223;
 			
-			// aapt resource value: 0x7f07009a
-			public const int navigation_header_container = 2131165338;
+			// aapt resource value: 0x7f07009c
+			public const int navigation_header_container = 2131165340;
 			
 			// aapt resource value: 0x7f07003b
 			public const int never = 2131165243;
@@ -4909,14 +4861,14 @@ namespace Sample
 			// aapt resource value: 0x7f07001e
 			public const int normal = 2131165214;
 			
-			// aapt resource value: 0x7f0700af
-			public const int notification_background = 2131165359;
+			// aapt resource value: 0x7f0700b1
+			public const int notification_background = 2131165361;
 			
-			// aapt resource value: 0x7f0700a9
-			public const int notification_main_column = 2131165353;
+			// aapt resource value: 0x7f0700ab
+			public const int notification_main_column = 2131165355;
 			
-			// aapt resource value: 0x7f0700a8
-			public const int notification_main_column_container = 2131165352;
+			// aapt resource value: 0x7f0700aa
+			public const int notification_main_column_container = 2131165354;
 			
 			// aapt resource value: 0x7f07004c
 			public const int parallax = 2131165260;
@@ -4942,11 +4894,11 @@ namespace Sample
 			// aapt resource value: 0x7f07004a
 			public const int right = 2131165258;
 			
-			// aapt resource value: 0x7f0700ae
-			public const int right_icon = 2131165358;
+			// aapt resource value: 0x7f0700b0
+			public const int right_icon = 2131165360;
 			
-			// aapt resource value: 0x7f0700aa
-			public const int right_side = 2131165354;
+			// aapt resource value: 0x7f0700ac
+			public const int right_side = 2131165356;
 			
 			// aapt resource value: 0x7f07000c
 			public const int save_image_matrix = 2131165196;
@@ -5020,14 +4972,14 @@ namespace Sample
 			// aapt resource value: 0x7f070025
 			public const int showTitle = 2131165221;
 			
-			// aapt resource value: 0x7f070092
-			public const int smallLabel = 2131165330;
+			// aapt resource value: 0x7f070094
+			public const int smallLabel = 2131165332;
 			
-			// aapt resource value: 0x7f070099
-			public const int snackbar_action = 2131165337;
+			// aapt resource value: 0x7f07009b
+			public const int snackbar_action = 2131165339;
 			
-			// aapt resource value: 0x7f070098
-			public const int snackbar_text = 2131165336;
+			// aapt resource value: 0x7f07009a
+			public const int snackbar_text = 2131165338;
 			
 			// aapt resource value: 0x7f070043
 			public const int snap = 2131165251;
@@ -5050,8 +5002,8 @@ namespace Sample
 			// aapt resource value: 0x7f07004b
 			public const int start = 2131165259;
 			
-			// aapt resource value: 0x7f0700a5
-			public const int status_bar_latest_event_content = 2131165349;
+			// aapt resource value: 0x7f0700a7
+			public const int status_bar_latest_event_content = 2131165351;
 			
 			// aapt resource value: 0x7f070077
 			public const int submenuarrow = 2131165303;
@@ -5074,8 +5026,8 @@ namespace Sample
 			// aapt resource value: 0x7f07006a
 			public const int textSpacerNoTitle = 2131165290;
 			
-			// aapt resource value: 0x7f07009f
-			public const int text_input_password_toggle = 2131165343;
+			// aapt resource value: 0x7f0700a1
+			public const int text_input_password_toggle = 2131165345;
 			
 			// aapt resource value: 0x7f070014
 			public const int textinput_counter = 2131165204;
@@ -5083,8 +5035,8 @@ namespace Sample
 			// aapt resource value: 0x7f070015
 			public const int textinput_error = 2131165205;
 			
-			// aapt resource value: 0x7f0700ab
-			public const int time = 2131165355;
+			// aapt resource value: 0x7f0700ad
+			public const int time = 2131165357;
 			
 			// aapt resource value: 0x7f07001b
 			public const int title = 2131165211;
@@ -5101,8 +5053,8 @@ namespace Sample
 			// aapt resource value: 0x7f07006f
 			public const int topPanel = 2131165295;
 			
-			// aapt resource value: 0x7f070096
-			public const int touch_outside = 2131165334;
+			// aapt resource value: 0x7f070098
+			public const int touch_outside = 2131165336;
 			
 			// aapt resource value: 0x7f07000f
 			public const int transition_current_scene = 2131165199;
@@ -5131,8 +5083,8 @@ namespace Sample
 			// aapt resource value: 0x7f070016
 			public const int view_offset_helper = 2131165206;
 			
-			// aapt resource value: 0x7f0700b4
-			public const int visible = 2131165364;
+			// aapt resource value: 0x7f0700b6
+			public const int visible = 2131165366;
 			
 			// aapt resource value: 0x7f07003c
 			public const int withText = 2131165244;
@@ -5540,8 +5492,8 @@ namespace Sample
 			// aapt resource value: 0x7f09009e
 			public const int AlertDialog_AppCompat_Light = 2131296414;
 			
-			// aapt resource value: 0x7f09018c
-			public const int AlertsDialogTheme = 2131296652;
+			// aapt resource value: 0x7f09018b
+			public const int AlertsDialogTheme = 2131296651;
 			
 			// aapt resource value: 0x7f09009f
 			public const int Animation_AppCompat_Dialog = 2131296415;
@@ -5558,11 +5510,11 @@ namespace Sample
 			// aapt resource value: 0x7f09018a
 			public const int AppTheme = 2131296650;
 			
-			// aapt resource value: 0x7f090192
-			public const int AppTheme_Dark_Dialog = 2131296658;
-			
 			// aapt resource value: 0x7f090191
-			public const int BackupTheme = 2131296657;
+			public const int AppTheme_Dark_Dialog = 2131296657;
+			
+			// aapt resource value: 0x7f090190
+			public const int BackupTheme = 2131296656;
 			
 			// aapt resource value: 0x7f0900a2
 			public const int Base_AlertDialog_AppCompat = 2131296418;
@@ -6095,11 +6047,8 @@ namespace Sample
 			// aapt resource value: 0x7f090022
 			public const int Platform_Widget_AppCompat_Spinner = 2131296290;
 			
-			// aapt resource value: 0x7f09018d
-			public const int PrefsTheme = 2131296653;
-			
-			// aapt resource value: 0x7f09018b
-			public const int ProgressDialogTheme = 2131296651;
+			// aapt resource value: 0x7f09018c
+			public const int PrefsTheme = 2131296652;
 			
 			// aapt resource value: 0x7f09002b
 			public const int RtlOverlay_DialogWindowTitle_AppCompat = 2131296299;
@@ -6734,14 +6683,14 @@ namespace Sample
 			// aapt resource value: 0x7f090182
 			public const int Widget_Design_TextInputLayout = 2131296642;
 			
+			// aapt resource value: 0x7f09018d
+			public const int dialogPrefs = 2131296653;
+			
 			// aapt resource value: 0x7f09018e
-			public const int dialogPrefs = 2131296654;
+			public const int editTextPrefs = 2131296654;
 			
 			// aapt resource value: 0x7f09018f
-			public const int editTextPrefs = 2131296655;
-			
-			// aapt resource value: 0x7f090190
-			public const int listViewPrefs = 2131296656;
+			public const int listViewPrefs = 2131296655;
 			
 			static Style()
 			{
@@ -7760,60 +7709,6 @@ namespace Sample
 			// aapt resource value: 3
 			public const int CoordinatorLayout_Layout_layout_keyline = 3;
 			
-			public static int[] DataTableView = new int[] {
-					16843051,
-					2130772326,
-					2130772327,
-					2130772328,
-					2130772329,
-					2130772330,
-					2130772331,
-					2130772332,
-					2130772333,
-					2130772334,
-					2130772335,
-					2130772336,
-					2130772337};
-			
-			// aapt resource value: 0
-			public const int DataTableView_android_choiceMode = 0;
-			
-			// aapt resource value: 6
-			public const int DataTableView_headerBackground = 6;
-			
-			// aapt resource value: 5
-			public const int DataTableView_headerFontFamily = 5;
-			
-			// aapt resource value: 4
-			public const int DataTableView_headerTextColor = 4;
-			
-			// aapt resource value: 3
-			public const int DataTableView_headerTextSize = 3;
-			
-			// aapt resource value: 11
-			public const int DataTableView_horizontalRowDivider = 11;
-			
-			// aapt resource value: 1
-			public const int DataTableView_lazyLoad = 1;
-			
-			// aapt resource value: 2
-			public const int DataTableView_lazyLoadLimit = 2;
-			
-			// aapt resource value: 10
-			public const int DataTableView_rowBackground = 10;
-			
-			// aapt resource value: 9
-			public const int DataTableView_rowFontFamily = 9;
-			
-			// aapt resource value: 8
-			public const int DataTableView_rowTextColor = 8;
-			
-			// aapt resource value: 7
-			public const int DataTableView_rowTextSize = 7;
-			
-			// aapt resource value: 12
-			public const int DataTableView_verticalRowDivider = 12;
-			
 			public static int[] DesignTheme = new int[] {
 					2130772256,
 					2130772257,
@@ -7861,16 +7756,6 @@ namespace Sample
 			
 			// aapt resource value: 7
 			public const int DrawerArrowToggle_thickness = 7;
-			
-			public static int[] EditNumberPreference = new int[] {
-					2130772338,
-					2130772339};
-			
-			// aapt resource value: 1
-			public const int EditNumberPreference_maxValue = 1;
-			
-			// aapt resource value: 0
-			public const int EditNumberPreference_minValue = 0;
 			
 			public static int[] FloatingActionButton = new int[] {
 					2130772005,
@@ -8297,16 +8182,6 @@ namespace Sample
 			
 			// aapt resource value: 4
 			public const int NavigationView_menu = 4;
-			
-			public static int[] NumberPickerPreference = new int[] {
-					2130772338,
-					2130772339};
-			
-			// aapt resource value: 1
-			public const int NumberPickerPreference_maxValue = 1;
-			
-			// aapt resource value: 0
-			public const int NumberPickerPreference_minValue = 0;
 			
 			public static int[] PopupWindow = new int[] {
 					16843126,
