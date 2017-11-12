@@ -68,7 +68,7 @@
               android:textColor="@color/white" />
 
             <ImageView
-              android:src="@drawable/mode"
+              android:src="@drawable/ic_menu_star"
               android:layout_alignParentRight="true"
               android:paddingRight="12dp"
               android:layout_width="40dp"
@@ -96,7 +96,7 @@
               android:textColor="@color/white" />
 
             <ImageView
-              android:src="@drawable/mode"
+              android:src="@drawable/ic_menu_star"
               android:layout_alignParentRight="true"
               android:paddingRight="12dp"
               android:layout_width="40dp"
@@ -112,7 +112,7 @@
     
   </LinearLayout>
 
-  <com.takajimesser.droid.FloatingActionMenu
+  <com.messert.controls.droid.FloatingActionMenu
     android:id="@+id/fam"
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"
@@ -160,6 +160,6 @@
         app:layout_labelText="Three"
         app:layout_labelDirection="left" />
     
-  </com.takajimesser.droid.FloatingActionMenu>
+  </com.messert.controls.droid.FloatingActionMenu>
   
 </RelativeLayout>

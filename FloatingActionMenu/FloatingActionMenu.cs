@@ -14,9 +14,9 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace TakajiMesser.Droid
+namespace Messert.Controls.Droid
 {
-    [Register("com.takajimesser.droid.FloatingActionMenu")]
+    [Register("com.messert.controls.droid.FloatingActionMenu")]
     public class FloatingActionMenu : ViewGroup
     {
         public const int ANIMATION_DURATION = 250;

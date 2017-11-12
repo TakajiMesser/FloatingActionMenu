@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>TakajiMesser.Droid.FloatingActionMenu</id>
+    <id>Messert.FloatingAction.Droid</id>
     <version>$version$</version>
     <title>$title$</title>
     <authors>messert</authors>

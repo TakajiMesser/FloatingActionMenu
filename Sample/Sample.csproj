@@ -137,9 +137,6 @@
     <AndroidResource Include="Resources\drawable\ic_menu_edit.png" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable\ic_menu_home.png" />
-  </ItemGroup>
-  <ItemGroup>
     <AndroidResource Include="Resources\drawable\ic_menu_search.png" />
   </ItemGroup>
   <ItemGroup>
@@ -147,9 +144,6 @@
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable\ic_voice_search.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidResource Include="Resources\drawable\mode.png" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\values\colors.xml" />

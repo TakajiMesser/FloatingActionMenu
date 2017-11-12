@@ -9,9 +9,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Android.Runtime.ResourceDesignerAttribute("TakajiMesser.Droid.Resource", IsApplication=false)]
+[assembly: global::Android.Runtime.ResourceDesignerAttribute("Messert.Controls.Droid.Resource", IsApplication=false)]
 
-namespace TakajiMesser.Droid
+namespace Messert.Controls.Droid
 {
 	
 	
